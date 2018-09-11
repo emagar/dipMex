@@ -1,0 +1,227 @@
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a1primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a1perma1.html")   
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a1segundo.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a2primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a2perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a2segundo.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a3primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a3perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/59/gp59_P_a3segundo.html")
+
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a1perma1.html")   
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a1perma2.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a1primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a1segundo.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a2perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a2perma2.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a2primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a2segundo.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a3perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a3perma2.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a3primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/60/gp60_P_a3segundo.html")
+
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a1perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a1perma2.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a1primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a1segundo.html")                    
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a2perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a2perma2.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a2primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a2segundo.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a3perma1.html") 
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a3primero.html")
+system("wget http://gaceta.diputados.gob.mx/Gaceta/Proposiciones/61/gp61_P_a3segundo.html")
+
+## Esto los convierte de iso-8859-1 a utf-8 para trabajar en ubuntu
+system("iconv -f Latin1 -t UTF-8 gp59_P_a1primero.html  > utf8.gp59_P_a1primero.html")  
+system("iconv -f Latin1 -t UTF-8 gp59_P_a1perma1.html   > utf8.gp59_P_a1perma1.html")  
+system("iconv -f Latin1 -t UTF-8 gp59_P_a1segundo.html  > utf8.gp59_P_a1segundo.html")
+system("iconv -f Latin1 -t UTF-8 gp59_P_a2primero.html  > utf8.gp59_P_a2primero.html")
+system("iconv -f Latin1 -t UTF-8 gp59_P_a2perma1.html   > utf8.gp59_P_a2perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp59_P_a2segundo.html  > utf8.gp59_P_a2segundo.html")
+system("iconv -f Latin1 -t UTF-8 gp59_P_a3primero.html  > utf8.gp59_P_a3primero.html")
+system("iconv -f Latin1 -t UTF-8 gp59_P_a3perma1.html   > utf8.gp59_P_a3perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp59_P_a3segundo.html  > utf8.gp59_P_a3segundo.html")
+
+system("iconv -f Latin1 -t UTF-8 gp60_P_a1perma1.html   > utf8.gp60_P_a1perma1.html")  
+system("iconv -f Latin1 -t UTF-8 gp60_P_a1perma2.html   > utf8.gp60_P_a1perma2.html") 
+system("iconv -f Latin1 -t UTF-8 gp60_P_a1primero.html  > utf8.gp60_P_a1primero.html")
+system("iconv -f Latin1 -t UTF-8 gp60_P_a1segundo.html  > utf8.gp60_P_a1segundo.html")
+system("iconv -f Latin1 -t UTF-8 gp60_P_a2perma1.html   > utf8.gp60_P_a2perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp60_P_a2perma2.html   > utf8.gp60_P_a2perma2.html") 
+system("iconv -f Latin1 -t UTF-8 gp60_P_a2primero.html  > utf8.gp60_P_a2primero.html")
+system("iconv -f Latin1 -t UTF-8 gp60_P_a2segundo.html  > utf8.gp60_P_a2segundo.html")
+system("iconv -f Latin1 -t UTF-8 gp60_P_a3perma1.html   > utf8.gp60_P_a3perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp60_P_a3perma2.html   > utf8.gp60_P_a3perma2.html") 
+system("iconv -f Latin1 -t UTF-8 gp60_P_a3primero.html  > utf8.gp60_P_a3primero.html")
+system("iconv -f Latin1 -t UTF-8 gp60_P_a3segundo.html  > utf8.gp60_P_a3segundo.html")
+
+system("iconv -f Latin1 -t UTF-8 gp61_P_a1perma1.html   > utf8.gp61_P_a1perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp61_P_a1perma2.html   > utf8.gp61_P_a1perma2.html") 
+system("iconv -f Latin1 -t UTF-8 gp61_P_a1primero.html  > utf8.gp61_P_a1primero.html")
+system("iconv -f Latin1 -t UTF-8 gp61_P_a1segundo.html  > utf8.gp61_P_a1segundo.html")                    
+system("iconv -f Latin1 -t UTF-8 gp61_P_a2perma1.html   > utf8.gp61_P_a2perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp61_P_a2perma2.html   > utf8.gp61_P_a2perma2.html") 
+system("iconv -f Latin1 -t UTF-8 gp61_P_a2primero.html  > utf8.gp61_P_a2primero.html")
+system("iconv -f Latin1 -t UTF-8 gp61_P_a2segundo.html  > utf8.gp61_P_a2segundo.html")
+system("iconv -f Latin1 -t UTF-8 gp61_P_a3perma1.html   > utf8.gp61_P_a3perma1.html") 
+system("iconv -f Latin1 -t UTF-8 gp61_P_a3primero.html  > utf8.gp61_P_a3primero.html")
+system("iconv -f Latin1 -t UTF-8 gp61_P_a3segundo.html  > utf8.gp61_P_a3segundo.html")
+
+leg59_files<-list.files(patter='utf8.gp59_P*')
+leg60_files<-list.files(patter='utf8.gp60_P*')
+leg61_files<-list.files(patter='utf8.gp61_P*')
+
+
+n<-1
+tot_quien<-""
+tot_fecha<- ""
+tot_prop<- ""
+for(n in 1:length(leg59_files)){
+	temp<-readLines(leg59_files[n],encoding = "UTF-8")
+	fechas_index<-grep(temp, pattern="CC0000")
+	temp2<-sub(temp[fechas_index],pattern="<br><font color=\\\"#CC0000\\\">",replacement="\\1", perl =T)
+	fecha<-sub(temp2,pattern="</font>",replacement="\\1", perl =T)
+
+	yr <- sub(fecha, pattern = ".* de ([0-9]*)", replacement = "\\1")
+
+	mo <- sub(fecha, pattern = ".*[0-9] de (.*) de.*", replacement = "\\1")
+	mo <- sub(mo, pattern="enero", replacement="1")
+	mo <- sub(mo, pattern="febrero", replacement="2")
+	mo <- sub(mo, pattern="marzo", replacement="3")
+	mo <- sub(mo, pattern="abril", replacement="4")
+	mo <- sub(mo, pattern="mayo", replacement="5")
+	mo <- sub(mo, pattern="junio", replacement="6")
+	mo <- sub(mo, pattern="julio", replacement="7")
+	mo <- sub(mo, pattern="agosto", replacement="8")
+	mo <- sub(mo, pattern="septiembre", replacement="9")
+	mo <- sub(mo, pattern="octubre", replacement="10")
+	mo <- sub(mo, pattern="noviembre", replacement="11")
+	mo <- sub(mo, pattern="diciembre", replacement="12")
+	mo <- as.numeric(mo)
+
+	dy <- sub(fecha, pattern = ".* ([0-9]*) de.*", replacement = "\\1")
+	dy <- as.numeric(dy)
+
+
+	prop_index<-grep(temp, pattern="<ul><li>")
+	prop_fecha<-prop_index
+	i<-1
+	for(i in 1:length(fecha)){
+		prop_fecha[fechas_index[i]<prop_index & fechas_index[i+1]>prop_index]<- i
+	}
+	prop_fecha[fechas_index[length(fecha)]<prop_index]<-length(fecha)
+	prop_texto<-temp[prop_index+1]
+	quien<-sub(temp[prop_index+2], pattern="<br>",replacement="")
+	date_prop_j<-paste(dy[prop_fecha],mo[prop_fecha],yr[prop_fecha], sep ="/")
+	tot_quien<-c(tot_quien, quien)
+	tot_fecha<-c(tot_fecha, date_prop_j)
+	tot_prop<-c(tot_prop, prop_texto)
+}
+db_leg59<-data.frame(tot_prop, tot_quien, tot_fecha)
+colnames(db_leg59)<- c("Propuesta", "Propositor(es)", "fecha")
+write.table(db_leg59, file="Base_Datos_59.txt", sep="\t", quote=F)
+
+
+
+
+n<-1
+tot_quien<-""
+tot_fecha<- ""
+tot_prop<- ""
+for(n in 1:length(leg60_files)){
+	temp<-readLines(leg60_files[n],encoding = "UTF-8")
+	fechas_index<-grep(temp, pattern="CC0000")
+	temp2<-sub(temp[fechas_index],pattern="<br><font color=\\\"#CC0000\\\">",replacement="\\1", perl =T)
+	fecha<-sub(temp2,pattern="</font>",replacement="\\1", perl =T)
+
+	yr <- sub(fecha, pattern = ".* de ([0-9]*)", replacement = "\\1")
+
+	mo <- sub(fecha, pattern = ".*[0-9] de (.*) de.*", replacement = "\\1")
+	mo <- sub(mo, pattern="enero", replacement="1")
+	mo <- sub(mo, pattern="febrero", replacement="2")
+	mo <- sub(mo, pattern="marzo", replacement="3")
+	mo <- sub(mo, pattern="abril", replacement="4")
+	mo <- sub(mo, pattern="mayo", replacement="5")
+	mo <- sub(mo, pattern="junio", replacement="6")
+	mo <- sub(mo, pattern="julio", replacement="7")
+	mo <- sub(mo, pattern="agosto", replacement="8")
+	mo <- sub(mo, pattern="septiembre", replacement="9")
+	mo <- sub(mo, pattern="octubre", replacement="10")
+	mo <- sub(mo, pattern="noviembre", replacement="11")
+	mo <- sub(mo, pattern="diciembre", replacement="12")
+	mo <- as.numeric(mo)
+
+	dy <- sub(fecha, pattern = ".* ([0-9]*) de.*", replacement = "\\1")
+	dy <- as.numeric(dy)
+
+
+	prop_index<-grep(temp, pattern="<ul><li>")
+	prop_fecha<-prop_index
+	i<-1
+	for(i in 1:length(fecha)){
+		prop_fecha[fechas_index[i]<prop_index & fechas_index[i+1]>prop_index]<- i
+	}
+	prop_fecha[fechas_index[length(fecha)]<prop_index]<-length(fecha)
+	prop_texto<-temp[prop_index+1]
+	quien<-sub(temp[prop_index+2], pattern="<br>",replacement="")
+	date_prop_j<-paste(dy[prop_fecha],mo[prop_fecha],yr[prop_fecha], sep ="/")
+	tot_quien<-c(tot_quien, quien)
+	tot_fecha<-c(tot_fecha, date_prop_j)
+	tot_prop<-c(tot_prop, prop_texto)
+}
+db_leg60<-data.frame(tot_prop, tot_quien, tot_fecha)
+colnames(db_leg60)<- c("Propuesta", "Propositor(es)", "fecha")
+write.table(db_leg60, file="Base_Datos_60.txt", sep="\t", quote=F)
+
+
+
+n<-1
+tot_quien<-""
+tot_fecha<- ""
+tot_prop<- ""
+for(n in 1:length(leg61_files)){
+	temp<-readLines(leg61_files[n],encoding = "UTF-8")
+	fechas_index<-grep(temp, pattern="CC0000")
+	temp2<-sub(temp[fechas_index],pattern="<br><font color=\\\"#CC0000\\\">",replacement="\\1", perl =T)
+	fecha<-sub(temp2,pattern="</font>",replacement="\\1", perl =T)
+
+	yr <- sub(fecha, pattern = ".* de ([0-9]*)", replacement = "\\1")
+
+	mo <- sub(fecha, pattern = ".*[0-9] de (.*) de.*", replacement = "\\1")
+	mo <- sub(mo, pattern="enero", replacement="1")
+	mo <- sub(mo, pattern="febrero", replacement="2")
+	mo <- sub(mo, pattern="marzo", replacement="3")
+	mo <- sub(mo, pattern="abril", replacement="4")
+	mo <- sub(mo, pattern="mayo", replacement="5")
+	mo <- sub(mo, pattern="junio", replacement="6")
+	mo <- sub(mo, pattern="julio", replacement="7")
+	mo <- sub(mo, pattern="agosto", replacement="8")
+	mo <- sub(mo, pattern="septiembre", replacement="9")
+	mo <- sub(mo, pattern="octubre", replacement="10")
+	mo <- sub(mo, pattern="noviembre", replacement="11")
+	mo <- sub(mo, pattern="diciembre", replacement="12")
+	mo <- as.numeric(mo)
+
+	dy <- sub(fecha, pattern = ".* ([0-9]*) de.*", replacement = "\\1")
+	dy <- as.numeric(dy)
+
+
+	prop_index<-grep(temp, pattern="<ul><li>")
+	prop_fecha<-prop_index
+	i<-1
+	for(i in 1:length(fecha)){
+		prop_fecha[fechas_index[i]<prop_index & fechas_index[i+1]>prop_index]<- i
+	}
+	prop_fecha[fechas_index[length(fecha)]<prop_index]<-length(fecha)
+	prop_texto<-temp[prop_index+1]
+	quien<-sub(temp[prop_index+2], pattern="<br>",replacement="")
+	date_prop_j<-paste(dy[prop_fecha],mo[prop_fecha],yr[prop_fecha], sep ="/")
+	tot_quien<-c(tot_quien, quien)
+	tot_fecha<-c(tot_fecha, date_prop_j)
+	tot_prop<-c(tot_prop, prop_texto)
+}
+db_leg61<-data.frame(tot_prop, tot_quien, tot_fecha)
+colnames(db_leg61)<- c("Propuesta", "Propositor(es)", "fecha")
+write.table(db_leg61, file="Base_Datos_61.txt", sep="\t", quote=F)

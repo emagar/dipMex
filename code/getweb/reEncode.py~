@@ -1,0 +1,3 @@
+f = open('~/Dropbox/data/rollcall/dipMex/data/fromWeb/votes/62/tmp.txt', 'r')
+print f
+f.close()

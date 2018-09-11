@@ -1,0 +1,5 @@
+"x"
+"1" "fch = NA"
+"2" "leg = 57"
+"3" "3or2-49"
+"4" VOTE UNAVAILABLE

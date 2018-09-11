@@ -1,0 +1,117 @@
+rm(list = ls())
+library(arm)
+#workdir <- c("/media/shared/01/Dropbox/data/rollcall/dipMex")
+workdir <- c("d:/01/Dropbox/data/rollcall/dipMex")
+#workdir <- c("C:/Documents and Settings/emagarm/Mis documentos/My Dropbox/data/rollcall/dipMex")
+#workdir <- c("C:/Documents and Settings/emm/Mis documentos/My Dropbox/data/rollcall/dipMex")
+setwd(workdir)
+
+# OBTAIN DATA
+source(file="radon_setup.R")
+
+# SET INITIAL VALUES FOR THE CHAIN
+inits <- function() { list(a=rnorm(J),b=rnorm(1),mu.a=rnorm(1),sigma.y=runif(1),sigma.a=runif(1)) }
+
+# DEFINE A WRAPPER TO PERFORM UNPARALLELIZED COMPUTATIONS
+myWrap <- function(){
+library(rjags)
+radon.ex <- jags.model(
+    "radon.jag",
+    inits=inits,
+    data = list("n"= n, "J"=J, "y"=y,"county"=county, "x"=x),
+    n.chains = 3, n.adapt = 1e5)
+coda.samples(
+    radon.ex,
+    c("a","b","mu.a","sigma.y","sigma.a"),
+    n.iter=1e5, thin=10) }
+
+# PARALLELIZING FUNCTION
+snowJags <- function(
+    file.name, #Name of file containing JAGS model
+    data.list, #List of data used in model
+    inits, #Function giving initial values
+    n.chains=2, #Number of parallel chains
+    n.adapt=1000, #Initial number of steps in each chain
+    monitors, #Character vector with parameter names
+    thin, #Value indicating thinning interval
+    samples=2000, #Samples taken by coda.samples
+    nodes=2 #Number of cores
+    )
+{
+    # CHECK FOR `snowfall', AND INSTALL IF NEEDED
+    hasSF <- require(snowfall)
+    if(hasSF){
+        library(snowfall)
+    }else{
+        cat("Package 'snowfall' required. Installing it now.\n")
+        install.packages("snowfall")
+        library(snowfall)
+    }
+    # CHECK FOR `rlecuyer', AND INSTALL IF NEEDED (FOR THE RNG)
+    hasLC <- require(rlecuyer)
+    if(hasLC){
+        library(rlecuyer)
+    }else{
+        cat("Package 'rlecuyer' required. Installing it now.\n")
+        install.packages("rlecuyer")
+        library(rlecuyer)
+    }
+    library(rjags)
+    # CREATE A FUNCTION THAT COMBINES jags.model() AND coda.samples(),
+    # THEN RETURNS A mcmc.list OBJECT
+    jags.updater <- function(counter){
+        modelInit <- jags.model(file.name,data.list,inits,n.chains=1,n.adapt)
+        postSamples <- coda.samples(modelInit,
+        monitors,samples,thin)
+        return(postSamples)
+    }
+    # INITIALIZE A CLUSTER
+    sfInit(parallel=TRUE, cpus=nodes,type="SOCK",socketHosts=(rep("127.0.0.1",nodes)))
+    # EXPORT VARIABLES, rjags AND MCMCpack PACKAGES TO EVERY NODE
+    sfExportAll()
+    sfLibrary(rjags)
+    sfLibrary(MCMCpack)
+    # START NETWROK RN, TO AVOID PROBLEMS WITH USING A SINGLE COMPUTER'S RNG
+    sfClusterSetupRNG()
+    # SEND TASKS TO CLUSTERS USING LOAD BALANCING
+    result <- sfClusterApplyLB(1:n.chains, jags.updater)
+    # STOP CLUSTER!
+    sfStop()
+    # GATHER RESTULS AND RETURN mcmc.list OBJECT
+    chains <- result[[1]]
+    for(z in 2:n.chains){
+        chains[[z]]<-as.mcmc(result[[z]])
+    }
+    return(chains)
+}
+
+# BENCHMARK OUR PARALLELIZING WRAPPER VS. REGULAR APPROACH
+print(system.time(myWrap()))
+
+# IN PARALLEL (SPECIFY FULL PATH TO MODEL FILE)
+model.file <- paste(getwd(),"/radon.jag",sep="")
+print(system.time(
+    snowJags(
+        file.name=model.file,
+        inits=inits,
+        data = list("n"= n, "J"=J, "y"=y, "county"=county, "x"=x),
+        n.chains = 3,
+        n.adapt = 1e5,
+        monitors=c("a","b","mu.a", "sigma.y","sigma.a"),
+        samples=1e5, thin=10, nodes=2 )
+        ))
+
+source("benchmark.R")
+
+system.time(
+    BGRExample <- snowJags(
+        file.name=model.file,
+        inits=inits,
+        data= list("n"= n, "J"=J, "y"=y, "county"=county, "x"=x),
+        n.chains = 10,
+        n.adapt = 1e3,
+        monitors=c("a","b","mu.a", "sigma.y","sigma.a"),
+        samples=1e3,
+        thin=10,
+        nodes=2
+        )) 

@@ -1,0 +1,773 @@
+rm(list = ls())
+#
+## SET YOUR WORKING DIRECTORY HERE (SAVE DATA FILES IN THIS DIRECTORY)
+workdir <- c("~/Dropbox/data/rollcall/dipMex")
+#workdir <- c("d:/01/Dropbox/data/rollcall/DipMex")
+#workdir <- c("C:/Documents and Settings/emagarm/Mis documentos/My Dropbox/data/rollcall/DipMex")
+#workdir <- c("C:/Documents and Settings/emm/Mis documentos/My Dropbox/data/rollcall/DipMex")
+setwd(workdir)
+
+# if only loading saved data
+load(file=paste(workdir, "data/votesForWeb", "rc60.RData", sep="/"))
+
+## IMPORT DIPUTADO NAMES AND DISTRICTS (PREPARED IN EXCEL)
+dipdat <- read.csv( paste(workdir, "data/diputados/dip60.csv", sep="/"), header=TRUE)  ## PREPARED IN EXCEL, SEE 61ST MODEL
+
+##########################
+## 6O LEG FROM INFOSIL  ##
+##########################
+#
+load(paste(workdir, "infosilFilenames60.RData",sep="/"))
+#
+## object filenames prepared for windows, change to linux path if necessary
+#filenames <- sub(pattern = "d:/01/dropbox/data/rollcall/DipMex", replacement = "~/Dropbox/data/rollcall/dipMex", filenames)
+#
+
+# convert to uft-8
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-1.txt"   > "utf8.60yr1or1-sil-1.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-2.txt"   > "utf8.60yr1or1-sil-2.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-3.txt"   > "utf8.60yr1or1-sil-3.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-4.txt"   > "utf8.60yr1or1-sil-4.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-5.txt"   > "utf8.60yr1or1-sil-5.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-6.txt"   > "utf8.60yr1or1-sil-6.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-7.txt"   > "utf8.60yr1or1-sil-7.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-8.txt"   > "utf8.60yr1or1-sil-8.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-9.txt"   > "utf8.60yr1or1-sil-9.txt"  
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-10.txt"  > "utf8.60yr1or1-sil-10.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-11.txt"  > "utf8.60yr1or1-sil-11.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-12.txt"  > "utf8.60yr1or1-sil-12.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-13.txt"  > "utf8.60yr1or1-sil-13.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-14.txt"  > "utf8.60yr1or1-sil-14.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-15.txt"  > "utf8.60yr1or1-sil-15.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-16.txt"  > "utf8.60yr1or1-sil-16.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-17.txt"  > "utf8.60yr1or1-sil-17.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-18.txt"  > "utf8.60yr1or1-sil-18.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-19.txt"  > "utf8.60yr1or1-sil-19.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-20.txt"  > "utf8.60yr1or1-sil-20.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-21.txt"  > "utf8.60yr1or1-sil-21.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-22.txt"  > "utf8.60yr1or1-sil-22.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-23.txt"  > "utf8.60yr1or1-sil-23.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-24.txt"  > "utf8.60yr1or1-sil-24.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-25.txt"  > "utf8.60yr1or1-sil-25.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-26.txt"  > "utf8.60yr1or1-sil-26.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-27.txt"  > "utf8.60yr1or1-sil-27.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-28.txt"  > "utf8.60yr1or1-sil-28.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-29.txt"  > "utf8.60yr1or1-sil-29.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-30.txt"  > "utf8.60yr1or1-sil-30.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-31.txt"  > "utf8.60yr1or1-sil-31.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-32.txt"  > "utf8.60yr1or1-sil-32.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-33.txt"  > "utf8.60yr1or1-sil-33.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-34.txt"  > "utf8.60yr1or1-sil-34.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-35.txt"  > "utf8.60yr1or1-sil-35.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-36.txt"  > "utf8.60yr1or1-sil-36.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-37.txt"  > "utf8.60yr1or1-sil-37.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-38.txt"  > "utf8.60yr1or1-sil-38.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-39.txt"  > "utf8.60yr1or1-sil-39.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-40.txt"  > "utf8.60yr1or1-sil-40.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-41.txt"  > "utf8.60yr1or1-sil-41.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-42.txt"  > "utf8.60yr1or1-sil-42.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-43.txt"  > "utf8.60yr1or1-sil-43.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-44.txt"  > "utf8.60yr1or1-sil-44.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-45.txt"  > "utf8.60yr1or1-sil-45.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-46.txt"  > "utf8.60yr1or1-sil-46.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or1-sil-47.txt"  > "utf8.60yr1or1-sil-47.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-48.txt"  > "utf8.60yr1or2-sil-48.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-49.txt"  > "utf8.60yr1or2-sil-49.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-50.txt"  > "utf8.60yr1or2-sil-50.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-51.txt"  > "utf8.60yr1or2-sil-51.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-52.txt"  > "utf8.60yr1or2-sil-52.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-53.txt"  > "utf8.60yr1or2-sil-53.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-54.txt"  > "utf8.60yr1or2-sil-54.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-55.txt"  > "utf8.60yr1or2-sil-55.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-56.txt"  > "utf8.60yr1or2-sil-56.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-57.txt"  > "utf8.60yr1or2-sil-57.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-58.txt"  > "utf8.60yr1or2-sil-58.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-59.txt"  > "utf8.60yr1or2-sil-59.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-60.txt"  > "utf8.60yr1or2-sil-60.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-61.txt"  > "utf8.60yr1or2-sil-61.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-62.txt"  > "utf8.60yr1or2-sil-62.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-63.txt"  > "utf8.60yr1or2-sil-63.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-64.txt"  > "utf8.60yr1or2-sil-64.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-65.txt"  > "utf8.60yr1or2-sil-65.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-66.txt"  > "utf8.60yr1or2-sil-66.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-67.txt"  > "utf8.60yr1or2-sil-67.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-68.txt"  > "utf8.60yr1or2-sil-68.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-69.txt"  > "utf8.60yr1or2-sil-69.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-70.txt"  > "utf8.60yr1or2-sil-70.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-71.txt"  > "utf8.60yr1or2-sil-71.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-72.txt"  > "utf8.60yr1or2-sil-72.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-73.txt"  > "utf8.60yr1or2-sil-73.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-74.txt"  > "utf8.60yr1or2-sil-74.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-75.txt"  > "utf8.60yr1or2-sil-75.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-76.txt"  > "utf8.60yr1or2-sil-76.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-77.txt"  > "utf8.60yr1or2-sil-77.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-78.txt"  > "utf8.60yr1or2-sil-78.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-79.txt"  > "utf8.60yr1or2-sil-79.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-80.txt"  > "utf8.60yr1or2-sil-80.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-81.txt"  > "utf8.60yr1or2-sil-81.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-82.txt"  > "utf8.60yr1or2-sil-82.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-83.txt"  > "utf8.60yr1or2-sil-83.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-84.txt"  > "utf8.60yr1or2-sil-84.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-85.txt"  > "utf8.60yr1or2-sil-85.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-86.txt"  > "utf8.60yr1or2-sil-86.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-87.txt"  > "utf8.60yr1or2-sil-87.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-88.txt"  > "utf8.60yr1or2-sil-88.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-89.txt"  > "utf8.60yr1or2-sil-89.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-90.txt"  > "utf8.60yr1or2-sil-90.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-91.txt"  > "utf8.60yr1or2-sil-91.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-92.txt"  > "utf8.60yr1or2-sil-92.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-93.txt"  > "utf8.60yr1or2-sil-93.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-94.txt"  > "utf8.60yr1or2-sil-94.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-95.txt"  > "utf8.60yr1or2-sil-95.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-96.txt"  > "utf8.60yr1or2-sil-96.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-97.txt"  > "utf8.60yr1or2-sil-97.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-98.txt"  > "utf8.60yr1or2-sil-98.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-99.txt"  > "utf8.60yr1or2-sil-99.txt" 
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-100.txt" > "utf8.60yr1or2-sil-100.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-101.txt" > "utf8.60yr1or2-sil-101.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-102.txt" > "utf8.60yr1or2-sil-102.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-103.txt" > "utf8.60yr1or2-sil-103.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-104.txt" > "utf8.60yr1or2-sil-104.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-105.txt" > "utf8.60yr1or2-sil-105.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-106.txt" > "utf8.60yr1or2-sil-106.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-107.txt" > "utf8.60yr1or2-sil-107.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-108.txt" > "utf8.60yr1or2-sil-108.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-109.txt" > "utf8.60yr1or2-sil-109.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-110.txt" > "utf8.60yr1or2-sil-110.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-111.txt" > "utf8.60yr1or2-sil-111.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-112.txt" > "utf8.60yr1or2-sil-112.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-113.txt" > "utf8.60yr1or2-sil-113.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-114.txt" > "utf8.60yr1or2-sil-114.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-115.txt" > "utf8.60yr1or2-sil-115.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-116.txt" > "utf8.60yr1or2-sil-116.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-117.txt" > "utf8.60yr1or2-sil-117.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-118.txt" > "utf8.60yr1or2-sil-118.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-119.txt" > "utf8.60yr1or2-sil-119.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-120.txt" > "utf8.60yr1or2-sil-120.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-121.txt" > "utf8.60yr1or2-sil-121.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-122.txt" > "utf8.60yr1or2-sil-122.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-123.txt" > "utf8.60yr1or2-sil-123.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-124.txt" > "utf8.60yr1or2-sil-124.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-125.txt" > "utf8.60yr1or2-sil-125.txt"
+iconv -f Latin1 -t utf-8 "60yr1or2-sil-126.txt" > "utf8.60yr1or2-sil-126.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-127.txt" > "utf8.60yr2or1-sil-127.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-128.txt" > "utf8.60yr2or1-sil-128.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-129.txt" > "utf8.60yr2or1-sil-129.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-130.txt" > "utf8.60yr2or1-sil-130.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-131.txt" > "utf8.60yr2or1-sil-131.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-132.txt" > "utf8.60yr2or1-sil-132.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-133.txt" > "utf8.60yr2or1-sil-133.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-134.txt" > "utf8.60yr2or1-sil-134.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-135.txt" > "utf8.60yr2or1-sil-135.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-136.txt" > "utf8.60yr2or1-sil-136.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-137.txt" > "utf8.60yr2or1-sil-137.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-138.txt" > "utf8.60yr2or1-sil-138.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-139.txt" > "utf8.60yr2or1-sil-139.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-140.txt" > "utf8.60yr2or1-sil-140.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-141.txt" > "utf8.60yr2or1-sil-141.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-142.txt" > "utf8.60yr2or1-sil-142.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-143.txt" > "utf8.60yr2or1-sil-143.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-144.txt" > "utf8.60yr2or1-sil-144.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-145.txt" > "utf8.60yr2or1-sil-145.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-146.txt" > "utf8.60yr2or1-sil-146.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-147.txt" > "utf8.60yr2or1-sil-147.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-148.txt" > "utf8.60yr2or1-sil-148.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-149.txt" > "utf8.60yr2or1-sil-149.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-150.txt" > "utf8.60yr2or1-sil-150.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-151.txt" > "utf8.60yr2or1-sil-151.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-152.txt" > "utf8.60yr2or1-sil-152.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-153.txt" > "utf8.60yr2or1-sil-153.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-154.txt" > "utf8.60yr2or1-sil-154.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-155.txt" > "utf8.60yr2or1-sil-155.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-156.txt" > "utf8.60yr2or1-sil-156.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-157.txt" > "utf8.60yr2or1-sil-157.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-158.txt" > "utf8.60yr2or1-sil-158.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-159.txt" > "utf8.60yr2or1-sil-159.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-160.txt" > "utf8.60yr2or1-sil-160.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-161.txt" > "utf8.60yr2or1-sil-161.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-162.txt" > "utf8.60yr2or1-sil-162.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-163.txt" > "utf8.60yr2or1-sil-163.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-164.txt" > "utf8.60yr2or1-sil-164.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-165.txt" > "utf8.60yr2or1-sil-165.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-166.txt" > "utf8.60yr2or1-sil-166.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-167.txt" > "utf8.60yr2or1-sil-167.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-168.txt" > "utf8.60yr2or1-sil-168.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-169.txt" > "utf8.60yr2or1-sil-169.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-170.txt" > "utf8.60yr2or1-sil-170.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-171.txt" > "utf8.60yr2or1-sil-171.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-172.txt" > "utf8.60yr2or1-sil-172.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-173.txt" > "utf8.60yr2or1-sil-173.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-174.txt" > "utf8.60yr2or1-sil-174.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-175.txt" > "utf8.60yr2or1-sil-175.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-176.txt" > "utf8.60yr2or1-sil-176.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-177.txt" > "utf8.60yr2or1-sil-177.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-178.txt" > "utf8.60yr2or1-sil-178.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-179.txt" > "utf8.60yr2or1-sil-179.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-180.txt" > "utf8.60yr2or1-sil-180.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-181.txt" > "utf8.60yr2or1-sil-181.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-182.txt" > "utf8.60yr2or1-sil-182.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-183.txt" > "utf8.60yr2or1-sil-183.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-184.txt" > "utf8.60yr2or1-sil-184.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-185.txt" > "utf8.60yr2or1-sil-185.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-186.txt" > "utf8.60yr2or1-sil-186.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-187.txt" > "utf8.60yr2or1-sil-187.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-188.txt" > "utf8.60yr2or1-sil-188.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-189.txt" > "utf8.60yr2or1-sil-189.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-190.txt" > "utf8.60yr2or1-sil-190.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-191.txt" > "utf8.60yr2or1-sil-191.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-192.txt" > "utf8.60yr2or1-sil-192.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-193.txt" > "utf8.60yr2or1-sil-193.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-194.txt" > "utf8.60yr2or1-sil-194.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-195.txt" > "utf8.60yr2or1-sil-195.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-196.txt" > "utf8.60yr2or1-sil-196.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-197.txt" > "utf8.60yr2or1-sil-197.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-198.txt" > "utf8.60yr2or1-sil-198.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-199.txt" > "utf8.60yr2or1-sil-199.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-200.txt" > "utf8.60yr2or1-sil-200.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-201.txt" > "utf8.60yr2or1-sil-201.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-202.txt" > "utf8.60yr2or1-sil-202.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-203.txt" > "utf8.60yr2or1-sil-203.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-204.txt" > "utf8.60yr2or1-sil-204.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-205.txt" > "utf8.60yr2or1-sil-205.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-206.txt" > "utf8.60yr2or1-sil-206.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-207.txt" > "utf8.60yr2or1-sil-207.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-208.txt" > "utf8.60yr2or1-sil-208.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-209.txt" > "utf8.60yr2or1-sil-209.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-210.txt" > "utf8.60yr2or1-sil-210.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-211.txt" > "utf8.60yr2or1-sil-211.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-212.txt" > "utf8.60yr2or1-sil-212.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-213.txt" > "utf8.60yr2or1-sil-213.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-214.txt" > "utf8.60yr2or1-sil-214.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-215.txt" > "utf8.60yr2or1-sil-215.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-216.txt" > "utf8.60yr2or1-sil-216.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-217.txt" > "utf8.60yr2or1-sil-217.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-218.txt" > "utf8.60yr2or1-sil-218.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-219.txt" > "utf8.60yr2or1-sil-219.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-220.txt" > "utf8.60yr2or1-sil-220.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-221.txt" > "utf8.60yr2or1-sil-221.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-222.txt" > "utf8.60yr2or1-sil-222.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-223.txt" > "utf8.60yr2or1-sil-223.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-224.txt" > "utf8.60yr2or1-sil-224.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-225.txt" > "utf8.60yr2or1-sil-225.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-226.txt" > "utf8.60yr2or1-sil-226.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-227.txt" > "utf8.60yr2or1-sil-227.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-228.txt" > "utf8.60yr2or1-sil-228.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-229.txt" > "utf8.60yr2or1-sil-229.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-230.txt" > "utf8.60yr2or1-sil-230.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-231.txt" > "utf8.60yr2or1-sil-231.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-232.txt" > "utf8.60yr2or1-sil-232.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-233.txt" > "utf8.60yr2or1-sil-233.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-234.txt" > "utf8.60yr2or1-sil-234.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-235.txt" > "utf8.60yr2or1-sil-235.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-236.txt" > "utf8.60yr2or1-sil-236.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-237.txt" > "utf8.60yr2or1-sil-237.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-238.txt" > "utf8.60yr2or1-sil-238.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-239.txt" > "utf8.60yr2or1-sil-239.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-240.txt" > "utf8.60yr2or1-sil-240.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-241.txt" > "utf8.60yr2or1-sil-241.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-242.txt" > "utf8.60yr2or1-sil-242.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-243.txt" > "utf8.60yr2or1-sil-243.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-244.txt" > "utf8.60yr2or1-sil-244.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-245.txt" > "utf8.60yr2or1-sil-245.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-246.txt" > "utf8.60yr2or1-sil-246.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-247.txt" > "utf8.60yr2or1-sil-247.txt"
+iconv -f Latin1 -t utf-8 "60yr2or1-sil-248.txt" > "utf8.60yr2or1-sil-248.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-249.txt" > "utf8.60yr2or2-sil-249.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-250.txt" > "utf8.60yr2or2-sil-250.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-251.txt" > "utf8.60yr2or2-sil-251.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-252.txt" > "utf8.60yr2or2-sil-252.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-253.txt" > "utf8.60yr2or2-sil-253.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-254.txt" > "utf8.60yr2or2-sil-254.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-255.txt" > "utf8.60yr2or2-sil-255.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-256.txt" > "utf8.60yr2or2-sil-256.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-257.txt" > "utf8.60yr2or2-sil-257.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-258.txt" > "utf8.60yr2or2-sil-258.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-259.txt" > "utf8.60yr2or2-sil-259.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-260.txt" > "utf8.60yr2or2-sil-260.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-261.txt" > "utf8.60yr2or2-sil-261.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-262.txt" > "utf8.60yr2or2-sil-262.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-263.txt" > "utf8.60yr2or2-sil-263.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-265.txt" > "utf8.60yr2or2-sil-265.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-266.txt" > "utf8.60yr2or2-sil-266.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-267.txt" > "utf8.60yr2or2-sil-267.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-268.txt" > "utf8.60yr2or2-sil-268.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-269.txt" > "utf8.60yr2or2-sil-269.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-270.txt" > "utf8.60yr2or2-sil-270.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-271.txt" > "utf8.60yr2or2-sil-271.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-272.txt" > "utf8.60yr2or2-sil-272.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-273.txt" > "utf8.60yr2or2-sil-273.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-274.txt" > "utf8.60yr2or2-sil-274.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-275.txt" > "utf8.60yr2or2-sil-275.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-276.txt" > "utf8.60yr2or2-sil-276.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-277.txt" > "utf8.60yr2or2-sil-277.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-278.txt" > "utf8.60yr2or2-sil-278.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-279.txt" > "utf8.60yr2or2-sil-279.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-280.txt" > "utf8.60yr2or2-sil-280.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-281.txt" > "utf8.60yr2or2-sil-281.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-282.txt" > "utf8.60yr2or2-sil-282.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-283.txt" > "utf8.60yr2or2-sil-283.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-284.txt" > "utf8.60yr2or2-sil-284.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-285.txt" > "utf8.60yr2or2-sil-285.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-286.txt" > "utf8.60yr2or2-sil-286.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-287.txt" > "utf8.60yr2or2-sil-287.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-288.txt" > "utf8.60yr2or2-sil-288.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-289.txt" > "utf8.60yr2or2-sil-289.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-290.txt" > "utf8.60yr2or2-sil-290.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-291.txt" > "utf8.60yr2or2-sil-291.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-292.txt" > "utf8.60yr2or2-sil-292.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-293.txt" > "utf8.60yr2or2-sil-293.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-294.txt" > "utf8.60yr2or2-sil-294.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-295.txt" > "utf8.60yr2or2-sil-295.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-296.txt" > "utf8.60yr2or2-sil-296.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-297.txt" > "utf8.60yr2or2-sil-297.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-310.txt" > "utf8.60yr2or2-sil-310.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-311.txt" > "utf8.60yr2or2-sil-311.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-312.txt" > "utf8.60yr2or2-sil-312.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-313.txt" > "utf8.60yr2or2-sil-313.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-314.txt" > "utf8.60yr2or2-sil-314.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-315.txt" > "utf8.60yr2or2-sil-315.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-316.txt" > "utf8.60yr2or2-sil-316.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-317.txt" > "utf8.60yr2or2-sil-317.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-318.txt" > "utf8.60yr2or2-sil-318.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-319.txt" > "utf8.60yr2or2-sil-319.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-320.txt" > "utf8.60yr2or2-sil-320.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-321.txt" > "utf8.60yr2or2-sil-321.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-322.txt" > "utf8.60yr2or2-sil-322.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-323.txt" > "utf8.60yr2or2-sil-323.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-324.txt" > "utf8.60yr2or2-sil-324.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-325.txt" > "utf8.60yr2or2-sil-325.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-326.txt" > "utf8.60yr2or2-sil-326.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-327.txt" > "utf8.60yr2or2-sil-327.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-328.txt" > "utf8.60yr2or2-sil-328.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-329.txt" > "utf8.60yr2or2-sil-329.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-330.txt" > "utf8.60yr2or2-sil-330.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-331.txt" > "utf8.60yr2or2-sil-331.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-332.txt" > "utf8.60yr2or2-sil-332.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-333.txt" > "utf8.60yr2or2-sil-333.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-334.txt" > "utf8.60yr2or2-sil-334.txt"
+iconv -f Latin1 -t utf-8 "60yr2or2-sil-335.txt" > "utf8.60yr2or2-sil-335.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-336.txt" > "utf8.60yr2ex2-sil-336.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-337.txt" > "utf8.60yr2ex2-sil-337.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-338.txt" > "utf8.60yr2ex2-sil-338.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-339.txt" > "utf8.60yr2ex2-sil-339.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-340.txt" > "utf8.60yr2ex2-sil-340.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-341.txt" > "utf8.60yr2ex2-sil-341.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-342.txt" > "utf8.60yr2ex2-sil-342.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-343.txt" > "utf8.60yr2ex2-sil-343.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-344.txt" > "utf8.60yr2ex2-sil-344.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-345.txt" > "utf8.60yr2ex2-sil-345.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-346.txt" > "utf8.60yr2ex2-sil-346.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-347.txt" > "utf8.60yr2ex2-sil-347.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-348.txt" > "utf8.60yr2ex2-sil-348.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-349.txt" > "utf8.60yr2ex2-sil-349.txt"
+iconv -f Latin1 -t utf-8 "60yr2ex2-sil-350.txt" > "utf8.60yr2ex2-sil-350.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-351.txt" > "utf8.60yr3or1-sil-351.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-352.txt" > "utf8.60yr3or1-sil-352.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-353.txt" > "utf8.60yr3or1-sil-353.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-354.txt" > "utf8.60yr3or1-sil-354.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-355.txt" > "utf8.60yr3or1-sil-355.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-356.txt" > "utf8.60yr3or1-sil-356.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-357.txt" > "utf8.60yr3or1-sil-357.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-358.txt" > "utf8.60yr3or1-sil-358.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-359.txt" > "utf8.60yr3or1-sil-359.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-360.txt" > "utf8.60yr3or1-sil-360.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-361.txt" > "utf8.60yr3or1-sil-361.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-362.txt" > "utf8.60yr3or1-sil-362.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-363.txt" > "utf8.60yr3or1-sil-363.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-364.txt" > "utf8.60yr3or1-sil-364.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-365.txt" > "utf8.60yr3or1-sil-365.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-366.txt" > "utf8.60yr3or1-sil-366.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-367.txt" > "utf8.60yr3or1-sil-367.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-368.txt" > "utf8.60yr3or1-sil-368.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-369.txt" > "utf8.60yr3or1-sil-369.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-370.txt" > "utf8.60yr3or1-sil-370.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-371.txt" > "utf8.60yr3or1-sil-371.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-372.txt" > "utf8.60yr3or1-sil-372.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-373.txt" > "utf8.60yr3or1-sil-373.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-374.txt" > "utf8.60yr3or1-sil-374.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-375.txt" > "utf8.60yr3or1-sil-375.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-376.txt" > "utf8.60yr3or1-sil-376.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-377.txt" > "utf8.60yr3or1-sil-377.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-378.txt" > "utf8.60yr3or1-sil-378.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-379.txt" > "utf8.60yr3or1-sil-379.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-380.txt" > "utf8.60yr3or1-sil-380.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-381.txt" > "utf8.60yr3or1-sil-381.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-382.txt" > "utf8.60yr3or1-sil-382.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-383.txt" > "utf8.60yr3or1-sil-383.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-384.txt" > "utf8.60yr3or1-sil-384.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-385.txt" > "utf8.60yr3or1-sil-385.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-386.txt" > "utf8.60yr3or1-sil-386.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-387.txt" > "utf8.60yr3or1-sil-387.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-388.txt" > "utf8.60yr3or1-sil-388.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-389.txt" > "utf8.60yr3or1-sil-389.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-390.txt" > "utf8.60yr3or1-sil-390.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-391.txt" > "utf8.60yr3or1-sil-391.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-392.txt" > "utf8.60yr3or1-sil-392.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-393.txt" > "utf8.60yr3or1-sil-393.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-394.txt" > "utf8.60yr3or1-sil-394.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-395.txt" > "utf8.60yr3or1-sil-395.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-396.txt" > "utf8.60yr3or1-sil-396.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-397.txt" > "utf8.60yr3or1-sil-397.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-398.txt" > "utf8.60yr3or1-sil-398.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-399.txt" > "utf8.60yr3or1-sil-399.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-400.txt" > "utf8.60yr3or1-sil-400.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-401.txt" > "utf8.60yr3or1-sil-401.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-402.txt" > "utf8.60yr3or1-sil-402.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-403.txt" > "utf8.60yr3or1-sil-403.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-404.txt" > "utf8.60yr3or1-sil-404.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-405.txt" > "utf8.60yr3or1-sil-405.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-406.txt" > "utf8.60yr3or1-sil-406.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-407.txt" > "utf8.60yr3or1-sil-407.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-408.txt" > "utf8.60yr3or1-sil-408.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-409.txt" > "utf8.60yr3or1-sil-409.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-410.txt" > "utf8.60yr3or1-sil-410.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-411.txt" > "utf8.60yr3or1-sil-411.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-412.txt" > "utf8.60yr3or1-sil-412.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-413.txt" > "utf8.60yr3or1-sil-413.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-414.txt" > "utf8.60yr3or1-sil-414.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-415.txt" > "utf8.60yr3or1-sil-415.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-416.txt" > "utf8.60yr3or1-sil-416.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-417.txt" > "utf8.60yr3or1-sil-417.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-418.txt" > "utf8.60yr3or1-sil-418.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-419.txt" > "utf8.60yr3or1-sil-419.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-420.txt" > "utf8.60yr3or1-sil-420.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-421.txt" > "utf8.60yr3or1-sil-421.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-422.txt" > "utf8.60yr3or1-sil-422.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-423.txt" > "utf8.60yr3or1-sil-423.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-424.txt" > "utf8.60yr3or1-sil-424.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-425.txt" > "utf8.60yr3or1-sil-425.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-426.txt" > "utf8.60yr3or1-sil-426.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-427.txt" > "utf8.60yr3or1-sil-427.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-428.txt" > "utf8.60yr3or1-sil-428.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-429.txt" > "utf8.60yr3or1-sil-429.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-430.txt" > "utf8.60yr3or1-sil-430.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-431.txt" > "utf8.60yr3or1-sil-431.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-432.txt" > "utf8.60yr3or1-sil-432.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-433.txt" > "utf8.60yr3or1-sil-433.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-434.txt" > "utf8.60yr3or1-sil-434.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-435.txt" > "utf8.60yr3or1-sil-435.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-436.txt" > "utf8.60yr3or1-sil-436.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-437.txt" > "utf8.60yr3or1-sil-437.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-438.txt" > "utf8.60yr3or1-sil-438.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-439.txt" > "utf8.60yr3or1-sil-439.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-440.txt" > "utf8.60yr3or1-sil-440.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-441.txt" > "utf8.60yr3or1-sil-441.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-442.txt" > "utf8.60yr3or1-sil-442.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-443.txt" > "utf8.60yr3or1-sil-443.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-444.txt" > "utf8.60yr3or1-sil-444.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-445.txt" > "utf8.60yr3or1-sil-445.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-446.txt" > "utf8.60yr3or1-sil-446.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-447.txt" > "utf8.60yr3or1-sil-447.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-448.txt" > "utf8.60yr3or1-sil-448.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-449.txt" > "utf8.60yr3or1-sil-449.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-450.txt" > "utf8.60yr3or1-sil-450.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-451.txt" > "utf8.60yr3or1-sil-451.txt"
+iconv -f Latin1 -t utf-8 "60yr3or1-sil-452.txt" > "utf8.60yr3or1-sil-452.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-453.txt" > "utf8.60yr3or2-sil-453.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-454.txt" > "utf8.60yr3or2-sil-454.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-455.txt" > "utf8.60yr3or2-sil-455.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-456.txt" > "utf8.60yr3or2-sil-456.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-457.txt" > "utf8.60yr3or2-sil-457.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-458.txt" > "utf8.60yr3or2-sil-458.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-459.txt" > "utf8.60yr3or2-sil-459.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-460.txt" > "utf8.60yr3or2-sil-460.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-461.txt" > "utf8.60yr3or2-sil-461.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-462.txt" > "utf8.60yr3or2-sil-462.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-463.txt" > "utf8.60yr3or2-sil-463.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-464.txt" > "utf8.60yr3or2-sil-464.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-465.txt" > "utf8.60yr3or2-sil-465.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-466.txt" > "utf8.60yr3or2-sil-466.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-467.txt" > "utf8.60yr3or2-sil-467.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-468.txt" > "utf8.60yr3or2-sil-468.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-469.txt" > "utf8.60yr3or2-sil-469.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-470.txt" > "utf8.60yr3or2-sil-470.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-471.txt" > "utf8.60yr3or2-sil-471.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-472.txt" > "utf8.60yr3or2-sil-472.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-473.txt" > "utf8.60yr3or2-sil-473.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-474.txt" > "utf8.60yr3or2-sil-474.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-475.txt" > "utf8.60yr3or2-sil-475.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-476.txt" > "utf8.60yr3or2-sil-476.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-477.txt" > "utf8.60yr3or2-sil-477.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-478.txt" > "utf8.60yr3or2-sil-478.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-479.txt" > "utf8.60yr3or2-sil-479.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-480.txt" > "utf8.60yr3or2-sil-480.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-481.txt" > "utf8.60yr3or2-sil-481.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-482.txt" > "utf8.60yr3or2-sil-482.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-483.txt" > "utf8.60yr3or2-sil-483.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-484.txt" > "utf8.60yr3or2-sil-484.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-485.txt" > "utf8.60yr3or2-sil-485.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-486.txt" > "utf8.60yr3or2-sil-486.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-487.txt" > "utf8.60yr3or2-sil-487.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-488.txt" > "utf8.60yr3or2-sil-488.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-489.txt" > "utf8.60yr3or2-sil-489.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-490.txt" > "utf8.60yr3or2-sil-490.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-491.txt" > "utf8.60yr3or2-sil-491.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-492.txt" > "utf8.60yr3or2-sil-492.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-493.txt" > "utf8.60yr3or2-sil-493.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-494.txt" > "utf8.60yr3or2-sil-494.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-495.txt" > "utf8.60yr3or2-sil-495.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-496.txt" > "utf8.60yr3or2-sil-496.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-497.txt" > "utf8.60yr3or2-sil-497.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-498.txt" > "utf8.60yr3or2-sil-498.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-499.txt" > "utf8.60yr3or2-sil-499.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-500.txt" > "utf8.60yr3or2-sil-500.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-501.txt" > "utf8.60yr3or2-sil-501.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-502.txt" > "utf8.60yr3or2-sil-502.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-503.txt" > "utf8.60yr3or2-sil-503.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-504.txt" > "utf8.60yr3or2-sil-504.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-505.txt" > "utf8.60yr3or2-sil-505.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-506.txt" > "utf8.60yr3or2-sil-506.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-507.txt" > "utf8.60yr3or2-sil-507.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-508.txt" > "utf8.60yr3or2-sil-508.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-509.txt" > "utf8.60yr3or2-sil-509.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-510.txt" > "utf8.60yr3or2-sil-510.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-511.txt" > "utf8.60yr3or2-sil-511.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-512.txt" > "utf8.60yr3or2-sil-512.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-513.txt" > "utf8.60yr3or2-sil-513.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-514.txt" > "utf8.60yr3or2-sil-514.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-515.txt" > "utf8.60yr3or2-sil-515.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-516.txt" > "utf8.60yr3or2-sil-516.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-517.txt" > "utf8.60yr3or2-sil-517.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-518.txt" > "utf8.60yr3or2-sil-518.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-519.txt" > "utf8.60yr3or2-sil-519.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-520.txt" > "utf8.60yr3or2-sil-520.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-521.txt" > "utf8.60yr3or2-sil-521.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-522.txt" > "utf8.60yr3or2-sil-522.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-523.txt" > "utf8.60yr3or2-sil-523.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-524.txt" > "utf8.60yr3or2-sil-524.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-525.txt" > "utf8.60yr3or2-sil-525.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-526.txt" > "utf8.60yr3or2-sil-526.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-527.txt" > "utf8.60yr3or2-sil-527.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-528.txt" > "utf8.60yr3or2-sil-528.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-529.txt" > "utf8.60yr3or2-sil-529.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-530.txt" > "utf8.60yr3or2-sil-530.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-531.txt" > "utf8.60yr3or2-sil-531.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-532.txt" > "utf8.60yr3or2-sil-532.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-533.txt" > "utf8.60yr3or2-sil-533.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-534.txt" > "utf8.60yr3or2-sil-534.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-535.txt" > "utf8.60yr3or2-sil-535.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-536.txt" > "utf8.60yr3or2-sil-536.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-537.txt" > "utf8.60yr3or2-sil-537.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-538.txt" > "utf8.60yr3or2-sil-538.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-539.txt" > "utf8.60yr3or2-sil-539.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-540.txt" > "utf8.60yr3or2-sil-540.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-541.txt" > "utf8.60yr3or2-sil-541.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-542.txt" > "utf8.60yr3or2-sil-542.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-543.txt" > "utf8.60yr3or2-sil-543.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-544.txt" > "utf8.60yr3or2-sil-544.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-545.txt" > "utf8.60yr3or2-sil-545.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-546.txt" > "utf8.60yr3or2-sil-546.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-547.txt" > "utf8.60yr3or2-sil-547.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-548.txt" > "utf8.60yr3or2-sil-548.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-549.txt" > "utf8.60yr3or2-sil-549.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-550.txt" > "utf8.60yr3or2-sil-550.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-551.txt" > "utf8.60yr3or2-sil-551.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-552.txt" > "utf8.60yr3or2-sil-552.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-553.txt" > "utf8.60yr3or2-sil-553.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-554.txt" > "utf8.60yr3or2-sil-554.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-555.txt" > "utf8.60yr3or2-sil-555.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-556.txt" > "utf8.60yr3or2-sil-556.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-557.txt" > "utf8.60yr3or2-sil-557.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-558.txt" > "utf8.60yr3or2-sil-558.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-559.txt" > "utf8.60yr3or2-sil-559.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-560.txt" > "utf8.60yr3or2-sil-560.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-561.txt" > "utf8.60yr3or2-sil-561.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-562.txt" > "utf8.60yr3or2-sil-562.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-563.txt" > "utf8.60yr3or2-sil-563.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-564.txt" > "utf8.60yr3or2-sil-564.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-565.txt" > "utf8.60yr3or2-sil-565.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-566.txt" > "utf8.60yr3or2-sil-566.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-567.txt" > "utf8.60yr3or2-sil-567.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-568.txt" > "utf8.60yr3or2-sil-568.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-569.txt" > "utf8.60yr3or2-sil-569.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-570.txt" > "utf8.60yr3or2-sil-570.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-571.txt" > "utf8.60yr3or2-sil-571.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-572.txt" > "utf8.60yr3or2-sil-572.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-573.txt" > "utf8.60yr3or2-sil-573.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-574.txt" > "utf8.60yr3or2-sil-574.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-575.txt" > "utf8.60yr3or2-sil-575.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-576.txt" > "utf8.60yr3or2-sil-576.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-577.txt" > "utf8.60yr3or2-sil-577.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-579.txt" > "utf8.60yr3or2-sil-579.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-580.txt" > "utf8.60yr3or2-sil-580.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-581.txt" > "utf8.60yr3or2-sil-581.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-582.txt" > "utf8.60yr3or2-sil-582.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-583.txt" > "utf8.60yr3or2-sil-583.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-584.txt" > "utf8.60yr3or2-sil-584.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-585.txt" > "utf8.60yr3or2-sil-585.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-586.txt" > "utf8.60yr3or2-sil-586.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-587.txt" > "utf8.60yr3or2-sil-587.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-588.txt" > "utf8.60yr3or2-sil-588.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-589.txt" > "utf8.60yr3or2-sil-589.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-590.txt" > "utf8.60yr3or2-sil-590.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-591.txt" > "utf8.60yr3or2-sil-591.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-592.txt" > "utf8.60yr3or2-sil-592.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-593.txt" > "utf8.60yr3or2-sil-593.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-594.txt" > "utf8.60yr3or2-sil-594.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-595.txt" > "utf8.60yr3or2-sil-595.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-596.txt" > "utf8.60yr3or2-sil-596.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-597.txt" > "utf8.60yr3or2-sil-597.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-598.txt" > "utf8.60yr3or2-sil-598.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-599.txt" > "utf8.60yr3or2-sil-599.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-600.txt" > "utf8.60yr3or2-sil-600.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-601.txt" > "utf8.60yr3or2-sil-601.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-602.txt" > "utf8.60yr3or2-sil-602.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-603.txt" > "utf8.60yr3or2-sil-603.txt"
+iconv -f Latin1 -t utf-8 "60yr3or2-sil-604.txt" > "utf8.60yr3or2-sil-604.txt"
+filenames <- sub(pattern = "/votes/", replacement = "/votes/utf8.", filenames) # use utf-8 versions
+
+I <- length(filenames)
+tmp <- rep(NA, times=I)
+votdat <- data.frame(favor=tmp, contra=tmp, absten=tmp, quorum=tmp, ausen=tmp, 
+                      title=NA, leg=rep(60, times=I), 
+                      filename=sub(filenames, pattern=".*(60y.*).txt", replacement="\\1"), 
+                      yr=tmp, mo=tmp, dy=tmp, haveinfo=rep(1, times=I))
+rc <- matrix(0,  nrow=I, ncol=1000); rc <- as.data.frame(rc); colnames(rc) <- dipdat$id
+id <- colnames(rc)
+
+i <- 1; j <- 1
+for (i in 1:I){
+    info <- readLines( con=filenames[i] )
+    votdat$title[i] <- info[4]
+    votdat$dy[i] <- as.numeric(sub(info[1], pattern="fch = ([0-9]*)(-.*-)([0-9]*)", replacement="\\1"))
+    votdat$yr[i] <- as.numeric(sub(info[1], pattern="fch = ([0-9]*)(-.*-)([0-9]*)", replacement="\\3"))
+    tmp <- sub(info[1], pattern="fch = ([0-9]*-)(.*)(-[0-9]*)", replacement="\\2")
+    tmp <- sub(tmp, pattern="[Ee]nero", replacement="1")
+    tmp <- sub(tmp, pattern="[Ff]ebrero", replacement="2")
+    tmp <- sub(tmp, pattern="[Mm]arzo", replacement="3")
+    tmp <- sub(tmp, pattern="[Aa]bril", replacement="4")
+    tmp <- sub(tmp, pattern="[Mm]ayo", replacement="5")
+    tmp <- sub(tmp, pattern="[Jj]unio", replacement="6")
+    tmp <- sub(tmp, pattern="[Jj]ulio", replacement="7")
+    tmp <- sub(tmp, pattern="[Aa]gosto", replacement="8")
+    tmp <- sub(tmp, pattern="[Ss]eptiembre", replacement="9")
+    tmp <- sub(tmp, pattern="[Oo]ctubre", replacement="10")
+    tmp <- sub(tmp, pattern="[Nn]oviembre", replacement="11")
+    tmp <- sub(tmp, pattern="[Dd]iciembre", replacement="12")
+    votdat$mo[i] <- as.numeric(tmp)
+    #
+    ## NEEDED IF DEPUTY'S PARTY WILL BE CHECKED
+    #panstart <- grep(info, pattern="emmPanVoteStart"); pristart <- grep(info, pattern="emmPriVoteStart")
+    #prdstart <- grep(info, pattern="emmPrdVoteStart"); ptstart <- grep(info, pattern="emmPtVoteStart")
+    #pvemstart <- grep(info, pattern="emmPvemVoteStart"); convestart <- grep(info, pattern="emmConveVoteStart")
+    #panalstart <- grep(info, pattern="emmPanalVoteStart"); indepstart <- grep(info, pattern="emmIndepVoteStart")
+    #
+    for (j in 1:1000){
+        print(c(j,i))
+        tmp <- grep(info, pattern=dipdat$nomregexp[j]) # DIP'S NAME
+        tmp2 <- ifelse( length(tmp)>0, sub(info[tmp+1], pattern=".*<span class.*> (.*)</span></td>", replacement="\\1"), 0)
+        tmp2 <- gsub(tmp2, pattern="A favor", replacement="1")
+        tmp2 <- gsub(tmp2, pattern="En contra", replacement="2")
+        tmp2 <- gsub(tmp2, pattern="Abstención", replacement="3")
+        tmp2 <- gsub(tmp2, pattern="Sólo asistencia", replacement="4")
+        tmp2 <- gsub(tmp2, pattern="Ausente", replacement="5")
+        rc[i,j] <- as.numeric(tmp2)
+                     }
+    for (j in 1:999){
+        ## ASSUMES SUPLENTE IS NEXT OBS 
+        if (dipdat$tipo[j]=="prop" & rc[i,j]==0 & rc[i,j+1]==0) {rc[i,j] <- 6} else next 
+                     }
+              }
+#paste(i, votdat$filename[i], id[rc[i,]==6], dipdat$part[rc[i,]==6], dipdat$nom[rc[i,]==6]); table(as.numeric(rc[i,]))
+    ##
+    rc[votdat$yr==2007 & votdat$mo==12 & votdat$dy==4, id=="bc07p"] <- 5    ## ENRÍQUEZ M LICENCIA, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2006 & votdat$mo==9 & votdat$dy<21, id=="camrp01p"] <- 5  ## NORDHAUSEN NO ASUME, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==26, id=="colrp02p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy<=19, id=="colrp02p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2007 & votdat$mo==2 & votdat$dy==8, id=="cps08p"] <- 5    ## CORDERO DESPARACE ESTA SESION
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==23, id=="cua03p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2007 & votdat$mo==3 & votdat$dy>20 & votdat$dy<29, id=="cua04p"] <- 5 ## VALENCIA DESAPARECE UN PERIODO
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==5, id=="df19p"] <- 5     ## OLIVA LICENCIA, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=5, id=="df24p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=12 & votdat$dy<=19, id=="dfrp13p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==2, id=="dfrp14p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==15, id=="gua11p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009,                                id=="guarp05p"] <- 5 ## CHAURAND LICENCIA, SUPLENTE NO ENTRA
+    rc[votdat$yr==2008 & votdat$mo==6, id=="gue09p"] <- 5                   ## FLORES MALDONADO DESAPARECE UN PERIODO
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==30, id=="guerp01p"] <- 5 ## ARIZMENDI LICENCIA, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy>=26, id=="mex01p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=5, id=="mex01p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==26, id=="mex05p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==24, id=="mex08p"] <- 5   ## MTZ MTZ LICENCIA, SUPLENTE TARDA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=19, id=="mex09p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==28, id=="mex10p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==26, id=="mex12p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==2, id=="mex12p"] <- 5    ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy>=23, id=="mex15p"] <- 5   ## LANDERO LICENCIA, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==24, id=="mex25p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy>=28, id=="mex26p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=19, id=="mex28p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy==31, id=="mex29p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==26, id=="mex35p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=5, id=="mex35p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=12, id=="mex36p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy==24, id=="mex39p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy>=26, id=="mex39p"] <- 5   ## SAN MARTÍN DESPARECE ESTA SESION
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy>=3 & votdat$dy<=12, id=="mex39p"] <- 5  ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==28, id=="mex40p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==28, id=="mexrp03p"] <- 5 ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy>=28, id=="mexrp05p"] <- 5 ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy>=28, id=="mexrp06p"] <- 5 ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr<2008,                                 id=="mexrp07p"] <- 5 ## RIVADENEYRA NO ASUME, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2008 & votdat$mo<9,                  id=="mexrp07p"] <- 5 ## RIVADENEYRA NO ASUME, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2008 & votdat$mo==9 & votdat$dy<11, id=="mexrp07p"] <- 5  ## RIVADENEYRA NO ASUME, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==28, id=="mexrp08p"] <- 5 ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2008 & votdat$mo==4 & votdat$dy>=10, id=="nayrp03p"] <- 5 ## NAVARRO QUINTERO DESAPARECE UN PERIODO
+    rc[votdat$yr==2008 & votdat$mo>4 & votdat$mo<8, id=="nayrp03p"] <- 5    ## NAVARRO QUINTERO DESAPARECE UN PERIODO
+    rc[votdat$yr==2006 & votdat$mo==10 & votdat$dy>=30, id=="nlrp02p"] <- 5 ## OROZCO LICENCIA, SUPLENTE ENTRA TARDE
+    rc[votdat$yr<2009, id=="oaxrp04p"] <- 5                                 ## MELO LLEGA TARDE, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==1 & votdat$dy<14, id=="oaxrp04p"] <- 5  ## MELO LLEGA TARDE, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy>=28, id=="oaxrp05p"] <- 5 ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy==31, id=="querp03p"] <- 5 ## ORTIZ P LICENCIA, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo>3, id=="querp03p"] <- 5                  ## ORTIZ P LICENCIA, SUPLENTE NO ENTRA
+    rc[votdat$yr==2007 & votdat$mo==2 & votdat$dy<27, id=="qui01p"] <- 5    ## RUIZ CHAVEZ DESAPARECE UN PERIODO
+    rc[votdat$yr==2009, id=="qui01p"] <- 5                                  ## RUIZ CHAVEZ DESAPARECE UN PERIODO
+    rc[votdat$yr==2008 & votdat$mo==12 & votdat$dy==11, id=="sanrp03p"] <- 5  ## RMZ STABROS DESPARACE ESTA SESION
+    rc[votdat$yr==2006 & votdat$mo<10, id=="tab04p"] <- 5                   ## MAYANS LLEGA TARDE, SUPLENTE NO ENTRA
+    rc[votdat$yr==2006 & votdat$mo==10 & votdat$dy<24, id=="tab04p"] <- 5   ## MAYANS LLEGA TARDE, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy>=17, id=="tla02p"] <- 5   ## ESCOBAR LICENCIA, SUPLENTE TARDA
+    rc[votdat$yr==2008 & votdat$mo==12 & votdat$dy==11, id=="ver04p"] <- 5  ## DESCHAMPS LICENCIA, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2006 & votdat$mo==10 & votdat$dy>19, id=="ver07p"] <- 5   ## DE LA TORRE LICENCIA, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2007 & votdat$mo>=4 & votdat$mo<=8, id=="ver14p"] <- 5    ## USCANGA DESAPARECE UN PERIODO
+    rc[votdat$yr==2007 & votdat$mo==9 & votdat$dy<=4, id=="ver14p"] <- 5    ## USCANGA DESAPARECE UN PERIODO
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==30, id=="verrp13p"] <- 5 ## ELIZONDO LICENCIA, SUPLENTE NO ENTRA
+    rc[votdat$yr==2008 & votdat$mo==8 & votdat$dy==28, id=="yuc03p"] <- 5   ## CASTRO ROMERO LICENCIA, SUPLENTE ENTRA TARDE
+    rc[votdat$yr==2009 & votdat$mo==3 & votdat$dy==26, id=="yuc04p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==4 & votdat$dy==2, id=="yucrp03p"] <- 5   ## DESAPARECE HACIA FIN CONGRESO, SUPLENTE NO ENTRA
+    rc[votdat$yr==2009 & votdat$mo==2 & votdat$dy<17, id=="zac02p"] <- 5    ## BERMUDEZ LICENCIA, SUPLENTE ENTRA TARDE
+    ##
+for (i in 1:I){
+    tmp<-as.numeric(rc[i,])==1; votdat$favor[i] <- length(tmp[tmp==TRUE])
+    tmp<-as.numeric(rc[i,])==2; votdat$contra[i] <- length(tmp[tmp==TRUE])
+    tmp<-as.numeric(rc[i,])==3; votdat$absten[i] <- length(tmp[tmp==TRUE])
+    tmp<-as.numeric(rc[i,])==4; votdat$quorum[i] <- length(tmp[tmp==TRUE])
+    tmp<-as.numeric(rc[i,])==5; votdat$ausen[i] <- length(tmp[tmp==TRUE])
+              }
+
+## USADOS PARA EXPLORAR SEISES
+d<-0
+d <- d+1; paste(d, id[d], dipdat$nom[d]); rc[,d]; votdat$filename[rc[,d]==6] ## ÚLT LISTA SOLO LOS SEISES
+d<-grep(id,pattern="mex35p")
+paste(d, id[d], dipdat$nom[d]); data.frame(x=rc[,d],y=paste(votdat$yr, votdat$mo, votdat$dy, sep=""))
+
+v<-591
+v <- v-1; paste(v, votdat$filename[v], id[rc[v,]==6], paste(votdat$yr[v], votdat$mo[v], votdat$dy[v], sep=""), dipdat$part[rc[v,]==6], dipdat$nom[rc[v,]==6]); #table(as.numeric(rc[v,]))
+
+as.numeric(rc[,id=="mexrp02p"]) ## UN DIPUTADO
+as.numeric(rc[v,]) ## EL VOTO
+
+## SORT
+tmp <- 1:dim(votdat)[1] ## ORDORIG
+votdat <- votdat[order(votdat$leg, votdat$yr, votdat$mo, votdat$dy, tmp),]
+rc <- rc[order(votdat$leg, votdat$yr, votdat$mo, votdat$dy, tmp),]
+
+
+save.image( paste(workdir, "votesForWeb", "rc60.RData", sep="/") )
+# csv versions
+write.table(dipdat, file = paste(workdir, "votesForWeb", "dipdat60.csv", sep="/"), sep=",", row.names = FALSE)
+write.table(votdat, file = paste(workdir, "votesForWeb", "votdat60.csv", sep="/"), sep=",", row.names = FALSE)
+write.table(rc, file = paste(workdir, "votesForWeb", "rc60.csv", sep="/"), sep=",", row.names = FALSE)
+
+
+
+
