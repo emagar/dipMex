@@ -1,0 +1,1007 @@
+ord,n,nom,idOldDrop,id,part,edo,edoSIL,edon,dsmd,dis,tipo,yrin1,moin1,dyin1,yrout1,moout1,dyout1,yrin2,moin2,dyin2,yrout2,moout2,dyout2,yrin3,moin3,dyin3,nomregexp,notas
+1,1,Arámbula López José Antonio,ags01p,ags01p,pan,ags,.,1,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Arámbula López José Antonio,.
+2,501,Macías González Maricela,ags01s,ags01s,pan,ags,.,1,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Macías González Maricela,.
+3,2,Hernández Vallín David,ags02p,ags02p,pri,ags,.,1,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Vall[ií]n David,.
+4,502,Verdugo Sarabia Guadalupe,ags02s,ags02s,pri,ags,.,1,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Verdugo Sarabia Guadalupe,.
+5,3,Cuadra García Raúl Gerardo,ags03p,ags03p,pan,ags,.,1,1,3,prop,2009,8,29,2010,2,2,2010,4,1,.,.,.,.,.,.,Cuadra García Raúl Gerardo,.
+6,503,Díaz de León Macías María Matilde Maricel,ags03s,ags03s,pan,ags,.,1,1,3,sup,2010,3,4,2010,3,31,.,.,.,.,.,.,.,.,.,Díaz de León.*Macías María Matilde Maricel,.
+7,4,Tolento Hernández Sergio,bc01p,bc01p,pan,bc,.,2,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Tolento Hernández Sergio,.
+8,504,Briceño Cinco Amintha Guadalupe,bc01s,bc01s,pan,bc,.,2,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Briceño Cinco Amintha Guadalupe,.
+9,5,Orduño Valdez Francisco Javier,bc02p,bc02p,pan,bc,.,2,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Orduño Valdez Francisco Javier,.
+10,505,Cano Valadez Mónica,bc02s,bc02s,pan,bc,.,2,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cano Valadez Mónica,.
+11,6,Mancillas Amador César,bc03p,bc03p,pan,bc,.,2,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mancillas Amador César,.
+12,506,Marín Durán Alfredo,bc03s,bc03s,pan,bc,.,2,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Marín Durán Alfredo,.
+13,7,Cortez Mendoza Jesús Gerardo,bc04p,bc04p,pan,bc,.,2,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cortez Mendoza Jesús Gerardo,.
+14,507,Flores Álvarez Jesús Miguel,bc04s,bc04s,pan,bc,.,2,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Flores [ÁA]lvarez Jesús Miguel,.
+15,8,Luken Garza Gastón,bc05p,bc05p,pan,bc,.,2,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Luken Garza Gastón,.
+16,508,Barone Barrón Cecilia,bc05s,bc05s,pan,bc,.,2,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Barone Barrón Cecilia,.
+17,9,Osuna Millán Miguel Antonio,bc06p,bc06p,pan,bc,.,2,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Osuna Millán Miguel Antonio,.
+18,509,Osuna Osuna Guillermo Antonio,bc06s,bc06s,pan,bc,.,2,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Osuna Osuna Guillermo Antonio,.
+19,10,Ovando Patrón José Luis,bc07p,bc07p,pan,bc,.,2,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ovando Patrón José Luis,.
+20,510,Carreño Castro Héctor Armando,bc07s,bc07s,pan,bc,.,2,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Carreño Castro Héctor Armando,.
+21,11,Arce Paniagua Óscar Martín,bc08p,bc08p,pan,bc,.,2,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Arce Paniagua [ÓO]scar Martín,.
+22,511,Contreras Sánchez Belén Angélica,bc08s,bc08s,pan,bc,.,2,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Contreras Sánchez Belén Angélica,.
+23,12,Covarrubias Villaseñor Marcos Alberto,bcs01p,bcs01p,prd,bcs,.,3,1,1,prop,2009,8,29,2010,7,21,.,.,.,.,.,.,.,.,.,Covarrubias Villaseñor Marcos Alberto,.
+24,512,Puppo Gastélum Silvia,bcs01s,bcs01s,prd,bcs,.,3,1,1,sup,2010,8,31,.,.,.,.,.,.,.,.,.,.,.,.,Puppo Gastélum Silvia,.
+25,13,Castro Cosío Víctor Manuel,bcs02p,bcs02p,prd,bcs,.,3,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castro Cosío Víctor Manuel,.
+26,513,Graciano Chávez Edilberto,bcs02s,bcs02s,prd,bcs,.,3,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Graciano Chávez Edilberto,.
+27,14,Pacheco Castro Carlos Oznerol,cam01p,cam01p,pri,cam,.,4,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pacheco Castro Carlos Oznerol,.
+28,514,Cuevas Sonia Jaqueline,cam01s,cam01s,pri,cam,.,4,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cuevas Sonia Jaqueline,.
+29,15,Rosas González Óscar Román,cam02p,cam02p,pri,cam,.,4,1,2,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,Rosas González [ÓO]scar Román,.
+30,515,Curmina Cervera Margarita Beatriz de la Candelaria,cam02s,cam02s,pri,cam,.,4,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Curmina Cervera Margarita Beatr[ií]z de la Candelaria,.
+31,16,Saracho Navarro Francisco,coa01p,coa01p,pri,coa,.,5,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Saracho Navarro Francisco,.
+32,516,Villarreal Pérez Sonia,coa01s,coa01s,pri,coa,.,5,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Villarreal Pérez Sonia,.
+33,17,Martínez González Hugo Héctor,coa02p,coa02p,pri,coa,.,5,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez González Hugo Héctor,.
+34,517,Durán Piña Ana Isabel,coa02s,coa02s,pri,coa,.,5,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Durán Piña Ana Isabel,.
+35,18,Sánchez de la Fuente Melchor,coa03p,coa03p,pri,coa,.,5,1,3,prop,2009,8,29,2012,2,7,.,.,.,.,.,.,.,.,.,Sánchez de la Fuente Melchor,.
+36,518,Gutiérrez Burciaga Lilia Isabel,coa03s,coa03s,pri,coa,.,5,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gutiérrez Burciaga Lilia Isabel,.
+37,19,Moreira Valdez Rubén Ignacio,coa04p,coa04p,pri,coa,.,5,1,4,prop,2009,8,29,2010,12,2,.,.,.,.,.,.,.,.,.,Moreira Valdez Rubén Ignacio,.
+38,519,González Soto Diana Patricia,coa04s,coa04s,pri,coa,.,5,1,4,sup,2010,12,7,.,.,.,.,.,.,.,.,.,.,.,.,González Soto Diana Patricia,.
+39,20,Riquelme Solís Miguel Ángel,coa05p,coa05p,pri,coa,.,5,1,5,prop,2009,8,29,2011,2,10,.,.,.,.,.,.,.,.,.,Riquelme Solís Miguel [ÁA]ngel,.
+40,520,Rodarte Ayala Josefina,coa05s,coa05s,pri,coa,.,5,1,5,sup,2011,2,15,.,.,.,.,.,.,.,.,.,.,.,.,Rodarte|RODARTE Ayala|AYALA Josefina|JOSEFINA,.
+41,21,Fernández Aguirre Héctor,coa06p,coa06p,pri,coa,.,5,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Fernández Aguirre Héctor,.
+42,521,Mata Vega Ilse Paloma,coa06s,coa06s,pri,coa,.,5,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mata Vega Ilse Paloma,.
+43,22,Franco López Héctor,coa07p,coa07p,pri,coa,.,5,1,7,prop,2009,8,29,2011,11,22,.,.,.,.,.,.,.,.,.,Franco López Héctor,.
+44,522,De la Rosa Cortés Lily Fabiola,coa07s,coa07s,pri,coa,.,5,1,7,sup,2011,11,23,.,.,.,.,.,.,.,.,.,.,.,.,De la Rosa Cortés Lily Fabiola,.
+45,23,Morán Sánchez Leoncio Alfonso,col01p,col01p,pan,col,.,6,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Morán Sánchez Leoncio Alfonso,.
+46,523,Suárez Záizar Omar,col01s,col01s,pan,col,.,6,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Suárez Záizar Omar,.
+47,24,Cruz Mendoza Carlos,col02p,col02p,pri,col,.,6,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cruz Mendoza Carlos,.
+48,524,Carlos Pérez Patricia,col02s,col02s,pri,col,.,6,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Carlos Pérez Patricia,.
+49,25,López Fernández Juan Carlos,cps01p,cps01p,prd,cps,.,7,1,1,prop,2009,8,29,2012,3,7,2012,3,27,.,.,.,.,.,.,López [F|H]ernández Juan Carlos,.
+50,525,Lara Aguilar Jorge Luis,cps01s,cps01s,prd,cps,.,7,1,1,sup,2012,3,8,2012,3,26,.,.,.,.,.,.,.,.,.,Lara Aguilar Jorge Luis,.
+51,26,Orantes López Hernán de Jesús,cps02p,cps02p,pri,cps,.,7,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Orantes López Hernán de Jesús,.
+52,526,Ruíz Gómez Armando,cps02s,cps02s,pri,cps,.,7,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ruíz Gómez Armando,.
+53,27,Hernández Cruz Luis,cps03p,cps03p,prd,cps,.,7,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Cruz Luis,.
+54,527,Jiménez Jiménez Arturo,cps03s,cps03s,prd,cps,.,7,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez Jiménez Arturo,.
+55,28,Cortazar Ramos Ovidio,cps04p,cps04p,pan,cps,.,7,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cort[aá]zar Ramos Ovidio,.
+56,528,Hernández Estrada Lesvia,cps04s,cps04s,pan,cps,.,7,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Estrada Lesvia,.
+57,29,Lobato García Sergio,cps05p,cps05p,pri,cps,.,7,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lobato García Sergio,.
+58,529,Sántiz Ruíz Manuel,cps05s,cps05s,pri,cps,.,7,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sántiz Ruíz Manuel,.
+59,30,Camacho Pedrero Mirna Lucrecia,cps06p,cps06p,pan,cps,.,7,1,6,prop,2009,8,29,2012,3,29,2012,4,30,.,.,.,.,.,.,Camacho Pedrero Mirna Lucrecia,.
+60,530,Rosales Franco Rodrígo Trinidad,cps06s,cps06s,pan,cps,.,7,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rosales Franco Rodrígo Trinidad,.
+61,31,Marroquín Toledo José Manuel,cps07p,cps07p,pan,cps,.,7,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Marroquín Toledo José Manuel,.
+62,531,Hernández Gordillo José Francisco,cps07s,cps07s,pan,cps,.,7,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Gordillo José Francisco,.
+63,32,Albores Gleason Roberto Armando,cps08p,cps08p,pri,cps,.,7,1,8,prop,2009,8,29,2011,8,3,.,.,.,2012,1,20,.,.,.,Albores Gleason Roberto Armando,.
+64,532,Narváez Ochoa Moisés,cps08s,cps08s,pri,cps,.,7,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Narváez Ochoa Moisés,.
+65,33,Gómez León Ariel,cps09p,cps09p,prd,cps,.,7,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gómez León Ariel,.
+66,533,Miranda Borraz Bersaín,cps09s,cps09s,prd,cps,.,7,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Miranda Borraz Bersaín,.
+67,34,Gutiérrez Villanueva Sergio Ernesto,cps10p,cps10p,prd,cps,.,7,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gutiérrez Villanueva Sergio Ernesto,.
+68,534,Cruz Magdaleno Flor del Rosario,cps10s,cps10s,prd,cps,.,7,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cruz Magdaleno Flor del Rosario,.
+69,35,Martínez Martínez Carlos,cps11p,cps11p,pan,cps,.,7,1,11,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Martínez Carlos,.
+70,535,Tanus Piñasoria José Foad,cps11s,cps11s,pan,cps,.,7,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tanus Piñasoria José Foad,.
+71,36,David David Sami,cps12p,cps12p,pri,cps,.,7,1,12,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,David David Sami,.
+72,536,Toledo Zebadúa Alejandra Cruz,cps12s,cps12s,pri,cps,.,7,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Toledo Zebadúa Alejandra Cruz,.
+73,37,Flores Castañeda Jaime,cua01p,cua01p,pri,cua,.,8,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Flores Castañeda Jaime,.
+74,537,Sáenz Calderón Maritza Olivia,cua01s,cua01s,pri,cua,.,8,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sáenz Calderón Maritza Olivia,.
+75,38,Murguía Lardizábal Héctor Agustín,cua02p,cua02p,pri,cua,.,8,1,2,prop,2009,8,29,2009,12,15,2010,1,13,2010,3,11,.,.,.,Murguía Lardizábal Héctor Agustín,.
+76,538,Zapata Lucero Ana Georgina,cua02s,cua02s,pri,cua,.,8,1,2,sup,2010,3,16,.,.,.,.,.,.,.,.,.,.,.,.,Zapata Lucero Ana Georgina,.
+77,39,Pérez Reyes María Antonieta,cua03p,cua03p,pan,cua,.,8,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Reyes María Antonieta,.
+78,539,Morán García Ernesto Alonso,cua03s,cua03s,pan,cua,.,8,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Morán García Ernesto Alonso,.
+79,40,Terrazas Porras Adriana,cua04p,cua04p,pri,cua,.,8,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Terrazas Porras Adriana,.
+80,540,Tapia Cervantes César,cua04s,cua04s,pri,cua,.,8,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tapia Cervantes César,.
+81,41,Márquez Lizalde Manuel Guillermo,cua05p,cua05p,pri,cua,.,8,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Márquez Lizalde Manuel Guillermo,.
+82,541,Sáenz Gabaldón Jesús José,cua05s,cua05s,pri,cua,.,8,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sáenz Gabaldón Jesús José,.
+83,42,Ochoa Millán Maurilio,cua06p,cua06p,pri,cua,.,8,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ochoa Millán Maurilio,.
+84,542,Aguilera García Liz,cua06s,cua06s,pri,cua,.,8,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aguilera García Liz,.
+85,43,Pérez Domínguez Guadalupe,cua07p,cua07p,pri,cua,.,8,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Domínguez Guadalupe,.
+86,543,Le Baron González Alex,cua07s,cua07s,pri,cua,.,8,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Le Baron González Alex,.
+87,44,Cano Ricaud Alejandro,cua08p,cua08p,pri,cua,.,8,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cano Ricaud Alejandro,.
+88,544,Soto Martínez María Adela,cua08s,cua08s,pri,cua,.,8,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Soto Martínez María Adela,.
+89,45,Campos Villegas Luis Carlos,cua09p,cua09p,pri,cua,.,8,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Campos Villegas Luis Carlos,.
+90,545,Balderrama Quintana David,cua09s,cua09s,pri,cua,.,8,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Balderrama Quintana David,.
+91,46,Jiménez López Ramón,df01p,df01p,prd,df,.,9,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez López Ramón,.
+92,546,Rubio Aldaran Eleazar,df01s,df01s,prd,df,.,9,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rubio Aldaran Eleazar,.
+93,47,Orozco Rosi,df02p,df02p,pan,df,.,9,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Orozco.*Rosi,.
+94,547,Quiroz Rocha Víctor Manuel,df02s,df02s,pan,df,.,9,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Quiroz Rocha Víctor Manuel,.
+95,48,Vargas Cortez Balfre,df03p,df03p,prd,df,.,9,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vargas Cortez Balfre,Mesa dir 1
+96,548,Barba Méndez Ernesto,df03s,df03s,prd,df,.,9,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Barba Méndez Ernesto,.
+97,49,Cárdenas Gracia Jaime Fernando,df04p,df04p,pt,df,.,9,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cárdenas Gracia Jaime Fernando,.
+98,549,Alonso Salgado Martín,df04s,df04s,pt,df,.,9,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Alonso Salgado Martín,.
+99,50,González Madruga César Daniel,df05p,df05p,pan,df,.,9,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,González Madruga César Daniel,.
+100,550,De Anda Martínez Erika Ivonne,df05s,df05s,pan,df,.,9,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,De Anda Martínez Erika Ivonne,.
+101,51,Rebollo Vivero Roberto,df06p,df06p,pri,df,.,9,1,6,prop,2009,8,29,2012,3,22,2012,4,10,.,.,.,.,.,.,Rebollo Vivero Roberto,.
+102,551,Olvera Olguín Miguel Ángel,df06s,df06s,pri,df,.,9,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Olvera Olguín Miguel [ÁA]ngel,.
+103,52,Norberto Sánchez Nazario,df07p,df07p,prd,df,.,9,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Norberto Sánchez Nazario,.
+104,552,Borden Camacho Abraham,df07s,df07s,prd,df,.,9,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Borden Camacho Abraham,.
+105,53,Llerenas Morales Vidal,df08p,df08p,prd,df,.,9,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Llerenas Morales Vidal,.
+106,553,Quezada Ambriz Pablo,df08s,df08s,prd,df,.,9,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Quezada Ambriz Pablo,.
+107,54,Damián Peralta Esthela,df09p,df09p,prd,df,.,9,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Damián Peralta Esthela,.
+108,554,Nava Reyes Denise Lizbeth,df09s,df09s,prd,df,.,9,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Nava Reyes Denise Lizbeth,.
+109,55,Cuevas Barrón Gabriela,df10p,df10p,pan,df,.,9,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cuevas Barr[óo]n Gabriela,.
+110,555,Real Sánchez Jorge,df10s,df10s,pan,df,.,9,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Real Sánchez Jorge,.
+111,56,Piña Olmedo Laura,df11p,df11p,conve,df,.,9,1,11,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Piña Olmedo Laura,.
+112,556,Vega Carrillo Sara,df11s,df11s,conve,df,.,9,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vega Carrillo Sara,.
+113,57,Guerrero Castillo Agustín,df12p,df12p,prd,df,.,9,1,12,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guerrero Castillo Agustín,.
+114,557,González Cázares Agustín,df12s,df12s,prd,df,.,9,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Cázares Agustín,.
+115,58,Serrano Jiménez Emilio,df13p,df13p,prd,df,.,9,1,13,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Serrano Jiménez Emilio,.
+116,558,Díaz Bustamante Angélica Adriana,df13s,df13s,prd,df,.,9,1,13,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Díaz Bustamante Angélica Adriana,.
+117,59,Hernández Rodríguez Héctor Hugo,df14p,df14p,prd,df,.,9,1,14,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Rodríguez Héctor Hugo,.
+118,559,Pasalagua Olivar Ángel,df14s,df14s,prd,df,.,9,1,14,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pasalagua Olivar [ÁA]ngel,.
+119,60,Nava Vázquez José César,df15p,df15p,pan,df,.,9,1,15,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Nava Vázquez José César,.
+120,560,Tuachi Hurtado María Suad,df15s,df15s,pan,df,.,9,1,15,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tuachi Hurtado María Suad,.
+121,61,Robles Colín Leticia,df16p,df16p,pri,df,.,9,1,16,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Robles Colín Leticia,.
+122,561,García Cortés Francisca,df16s,df16s,pri,df,.,9,1,16,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Cortés Francisca,.
+123,62,Vázquez Camacho María Araceli,df17p,df17p,prd,df,.,9,1,17,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez Camacho María Araceli,.
+124,562,Ramírez Ortíz Gabriela,df17s,df17s,prd,df,.,9,1,17,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Ortíz Gabriela,.
+125,63,Mendoza Arellano Eduardo,df18p,df18p,prd,df,.,9,1,18,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Arellano Eduardo,.
+126,563,Muñoz Meza Rosario,df18s,df18s,prd,df,.,9,1,18,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Muñoz Meza Rosario,.
+127,64,Fernández Noroña José Gerardo Rodolfo,df19p,df19p,pt,df,.,9,1,19,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Fernández Noroña José Gerardo Rodolfo,Mesa dir 1
+128,564,Velázquez Rivera María Alma,df19s,df19s,pt,df,.,9,1,19,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Velázquez Rivera María Alma,.
+129,65,Di Costanzo Armenta Mario Alberto,df20p,df20p,pt,df,.,9,1,20,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Di Costanzo Armenta Mario Alberto,.
+130,565,Mora Estrella Lilia del Carmen,df20s,df20s,pt,df,.,9,1,20,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mora Estrella Lilia del Carmen,.
+131,66,Méndez Rangel Avelino,df21p,df21p,prd,df,.,9,1,21,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Méndez Rangel Avelino,.
+132,566,Sabas Rufino José Luis,df21s,df21s,prd,df,.,9,1,21,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sabas Rufino José Luis,.
+133,67,Santana Alfaro Arturo,df22p,df22p,prd,df,.,9,1,22,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Santana Alfaro Arturo,.
+134,567,Olvera Palacios María del Carmen,df22s,df22s,prd,df,.,9,1,22,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Olvera Palacios María del Carmen,.
+135,68,Toledo Gutiérrez Mauricio Alonso,df23p,df23p,prd,df,.,9,1,23,prop,2009,8,29,2012,4,10,.,.,.,.,.,.,.,.,.,Toledo Gutiérrez Mauricio Alonso,.
+136,568,González Mata José Antonio,df23s,df23s,prd,df,.,9,1,23,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Mata José Antonio,.
+137,69,Rétiz Gutiérrez Ezequiel,df24p,df24p,pan,df,.,9,1,24,prop,2009,8,29,2012,3,8,2012,4,11,.,.,.,.,.,.,Rétiz Gutiérrez Ezequiel,.
+138,569,De Jesús Sánchez Alin Nayely,df24s,df24s,pan,df,.,9,1,24,sup,2012,3,13,.,.,.,.,.,.,.,.,.,.,.,.,De Jesús Sánchez Alin Nayely,.
+139,70,Eguía Pérez Luis Felipe,df25p,df25p,prd,df,.,9,1,25,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Eguía Pérez Luis Felipe,.
+140,570,Aguilar Meléndez Adalberto,df25s,df25s,prd,df,.,9,1,25,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aguilar Meléndez Adalberto,.
+141,71,Quiñones Cornejo María de la Paz,df26p,df26p,pri,df,.,9,1,26,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Quiñones Cornejo María de la Paz,.
+142,571,Guevara Rodríguez Miguel Ángel,df26s,df26s,pri,df,.,9,1,26,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guevara Rodríguez Miguel [ÁA]ngel,.
+143,72,Salgado Vázquez Rigoberto,df27p,df27p,prd,df,.,9,1,27,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Salgado Vázquez Rigoberto,.
+144,572,Núñez Zúñiga Tereso de Jesús,df27s,df27s,prd,df,.,9,1,27,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Núñez Zúñiga Tereso de Jesús,.
+145,73,López Pescador José Ricardo,dgo01p,dgo01p,pri,dgo,.,10,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,López Pescador José Ricardo,.
+146,573,Núñez Soto María del Carmen,dgo01s,dgo01s,pri,dgo,.,10,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Núñez Soto María del Carmen,.
+147,74,Rebollo Mendoza Ricardo Armando,dgo02p,dgo02p,pri,dgo,.,10,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rebollo Mendoza Ricardo Armando,.
+148,574,Guerrero Orona Isidra Oralia,dgo02s,dgo02s,pri,dgo,.,10,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guerrero Orona Isidra Oralia,.
+149,75,García Barrón Óscar,dgo03p,dgo03p,pri,dgo,.,10,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,García Barrón [ÓO]scar,.
+150,575,Aguilera Cháirez Maribel,dgo03s,dgo03s,pri,dgo,.,10,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aguilera Cháirez Maribel,.
+151,76,Herrera Caldera Jorge,dgo04p,dgo04p,pri,dgo,.,10,1,4,prop,2009,8,29,2010,2,2,.,.,.,.,.,.,.,.,.,Herrera Caldera Jorge,.
+152,576,Ávila Nevárez Pedro,dgo04s,dgo04s,pri,dgo,.,10,1,4,sup,2010,2,2,.,.,.,.,.,.,.,.,.,.,.,.,Nevárez|[ÁA]vila Pedro|Nevárez [ÁA]vila|Pedro,.
+153,77,Huerta Montero Juan,gua01p,gua01p,pan,gua,.,11,1,1,prop,2009,8,29,2010,9,3,.,.,.,.,.,.,.,.,.,Huerta Montero Juan,.
+154,577,Quintana Padilla Aranzazú,gua01s,gua01s,pan,gua,.,11,1,1,sup,2010,9,21,.,.,.,.,.,.,.,.,.,.,.,.,Quintana Padilla Ar[aá]nzaz[uú],.
+155,78,Pascualli Gómez Juan de Jesús,gua02p,gua02p,pan,gua,.,11,1,2,prop,2009,8,29,2010,4,29,.,.,.,.,.,.,.,.,.,Pascualli Gómez Juan de Jesús,falleció en plena sesión
+156,578,Agúndiz Pérez Laura Viviana,gua02s,gua02s,pan,gua,.,11,1,2,sup,2010,8,31,.,.,.,.,.,.,.,.,.,.,.,.,Ag[úu]ndiz Pérez Laura Viviana,.
+157,79,Vera Hernández J. Guadalupe,gua03p,gua03p,pan,gua,.,11,1,3,prop,2009,8,29,2012,4,25,.,.,.,.,.,.,.,.,.,Vera Hernández J. Guadalupe,hombre
+158,579,Alba Contreras Luz Margarita,gua03s,gua03s,pan,gua,.,11,1,3,sup,2012,4,25,.,.,.,.,.,.,.,.,.,.,.,.,Alba Contreras Luz Margarita,.
+159,80,Lugo Martínez Ruth Esperanza,gua04p,gua04p,pan,gua,.,11,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lugo Martínez Ruth Esperanza,.
+160,580,Carrillo Pérez Francisco José de Guadalupe,gua04s,gua04s,pan,gua,.,11,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Carrillo Pérez Francisco José de Guadalupe,.
+161,81,Gallegos Camarena Lucila del Carmen,gua05p,gua05p,pan,gua,.,11,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gallegos Camarena Lucila del Carmen,.
+162,581,Pérez Mendoza Ezequiel,gua05s,gua05s,pan,gua,.,11,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Mendoza Ezequiel,.
+163,82,Oliva Ramírez Jaime,gua06p,gua06p,pan,gua,.,11,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Oliva Ramírez Jaime,.
+164,582,Murillo Chávez Janet Melanie,gua06s,gua06s,pan,gua,.,11,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Murillo Chávez Janet Melanie,.
+165,83,Arévalo Sosa Cecilia Soledad,gua07p,gua07p,pan,gua,.,11,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Arévalo Sosa Cecilia Soledad,.
+166,583,Ramírez Arzola Juan Manuel,gua07s,gua07s,pan,gua,.,11,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Arzola Juan Manuel,.
+167,84,Gutiérrez Ramírez Tomás,gua08p,gua08p,pan,gua,.,11,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gutiérrez Ramírez Tomás,.
+168,584,Damiani García Virginia,gua08s,gua08s,pan,gua,.,11,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Damiani García Virginia,.
+169,85,Zetina Soto Sixto Alfonso,gua09p,gua09p,pan,gua,.,11,1,9,prop,2009,8,29,2012,4,24,.,.,.,.,.,.,.,.,.,Zetina Soto Sixto Alfonso,.
+170,585,Villegas Méndez José Luis,gua09s,gua09s,pan,gua,.,11,1,9,sup,2012,4,25,.,.,.,.,.,.,.,.,.,.,.,.,Villegas Méndez José Luis,.
+171,86,Orozco Torres Norma Leticia,gua10p,gua10p,pvem,gua,.,11,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Orozco Torres Norma Leticia,.
+172,586,González Martínez Miguel,gua10s,gua10s,pvem,gua,.,11,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Martínez Miguel,.
+173,87,Bermúdez Méndez José Erandi,gua11p,gua11p,pan,gua,.,11,1,11,prop,2009,8,29,2012,4,28,.,.,.,.,.,.,.,.,.,Bermúdez Méndez José Erandi,.
+174,587,Zamora Ruíz María Elena,gua11s,gua11s,pan,gua,.,11,1,11,sup,2012,4,24,.,.,.,.,.,.,.,.,.,.,.,.,Zamora Ruíz María Elena,.
+175,88,Rico Jiménez Martín,gua12p,gua12p,pan,gua,.,11,1,12,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rico Jiménez Martín,.
+176,588,Miyar Estrada Marcela,gua12s,gua12s,pan,gua,.,11,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Miyar Estrada Marcela,.
+177,89,Arellano Rodríguez Rubén,gua13p,gua13p,pan,gua,.,11,1,13,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Arellano Rodríguez Rubén,.
+178,589,Baeza Vallejo Alma Rosa,gua13s,gua13s,pan,gua,.,11,1,13,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Baeza Vallejo Alma Rosa,.
+179,90,Merino Loo Ramón,gua14p,gua14p,pan,gua,.,11,1,14,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Merino Loo Ramón,.
+180,590,Arzate Cárdenas Ma. Luz,gua14s,gua14s,pan,gua,.,11,1,14,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arzate Cárdenas Ma. Luz,.
+181,91,Salgado Romero Cuauhtémoc,gue01p,gue01p,pri,gue,.,12,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Salgado Romero Cuauhtémoc,.
+182,591,Hernández Solano José Concepción,gue01s,gue01s,pri,gue,.,12,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Solano José Concepción,.
+183,92,Albarrán Mendoza Esteban,gue02p,gue02p,pri,gue,.,12,1,2,prop,2009,8,29,2012,3,22,.,.,.,.,.,.,.,.,.,Albarrán Mendoza Esteban,.
+184,592,Flores Majul Omar Jalil,gue02s,gue02s,pri,gue,.,12,1,2,sup,2012,4,17,.,.,.,.,.,.,.,.,.,.,.,.,Flores Majul Omar Jalil,.
+185,93,Ríos Piter Armando,gue03p,gue03p,prd,gue,.,12,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ríos Piter Armando,coord from 13/4/11 to 30/3/12
+186,593,Blanco Sánchez Elia,gue03s,gue03s,prd,gue,.,12,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Blanco Sánchez Elia,.
+187,94,Carabias Icaza Alejandro,gue04p,gue04p,pvem,gue,.,12,1,4,prop,2009,8,29,2012,3,15,.,.,.,2012,4,29,.,.,.,Carabias Icaza Alejandro,.
+188,594,De los Santos Hernández José Antonio,gue04s,gue04s,pvem,gue,.,12,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,De los Santos Hernández José Antonio,.
+189,95,Ramírez Hernández Socorro Sofío,gue05p,gue05p,pri,gue,.,12,1,5,prop,2009,8,29,2011,3,30,2011,12,15,.,.,.,.,.,.,Ramírez Hernández Socorro Sofío,Regresa tras licencia como perredista
+190,595,Villanueva de la Luz Moisés,gue05s,gue05s,pri,gue,.,12,1,5,sup,2011,3,31,2011,9,4,.,.,.,.,.,.,.,.,.,Villanueva de la Luz Moisés,"Desaparecido desde 4 sept 2011, confirmado asesinado el 18 sept"
+191,96,Zamora Villalva Alicia Elizabeth,gue06p,gue06p,pri,gue,.,12,1,6,prop,2009,8,29,2012,4,30,.,.,.,.,.,.,.,.,.,Zamora Villalva Alicia Elizabeth,.
+192,596,Ballesteros Hinojosa Juan,gue06s,gue06s,pri,gue,.,12,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ballesteros Hinojosa Juan,.
+193,97,Moreno Arcos Mario,gue07p,gue07p,pri,gue,.,12,1,7,prop,2009,8,29,2012,3,22,.,.,.,2012,4,26,.,.,.,Moreno Arcos Mario,.
+194,597,Benítez Navarrete María del Socorro,gue07s,gue07s,pri,gue,.,12,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Benítez Navarrete María del Socorro,.
+195,98,Aguirre Herrera Ángel,gue08p,gue08p,pri,gue,.,12,1,8,prop,2009,8,29,2012,2,14,.,.,.,.,.,.,.,.,.,Aguirre Herrera [ÁA]ngel,Extendió la licencia indefinidamente
+196,598,Gatica Garzón Rodolfina,gue08s,gue08s,pri,gue,.,12,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gatica Garzón Rodolfina,.
+197,99,Alvarado Arroyo Fermín Gerardo,gue09p,gue09p,pri,gue,.,12,1,9,prop,2009,8,29,2012,3,16,2012,4,10,2012,4,30,.,.,.,Alvarado Arroyo Fermín Gerardo,.
+198,599,Rangel Miravete Óscar Ignacio,gue09s,gue09s,pri,gue,.,12,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rangel Miravete [ÓO]scar Ignacio,.
+199,100,Fayad Meneses Omar,hgo01p,hgo01p,pri,hgo,.,13,1,1,prop,2009,8,29,2012,1,20,2012,2,16,2012,4,10,2012,4,27,Fayad Meneses Omar,.
+200,600,Ramírez Sosa Martín Adolfo,hgo01s,hgo01s,pri,hgo,.,13,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Sosa Martín Adolfo,.
+201,101,Pedraza Olguín Héctor,hgo02p,hgo02p,pri,hgo,.,13,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pedraza Olguín Héctor,.
+202,601,Olguín Cuevas Rocío Marili,hgo02s,hgo02s,pri,hgo,.,13,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Olguín Cuevas Rocío Marili,.
+203,102,Rojo García de Alba Jorge,hgo03p,hgo03p,pri,hgo,.,13,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rojo García de Alba Jorge,.
+204,602,Zúñiga Fuentes Adelfa,hgo03s,hgo03s,pri,hgo,.,13,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Zúñiga Fuentes Adelfa,.
+205,103,Penchyna Grub David,hgo04p,hgo04p,pri,hgo,.,13,1,4,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,Penchyna Grub David,.
+206,603,Soto Plata Blanca Luz Purificación Dalila,hgo04s,hgo04s,pri,hgo,.,13,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Soto Plata Blanca Luz Purificación Dalila,.
+207,104,Ramírez Valtierra Ramón,hgo05p,hgo05p,pri,hgo,.,13,1,5,prop,2009,8,29,2010,4,29,2010,7,8,2011,3,23,.,.,.,Ramírez Valtierra Ramón,.
+208,604,Vieyra Alamilla Marcela,hgo05s,hgo05s,pri,hgo,.,13,1,5,sup,2011,4,7,.,.,.,.,.,.,.,.,.,.,.,.,Vieyra Alamilla Marcela,.
+209,105,Viggiano Austria Alma Carolina,hgo06p,hgo06p,pri,hgo,.,13,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Viggiano Austria Alma Carolina,.
+210,605,Hernández Barros Federico,hgo06s,hgo06s,pri,hgo,.,13,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Barros Federico,.
+211,106,Romero Romero Jorge,hgo07p,hgo07p,pri,hgo,.,13,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Romero Romero Jorge,.
+212,606,Licona Omaña Julio César,hgo07s,hgo07s,pri,hgo,.,13,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Licona Omaña Julio César,.
+213,107,Téllez González Ignacio,jal01p,jal01p,pan,jal,.,14,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Téllez González Ignacio,.
+214,607,Jara Pinedo Rigoberto,jal01s,jal01s,pan,jal,.,14,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Jara Pinedo Rigoberto,.
+215,108,Guillén Padilla Olivia,jal02p,jal02p,pri,jal,.,14,1,2,prop,2009,8,29,2012,1,25,.,.,.,.,.,.,.,.,.,Guillén Padilla Olivia,.
+216,608,Frías González Óscar Raúl,jal02s,jal02s,pri,jal,.,14,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Frías González [ÓO]scar Raúl,.
+217,109,Iñiguez Gámez José Luis,jal03p,jal03p,pan,jal,.,14,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,[ÍI]ñiguez Gámez José Luis,.
+218,609,Navarro Aceves Rodolfo,jal03s,jal03s,pan,jal,.,14,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Navarro Aceves Rodolfo,.
+219,110,Zamora Jiménez Arturo,jal04p,jal04p,pri,jal,.,14,1,4,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,Zamora Jiménez Arturo,.
+220,610,Burgos Rivero Marlene de los Ángeles,jal04s,jal04s,pri,jal,.,14,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Burgos Rivero Marlene de los [ÁA]ngeles,.
+221,111,Cuevas García Juan José,jal05p,jal05p,pan,jal,.,14,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cuevas García Juan José,.
+222,611,Vargas Licea Maribel,jal05s,jal05s,pan,jal,.,14,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vargas Licea Maribel,.
+223,112,López Portillo Basave Jorge Humberto,jal06p,jal06p,pri,jal,.,14,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,López[- ]Portillo Basave Jorge Humberto,.
+224,612,González Mora Esteban Adolfo,jal06s,jal06s,pri,jal,.,14,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Mora Esteban Adolfo,.
+225,113,Arana Arana Jorge,jal07p,jal07p,pri,jal,.,14,1,7,prop,2009,8,29,2012,1,27,.,.,.,.,.,.,.,.,.,Arana Arana Jorge,.
+226,613,Fonseca Gómez Sugeil,jal07s,jal07s,pri,jal,.,14,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Fonseca Gómez Sugeil,.
+227,114,Padilla López José Trinidad,jal08p,jal08p,pri,jal,.,14,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Padilla López José Trinidad,.
+228,614,Villanueva Lomelí Ernesto,jal08s,jal08s,pri,jal,.,14,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Villanueva Lomelí Ernesto,.
+229,115,Gómez Caro Clara,jal09p,jal09p,pri,jal,.,14,1,9,prop,2009,8,29,2012,1,25,2012,2,28,.,.,.,.,.,.,Gómez Caro Clara,.
+230,615,Corona Vargas Eduardo,jal09s,jal09s,pri,jal,.,14,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Corona Vargas Eduardo,.
+231,116,Ramírez Acuña Francisco Javier,jal10p,jal10p,pan,jal,.,14,1,10,prop,2009,8,29,2012,4,24,.,.,.,.,.,.,.,.,.,Ramírez Acuña Francisco Javier,"Mesa dir 1, coordinador from 6/9/11 to 24-4-12"
+232,616,Villaseñor Fernández Arturo,jal10s,jal10s,pan,jal,.,14,1,10,sup,2012,4,25,.,.,.,.,.,.,.,.,.,.,.,.,Villaseñor Fernández Arturo,.
+233,117,Caro Cabrera Salvador,jal11p,jal11p,pri,jal,.,14,1,11,prop,2009,8,29,2012,1,23,2012,3,27,.,.,.,.,.,.,Caro Cabrera Salvador,cambió al PT 28mar12
+234,617,Meza Manjarrez Salma,jal11s,jal11s,pri,jal,.,14,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Meza Manjarrez Salma,.
+235,118,González Díaz Joel,jal12p,jal12p,pri,jal,.,14,1,12,prop,2009,8,29,2012,1,26,2012,3,1,.,.,.,.,.,.,González Díaz Joel,.
+236,618,López Villaseñor Gerardo Miguel,jal12s,jal12s,pri,jal,.,14,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,López Villaseñor Gerardo Miguel,.
+237,119,Durán Rico Ana Estela,jal13p,jal13p,pri,jal,.,14,1,13,prop,2009,8,29,2012,1,21,2012,1,25,.,.,.,.,.,.,Durán Rico Ana Estela,.
+238,619,Mayorquín Ruíz Germán,jal13s,jal13s,pri,jal,.,14,1,13,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mayorquín Ruíz Germán,.
+239,120,Madrigal Díaz César Octavio,jal14p,jal14p,pan,jal,.,14,1,14,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Madrigal Díaz César Octavio,.
+240,620,Ávila Loreto Virginio,jal14s,jal14s,pan,jal,.,14,1,14,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]vila Loreto Virginio,.
+241,121,Castellanos Flores Gumercindo,jal15p,jal15p,pan,jal,.,14,1,15,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castellanos Flores Gumercindo,.
+242,621,León Martínez Juan Francisco,jal15s,jal15s,pan,jal,.,14,1,15,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,León Martínez Juan Francisco,.
+243,122,Hernández Pérez David,jal16p,jal16p,pri,jal,.,14,1,16,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Pérez David,.
+244,622,Hernández González Abel,jal16s,jal16s,pri,jal,.,14,1,16,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández González Abel,.
+245,123,Rangel Vargas Felipe de Jesús,jal17p,jal17p,pan,jal,.,14,1,17,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rangel Vargas Felipe de Jesús,.
+246,623,Real Serrano Jorge David,jal17s,jal17s,pan,jal,.,14,1,17,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Real Serrano Jorge David,.
+247,124,Meillón Johnston Carlos Luis,jal18p,jal18p,pan,jal,.,14,1,18,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Meillón Johnston Carlos Luis,.
+248,624,De Anda Licea Irma,jal18s,jal18s,pan,jal,.,14,1,18,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,De Anda Licea Irma,.
+249,125,Esquer Gutiérrez Alberto,jal19p,jal19p,pan,jal,.,14,1,19,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Esquer Gutiérrez Alberto,.
+250,625,Rubio Montaño Aurelio,jal19s,jal19s,pan,jal,.,14,1,19,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rubio Montaño Aurelio,.
+251,126,Velasco Monroy Héctor Eduardo,mex01p,mex01p,pri,mex,.,15,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Velasco Monroy Héctor Eduardo,.
+252,626,González Ledezma Aurora,mex01s,mex01s,pri,mex,.,15,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Ledezma Aurora,.
+253,127,Domínguez Rex Raúl,mex02p,mex02p,pri,mex,.,15,1,2,prop,2009,8,29,2011,10,4,2011,10,17,.,.,.,.,.,.,Domínguez Rex Raúl,.
+254,627,Santillán Hernández Juanita de Jésus,mex02s,mex02s,pri,mex,.,15,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Santillán Hernández Juanita de Jésus,.
+255,128,Chuayffet Chemor Emilio,mex03p,mex03p,pri,mex,.,15,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Chuayffet Chemor Emilio,.
+256,628,Arias Flores Marisol del Socorro,mex03s,mex03s,pri,mex,.,15,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arias Flores Marisol del Socorro,.
+257,129,Hernández García Elvia,mex04p,mex04p,pri,mex,.,15,1,4,prop,2009,8,29,2012,4,29,2012,7,10,.,.,.,.,.,.,Hernández García Elvia,.
+258,629,Mendieta Villagrán Carlos Alberto,mex04s,mex04s,pri,mex,.,15,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mendieta Villagrán Carlos Alberto,.
+259,130,Borja Texocotitla Felipe,mex05p,mex05p,pri,mex,.,15,1,5,prop,2009,8,29,2012,4,25,.,.,.,.,.,.,.,.,.,Borja Texocotitla Felipe,.
+260,630,Delgado del Valle Flor Orlanda,mex05s,mex05s,pri,mex,.,15,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Delgado del Valle Flor Orlanda,.
+261,131,Guevara Ramírez Héctor,mex06p,mex06p,pri,mex,.,15,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guevara Ramírez Héctor,.
+262,631,Sánchez Luna María de Lourdes,mex06s,mex06s,pri,mex,.,15,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Luna María de Lourdes,.
+263,132,Rojas San Román Francisco Lauro,mex07p,mex07p,pri,mex,.,15,1,7,prop,2009,8,29,2012,4,2,2012,4,11,2012,4,30,.,.,.,Rojas San Román Francisco Lauro,.
+264,632,Bello Reyes Claudia Iveth,mex07s,mex07s,pri,mex,.,15,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Bello Reyes Claudia Iveth,.
+265,133,Méndez Hernández Sandra,mex08p,mex08p,pri,mex,.,15,1,8,prop,2009,8,29,2012,5,1,2012,7,8,.,.,.,.,.,.,Méndez Hernández Sandra,.
+266,633,Díaz Bautista Edgar,mex08s,mex08s,pri,mex,.,15,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Díaz Bautista Edgar,.
+267,134,Zarzosa Sánchez Eduardo,mex09p,mex09p,pri,mex,.,15,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Zarzosa Sánchez Eduardo,.
+268,634,Mercado García María del Pilar,mex09s,mex09s,pri,mex,.,15,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mercado García María del Pilar,.
+269,135,Vázquez Pérez Noé Martín,mex10p,mex10p,pri,mex,.,15,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez Pérez Noé Martín,.
+270,635,Mobarak López Reyna Alicia,mex10s,mex10s,pri,mex,.,15,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mobarak López Reyna Alicia,.
+271,136,Hernández Hernández Jorge,mex11p,mex11p,pri,mex,.,15,1,11,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Hernández Jorge,.
+272,636,Solís García María Verónica,mex11s,mex11s,pri,mex,.,15,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Solís García María Verónica,.
+273,137,Corona Rivera Armando,mex12p,mex12p,pri,mex,.,15,1,12,prop,2009,8,29,2012,4,1,2012,4,16,2012,5,1,2012,7,2,Corona Rivera Armando,.
+274,637,Varela Espinoza Concepción,mex12s,mex12s,pri,mex,.,15,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Varela Espinoza Concepción,.
+275,138,Torres Huitrón José Alfredo,mex13p,mex13p,pri,mex,.,15,1,13,prop,2009,8,29,2012,4,10,2012,4,17,2012,4,30,.,.,.,Torres Huitrón José Alfredo,.
+276,638,López Escobar Marisela,mex13s,mex13s,pri,mex,.,15,1,13,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,López Escobar Marisela,.
+277,139,Saldaña del Moral Fausto Sergio,mex14p,mex14p,pri,mex,.,15,1,14,prop,2009,8,29,2012,4,2,2012,4,16,2012,4,27,2012,7,2,Saldaña del Moral Fausto Sergio,.
+278,639,Hernández Escobar Alma Berenice,mex14s,mex14s,pri,mex,.,15,1,14,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Escobar Alma Berenice,.
+279,140,Bello Otero Carlos,mex15p,mex15p,pan,mex,.,15,1,15,prop,2009,8,29,2012,4,24,.,.,.,.,.,.,.,.,.,Bello Otero Carlos,.
+280,640,Montes de Oca Rodríguez Xóchitl,mex15s,mex15s,pan,mex,.,15,1,15,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Montes de Oca Rodríguez Xóchitl,.
+281,141,Soto Oseguera José Luis,mex16p,mex16p,pri,mex,.,15,1,16,prop,2009,8,29,2012,4,10,2012,4,17,2012,4,30,2012,7,2,Soto Oseguera José Luis,.
+282,641,Camargo Pérez Esperanza,mex16s,mex16s,pri,mex,.,15,1,16,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Camargo Pérez Esperanza,.
+283,142,Valdés Huezo Josué Cirino,mex17p,mex17p,pri,mex,.,15,1,17,prop,2009,8,29,2012,4,2,2012,4,16,2012,5,10,2012,7,2,Valdés Huezo Josué Cirino,.
+284,642,Quezada Samaniego Dolores Rosalía,mex17s,mex17s,pri,mex,.,15,1,17,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Quezada Samaniego Dolores Rosalía,.
+285,143,Navarrete Prida Jesús Alfonso,mex18p,mex18p,pri,mex,.,15,1,18,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Navarrete Prida Jesús Alfonso,.
+286,643,Castilla García Guadalupe Gabriela,mex18s,mex18s,pri,mex,.,15,1,18,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Castilla García Guadalupe Gabriela,.
+287,144,Monroy Estrada Amador,mex19p,mex19p,pri,mex,.,15,1,19,prop,2009,8,29,2012,4,17,2012,4,19,2012,4,26,.,.,.,Monroy Estrada Amador,.
+288,644,López Escobar Rosa de Lima,mex19s,mex19s,pri,mex,.,15,1,19,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,López Escobar Rosa de Lima,.
+289,145,Enríquez Fuentes Jesús Ricardo,mex20p,mex20p,pri,mex,.,15,1,20,prop,2009,8,29,2012,4,1,2012,4,16,2012,4,30,.,.,.,Enríquez Fuentes Jesús Ricardo,.
+290,645,Bernal Díaz Martha Patricia,mex20s,mex20s,pri,mex,.,15,1,20,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Bernal Díaz Martha Patricia,.
+291,146,Reina Liceaga Rodrigo,mex21p,mex21p,pri,mex,.,15,1,21,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Reina Liceaga Rodrigo,.
+292,646,Oyoque Ortíz Claudia,mex21s,mex21s,pri,mex,.,15,1,21,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Oyoque Ortíz Claudia,.
+293,147,Sánchez Guevara David Ricardo,mex22p,mex22p,pri,mex,.,15,1,22,prop,2009,8,29,2012,4,24,2012,4,24,2012,4,24,.,.,.,Sánchez Guevara David Ricardo,.
+294,647,Olivas Hernández María Elvira,mex22s,mex22s,pri,mex,.,15,1,22,sup,2012,4,24,.,.,.,.,.,.,.,.,.,.,.,.,Olivas Hernández María Elvira,.
+295,148,Pichardo Lechuga José Ignacio,mex23p,mex23p,pri,mex,.,15,1,23,prop,2009,8,29,2012,4,1,2012,4,17,.,.,.,.,.,.,Pichardo Lechuga José Ignacio,.
+296,648,Colín Vázquez Gisela,mex23s,mex23s,pri,mex,.,15,1,23,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Colín Vázquez Gisela,.
+297,149,Mancilla Zayas Sergio,mex24p,mex24p,pri,mex,.,15,1,24,prop,2009,8,29,2012,4,10,.,.,.,.,.,.,.,.,.,Mancilla Zayas Sergio,.
+298,649,Durán Ortíz Estefanía,mex24s,mex24s,pri,mex,.,15,1,24,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Durán Ortíz Estefanía,.
+299,150,Ibarra Piña Inocencio,mex25p,mex25p,pri,mex,.,15,1,25,prop,2009,8,29,2012,4,10,2012,4,16,2012,4,30,.,.,.,Ibarra Piña Inocencio,.
+300,650,Villalobos Hernández Norma Margarita,mex25s,mex25s,pri,mex,.,15,1,25,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Villalobos Hernández Norma Margarita,.
+301,151,Hernández Silva Héctor,mex26p,mex26p,pri,mex,.,15,1,26,prop,2009,8,29,2012,4,10,2012,4,16,2012,4,30,.,.,.,Hernández Silva Héctor,.
+302,651,Ruíz Ugalde Romina,mex26s,mex26s,pri,mex,.,15,1,26,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ruíz Ugalde Romina,.
+303,152,Terrón Mendoza Miguel Ángel,mex27p,mex27p,pri,mex,.,15,1,27,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Terrón Mendoza Miguel [ÁA]ngel,.
+304,652,Bastida Guadarrama Norma Karina,mex27s,mex27s,pri,mex,.,15,1,27,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Bastida Guadarrama Norma Karina,.
+305,153,Germán Olivares Sergio Octavio,mex28p,mex28p,pan,mex,.,15,1,28,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Germán Olivares Sergio Octavio,.
+306,653,Piña Pérez Pedro César,mex28s,mex28s,pan,mex,.,15,1,28,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Piña Pérez Pedro César,.
+307,154,Pedroza Jiménez Héctor,mex29p,mex29p,pri,mex,.,15,1,29,prop,2009,8,29,2012,4,1,2012,4,16,2012,4,24,.,.,.,Pedroza Jiménez Héctor,.
+308,654,Franco Cruz María de la Cruz Patricia,mex29s,mex29s,pri,mex,.,15,1,29,sup,2012,4,24,.,.,.,.,.,.,.,.,.,.,.,.,Franco Cruz María de la Cruz Patricia,.
+309,155,Rodríguez Cisneros Omar,mex30p,mex30p,pri,mex,.,15,1,30,prop,2009,8,29,2012,4,2,2012,4,16,2012,4,30,.,.,.,Rodríguez Cisneros Omar,.
+310,655,Báez Padilla María del Pilar,mex30s,mex30s,pri,mex,.,15,1,30,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Báez Padilla María del Pilar,.
+311,156,Cortez Sandoval Germán Osvaldo,mex31p,mex31p,pri,mex,.,15,1,31,prop,2009,8,29,2010,6,9,.,.,.,.,.,.,.,.,.,Cortez Sandoval Germán Osvaldo,falleció
+312,656,Soria Morales Blanca Juana,mex31s,mex31s,pri,mex,.,15,1,31,sup,2010,8,31,.,.,.,.,.,.,.,.,.,.,.,.,Soria Morales Blanca Juana,.
+313,157,Luna Munguía Miguel Ángel,mex32p,mex32p,pri,mex,.,15,1,32,prop,2009,8,29,2012,4,10,2012,4,17,2012,4,30,.,.,.,Luna Munguía Miguel [ÁA]ngel,.
+314,657,Sánchez Amaya Raquel,mex32s,mex32s,pri,mex,.,15,1,32,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Amaya Raquel,.
+315,158,Yáñez Montaño J. Eduardo,mex33p,mex33p,pri,mex,.,15,1,33,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Yáñez Montaño J. Eduardo,.
+316,658,Martínez Tenorio Lilia Leticia,mex33s,mex33s,pri,mex,.,15,1,33,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Tenorio Lilia Leticia,.
+317,159,Velasco Lino José Luis,mex34p,mex34p,pri,mex,.,15,1,34,prop,2009,8,29,2012,3,29,.,.,.,2012,5,1,.,.,.,Velasco Lino José Luis,.
+318,659,Suárez Bastida Hazel,mex34s,mex34s,pri,mex,.,15,1,34,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Suárez Bastida Hazel,.
+319,160,Ferreyra Olivares Fernando,mex35p,mex35p,pri,mex,.,15,1,35,prop,2009,8,29,2012,4,10,2012,4,16,2012,4,30,2012,7,5,Ferreyra Olivares Fernando,.
+320,660,Anaya Gómez Karla,mex35s,mex35s,pri,mex,.,15,1,35,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Anaya Gómez Karla,.
+321,161,Casique Vences Guillermina,mex36p,mex36p,pri,mex,.,15,1,36,prop,2009,8,29,2012,4,10,2012,4,17,2012,5,1,2012,7,5,Casique Vences Guillermina,.
+322,661,Montañez Martínez Apolinar,mex36s,mex36s,pri,mex,.,15,1,36,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Montañez Martínez Apolinar,.
+323,162,Ledesma Magaña Israel Reyes,mex37s,mex37p,pri,mex,.,15,1,37,sup,2009,9,3,2012,4,1,2012,4,17,2012,4,25,.,.,.,Ledesma Magaña Israel Reyes,tenía al suplente y propietario alrevesados
+324,662,Guzmán Rosas Emilia,mex37p,mex37s,pri,mex,.,15,1,37,prop,2009,8,29,2009,9,3,.,.,.,.,.,.,.,.,.,Guzmán Rosas Emilia,tenía al suplente y propietario alrevesados
+325,163,Cadena Morales Manuel,mex38p,mex38p,pri,mex,.,15,1,38,prop,2009,8,29,2012,5,1,.,.,.,.,.,.,.,.,.,Cadena Morales Manuel,.
+326,663,Barrera Mazon Paola,mex38s,mex38s,pri,mex,.,15,1,38,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Barrera Mazon Paola,.
+327,164,Aguirre Romero Andrés,mex39p,mex39p,pri,mex,.,15,1,39,prop,2009,8,29,2012,4,10,2012,4,17,2012,4,30,.,.,.,Aguirre Romero Andrés,.
+328,664,García Rodríguez Benylu Joana,mex39s,mex39s,pri,mex,.,15,1,39,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Rodríguez Benylu Joana,.
+329,165,Rubí Salazar José Adán Ignacio,mex40p,mex40p,pri,mex,.,15,1,40,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rubí Salazar José Adán Ignacio,.
+330,665,Garduño Estrada Verónica,mex40s,mex40s,pri,mex,.,15,1,40,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Garduño Estrada Verónica,.
+331,166,Godoy Toscano Julio César,mic01p,mic01p,prd,mic,.,16,1,1,prop,2010,9,23,2010,12,14,.,.,.,.,.,.,.,.,.,Godoy Toscano Julio César,perseguido x pgr
+332,666,Madrigal Ceja Israel,mic01s,mic01s,prd,mic,.,16,1,1,sup,2010,12,15,.,.,.,.,.,.,.,.,.,.,.,.,Madrigal Ceja Israel,.
+333,167,Torres Robledo José M.,mic02p,mic02p,prd,mic,.,16,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Torres Robledo José M.,.
+334,667,Barajas Ontiveros Raúl,mic02s,mic02s,prd,mic,.,16,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Barajas Ontiveros Raúl,.
+335,168,Herrera Soto Ma. Dina,mic03p,mic03p,prd,mic,.,16,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Soto Ma. Dina,.
+336,668,Toledo Hernández Angélica,mic03s,mic03s,prd,mic,.,16,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Toledo Hernández Angélica,.
+337,169,Sánchez Gálvez Ricardo,mic04p,mic04p,pri,mic,.,16,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Gálvez Ricardo,.
+338,669,Gutiérrez Cuadra Raúl,mic04s,mic04s,pri,mic,.,16,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gutiérrez Cuadra Raúl,.
+339,170,Torres Santos Sergio Arturo,mic05p,mic05p,pan,mic,.,16,1,5,prop,2009,8,29,2011,7,20,2011,8,31,2012,4,17,2012,4,19,Torres Santos Sergio Arturo,.
+340,670,Acevedo Martínez Judith,mic05s,mic05s,pan,mic,.,16,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Acevedo Martínez Judith,.
+341,171,Velázquez Esquivel Emiliano,mic06p,mic06p,prd,mic,.,16,1,6,prop,2009,8,29,2011,5,25,2011,6,27,.,.,.,.,.,.,Velázquez Esquivel Emiliano,.
+342,671,Pérez Nieves Eric David,mic06s,mic06s,prd,mic,.,16,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Nieves Eric David,.
+343,172,García Avilés Martín,mic07p,mic07p,prd,mic,.,16,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,García Avilés Martín,.
+344,672,Márquez Capiz Jeanette Guadalupe,mic07s,mic07s,prd,mic,.,16,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Márquez Capiz Jeanette Guadalupe,.
+345,173,Martínez Alcázar Alfonso Jesús,mic08p,mic08p,pan,mic,.,16,1,8,prop,2009,8,29,2011,8,20,.,.,.,.,.,.,.,.,.,Martínez Alcázar Alfonso Jesús,.
+346,673,Salazar Blanco Iridia,mic08s,mic08s,pan,mic,.,16,1,8,sup,2011,9,6,.,.,.,.,.,.,.,.,.,.,.,.,Salazar Blanco Iridia,.
+347,174,López Paredes Uriel,mic09p,mic09p,prd,mic,.,16,1,9,prop,2009,8,29,2012,1,14,.,.,.,.,.,.,.,.,.,López Paredes Uriel,.
+348,674,García Ayala Celia,mic09s,mic09s,prd,mic,.,16,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Ayala Celia,.
+349,175,Suárez González Laura Margarita,mic10p,mic10p,pan,mic,.,16,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Suárez González Laura Margarita,.
+350,675,Villalobos Guzmán José Eugenio,mic10s,mic10s,pan,mic,.,16,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Villalobos Guzmán José Eugenio,.
+351,176,Báez Ceja Víctor Manuel,mic11p,mic11p,prd,mic,.,16,1,11,prop,2009,8,29,2011,3,1,.,.,.,.,.,.,.,.,.,Báez Ceja Víctor Manuel,.
+352,676,González Díaz José Alfredo,mic11s,mic11s,prd,mic,.,16,1,11,sup,2011,3,10,.,.,.,.,.,.,.,.,.,.,.,.,González Díaz José Alfredo,.
+353,177,Valencia Barajas José María,mic12p,mic12p,prd,mic,.,16,1,12,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Valencia Barajas José María,.
+354,677,Mendoza Alcaráz Andrés,mic12s,mic12s,prd,mic,.,16,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Alcaráz Andrés,.
+355,178,Moreno Merino Francisco Alejandro,mor01p,mor01p,pri,mor,.,17,1,1,prop,2009,8,29,2012,1,18,2012,2,15,.,.,.,.,.,.,Moreno Merino Francisco Alejandro,.
+356,678,Magdaleno Gómez Elvia,mor01s,mor01s,pri,mor,.,17,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Magdaleno Gómez Elvia,.
+357,179,Agüero Tovar José Manuel,mor02p,mor02p,pri,mor,.,17,1,2,prop,2009,8,29,2012,3,13,.,.,.,.,.,.,.,.,.,Ag[üu]ero Tovar José Manuel,.
+358,679,Flores Rodríguez Edith,mor02s,mor02s,pri,mor,.,17,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Flores Rodríguez Edith,.
+359,180,Rodríguez Sosa Luis Félix,mor03p,mor03p,pri,mor,.,17,1,3,prop,2009,8,29,2012,3,12,.,.,.,2012,3,28,.,.,.,Rodríguez Sosa Luis Félix,.
+360,680,Nava Sánchez Christian Alejandro,mor03s,mor03s,pri,mor,.,17,1,3,sup,2012,4,17,.,.,.,.,.,.,.,.,.,.,.,.,Nava Sánchez Christian Alejandro,.
+361,181,Mazari Espín Rosalina,mor04p,mor04p,pri,mor,.,17,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mazari Espín Rosalina,.
+362,681,Olivares Hernández Pedro,mor04s,mor04s,pri,mor,.,17,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Olivares Hernández Pedro,.
+363,182,Sánchez Vélez Jaime,mor05p,mor05p,pri,mor,.,17,1,5,prop,2009,8,29,2010,10,11,2010,11,8,.,.,.,.,.,.,Sánchez Vélez Jaime,suplente no juró
+364,682,Aispuro Funes José Luis,mor05s,mor05s,pri,mor,.,17,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aispuro Funes José Luis,no juró
+365,183,Cota Jiménez Manuel Humberto,nay01p,nay01p,pri,nay,.,18,1,1,prop,2009,8,29,2012,1,18,.,.,.,.,.,.,.,.,.,Cota Jiménez Manuel Humberto,.
+366,683,Gómez Montero Fátima del Sol,nay01s,nay01s,pri,nay,.,18,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gómez Montero Fátima del Sol,.
+367,184,García Gómez Martha Elena,nay02p,nay02p,prd,nay,.,18,1,2,prop,2009,8,29,2011,1,8,2011,7,7,.,.,.,.,.,.,García Gómez Martha Elena,.
+368,684,Ocegueda Silva María Florentina,nay02s,nay02s,prd,nay,.,18,1,2,sup,2011,2,1,2011,7,19,.,.,.,.,.,.,.,.,.,Ocegueda Silva María Florentina,.
+369,185,Reyes Hernández Ivideliza,nay03p,nay03p,pan,nay,.,18,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Reyes Hernández Ivideliza,.
+370,685,Pimienta Márquez Pablo,nay03s,nay03s,pan,nay,.,18,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pimienta Márquez Pablo,.
+371,186,Balderas Vaquera Víctor Alejandro,nl01p,nl01p,pan,nl,.,19,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Balderas Vaquera Víctor Alejandro,.
+372,686,Theagene Navarro Zaira Jessica,nl01s,nl01s,pan,nl,.,19,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Theagene Navarro Zaira Jessica,.
+373,187,Guajardo Villarreal Ildefonso,nl02p,nl02p,pri,nl,.,19,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guajardo Villarreal Ildefonso,.
+374,687,Coronado Hernández Félix,nl02s,nl02s,pri,nl,.,19,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Coronado Hernández Félix,.
+375,188,Bailey Elizondo Eduardo Alonso,nl03p,nl03p,pri,nl,.,19,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Bailey Elizondo Eduardo Alonso,.
+376,688,Valdez Olivares Maribel,nl03s,nl03s,pri,nl,.,19,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Valdez Olivares Maribel,.
+377,189,Ramírez Puente Camilo,nl04p,nl04p,pan,nl,.,19,1,4,prop,2009,8,29,2012,4,26,.,.,.,.,.,.,.,.,.,Ramírez Puente Camilo,.
+378,689,Cuadra Tinajero Alfredo Sergio,nl04s,nl04s,pan,nl,.,19,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cuadra[ ]*Tinajero Alfredo Sergio,.
+379,190,Guerra Castillo Marcela,nl05p,nl05p,pri,nl,.,19,1,5,prop,2009,8,29,2012,1,18,.,.,.,.,.,.,.,.,.,Guerra Castillo Marcela,.
+380,690,Reyes Montemayor Rafael,nl05s,nl05s,pri,nl,.,19,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Reyes Montemayor Rafael,.
+381,191,Hurtado Leija Gregorio,nl06p,nl06p,pan,nl,.,19,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hurtado Leija Gregorio,.
+382,691,Rodríguez Bautista Karla Alejandra,nl06s,nl06s,pan,nl,.,19,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Bautista Karla Alejandra,.
+383,192,Enríquez Hernández Felipe,nl07p,nl07p,pri,nl,.,19,1,7,prop,2009,8,29,2012,2,14,.,.,.,.,.,.,.,.,.,Enríquez Hernández Felipe,.
+384,692,De la Garza Malacara Adolfo,nl07s,nl07s,pri,nl,.,19,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,De la Garza Malacara Adolfo,.
+385,193,Aguirre Maldonado Ma. de Jesús,nl08p,nl08p,pri,nl,.,19,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Aguirre Maldonado Ma.|María de Jesús,.
+386,693,Aguirre González Patricia,nl08s,nl08s,pri,nl,.,19,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aguirre González Patricia,.
+387,194,Montes Cavazos Fermín,nl09p,nl09p,pri,nl,.,19,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Montes Cavazos Fermín,.
+388,694,Tovar Puente María Teresa,nl09s,nl09s,pri,nl,.,19,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tovar Puente María Teresa,.
+389,195,Rodríguez Dávila Alfredo Javier,nl10p,nl10p,pan,nl,.,19,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Dávila Alfredo Javier,.
+390,695,Pérez Bernal José Alfredo,nl10s,nl10s,pan,nl,.,19,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Bernal José Alfredo,.
+391,196,Díaz Salazar María Cristina,nl11p,nl11p,pri,nl,.,19,1,11,prop,2009,8,29,.,.,.,2011,1,12,.,.,.,.,.,.,Díaz Salazar María Cristina,.
+392,696,Cantú Cantú Gabriel Tlaloc,nl11s,nl11s,pri,nl,.,19,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cantú Cantú Gabriel Tlaloc,.
+393,197,Cerda Pérez Rogelio,nl12p,nl12p,pri,nl,.,19,1,12,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cerda Pérez Rogelio,.
+394,697,Ibarra Hinojosa Álvaro,nl12s,nl12s,pri,nl,.,19,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ibarra Hinojosa [ÁA]lvaro,.
+395,198,Pérez Magaña Eviel,oax01p,oax01p,pri,oax,.,20,1,1,prop,2009,8,29,2010,3,1,2010,11,23,2012,1,18,.,.,.,Pérez Magaña Eviel,.
+396,698,Avilés Álvarez Violeta,oax01s,oax01s,pri,oax,.,20,1,1,sup,2010,3,2,2010,11,22,.,.,.,.,.,.,.,.,.,Avilés [ÁA]lvarez Violeta,.
+397,199,Concha Arellano Elpidio Desiderio,oax02p,oax02p,pri,oax,.,20,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Concha Arellano Elpidio Desiderio,.
+398,699,Leyva García David,oax02s,oax02s,pri,oax,.,20,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Leyva García David,.
+399,200,González Ilescas Jorge Venustiano,oax03p,oax03p,pri,oax,.,20,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,González Ilescas Jorge Venustiano,.
+400,700,Mendoza Aroche Javier Sergio,oax03s,oax03s,pri,oax,.,20,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Aroche Javier Sergio,.
+401,201,Ambrosio Cipriano Heriberto,oax04p,oax04p,pri,oax,.,20,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ambro[cs]io Cipriano Heriberto,.
+402,701,Diego Cruz Eva,oax04s,oax04s,pri,oax,.,20,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Diego Cruz Eva,.
+403,202,Castro Ríos Sofía,oax05p,oax05p,pri,oax,.,20,1,5,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,Castro Ríos Sofía,.
+404,702,Zetuna Curioca Jorge Zarif,oax05s,oax05s,pri,oax,.,20,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Zetuna Curioca Jorge Zarif,.
+405,203,Díaz Escárraga Heliodoro Carlos,oax06p,oax06p,pri,oax,.,20,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Díaz Escárraga Heliodoro Carlos,.
+406,703,Hernández Reyes Elizabeth,oax06s,oax06s,pri,oax,.,20,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Reyes Elizabeth,.
+407,204,Mendoza Kaplan Emilio Andrés,oax07p,oax07p,pri,oax,.,20,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Kaplan Emilio Andrés,.
+408,704,García López Francisco Javier,oax07s,oax07s,pri,oax,.,20,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García López Francisco Javier,.
+409,205,De Esesarte Pesqueira Manuel Esteban,oax08p,oax08p,pri,oax,.,20,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,De Esesarte Pesqueira Manuel Esteban,.
+410,705,España López Paola,oax08s,oax08s,pri,oax,.,20,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,España López Paola,.
+411,206,García Corpus Teófilo Manuel,oax09p,oax09p,pri,oax,.,20,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,García Corpus Teófilo Manuel,.
+412,706,Silva Fernández Claudia del Carmen,oax09s,oax09s,pri,oax,.,20,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Silva Fernández Claudia del Carmen,.
+413,207,Ramírez Puga Leyva Héctor Pablo,oax10p,oax10p,pri,oax,.,20,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Puga Leyva Héctor Pablo,.
+414,707,Ramos Ramos Judith Marisol,oax10s,oax10s,pri,oax,.,20,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramos Ramos Judith Marisol,.
+415,208,Yglesias Arreola José Antonio,oax11p,oax11p,pri,oax,.,20,1,11,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Yglesias Arreola José Antonio,.
+416,708,Ziga Martínez Zory Maristel,oax11s,oax11s,pri,oax,.,20,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ziga Martínez Zory Maristel,.
+417,209,Vargas Fosado Ardelio,pue01p,pue01p,pri,pue,.,21,1,1,prop,2009,8,29,2011,2,1,.,.,.,.,.,.,.,.,.,Vargas Fosado Ardelio,.
+418,709,Urzúa Rivera Ricardo,pue01s,pue01s,pri,pue,.,21,1,1,sup,2011,2,8,.,.,.,.,.,.,.,.,.,.,.,.,Urzúa Rivera Ricardo,.
+419,210,Lastiri Quirós Juan Carlos,pue02p,pue02p,pri,pue,.,21,1,2,prop,2009,8,29,2010,1,20,2010,12,2,2012,2,14,.,.,.,Lastiri Quirós Juan Carlos,.
+420,710,Ramírez Martínez Malco,pue02s,pue02s,pri,pue,.,21,1,2,sup,2010,2,2,2010,12,1,.,.,.,.,.,.,.,.,.,Ramírez Martínez Malco,.
+421,211,Juraidini Rumilla Jorge Alberto,pue03p,pue03p,pri,pue,.,21,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Juraidini Rumilla Jorge Alberto,.
+422,711,Martagón López Ramón Daniel,pue03s,pue03s,pri,pue,.,21,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Martagón López Ramón Daniel,.
+423,212,Aguilar González José Óscar,pue04p,pue04p,pri,pue,.,21,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Aguilar González José [ÓO]scar,.
+424,712,Cabrera Huerta María Eugenia,pue04s,pue04s,pri,pue,.,21,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cabrera Huerta María Eugenia,.
+425,213,González Tostado Janet Graciela,pue05p,pue05p,pri,pue,.,21,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,González Tostado Janet Graciela,.
+426,713,Sánchez Romero Carlos,pue05s,pue05s,pri,pue,.,21,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Romero Carlos,.
+427,214,Ramos Montaño Francisco,pue06p,pue06p,pri,pue,.,21,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ramos Montaño Francisco,.
+428,714,Romero Sierra Ana Laura,pue06s,pue06s,pri,pue,.,21,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Romero Sierra Ana Laura,.
+429,215,González Morales José Alberto,pue07p,pue07p,pri,pue,.,21,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,González Morales José Alberto,.
+430,715,Bretón Sánchez María de Lourdes Rosalinda,pue07s,pue07s,pri,pue,.,21,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Bretón Sánchez María de Lourdes Rosalinda,.
+431,216,Morales Martínez Fernando,pue08p,pue08p,pri,pue,.,21,1,8,prop,2009,8,29,2012,1,20,2012,2,14,.,.,.,.,.,.,Morales Martínez Fernando,.
+432,716,Camarillo Medina Néstor,pue08s,pue08s,pri,pue,.,21,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Camarillo Medina Néstor,.
+433,217,Jiménez Hernández Blanca Estela,pue09p,pue09p,pri,pue,.,21,1,9,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez Hernández Blanca Estela,.
+434,717,Carreto Pacheco Víctor Manuel,pue09s,pue09s,pri,pue,.,21,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Carreto Pacheco Víctor Manuel,.
+435,218,Jiménez Concha Juan Pablo,pue10p,pue10p,pri,pue,.,21,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez Concha Juan Pablo,.
+436,718,Roldán Castillo Matilde,pue10s,pue10s,pri,pue,.,21,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Roldán Castillo Matilde,.
+437,219,Natale López Juan Carlos,pue11p,pue11p,pvem,pue,.,21,1,11,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Natale López Juan Carlos,.
+438,719,Alcántara Silva Miguel Sergio,pue11s,pue11s,pvem,pue,.,21,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Alcántara Silva Miguel Sergio,.
+439,220,Soto Martínez Leobardo,pue12p,pue12p,pri,pue,.,21,1,12,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Soto Martínez Leobardo,.
+440,720,Conde Montaño María Luisa,pue12s,pue12s,pri,pue,.,21,1,12,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Conde Montaño María Luisa,.
+441,221,Merlo Talavera María Isabel,pue13p,pue13p,pri,pue,.,21,1,13,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Merlo Talavera María Isabel,.
+442,721,Delgado Juárez Modesta,pue13s,pue13s,pri,pue,.,21,1,13,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Delgado Juárez Modesta,.
+443,222,Jiménez Merino Francisco Alberto,pue14p,pue14p,pri,pue,.,21,1,14,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez Merino Francisco Alberto,.
+444,722,Guevara González Javier Filiberto,pue14s,pue14s,pri,pue,.,21,1,14,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guevara González Javier Filiberto,.
+445,223,Izaguirre Francos María del Carmen,pue15p,pue15p,pri,pue,.,21,1,15,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Izaguirre Francos María del Carmen,.
+446,723,Soberón Espinosa Felipe de Jesús del Sagrado Corazón,pue15s,pue15s,pri,pue,.,21,1,15,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Soberón Espinosa Felipe de Jesús del Sagrado Corazón,.
+447,224,Marín Torres Julieta Octavia,pue16p,pue16p,pri,pue,.,21,1,16,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Marín Torres Julieta Octavia,.
+448,724,Abril Cogque Gonzalo,pue16s,pue16s,pri,pue,.,21,1,16,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Abril Cogque Gonzalo,.
+449,225,Martínez Peñaloza Miguel,que01p,que01p,pan,que,.,22,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Peñaloza Miguel,.
+450,725,Morado García Ma. Soledad ,que01s,que01s,pan,que,.,22,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Morado García Ma. Soledad ,.
+451,226,Fuentes Cortés Adriana,que02p,que02p,pan,que,.,22,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Fuentes Cortés Adriana,.
+452,726,Ochoa Parra Mario,que02s,que02s,pan,que,.,22,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ochoa Parra Mario,.
+453,227,Lugo Oñate Alfredo Francisco,que03p,que03p,pri,que,.,22,1,3,prop,2009,8,29,2012,4,25,2012,4,24,2012,4,30,.,.,.,Lugo Oñate Alfredo Francisco,.
+454,727,González Alvarado María Genoveva Anavel,que03s,que03s,pri,que,.,22,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González[ ]*Alvarado María Genoveva Anavel,.
+455,228,Rivera de la Torre Reginaldo,que04p,que04p,pri,que,.,22,1,4,prop,2009,8,29,2012,4,11,2012,4,19,.,.,.,.,.,.,Rivera de la Torre Reginaldo,.
+456,728,Roque Almazo Dulce Patricia,que04s,que04s,pri,que,.,22,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Roque Almazo Dulce Patricia,.
+457,229,Borge Angulo Roberto,qui01p,qui01p,pri,qui,.,23,1,1,prop,2009,8,29,2010,3,25,.,.,.,.,.,.,.,.,.,Borge Angulo Roberto,.
+458,729,Hurtado Vallejo Susana,qui01s,qui01s,pri,qui,.,23,1,1,sup,2010,3,25,.,.,.,.,.,.,.,.,.,.,.,.,Hurtado.*Vallejo Susana,.
+459,230,Ortiz Yeladaqui Rosario,qui02p,qui02p,pri,qui,.,23,1,2,prop,2009,8,29,2011,4,5,.,.,.,.,.,.,.,.,.,Ortiz Yeladaqui Rosario,.
+460,730,García Silva Luis,qui02s,qui02s,pri,qui,.,23,1,2,sup,2011,4,7,.,.,.,.,.,.,.,.,.,.,.,.,Garc[íi]a.*Silva Luis,.
+461,231,Joaquín González Carlos Manuel,qui03p,qui03p,pri,qui,.,23,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Joaquín González Carlos Manuel,.
+462,731,Hop Arzate Olga,qui03s,qui03s,pri,qui,.,23,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hop Arzate Olga,.
+463,232,Mendoza Díaz Sonia,san01p,san01p,pan,san,.,24,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Díaz Sonia,.
+464,732,García Pacheco José Fidel,san01s,san01s,pan,san,.,24,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Pacheco José Fidel,.
+465,233,Rodríguez Galarza Wendy Guadalupe,san02p,san02p,pan,san,.,24,1,2,prop,2009,8,29,2011,12,27,2012,2,21,.,.,.,.,.,.,Rodríguez Galarza Wendy Guadalupe,.
+466,733,Calzada Macías Luis Manuel,san02s,san02s,pan,san,.,24,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Calzada Macías Luis Manuel,.
+467,234,Gama Dufour Sergio,san03p,san03p,pan,san,.,24,1,3,prop,2009,8,29,2011,12,30,.,.,.,.,.,.,.,.,.,Gama Dufour Sergio,.
+468,734,Govea Derreza Bertha Yolanda,san03s,san03s,pan,san,.,24,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Govea Derreza Bertha Yolanda,.
+469,235,Guerrero Coronado Delia,san04p,san04p,pri,san,.,24,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guerrero Coronado Delia,.
+470,735,Rodríguez Lucero María Elia,san04s,san04s,pri,san,.,24,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Lucero María Elia,.
+471,236,Pedroza Gaitán César Octavio,san05p,san05p,pan,san,.,24,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pedroza Gaitán César Octavio,.
+472,736,Alonso Sotelo Rosa Imelda,san05s,san05s,pan,san,.,24,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Alonso Sotelo Rosa Imelda,.
+473,237,Escobar Martínez Juan Pablo,san06p,san06p,pan,san,.,24,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Escobar Martínez Juan Pablo,.
+474,737,Cid González Alexandra Daniela,san06s,san06s,pan,san,.,24,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cid González Alexandra Daniela,.
+475,238,Bautista Concepción Sabino,san07p,san07p,pri,san,.,24,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Bautista Concepción Sabino,.
+476,738,Lara Pérez Ermentina,san07s,san07s,pri,san,.,24,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Lara Pérez Ermentina,.
+477,239,Lara Salazar Óscar,sin01p,sin01p,pri,sin,.,25,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lara Salazar [ÓO]scar,.
+478,739,Ramos Carbajal Nubia Xiclali,sin01s,sin01s,pri,sin,.,25,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramos Carbajal Nubia Xiclali,.
+479,240,Zubia Rivera Rolando,sin02p,sin02p,pri,sin,.,25,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Zubia Rivera Rolando,.
+480,740,Calderón Guillén María del Socorro,sin02s,sin02s,pri,sin,.,25,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Calderón Guillén María del Socorro,.
+481,241,Bojórquez Gutiérrez Rolando,sin03p,sin03p,pri,sin,.,25,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Bojórquez Gutiérrez Rolando,.
+482,741,Casillas Alvarado Rosa del Carmen,sin03s,sin03s,pri,sin,.,25,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Casillas Alvarado Rosa del Carmen,.
+483,242,Gastélum Bajo Diva Hadamira,sin04p,sin04p,pri,sin,.,25,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gastélum Bajo Diva Hadamira,.
+484,742,Camacho Luque Rosendo Enrique,sin04s,sin04s,pri,sin,.,25,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Camacho Luque Rosendo Enrique,.
+485,243,Irízar López Aarón,sin05p,sin05p,pri,sin,.,25,1,5,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,Irízar López Aarón,.
+486,743,Tirado Gálvez Reyna Araceli,sin05s,sin05s,pri,sin,.,25,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tirado Gálvez Reyna Araceli,.
+487,244,Contreras García Germán,sin06p,sin06p,pri,sin,.,25,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Contreras García Germán,.
+488,744,Millán Velarde Araceli,sin06s,sin06s,pri,sin,.,25,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Millán Velarde Araceli,.
+489,245,Lara Aréchiga Óscar Javier,sin07p,sin07p,pri,sin,.,25,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lara Aréchiga [ÓO]scar Javier,.
+490,745,Moncayo Leyva Paola,sin07s,sin07s,pri,sin,.,25,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Moncayo Leyva Paola,.
+491,246,García Granados Miguel Ángel,sin08p,sin08p,pri,sin,.,25,1,8,prop,2009,8,29,2010,4,6,2010,7,12,.,.,.,.,.,.,García Granados Miguel [ÁA]ngel,.
+492,746,Chollet Morán Maribel,sin08s,sin08s,pri,sin,.,25,1,8,sup,2010,4,29,.,.,.,.,.,.,.,.,.,.,.,.,Chollet Morán Maribel,.
+493,247,Guillén Medina Leonardo Arturo,son01p,son01p,pan,son,.,26,1,1,prop,2009,8,29,2012,3,31,.,.,.,.,.,.,.,.,.,Guillén Medina Leonardo Arturo,.
+494,747,Valle Vea Carmen Lizeth,son01s,son01s,pan,son,.,26,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Valle Vea Carmen Lizeth,.
+495,248,Pompa Corella Miguel Ernesto,son02p,son02p,pri,son,.,26,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pompa Corella Miguel Ernesto,.
+496,748,Palacio García Mónica,son02s,son02s,pri,son,.,26,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Palacio García Mónica,.
+497,249,De Lucas Hopkins Ernesto,son03p,son03p,pri,son,.,26,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,De Lucas Hopkins Ernesto,.
+498,749,Encinas Parra Cecilia,son03s,son03s,pri,son,.,26,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Encinas Parra Cecilia,.
+499,250,León Perea José Luis Marcos,son04p,son04p,pri,son,.,26,1,4,prop,2009,8,29,2012,3,7,.,.,.,.,.,.,.,.,.,León Perea José Luis Marcos,.
+500,750,Calles Villegas Patricia,son04s,son04s,pri,son,.,26,1,4,sup,2012,3,22,2012,3,22,.,.,.,.,.,.,.,.,.,Calles Villegas Patricia,.
+501,251,Acosta Gutiérrez Manuel Ignacio,son05p,son05p,pri,son,.,26,1,5,prop,2009,8,29,2012,3,7,.,.,.,.,.,.,.,.,.,Acosta Gutiérrez Manuel Ignacio,.
+502,751,Franco Hernández Luz Mireya,son05s,son05s,pri,son,.,26,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Franco Hernández Luz Mireya,.
+503,252,Díaz Brown Ramsburgh Rogelio Manuel,son06p,son06p,pri,son,.,26,1,6,prop,2009,8,29,2012,3,8,.,.,.,.,.,.,.,.,.,Díaz Brown Ramsburgh Rogelio Manuel,.
+504,752,Caraveo Galindo Teresita,son06s,son06s,pri,son,.,26,1,6,sup,2012,3,15,.,.,.,.,.,.,.,.,.,.,.,.,Caraveo Galindo Teresita,.
+505,253,Mariscales Delgadillo Onésimo,son07p,son07p,pri,son,.,26,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mariscales Delgadillo Onésimo,.
+506,753,Amarillas Urias Patricia Elena,son07s,son07s,pri,son,.,26,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Amarillas Urias Patricia Elena,.
+507,254,Aysa Bernat José Antonio,tab01p,tab01p,pri,tab,.,27,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Aysa Bernat José Antonio,.
+508,754,Lastiri Falcón Anahí,tab01s,tab01s,pri,tab,.,27,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Lastiri Falcón Anahí,.
+509,255,De la Fuente Dagdug María Estela,tab02p,tab02p,pri,tab,.,27,1,2,prop,2009,8,29,2012,1,31,2012,3,22,.,.,.,.,.,.,De la Fuente Dagdug María Estela,.
+510,755,De la Cruz Maldonado Eladio,tab02s,tab02s,pri,tab,.,27,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,De la Cruz Maldonado Eladio,deceso
+511,256,Burelo Burelo César Francisco,tab03p,tab03p,prd,tab,.,27,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Burelo Burelo César Francisco,.
+512,756,Suárez Ruíz Amador,tab03s,tab03s,prd,tab,.,27,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Suárez Ruíz Amador,.
+513,257,López Hernández Adán Augusto,tab04p,tab04p,prd,tab,.,27,1,4,prop,2009,8,29,2011,10,1,.,.,.,.,.,.,.,.,.,López Hernández Adán Augusto,.
+514,757,De la Fuente Godínez Alejandro,tab04s,tab04s,prd,tab,.,27,1,4,sup,2011,10,4,.,.,.,.,.,.,.,.,.,.,.,.,De la Fuente Godínez Alejandro,.
+515,258,Bellizia Aboaf Nicolás Carlos,tab05p,tab05p,pri,tab,.,27,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Bellizia Aboaf Nicolás Carlos,.
+516,758,Magaña Madrigal Elsy del Carmen,tab05s,tab05s,pri,tab,.,27,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Magaña Madrigal Elsy del Carmen,.
+517,259,Córdova Hernández José del Pilar,tab06p,tab06p,pri,tab,.,27,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Córdova Hernández José del Pilar,.
+518,759,Cachón Álvarez Miguel,tab06s,tab06s,pri,tab,.,27,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cachón [ÁA]lvarez Miguel,.
+519,260,Zamora Cabrera Cristabell,tam01p,tam01p,pri,tam,.,28,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Zamora Cabrera Cristabell,.
+520,760,García Jiménez Adolfo Víctor,tam01s,tam01s,pri,tam,.,28,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Jiménez Adolfo Víctor,.
+521,261,Villarreal Salinas Jesús Everardo,tam02p,tam02p,pri,tam,.,28,1,2,prop,2009,8,29,2010,2,25,.,.,.,.,.,.,.,.,.,Villarreal Salinas Jesús Everardo,.
+522,761,García Dávila Laura Felícitas,tam02s,tam02s,pri,tam,.,28,1,2,sup,2010,2,25,.,.,.,.,.,.,.,.,.,.,.,.,García.*Dávila Laura Fel[ií]citas,.
+523,262,Melhem Salinas Edgardo,tam03p,tam03p,pri,tam,.,28,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Melhem Salinas Edgardo,.
+524,762,Garza Peña Litha del Carmen,tam03s,tam03s,pri,tam,.,28,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Garza Peña Litha del Carmen,.
+525,263,Hinojosa Ochoa Baltazar Manuel,tam04p,tam04p,pri,tam,.,28,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hinojosa Ochoa Baltazar Manuel,.
+526,763,Molina Pérez Martha Alejandrina,tam04s,tam04s,pri,tam,.,28,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Molina Pérez Martha Alejandrina,.
+527,264,Torre Cantú Rodolfo,tam05p,tam05p,pri,tam,.,28,1,5,prop,2009,8,29,2010,1,27,.,.,.,.,.,.,.,.,.,Torre Cantú Rodolfo,Torre licencia 23/2/10 para competir gub tam; luegolo asesinaron; Canseco licencia 1/1/11 para asumir Srio Gob Tam; vacante desde entoces (Milenio 5/1/11)
+528,764,Canseco Gómez Morelos Jaime Carlos,tam05s,tam05s,pri,tam,.,28,1,5,sup,2010,2,23,2011,1,1,.,.,.,.,.,.,.,.,.,Canseco Gómez Morelos Jaime Carlos,Torre licencia 23/2/10 para competir gub tam; luegolo asesinaron; Canseco licencia 1/1/11 para asumir Srio Gob Tam; vacante desde entoces (Milenio 5/1/11)
+529,265,Guevara Cobos Luis Alejandro,tam06p,tam06p,pri,tam,.,28,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guevara Cobos Luis Alejandro,.
+530,765,Guajardo Maldonado Sergio Carlos,tam06s,tam06s,pri,tam,.,28,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guajardo Maldonado Sergio Carlos,.
+531,266,Gil Ortiz Javier,tam07p,tam07p,pri,tam,.,28,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gil Ortiz.*Javier.*,.
+532,766,Romero Vega Esdras,tam07s,tam07s,pri,tam,.,28,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Romero Vega Esdras,.
+533,267,Rábago Castillo José Francisco,tam08p,tam08p,pri,tam,.,28,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rábago Castillo José Francisco,.
+534,767,Sosa Ruíz Olga Patricia,tam08s,tam08s,pri,tam,.,28,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sosa Ruíz Olga Patricia,.
+535,268,López Hernández Oralia,tla01p,tla01p,pan,tla,.,29,1,1,prop,2009,8,29,2009,12,22,2010,3,9,.,.,.,.,.,.,López Hernández Oralia,.
+536,768,Macías Romero Humberto Agustín,tla01s,tla01s,pan,tla,.,29,1,1,sup,2010,2,2,.,.,.,.,.,.,.,.,.,.,.,.,Macías Romero Humberto Agustín,.
+537,269,Velázquez y Llorente Julián Francisco,tla02p,tla02p,pan,tla,.,29,1,2,prop,2009,8,29,2009,12,22,2010,3,1,.,.,.,.,.,.,Velázquez y Llorente Julián Francisco,.
+538,769,Juárez Capilla Prudencia Félix,tla02s,tla02s,pan,tla,.,29,1,2,sup,2010,2,2,2010,3,1,.,.,.,.,.,.,.,.,.,Juárez Capilla Prudencia Félix,.
+539,270,López Loyo María Elena Perla,tla03p,tla03p,pri,tla,.,29,1,3,prop,2009,8,29,2010,1,1,2010,4,6,.,.,.,.,.,.,López Loyo María Elena Perla,.
+540,770,Herrera Ortega Nazario,tla03s,tla03s,pri,tla,.,29,1,3,sup,2010,2,2,2010,4,5,.,.,.,.,.,.,.,.,.,Herrera Ortega Nazario,.
+541,271,Chirinos del Ángel Patricio,ver01p,ver01p,pri,ver,.,30,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Chirinos del [ÁA]ngel Patricio,.
+542,771,Escalante Zapata Nora Irma,ver01s,ver01s,pri,ver,.,30,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Escalante Zapata Nora Irma,.
+543,272,Mejía de la Merced Genaro,ver02p,ver02p,pri,ver,.,30,1,2,prop,2009,8,29,2012,1,18,.,.,.,.,.,.,.,.,.,Mejía de la Merced Genaro,.
+544,772,Díaz Azuara Norberta Adalmira,ver02s,ver02s,pri,ver,.,30,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Díaz Azuara Norberta Adalmira,.
+545,273,Martín López Miguel,ver03p,ver03p,pan,ver,.,30,1,3,prop,2009,8,29,2012,4,10,.,.,.,.,.,.,.,.,.,Martín López Miguel,.
+546,773,Vera Hernández Jorge,ver03s,ver03s,pan,ver,.,30,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vera Hernández Jorge,.
+547,274,Manzur Díaz Salvador,ver04p,ver04p,pri,ver,.,30,1,4,prop,2009,8,29,2010,3,23,.,.,.,.,.,.,.,.,.,Manzur Díaz Salvador,.
+548,774,Robles Morales Adela,ver04s,ver04s,pri,ver,.,30,1,4,sup,2010,3,23,.,.,.,.,.,.,.,.,.,.,.,.,Robles Morales Adela,.
+549,275,Quiroz Cruz Sergio Lorenzo,ver05p,ver05p,pri,ver,.,30,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Quiroz Cruz Sergio Lorenzo,.
+550,775,Gómez González Leobardo,ver05s,ver05s,pri,ver,.,30,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gómez González Leobardo,.
+551,276,Herrera Jiménez Francisco,ver06p,ver06p,pri,ver,.,30,1,6,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Jiménez Francisco,.
+552,776,Tovar Lorenzo Mariela,ver06s,ver06s,pri,ver,.,30,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tovar Lorenzo Mariela,.
+553,277,Méndez Herrera Alba Leonila,ver07p,ver07p,pan,ver,.,30,1,7,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Méndez Herrera Alba Leonila,.
+554,777,Carballo Rendón Salvador,ver07s,ver07s,pan,ver,.,30,1,7,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Carballo Rendón Salvador,.
+555,278,Lagos Galindo Silvio,ver08p,ver08p,pri,ver,.,30,1,8,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lagos Galindo Silvio,.
+556,778,Ayala Ríos Erika,ver08s,ver08s,pri,ver,.,30,1,8,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ayala Ríos Erika,.
+557,279,Yunes Zorrilla José Francisco,ver09p,ver09p,pri,ver,.,30,1,9,prop,2009,8,29,2012,1,18,.,.,.,.,.,.,.,.,.,Y[úu]nes Zorrilla José Francisco,.
+558,779,Peralta Galicia Aníbal,ver09s,ver09s,pri,ver,.,30,1,9,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Peralta Galicia Aníbal,.
+559,280,Ahued Bardahuil Ricardo,ver10p,ver10p,pri,ver,.,30,1,10,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ahued Bardahuil Ricardo,.
+560,780,Aburto López Rosalba,ver10s,ver10s,pri,ver,.,30,1,10,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aburto López Rosalba,.
+561,281,García Bringas Leandro Rafael,ver11p,ver11p,pan,ver,.,30,1,11,prop,2009,8,29,2010,3,2,2010,4,6,.,.,.,.,.,.,García Bringas Leandro Rafael,suplente no juró
+562,781,Uribe Pozos José Encarnación,ver11s,ver11s,pan,ver,.,30,1,11,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Uribe Pozos José Encarnación,no juró
+563,282,Gudiño Corro Luz Carolina,ver12p,ver12p,pri,ver,.,30,1,12,prop,2009,8,29,2010,3,23,.,.,.,.,.,.,.,.,.,Gudiño Corro Luz Carolina,.
+564,782,Miranda Herrera Nely Edith,ver12s,ver12s,pri,ver,.,30,1,12,sup,2010,3,23,.,.,.,.,.,.,.,.,.,.,.,.,Miranda Herrera Nely Edith,.
+565,283,Flores Espinosa Felipe Amadeo,ver13p,ver13p,pri,ver,.,30,1,13,prop,2009,8,29,2011,10,11,.,.,.,.,.,.,.,.,.,Flores Espinosa Felipe Amadeo,.
+566,783,Rosas Peralta Frida Celeste,ver13s,ver13s,pri,ver,.,30,1,13,sup,2011,10,13,.,.,.,.,.,.,.,.,.,.,.,.,Rosas Peralta Frida Celeste,.
+567,284,Martínez Armengol Luis Antonio,ver14p,ver14p,pri,ver,.,30,1,14,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Armengol Luis Antonio,.
+568,784,Félix Porras Ciro Gonzalo,ver14s,ver14s,pri,ver,.,30,1,14,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Félix Porras Ciro Gonzalo,.
+569,285,Kuri Grajales Fidel,ver15p,ver15p,pri,ver,.,30,1,15,prop,2009,8,29,2010,3,24,2010,4,26,.,.,.,.,.,.,Kuri Grajales Fidel,.
+570,785,Castelán Macías Adriana Refugio,ver15s,ver15s,pri,ver,.,30,1,15,sup,2010,3,25,2010,4,25,.,.,.,.,.,.,.,.,.,Castelán Macías Adriana Refugio,.
+571,286,Duarte de Ochoa Javier,ver16p,ver16p,pri,ver,.,30,1,16,prop,2009,8,29,2010,2,16,.,.,.,.,.,.,.,.,.,Duarte de Ochoa Javier,.
+572,786,Nadal Riquelme Daniela,ver16s,ver16s,pri,ver,.,30,1,16,sup,2010,2,16,.,.,.,.,.,.,.,.,.,.,.,.,Nadal Riquelme Daniela,.
+573,287,Carrillo Sánchez José Tomás,ver17p,ver17p,pri,ver,.,30,1,17,prop,2009,8,29,2010,12,1,.,.,.,.,.,.,.,.,.,Carrillo Sánchez José Tomás,.
+574,787,Álvarez Martínez José Luis,ver17s,ver17s,pri,ver,.,30,1,17,sup,2010,12,7,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]lvarez Martínez José Luis,.
+575,288,Pérez Santos María Isabel,ver18p,ver18p,pri,ver,.,30,1,18,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Santos María Isabel,.
+576,788,Barrientos de la Rosa María Irene,ver18s,ver18s,pri,ver,.,30,1,18,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Barrientos de la Rosa María Irene,.
+577,289,Santamaría Prieto Fernando,ver19p,ver19p,pan,ver,.,30,1,19,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Santamaría Prieto Fernando,.
+578,789,Torres Hernández María Elena,ver19s,ver19s,pan,ver,.,30,1,19,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Torres Hernández María Elena,.
+579,290,Vázquez Saut Judith Fabiola,ver20p,ver20p,pri,ver,.,30,1,20,prop,2009,8,29,2010,3,16,.,.,.,.,.,.,.,.,.,Vázquez Saut Judith Fabiola,.
+580,790,Rodríguez González Rafael,ver20s,ver20s,pri,ver,.,30,1,20,sup,2010,3,16,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez González Rafael,.
+581,291,Benítez Lucho Antonio,ver21p,ver21p,pri,ver,.,30,1,21,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Benítez Lucho Antonio,.
+582,791,Enríquez Merlín Emigdio Heliodoro,ver21s,ver21s,pri,ver,.,30,1,21,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Enríquez Merlín Emigdio Heliodoro,.
+583,292,Vidal Aguilar Liborio,yuc01p,yuc01p,pvem,yuc,.,31,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vidal Aguilar Liborio,.
+584,792,Vales Traconis Jorge Alberto,yuc01s,yuc01s,pvem,yuc,.,31,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vales Traconis Jorge Alberto,.
+585,293,Cervera Hernández Felipe,yuc02p,yuc02p,pri,yuc,.,31,1,2,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,Cervera Hernández Felipe,.
+586,793,Alonzo Morales María Ester,yuc02s,yuc02s,pri,yuc,.,31,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Alonzo Morales María Ester,.
+587,294,Araujo Lara Angélica del Rosario,yuc03p,yuc03p,pri,yuc,.,31,1,3,prop,2009,8,29,2010,1,5,.,.,.,.,.,.,.,.,.,Araujo Lara Angélica del Rosario,.
+588,794,Aguilar Góngora Efraín Ernesto,yuc03s,yuc03s,pri,yuc,.,31,1,3,sup,2010,2,2,.,.,.,.,.,.,.,.,.,.,.,.,Aguilar Góngora Efraín Ernesto,.
+589,295,Zapata Bello Rolando Rodrigo,yuc04p,yuc04p,pri,yuc,.,31,1,4,prop,2009,8,29,2011,12,15,.,.,.,.,.,.,.,.,.,Zapata Bello Rolando Rodrigo,.
+590,795,Granja Peniche Daniel Jesús,yuc04s,yuc04s,pri,yuc,.,31,1,4,sup,2012,2,1,.,.,.,.,.,.,.,.,.,.,.,.,Granja Peniche Daniel Jesús,.
+591,296,Castillo Ruz Martín Enrique,yuc05p,yuc05p,pri,yuc,.,31,1,5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castillo Ruz Martín Enrique,.
+592,796,Vela Reyes Marco Alonso,yuc05s,yuc05s,pri,yuc,.,31,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vela Reyes Marco Alonso,.
+593,297,Leyva Hernández Gerardo,zac01p,zac01p,prd,zac,.,32,1,1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Leyva Hernández Gerardo,.
+594,797,Padilla Estrada Jesús,zac01s,zac01s,prd,zac,.,32,1,1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Padilla Estrada Jesús,.
+595,298,Jiménez Fuentes Ramón,zac02p,zac02p,prd,zac,.,32,1,2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez Fuentes Ramón,.
+596,798,Ávila Cortez Héctor Jaime,zac02s,zac02s,prd,zac,.,32,1,2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]vila Cortez Héctor Jaime,.
+597,299,Verver y Vargas Ramírez Heladio Gerardo,zac03p,zac03p,prd,zac,.,32,1,3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Verver y Vargas Ramírez H.|Heladio Gerardo,.
+598,799,Molina Ramírez Cipriano,zac03s,zac03s,prd,zac,.,32,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Molina Ramírez Cipriano,.
+599,300,Herrera Chávez Samuel,zac04p,zac04p,prd,zac,.,32,1,4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Chávez Samuel,.
+600,800,Chacón Ruíz Joaquín,zac04s,zac04s,prd,zac,.,32,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Chacón Ruíz Joaquín,.
+601,301,Pérez de Alva Blanco Roberto,bcrp06p,c1rp01p,panal,bc,bc,2,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez de Alva Blanco Roberto,.
+602,801,Nevarez Pulido Isabel Cristina,bcrp06s,c1rp01s,panal,bc,.,2,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Nevarez Pulido Isabel Cristina,.
+603,302,Vega De Lamadrid Francisco Arturo,bcrp04p,c1rp02p,pan,bc,bc,2,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vega [dD]e Lamadrid Francisco Arturo,.
+604,802,Picazo Olmos María Olivia,bcrp04s,c1rp02s,pan,bc,.,2,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Picazo Olmos María Olivia,.
+605,303,Lepe Lepe Humberto,bcrp02p,c1rp03p,pri,bc,bc,2,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lepe Lepe Humberto,.
+606,803,Valencia Alonso Corina,bcrp02s,c1rp03s,pri,bc,.,2,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Valencia Alonso Corina,.
+607,304,Bahena Flores Alejandro,bcrp03p,c1rp04p,pan,bc,bc,2,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Bahena Flores Alejandro,.
+608,804,Ramos Hernández Claudia,bcrp03s,c1rp04s,pan,bc,.,2,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramos Hernández Claudia,.
+609,305,González Cuevas Isaías,bcsrp01p,c1rp05p,pri,bcs,bcs,3,0,rp-1,prop,2009,8,29,2012,1,20,.,.,.,.,.,.,.,.,.,González Cuevas Isaías,.
+610,805,Porras Valles Gloria,bcsrp01s,c1rp05s,pri,bcs,cua,8,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Porras Valles Gloria,.
+611,306,Meza Castro Francisco Armando,bcsrp02p,c1rp06p,prd,bcs,df,9,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Meza Castro Francisco Armando,.
+612,806,León Mendivil José Antonio,bcsrp02s,c1rp06s,prd,bcs,.,3,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,León Mendivil José Antonio,.
+613,307,Ponce Beltrán Esthela de Jesús,bcrp01p,c1rp07p,pri,bc,bcs,3,0,rp-1,prop,2009,8,29,2010,7,21,.,.,.,.,.,.,.,.,.,Ponce Beltrán Esthela de Jesús,.
+614,807,Galicia Ávila Víctor Manuel Anastasio,bcrp01s,c1rp07s,pri,bc,df,9,0,rp-1,sup,2010,8,31,.,.,.,.,.,.,.,.,.,.,.,.,Galicia [ÁA]vila Víctor Manuel Anastasio,.
+615,308,Aguilar Armendáriz Velia Idalia,cuarp02p,c1rp08p,pan,cua,cua,8,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Aguilar Armendáriz Velia Idalia,.
+616,808,Morales Mendoza Antonio,cuarp02s,c1rp08s,pan,cua,.,8,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Morales Mendoza Antonio,.
+617,309,García Portillo Arturo,cuarp04p,c1rp09p,pan,cua,cua,8,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,García Portillo Arturo,.
+618,809,Cortez Palomares Hilda,cuarp04s,c1rp09s,pan,cua,.,8,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cortez Palomares Hilda,.
+619,310,Corral Jurado Javier,cuarp03p,c1rp10p,pan,cua,cua,8,0,rp-1,prop,2009,8,29,2012,3,22,.,.,.,.,.,.,.,.,.,Corral Jurado Javier,.
+620,810,Cano Villegas Carmen Margarita,cuarp03s,c1rp10s,pan,cua,.,8,0,rp-1,sup,2012,8,27,.,.,.,.,.,.,.,.,.,.,.,.,Cano Villegas Carmen Margarita,.
+621,311,Ortiz González Graciela,cuarp01p,c1rp11p,pri,cua,cua,8,0,rp-1,prop,2009,8,29,2010,10,1,2012,1,6,.,.,.,.,.,.,Ortiz González Graciela,.
+622,811,Silva Chacón Víctor Roberto,cuarp01s,c1rp11s,pri,cua,cua,8,0,rp-1,sup,2010,10,12,.,.,.,.,.,.,.,.,.,.,.,.,Silva Chacón Víctor Roberto,.
+623,312,Zambrano Grijalva José de Jesús,dfrp01p,c1rp12p,prd,df,df,9,0,rp-4,prop,2009,8,29,2011,3,23,.,.,.,.,.,.,.,.,.,Zambrano Grijalva José de Jesús,Mesa dir 1
+624,812,Barraza Chávez Héctor Elías,dfrp01s,c1rp12s,prd,df,cua,8,0,rp-4,sup,2011,3,31,.,.,.,.,.,.,.,.,.,.,.,.,Barraza Chávez Héctor Elías,.
+625,313,Silerio Núñez María Guadalupe,dgorp04p,c1rp13p,prd,dgo,dgo,10,0,rp-1,prop,2009,8,29,2010,1,5,.,.,.,.,.,.,.,.,.,Silerio Núñez María Guadalupe,.
+626,813,Cruz Martínez Marcos Carlos,dgorp04s,c1rp13s,prd,dgo,dgo,10,0,rp-1,sup,2010,2,16,.,.,.,.,.,.,.,.,.,.,.,.,Cruz Martínez Marcos Carlos,.
+627,314,De la Torre Valdez Yolanda,dgorp01p,c1rp14p,pri,dgo,dgo,10,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,De la Torre Valdez Yolanda,.
+628,814,Orozco Loreto Ismael,dgorp01s,c1rp14s,pri,dgo,.,10,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Orozco Loreto Ismael,.
+629,315,Estrada Rodríguez Laura Elena,dgorp02p,c1rp15p,pan,dgo,dgo,10,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Estrada Rodríguez Laura Elena,.
+630,815,Arrieta Monarres José Ramón,dgorp02s,c1rp15s,pan,dgo,.,10,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arrieta Monarres José Ramón,.
+631,316,Corona Valdés Lorena,dgorp05p,c1rp16p,pvem,dgo,df,9,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Corona Valdés Lorena,.
+632,816,Orozco Gómez Miguel,dgorp05s,c1rp16s,pvem,dgo,.,10,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Orozco Gómez Miguel,.
+633,317,Herrera Rivera Bonifacio,dgorp03p,c1rp17p,pan,dgo,dgo,10,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Rivera Bonifacio,.
+634,817,Escobedo Maciel Carmen Patricia,dgorp03s,c1rp17s,pan,dgo,.,10,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Escobedo Maciel Carmen Patricia,.
+635,318,Nava Pérez Anel Patricia,dgorp06p,c1rp18p,pt,dgo,dgo,10,0,rp-1,prop,2009,8,29,2009,12,22,.,.,.,.,.,.,.,.,.,Nava Pérez Anel Patricia,juanita
+636,818,Ríos Vázquez Alfonso Primitivo,dgorp06s,c1rp18s,pt,dgo,dgo,10,0,rp-1,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Ríos Vázquez Alfonso Primitivo,.
+637,319,Novoa Mossberger María Joann,jalrp04p,c1rp19p,pan,jal,jal,14,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Novoa Mossberger María Joann,.
+638,819,Valencia García Juan Carlos,jalrp04s,c1rp19s,pan,jal,.,14,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Valencia García Juan Carlos,.
+639,320,Ibarra Pedroza Juan Enrique,jalrp07p,c1rp20p,pt,jal,jal,14,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ibarra Pedroza Juan Enrique,.
+640,820,Vázquez Castillo Julio César,jalrp07s,c1rp20s,pt,jal,.,14,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez Castillo Julio César,.
+641,321,Yerena Zambrano Rafael,jalrp02p,c1rp21p,pri,jal,jal,14,0,rp-1,prop,2009,8,29,2012,4,17,.,.,.,.,.,.,.,.,.,Yerena Zambrano Rafael,.
+642,821,Gómez Villalovos María de la Luz,jalrp02s,c1rp21s,pri,jal,.,14,0,rp-1,sup,2012,4,24,.,.,.,.,.,.,.,.,.,.,.,.,Gómez Villalovos María de la Luz,.
+643,322,Scherman Leaño María Esther de Jesús,jalrp01p,c1rp22p,pri,jal,jal,14,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Scherman Leaño María Esther de Jesús,.
+644,822,Cortez Alvarado Raúl,jalrp01s,c1rp22s,pri,jal,.,14,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cortez Alvarado Raúl,.
+645,323,Cinta Martínez Alberto Emiliano,jalrp06p,c1rp23p,pvem,jal,df,9,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cinta Martínez Alberto Emiliano,.
+646,823,Pérez Uribe Edgar Javier,jalrp06s,c1rp23s,pvem,jal,.,14,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Uribe Edgar Javier,.
+647,324,Paredes Arciga Ana Elia,jalrp05p,c1rp24p,pan,jal,jal,14,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Paredes [ÁA]rciga Ana Elia,.
+648,824,Ortega Zepeda Juan Carlos,jalrp05s,c1rp24s,pan,jal,.,14,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ortega Zepeda Juan Carlos,.
+649,325,González Hernández Gustavo,jalrp03p,c1rp25p,pan,jal,jal,14,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,González Hernández Gustavo,.
+650,825,Estrada Luna Luz Elena,jalrp03s,c1rp25s,pan,jal,.,14,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Estrada Luna Luz Elena,.
+651,326,Ledesma Romo Laura Elena,bcrp05pbis,c1rp26p,pvem,bc,bc,2,0,rp-1,prop,.,.,.,2009,12,22,.,.,.,.,.,.,.,.,.,Ledesma Romo Laura Elena,suplente no acepta cargo el 23 de diciembre 2009
+652,826,Fernández Avila Maximino Alejandro,bcrp05sbis,c1rp26s,pvem,bc,.,2,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Fern[aá]ndez [AÁ]vila Maximino Alejandro,no acepta suplir
+653,327,Pinedo Alonso Cora Cecilia,nayrp03p,c1rp27p,panal,nay,nay,18,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pinedo Alonso Cora,pineda?
+654,827,Talamante Lemas Dora María Guadalupe,nayrp03s,c1rp27s,panal,nay,.,18,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Talamante Lemas Dora María Guadalupe,.
+655,328,Parra Becerra María Felícitas,nayrp02p,c1rp28p,pan,nay,nay,18,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Parra Becerra María Fel[íi]citas,.
+656,828,Ramos Quirarte Antonio,nayrp02s,c1rp28s,pan,nay,.,18,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ramos Quirarte Antonio,.
+657,329,Domínguez Arvizu María Hilaria,nayrp01p,c1rp29p,pri,nay,nay,18,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Domínguez Arvizu María Hilaria,.
+658,829,Chávez Pérez Ricardo Pedro,nayrp01s,c1rp29s,pri,nay,.,18,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Chávez Pérez Ricardo Pedro,.
+659,330,Clouthier Carrillo Manuel Jesús,sinrp07p,c1rp30p,pan,sin,sin,25,0,rp-1,prop,2009,8,29,2012,3,7,.,.,.,.,.,.,.,.,.,Clouthier Carrillo Manuel Jesús,.
+660,830,González Schcolnik Valerio,sinrp07s,c1rp30s,pan,sin,.,25,0,rp-1,sup,2012,3,8,.,.,.,.,.,.,.,.,.,.,.,.,González Schcolnik Valerio,.
+661,331,Levin Coppel Óscar Guillermo,sinrp05p,c1rp31p,pri,sin,df,9,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Levin Coppel [ÓO]scar Guillermo,.
+662,831,Torres Lizarraga Carmen Julieta,sinrp05s,c1rp31s,pri,sin,.,25,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Torres Lizarraga Carmen Julieta,.
+663,332,Rojo Montoya Adolfo,sinrp09p,c1rp32p,pan,sin,sin,25,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rojo Montoya Adolfo,.
+664,832,Zamudio Guzmán María,sinrp09s,c1rp32s,pan,sin,.,25,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Zamudio Guzmán María,.
+665,333,Villegas Arreola Alfredo,sinrp06p,c1rp33p,pri,sin,sin,25,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Villegas Arreola Alfredo,.
+666,833,Moreno Ovalles Irma Guadalupe,sinrp06s,c1rp33s,pri,sin,.,25,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Moreno Ovalles Irma Guadalupe,.
+667,334,Robles Medina Guadalupe Eduardo,sinrp08p,c1rp34p,pan,sin,sin,25,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Robles Medina Guadalupe Eduardo,.
+668,834,Soto Piña María Elena,sinrp08s,c1rp34s,pan,sin,.,25,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Soto Piña María Elena,.
+669,335,Torres Delgado Enrique,sonrp04p,c1rp35p,pan,son,son,26,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Torres Delgado Enrique,.
+670,835,Flores Torres Rosa Icela,sonrp04s,c1rp35s,pan,son,.,26,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Flores Torres Rosa Icela,.
+671,336,Moreno Terán Carlos Samuel,sonrp06p,c1rp36p,pvem,son,son,26,0,rp-1,prop,2009,8,29,2012,3,28,.,.,.,.,.,.,.,.,.,Moreno Terán Carlos Samuel,Mesa dir 1
+672,836,Quihuis Fragoso Maríano,sonrp06s,c1rp36s,pvem,son,.,26,0,rp-1,sup,2012,3,28,.,.,.,.,.,.,.,.,.,.,.,.,Quihuis Fragoso Maríano,.
+673,337,Cano Vélez Jesús Alberto,sonrp01p,c1rp37p,pri,son,son,26,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cano Vélez Jesús Alberto,.
+674,837,Sánchez Chiu Iris Fernanda,sonrp01s,c1rp37s,pri,son,.,26,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Chiu Iris Fernanda,.
+675,338,Trigueras Durón Dora Evelyn,sonrp05p,c1rp38p,pan,son,son,26,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Trigueras Durón Dora Evelyn,.
+676,838,Encinas Castro Jesús,sonrp05s,c1rp38s,pan,son,.,26,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Encinas Castro Jesús,.
+677,339,Del Río Sánchez María Dolores,sonrp02p,c1rp39p,pan,son,son,26,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Del Río Sánchez María Dolores,Mesa dir 1
+678,839,Pavlovich Rodríguez José Gaston,sonrp02s,c1rp39s,pan,son,.,26,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pavlovich Rodríguez José Gaston,.
+679,340,Pérez Esquer Marcos,sonrp03p,c1rp40p,pan,son,son,26,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Esquer Marcos,.
+680,840,Madera Ayon Irocema Naidu,sonrp03s,c1rp40s,pan,son,.,26,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Madera Ayon Irocema Naidu,.
+681,341,Reynoso Femat Ma. de Lourdes,agsrp03p,c2rp01p,pan,ags,ags,1,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Reynoso Femat Ma.|María de Lourdes,.
+682,841,Del Conde Ugarte Jaime,agsrp03s,c2rp01s,pan,ags,.,1,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Del Conde Ugarte Jaime,.
+683,342,González Ulloa Nancy,agsrp02p,c2rp02p,pan,ags,ags,1,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,González Ulloa Nancy,.
+684,842,Sánchez Barba José Juan,agsrp02s,c2rp02s,pan,ags,.,1,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Barba José Juan,.
+685,343,Gallegos Soto Margarita,agsrp01p,c2rp03p,pri,ags,ags,1,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gallegos Soto Margarita,.
+686,843,Flemate Ramírez Julio Cesar,agsrp01s,c2rp03s,pri,ags,.,1,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Flemate Ramírez Julio Cesar,.
+687,344,Ramírez Rangel Jesús,coarp03p,c2rp04p,pan,coa,df,9,0,rp-2,prop,2009,8,29,2012,2,2,2012,4,10,.,.,.,.,.,.,Ramírez Rangel Jesús,.
+688,844,Valdés González Mayra Lucila,coarp03s,c2rp04s,pan,coa,coa,5,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Valdés González Mayra Lucila,.
+689,345,Martínez Peña Elsa María,coarp06p,c2rp05p,panal,coa,coa,5,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Peña Elsa María,.
+690,845,Medina Morales Gloria Angélica,coarp06s,c2rp05s,panal,coa,.,5,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Medina Morales Gloria Angélica,.
+691,346,Guajardo Villarreal Mary Telma,coarp05p,c2rp06p,prd,coa,coa,5,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guajardo Villarreal Mary Telma,coord from 31/3/12 to 31/8/12
+692,846,Cárdenas Cisneros Lydia Maribel,coarp05s,c2rp06s,prd,coa,.,5,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cárdenas Cisneros Lydia Maribel,.
+693,347,Flores Escalera Hilda Esthela,coarp01p,c2rp07p,pri,coa,coa,5,0,rp-2,prop,2009,8,29,2010,1,13,.,.,.,.,.,.,.,.,.,Flores Escalera Hilda Esthela,.
+694,847,Garza Flores Noé Fernando,coarp01s,c2rp07s,pri,coa,coa,5,0,rp-2,sup,2010,2,2,2011,11,24,.,.,.,.,.,.,.,.,.,Garza Flores Noé Fernando,.
+695,348,Medina Ramírez Tereso,coarp02p,c2rp08p,pri,coa,coa,5,0,rp-2,prop,2009,8,29,.,.,.,2012,4,19,.,.,.,.,.,.,Medina Ramírez Tereso,.
+696,848,Cabrera Muñoz Ma. Dolores Patricia,coarp02s,c2rp08s,pri,coa,.,5,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cabrera Muñoz Ma. Dolores Patricia,.
+697,349,Vives Preciado Tomasa,coarp04p,c2rp09p,pan,coa,coa,5,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vives Preciado Tomasa,.
+698,849,Oyervides Thomas Fernando,coarp04s,c2rp09s,pan,coa,.,5,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Oyervides Thomas Fernando,.
+699,350,Usabiaga Arroyo Javier Bernardo,guarp07p,c2rp10p,pan,gua,gua,11,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Usabiaga Arroyo Javier Bernardo,.
+700,850,Lomelin Velasco Rebeca,guarp07s,c2rp10s,pan,gua,.,11,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Lomelin Velasco Rebeca,.
+701,351,Sánchez Romero Norma,guarp06p,c2rp11p,pan,gua,gua,11,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Romero Norma,.
+702,851,Leija Garza Eliacib Adiel,guarp06s,c2rp11s,pan,gua,.,11,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Leija Garza Eliacib Adiel,.
+703,352,Reynoso Sánchez Alejandra Noemí,guarp05p,c2rp12p,pan,gua,gua,11,0,rp-2,prop,2009,8,29,2011,9,27,.,.,.,.,.,.,.,.,.,Reynoso Sánchez Alejandra Noemí,.
+704,852,Chaire Chavero Edgardo,guarp05s,c2rp12s,pan,gua,gua,11,0,rp-2,sup,2011,9,29,.,.,.,.,.,.,.,.,.,.,.,.,Chaire Chavero Edgardo,.
+705,353,Arriaga Rojas Justino Eugenio,guarp03p,c2rp13p,pan,gua,gua,11,0,rp-2,prop,2009,8,29,2012,4,17,2012,7,2,.,.,.,.,.,.,Arriaga Rojas Justino Eugenio,.
+706,853,Banda López María Gabriela,guarp03s,c2rp13s,pan,gua,.,11,0,rp-2,sup,2012,4,19,.,.,.,.,.,.,.,.,.,.,.,.,Banda López María Gabriela,.
+707,354,Sánchez García Gerardo,guarp02p,c2rp14p,pri,gua,df,9,0,rp-2,prop,2009,8,29,2010,10,5,.,.,.,.,.,.,.,.,.,Sánchez García Gerardo,.
+708,854,Calderón González María del Refugio,guarp02s,c2rp14s,pri,gua,.,11,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Calderón González María del Refugio,.
+709,355,De los Cobos Silva José Gerardo,guarp04p,c2rp15p,pan,gua,gua,11,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,De los Cobos Silva José Gerardo,.
+710,855,Calleja Villalobos Ofelia,guarp04s,c2rp15s,pan,gua,.,11,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Calleja Villalobos Ofelia,.
+711,356,Rocha Aguilar Yulma,guarp01p,c2rp16p,pri,gua,gua,11,0,rp-2,prop,2009,8,29,2010,1,20,.,.,.,.,.,.,.,.,.,Rocha Aguilar Yulma,juanita
+712,856,Ruíz de Teresa Guillermo Raúl,guarp01s,c2rp16s,pri,gua,df,9,0,rp-2,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Ru[íi]z de Teresa Guillermo Raúl,.
+713,357,Tamez Guerra Reyes S.,nlrp07p,c2rp17p,panal,nl,.,19,0,rp-2,prop,2009,8,29,2011,9,1,.,.,.,.,.,.,.,.,.,Tam[ée]z Guerra Reyes S.,coord from 1/9/09 to 31/8/11
+714,857,Meza Elizondo José Isabel,nlrp07s,c2rp17s,panal,nl,nl,19,0,rp-2,sup,2011,9,6,.,.,.,.,.,.,.,.,.,.,.,.,Meza Elizondo José Isabel,.
+715,358,Garza Romo Kattia,nlrp04p,c2rp18p,pvem,nl,nl,19,0,rp-2,prop,2009,8,29,2009,9,3,.,.,.,.,.,.,.,.,.,Garza Romo Kattia,juanita
+716,858,Cueva Sada Guillermo,nlrp04s,c2rp18s,pvem,nl,nl,19,0,rp-2,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Cueva Sada Guillermo,.
+717,359,Pérez-Alonso González Rodrigo,nlrp05p,c2rp19p,pvem,nl,nl,19,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,P[eé]rez.*[Aa]lonso González Rodrigo,.
+718,859,García Requen Roberto,nlrp05s,c2rp19s,pvem,nl,.,19,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Requen Roberto,.
+719,360,Cantú Rodríguez Felipe de Jesús,nlrp02p,c2rp20p,pan,nl,nl,19,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cantú Rodríguez Felipe de Jesús,.
+720,860,Carrasco Alarcón Aleida Giovana,nlrp02s,c2rp20s,pan,nl,.,19,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Carrasco Alarcón Aleida Giovana,.
+721,361,Vázquez González Pedro,nlrp06p,c2rp21p,pt,nl,nl,19,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez González Pedro,coord
+722,861,Quiroz García Héctor,nlrp06s,c2rp21s,pt,nl,.,19,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Quiroz García Héctor,.
+723,362,Clariond Reyes Retana Benjamín,nlrp01p,c2rp22p,pri,nl,nl,19,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Clariond Reyes Retana Benjamín,.
+724,862,García Velázquez Antonia Mónica,nlrp01s,c2rp22s,pri,nl,.,19,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Velázquez Antonia Mónica,.
+725,363,Martínez Montemayor Baltazar,nlrp03p,c2rp23p,pan,nl,nl,19,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Montemayor Baltazar,.
+726,863,Castillo Almanza Itzel Soledad,nlrp03s,c2rp23s,pan,nl,.,19,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Castillo Almanza Itzel Soledad,.
+727,364,Ezeta Salcedo Mariana Ivette,querp04p,c2rp24p,pvem,que,df,9,0,rp-2,prop,2009,8,29,2009,12,22,.,.,.,.,.,.,.,.,.,Ezeta Salcedo Mariana Ivette,juanita
+728,864,Ezeta Salcedo Carlos Alberto,querp04s,c2rp24s,pvem,que,df,9,0,rp-2,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Ezeta Salcedo Carlos Alberto,.
+729,365,Rodríguez Hernández Jesús María,querp01p,c2rp25p,pri,que,que,22,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Hernández Jesús María,.
+730,865,Guidi Kawas María Guadalupe,querp01s,c2rp25s,pri,que,.,22,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guidi Kawas María Guadalupe,.
+731,366,Torres Peimbert María Marcela,querp02p,c2rp26p,pan,que,que,22,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Torres Peimbert María Marcela,.
+732,866,Cantú Latapi Roberto,querp02s,c2rp26s,pan,que,.,22,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cantú Latapi Roberto,.
+733,367,Pacchiano Alamán Rafael,querp05p,c2rp27p,pvem,que,df,9,0,rp-2,prop,2009,8,29,2009,9,3,.,.,.,.,.,.,.,.,.,Pacchiano Alam[áa]n Rafael,.
+734,867,Lagunes Soto Ruíz Alejandra,querp05s,c2rp27s,pvem,que,.,22,0,rp-2,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Lagunes Soto Ruíz Alejandra,.
+735,368,Ugalde Basaldúa María Sandra,querp03p,c2rp28p,pan,que,que,22,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ugalde Basald[úu]a María Sandra,.
+736,868,Pájaro Anaya Francisco,querp03s,c2rp28s,pan,que,.,22,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pájaro Anaya Francisco,.
+737,369,Montiel Solís Sara Gabriela,sanrp01p,c2rp29p,pri,san,tam,28,0,rp-2,prop,2009,8,29,2010,1,5,.,.,.,.,.,.,.,.,.,Montiel Sol[ií]s Sara Gabriela,juanita
+738,869,Rosas Ramírez Enrique Salomón,sanrp01s,c2rp29s,pri,san,san,24,0,rp-2,sup,2010,2,2,.,.,.,.,.,.,.,.,.,.,.,.,Rosas Ramírez Enrique Salomón,.
+739,370,Rodríguez Martell Domingo,sanrp04p,c2rp30p,prd,san,san,24,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Martell Domingo,.
+740,870,Arguijo Baldenegro Eduardo,sanrp04s,c2rp30s,prd,san,.,24,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arguijo Baldenegro Eduardo,.
+741,371,Salazar Sáenz Francisco Javier,sanrp02p,c2rp31p,pan,san,san,24,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Salazar Sáenz Francisco Javier,Mesa dir 1
+742,871,Vázquez García Josefina de la Cruz Celeste,sanrp02s,c2rp31s,pan,san,.,24,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez García Josefina de la Cruz Celeste,.
+743,372,Trejo Azuara Enrique Octavio,sanrp03p,c2rp32p,pan,san,san,24,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Trejo Azuara Enrique Octavio,.
+744,872,Juárez Alejo Dora Patricia,sanrp03s,c2rp32s,pan,san,.,24,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Juárez Alejo Dora Patricia,.
+745,373,Flores Rico Carlos,tamrp01p,c2rp33p,pri,tam,df,9,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Flores Rico Carlos,.
+746,873,Gómez Ramírez Nayeli Lizbeth,tamrp01s,c2rp33s,pri,tam,.,28,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gómez Ramírez Nayeli Lizbeth,.
+747,374,Guillén Vicente Mercedes del Carmen,tamrp02p,c2rp34p,pri,tam,tam,28,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guill[eé]n Vicente Mercedes del Carmen,.
+748,874,Cabral Soto Felipe,tamrp02s,c2rp34s,pri,tam,.,28,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cabral Soto Felipe,.
+749,375,Solís Acero Felipe,tamrp04p,c2rp35p,pri,tam,df,9,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Solís Acero Felipe,Mesa dir 1
+750,875,Del Real Jaime Mónica Deyhanira,tamrp04s,c2rp35s,pri,tam,.,28,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Del Real Jaime Mónica Deyhanira,.
+751,376,López Aguilar Cruz,tamrp03p,c2rp36p,pri,tam,tam,28,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,López Aguilar Cruz,.
+752,876,Silva Solórzano Ana Bertha,tamrp03s,c2rp36s,pri,tam,.,28,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Silva Solórzano Ana Bertha,.
+753,377,Salazar Vázquez Norma Leticia,tamrp05p,c2rp37p,pan,tam,tam,28,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Salazar Vázquez Norma Leticia,.
+754,877,Saldivar Reyna Gerardo Javier,tamrp05s,c2rp37s,pan,tam,.,28,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Saldivar Reyna Gerardo Javier,.
+755,378,Anaya Mota Claudia Edith,zacrp03p,c2rp38p,prd,zac,zac,32,0,rp-2,prop,2009,8,29,2012,4,10,2012,4,24,.,.,.,.,.,.,Anaya Mota Claudia Edith,.
+756,878,Puente Montes Adriana,zacrp03s,c2rp38s,prd,zac,.,32,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Puente Montes Adriana,.
+757,379,Mercado Sánchez Luis Enrique,zacrp01p,c2rp39p,pan,zac,zac,32,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Mercado Sánchez Luis Enrique,.
+758,879,Dick Neufeld Francisco,zacrp01s,c2rp39s,pan,zac,.,32,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Dick Neufeld Francisco,.
+759,380,Ramírez Bucio Arturo,zacrp02p,c2rp40p,pan,zac,zac,32,0,rp-2,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Bucio Arturo,.
+760,880,Rivera Velázquez Patricia Guillermina,zacrp02s,c2rp40s,pan,zac,.,32,0,rp-2,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rivera Velázquez Patricia Guillermina,.
+761,381,Márquez Zapata Nelly del Carmen,camrp02p,c3rp01p,pan,cam,cam,4,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Márquez Zapata Nelly [Dd]el Carmen,.
+762,881,Aguirre Montalvo Víctor Enrique,camrp02s,c3rp01s,pan,cam,.,4,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aguirre Montalvo Víctor Enrique,.
+763,382,Montalvo López Yolanda del Carmen,camrp03p,c3rp02p,pan,cam,cam,4,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Montalvo López Yolanda del Carmen,.
+764,882,Estrella Ramírez Víctor Santiago,camrp03s,c3rp02s,pan,cam,.,4,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Estrella Ramírez Víctor Santiago,.
+765,383,Kidnie de la Cruz Víctor Manuel,camrp01p,c3rp03p,pri,cam,cam,4,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Kidnie [Dd]e [Ll]a Cruz Víctor Manuel,.
+766,883,Merino Capellini Giacomina María,camrp01s,c3rp03s,pri,cam,.,4,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Merino Capellini Giacomina María,.
+767,384,Seara Sierra José Ignacio,camrp04p,c3rp04p,pan,cam,cam,4,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Seara Sierra José Ignacio,.
+768,884,Herrera Pérez Ileana Jannette,camrp04s,c3rp04s,pan,cam,.,4,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Pérez Ileana Jannette,.
+769,385,Ramos Cárdenas Liev Vladimir,cpsrp04p,c3rp05p,pan,cps,cps,7,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ramos Cárdenas Liev Vladimir,.
+770,885,Calderón Orantes Eder Oswaldo,cpsrp04s,c3rp05s,pan,cps,.,7,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Calderón Orantes Eder Oswaldo,.
+771,386,Espinosa Ramos Francisco Amadeo,cpsrp09p,c3rp06p,pt,cps,cps,7,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Espinosa Ramos Francisco Amadeo,.
+772,886,Roblero Gordillo Héctor Hugo,cpsrp09s,c3rp06s,pt,cps,.,7,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Roblero Gordillo Héctor Hugo,.
+773,387,Espinosa Morales Olga Luz,cpsrp06p,c3rp07p,prd,cps,cps,7,0,rp-3,prop,2009,8,29,2009,9,3,.,.,.,.,.,.,.,.,.,Espinosa Morales Olga Luz,juanita
+774,887,Esquinca Cancino Carlos Enrique,cpsrp06s,c3rp07s,prd,cps,.,7,0,rp-3,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Esquinca Cancino Carlos Enrique,.
+775,388,Luna Ruiz Gloria Trinidad,cpsrp03p,c3rp08p,pan,cps,cps,7,0,rp-3,prop,2009,8,29,2012,4,10,.,.,.,.,.,.,.,.,.,Luna Ru[ií]z Gloria Trinidad,.
+776,888,Rodríguez Cal y Mayor César Augusto,cpsrp03s,c3rp08s,pan,cps,.,7,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Cal y Mayor César Augusto,.
+777,389,Rojas Ruiz Ana María,cpsrp01p,c3rp09p,pri,cps,cps,7,0,rp-3,prop,2009,8,29,2009,12,22,2012,4,17,.,.,.,.,.,.,Rojas Ru[ií]z Ana María,juanita
+778,889,Nazar Morales Julián,cpsrp01s,c3rp09s,pri,cps,cps,7,0,rp-3,sup,2010,2,2,2012,1,18,2012,2,16,2012,4,17,.,.,.,Nazar Morales Julián,.
+779,390,Santiago Ramírez César Augusto,cpsrp02p,c3rp10p,pri,cps,cps,7,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Santiago Ramírez César Augusto,.
+780,890,Benítez Tiburcio Mariana,cpsrp02s,c3rp10s,pri,cps,.,7,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Benítez Tiburcio Mariana,.
+781,391,Ovalle Vaquera Federico,cpsrp07p,c3rp11p,prd,cps,cps,7,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ovalle Vaquera Federico,.
+782,891,Bagdadi Estrella Abraham,cpsrp07s,c3rp11s,prd,cps,.,7,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Bagdadi Estrella Abraham,.
+783,392,Torres Abarca Magdalena,cpsrp08p,c3rp12p,prd,cps,cps,7,0,rp-3,prop,2009,8,29,2012,3,30,.,.,.,.,.,.,.,.,.,Torres Abarca O.|Obdulia Magdalena,.
+784,892,Pola Figueroa Elvira de Jesús,cpsrp08s,c3rp12s,prd,cps,.,7,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pola Figueroa Elvira de Jesús,.
+785,393,Gil Zuarth Roberto,cpsrp05p,c3rp13p,pan,cps,df,9,0,rp-3,prop,2009,8,29,2010,3,16,2010,10,7,2011,1,12,.,.,.,Gil Zuarth Roberto,.
+786,893,Valls Esponda Maricarmen,cpsrp05s,c3rp13s,pan,cps,df,9,0,rp-3,sup,2010,3,18,.,.,.,.,.,.,.,.,.,.,.,.,Valls Esponda Maricarmen,.
+787,394,Ramírez Pineda Narcedalia,oaxrp03p,c3rp14p,pri,oax,oax,20,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Pineda Narcedalia,.
+788,894,Mendicuti Priego José Ignacio,oaxrp03s,c3rp14s,pri,oax,.,20,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mendicuti Priego José Ignacio,.
+789,395,Zavaleta Rojas Guillermo José,oaxrp04p,c3rp15p,pan,oax,oax,20,0,rp-3,prop,2009,8,29,2010,9,3,.,.,.,.,.,.,.,.,.,Zavaleta Rojas Guillermo José,falleció
+790,895,Mendoza Sánchez María de Jesús,oaxrp04s,c3rp15s,pan,oax,oax,20,0,rp-3,sup,2010,9,21,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Sánchez María de Jesús,.
+791,396,García Almanza María Guadalupe,oaxrp07p,c3rp16p,conve,oax,oax,20,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,García Alma.*za María,.
+792,896,Soto Martínez José,oaxrp07s,c3rp16s,conve,oax,.,20,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Soto Martínez José,.
+793,397,Franco Vargas Jorge Fernando,oaxrp01p,c3rp17p,pri,oax,oax,20,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Franco Vargas Jorge Fernando,.
+794,897,Aparicio Sánchez Florencia Carolina,oaxrp01s,c3rp17s,pri,oax,.,20,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aparicio Sánchez Florencia Carolina,.
+795,398,Liborio Arrazola Margarita,oaxrp02p,c3rp18p,pri,oax,oax,20,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Liborio Arrazola Margarita,.
+796,898,Ortega Habib Miguel Ángel,oaxrp02s,c3rp18s,pri,oax,.,20,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ortega Habib Miguel [ÁA]ngel,.
+797,399,Cruz Cruz Juanita Arcelia,oaxrp06p,c3rp19p,prd,oax,oax,20,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cruz Cruz Juanita Arcelia,.
+798,899,Hernández Díaz Aída,oaxrp06s,c3rp19s,prd,oax,.,20,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Díaz Aída,.
+799,400,Carmona Cabrera Bélgica Nabil,oaxrp05p,c3rp20p,prd,oax,oax,20,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Carmona Cabrera Bélgica Nabil,.
+800,900,Serrano Rosado Aleida Tonelly,oaxrp05s,c3rp20s,prd,oax,.,20,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Serrano Rosado Aleida Tonelly,.
+801,401,Ortega Joaquín Gustavo Antonio Miguel,quirp01p,c3rp21p,pan,qui,qui,23,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ortega Joaquín Gustavo Antonio Miguel,.
+802,901,Guerrero García Eva Sylvia,quirp01s,c3rp21s,pan,qui,.,23,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guerrero García Eva Sylvia,.
+803,402,Flores Ramírez Juan Gerardo,tabrp04p,c3rp22p,pvem,tab,df,9,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Flores Ramírez Juan Gerardo,.
+804,902,Tomas Ruíz Verónica Rocío,tabrp04s,c3rp22s,pvem,tab,.,27,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tomas Ruíz Verónica Rocío,.
+805,403,Jiménez León Pedro,tabrp05p,c3rp23p,conve,tab,tab,27,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jiménez León Pedro,coord
+806,903,Coronado Sangines Ricardo,tabrp05s,c3rp23s,conve,tab,.,27,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Coronado Sangines Ricardo,.
+807,404,Trujillo Zentella Georgina,tabrp01p,c3rp24p,pri,tab,tab,27,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Trujillo Zentella Georgina,Mesa dir 1
+808,904,Amaro Betancourt Gerardo,tabrp01s,c3rp24s,pri,tab,.,27,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Amaro Betancourt Gerardo,.
+809,405,Lara Lagunas Rodolfo,tabrp03p,c3rp25p,prd,tab,tab,27,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lara Lagunas Rodolfo,.
+810,905,Garduño Yáñez Francisco,tabrp03s,c3rp25s,prd,tab,.,27,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Garduño Yáñez Francisco,.
+811,406,Valenzuela Cabrales Guadalupe,tabrp02p,c3rp26p,pan,tab,tab,27,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Valenzuela Cabrales Guadalupe,.
+812,906,Soberano Miranda Francisco Javier,tabrp02s,c3rp26s,pan,tab,.,27,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Soberano Miranda Francisco Javier,.
+813,407,Flores Morales Víctor Félix,verrp02p,c3rp27p,pri,ver,ver,30,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Flores Morales Víctor Félix,.
+814,907,García López Ignacia,verrp02s,c3rp27s,pri,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García López Ignacia,.
+815,408,Sarur Torre Adriana,verrp08p,c3rp28p,pvem,ver,df,9,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Sarur Torre Adriana,zarur?
+816,908,Orantes Coello Alejandro,verrp08s,c3rp28s,pvem,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Orantes Coello Alejandro,.
+817,409,Téllez Juárez Bernardo Margarito,verrp07p,c3rp29p,pan,ver,ver,30,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Téllez Juárez Bernardo Margarito,.
+818,909,Campos López María del Rosario,verrp07s,c3rp29s,pan,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Campos López María del Rosario,.
+819,410,Monge Villalobos Silvia Isabel,verrp05p,c3rp30p,pan,ver,ver,30,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Monge Villalobos Silvia Isabel,.
+820,910,Martínez Chávez Raúl,verrp05s,c3rp30s,pan,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Martínez Chávez Raúl,.
+821,411,Terán Velázquez María Esther,verrp03p,c3rp31p,pri,ver,ver,30,0,rp-3,prop,2009,8,29,.,.,.,2012,3,27,.,.,.,.,.,.,Terán Velázquez María Esther,.
+822,911,Villarino Pérez Arturo,verrp03s,c3rp31s,pri,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Villarino Pérez Arturo,.
+823,412,Saldaña Morán Julio,verrp06p,c3rp32p,pan,ver,ver,30,0,rp-3,prop,2009,8,29,2010,4,14,2010,10,26,.,.,.,.,.,.,Saldaña Mor[áa]n Julio,.
+824,912,González Cruz Karla Verónica,verrp06s,c3rp32s,pan,ver,ver,30,0,rp-3,sup,2010,4,20,2010,10,26,.,.,.,.,.,.,.,.,.,González Cruz Karla Verónica,.
+825,413,Castillo Andrade Óscar Saúl,verrp04p,c3rp33p,pan,ver,ver,30,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castillo Andrade [ÓO]scar Saúl,.
+826,913,Pérez Reséndiz Ma. Felícitas,verrp04s,c3rp33s,pan,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Reséndiz Ma. Fel[ií]citas,.
+827,414,Callejas Arroyo Juan Nicolás,verrp01p,c3rp34p,pri,ver,ver,30,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Callejas Arroyo Juan Nicolás,.
+828,914,González Cerecedo Alicia,verrp01s,c3rp34s,pri,ver,.,30,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Cerecedo Alicia,.
+829,415,Valencia Vales María Yolanda,yucrp05p,c3rp35p,pan,yuc,yuc,31,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Valencia Vales María Yolanda,.
+830,915,Vila Dosal Mauricio,yucrp05s,c3rp35s,pan,yuc,.,31,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Vila Dosal Mauricio,.
+831,416,Ramírez Marín Jorge Carlos,yucrp01p,c3rp36p,pri,yuc,yuc,31,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Marín Jorge Carlos,.
+832,916,Aguilar García Patricia,yucrp01s,c3rp36s,pri,yuc,.,31,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Aguilar García Patricia,.
+833,417,Ávila Ruiz Daniel Gabriel,yucrp03p,c3rp37p,pan,yuc,yuc,31,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]vila Ru[íi]z Daniel Gabriel,.
+834,917,Loeza Rodríguez María Inés,yucrp03s,c3rp37s,pan,yuc,.,31,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Loeza Rodríguez María Inés,.
+835,418,Díaz Lizama Rosa Adriana,yucrp04p,c3rp38p,pan,yuc,yuc,31,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Díaz Lizama Rosa Adriana,.
+836,918,Sánchez Camargo Tito Florencio,yucrp04s,c3rp38s,pan,yuc,.,31,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Camargo Tito Florencio,.
+837,419,Rubio Barthell Eric Luis,yucrp02p,c3rp39p,pri,yuc,yuc,31,0,rp-3,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rubio Barthell Eric Luis,.
+838,919,Ruíz Contreras Martha Patricia,yucrp02s,c3rp39s,pri,yuc,.,31,0,rp-3,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ruíz Contreras Martha Patricia,.
+839,420,Narro Céspedes José,zacrp04p,c3rp40p,prd,zac,zac,32,0,rp-2,prop,2009,8,29,2011,12,15,.,.,.,.,.,.,.,.,.,Narro Céspedes José,.
+840,920,Regis Adame Juan Carlos,zacrp04s,c3rp40s,prd,zac,zac,32,0,rp-2,sup,2011,12,15,.,.,.,.,.,.,.,.,.,.,.,.,Regis Adame Juan Carlos,.
+841,421,Vázquez Mota Josefina Eugenia,mexrp01p,c4rp01p,pan,mex,mex,15,0,rp-5,prop,2009,8,29,2011,9,6,.,.,.,.,.,.,.,.,.,Vázquez Mota Josefina Eugenia,coord from 1/9/09 to 6/9/11
+842,921,Novoa Gómez Miguel,mexrp01s,c4rp01s,pan,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Novoa Gómez Miguel,.
+843,422,Guerrero Rubio Diego,mexrp02p,c4rp02p,pvem,mex,mex,15,0,rp-5,prop,2009,8,29,2011,3,16,.,.,.,.,.,.,.,.,.,Guerrero Rubio Diego,.
+844,922,Herrera Martínez Jorge,mexrp02s,c4rp02s,pvem,mex,df,9,0,rp-5,sup,2011,3,17,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Mart[íi]nez Jorge,.
+845,423,Rodríguez Regordosa Pablo,puerp02p,c4rp03p,pan,pue,pue,21,0,rp-4,prop,2009,8,29,2011,2,1,.,.,.,.,.,.,.,.,.,Rodríguez Regordosa Pablo,.
+846,923,Guzmán Lozano María del Carmen,puerp02s,c4rp03s,pan,pue,pue,21,0,rp-4,sup,2011,2,8,.,.,.,.,.,.,.,.,.,.,.,.,Guzmán|GUZMAN Lozano|LOZANO M.* Carmen|CARMEN,.
+847,424,Castillo Juárez Laura Itzel,dfrp20p,c4rp04p,pt,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castillo Juárez Laura Itzel,.
+848,924,Cervantes Vega Genaro,dfrp20s,c4rp04s,pt,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cervantes Vega Genaro,.
+849,425,Uranga Muñoz Enoé Margarita,dfrp16p,c4rp05p,prd,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Uranga Muñoz Enoé Margarita,.
+850,925,Hinojosa Corona Claudia María,dfrp16s,c4rp05s,prd,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hinojosa Corona Claudia María,.
+851,426,Encinas Rodríguez Alejandro de Jesús,dfrp12p,c4rp06p,prd,df,df,9,0,rp-4,prop,2009,8,29,2011,3,31,2011,8,29,2012,3,29,.,.,.,Encinas Rodríguez Alejandro de Jesús,coord from 1/9/09 to 31/3/11
+852,926,Mastache Mondragón Aarón,dfrp12s,c4rp06s,prd,df,df,9,0,rp-4,sup,2011,4,5,.,.,.,.,.,.,.,.,.,.,.,.,Mastache Mondragón Aarón,.
+853,427,Jiménez Case Fuensanta Patricia,dfrp04p,c4rp07p,pri,df,df,9,0,rp-4,prop,2009,8,29,2010,1,20,.,.,.,.,.,.,.,.,.,Jiménez Case Fuensanta Patricia,.
+854,927,Gutiérrez de la Torre Cuauhtémoc,dfrp04s,c4rp07s,pri,df,df,9,0,rp-4,sup,2010,2,2,2011,8,15,2011,8,16,.,.,.,.,.,.,Gutiérrez de la Torre Cuauhtémoc,.
+855,428,Lerdo de Tejada Covarrubias Sebastián,dfrp05p,c4rp08p,pri,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lerdo de Tejada Covarrubias Sebastián,.
+856,928,Hernández Ledezma Laura Angélica,dfrp05s,c4rp08s,pri,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Ledezma Laura Angélica,.
+857,429,Quezada Contreras Leticia,dfrp15p,c4rp09p,prd,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Quezada Contreras Leticia,.
+858,929,Arciniega Álvarez Linda Guadalupe,dfrp15s,c4rp09s,prd,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arciniega [ÁA]lvarez Linda Guadalupe,.
+859,430,Círigo Vasquez Víctor Hugo,dfrp23p,c4rp10p,conve,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,C[íi]rigo V[áa]squez Víctor Hugo,.
+860,930,Belaunzaran Méndez Fernando,dfrp23s,c4rp10s,conve,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Belaunzaran Méndez Fernando,.
+861,431,Martínez Hernández Ifigenia,dfrp21p,c4rp11p,pt,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martínez.*Hernández Ifigenia Martha,decana
+862,931,Hernández García Rey,dfrp21s,c4rp11s,pt,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández García Rey,.
+863,432,Hernández Juárez Francisco,dfrp13p,c4rp12p,prd,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Juárez Francisco,.
+864,932,Andalco López Luis Maríano,dfrp13s,c4rp12s,prd,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Andalco López Luis Maríano,.
+865,433,Ruiz Massieu Salinas Claudia,dfrp06p,c4rp13p,pri,df,df,9,0,rp-4,prop,2009,8,29,2012,1,18,.,.,.,.,.,.,.,.,.,Ru[ií]z Massieu Salinas Claudia,.
+866,933,García Sarmiento Ernesto,dfrp06s,c4rp13s,pri,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Sarmiento Ernesto,.
+867,434,Incháustegui Romero Teresa del Carmen,dfrp14p,c4rp14p,prd,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Incháustegui Romero Teresa del Carmen,.
+868,934,Castro Corona Ruth,dfrp14s,c4rp14s,prd,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Castro Corona Ruth,.
+869,435,Báez Pinal Armando Jesús,dfrp02p,c4rp15p,pri,df,df,9,0,rp-4,prop,2009,8,29,2012,3,22,2012,4,10,.,.,.,.,.,.,Báez Pinal Armando Jesús,.
+870,935,Guerra Díaz María del Rosario Elena,dfrp02s,c4rp15s,pri,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Guerra Díaz María del Rosario Elena,.
+871,436,Salinas Sada Ninfa Clara,dfrp19p,c4rp16p,pvem,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Salinas Sada Ninfa Clara,.
+872,936,Buitrón González César Andrés,dfrp19s,c4rp16s,pvem,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Buitrón González César Andrés,.
+873,437,García Ayala Marco Antonio,dfrp03p,c4rp17p,pri,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,García Ayala Marco Antonio,.
+874,937,Cerezo Bautista Adela,dfrp03s,c4rp17s,pri,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cerezo Bautista Adela,.
+875,438,Castilla Marroquín Agustín Carlos,dfrp07p,c4rp18p,pan,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castilla Marroquín Agustín Carlos,.
+876,938,Gómez Hernández Rocío,dfrp07s,c4rp18s,pan,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gómez Hernández Rocío,.
+877,439,López Rabadán Kenia,dfrp10p,c4rp19p,pan,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,López Rabadán Kenia,.
+878,939,Saldaña Hernández Delfino,dfrp10s,c4rp19s,pan,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Saldaña Hernández Delfino,.
+879,440,Escudero Morales Pablo,dfrp18p,c4rp20p,pvem,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Escudero Morales Pablo,.
+880,940,Arzaluz Alonso Alma Lucía,dfrp18s,c4rp20s,pvem,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arzaluz Alonso Alma Lucía,.
+881,441,Pérez Ceballos Silvia Esther,dfrp11p,c4rp21p,pan,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Ceballos Silvia Esther,.
+882,941,Tapia Zarate Gaspar,dfrp11s,c4rp21s,pan,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tapia Zarate Gaspar,.
+883,442,Brindis Álvarez Rosario,dfrp17p,c4rp22p,pvem,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Brindis [ÁA]lvarez.*Rosario,.
+884,942,Rodríguez Botello Fierro Harry Gerardo,dfrp17s,c4rp22s,pvem,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Rodríguez Botello Fierro Harry Gerardo,.
+885,443,Gutiérrez Fragoso Valdemar,dfrp09p,c4rp23p,pan,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gutiérrez Fragoso Valdemar,.
+886,943,Marroquín Cisneros Digna Bertha,dfrp09s,c4rp23s,pan,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Marroquín Cisneros Digna Bertha,.
+887,444,Muñoz Ledo Porfirio,dfrp22p,c4rp24p,pt,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Muñoz Ledo.*Porfirio,.
+888,944,Velasco Salazar Juan Alfonso,dfrp22s,c4rp24s,pt,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Velasco Salazar Juan Alfonso,.
+889,445,Kahwagi Macari Jorge Antonio,dfrp25p,c4rp25p,panal,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Kahwagi Macari Jorge Antonio,coord from 2/9/11 to 31/8/12
+890,945,Georgge Pérez Deyanira,dfrp25s,c4rp25s,panal,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Georgge Pérez Deyanira,2/6/2012 renuncia a prd y pasa al pri
+891,446,Villarreal Benassini Karla Daniella,dfrp24p,c4rp26p,panal,df,df,9,0,rp-4,prop,2009,8,29,2009,10,29,.,.,.,.,.,.,.,.,.,Villarreal Benassini Karla Daniella,.
+892,946,Del Mazo Morales Gerardo,dfrp24s,c4rp26s,panal,df,mex,15,0,rp-4,sup,2009,10,29,.,.,.,.,.,.,.,.,.,.,.,.,Del Mazo Morales Gerardo,.
+893,447,Gutiérrez Cortina Paz,dfrp08p,c4rp27p,pan,df,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gutiérrez Cortina Paz,.
+894,947,Sáinz Martínez Juan Pablo,dfrp08s,c4rp27s,pan,df,.,9,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sáinz Martínez Juan Pablo,.
+895,448,Arizmendi Campos Laura,guerp07p,c4rp28p,conve,gue,gue,12,0,rp-4,prop,2009,8,29,2012,4,27,.,.,.,.,.,.,.,.,.,Arizmendi Campos Laura,.
+896,948,Walton Álvarez Claudia,guerp07s,c4rp28s,conve,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Walton [ÁA]lvarez Claudia,.
+897,449,Navarro Aguilar Filemón,guerp05p,c4rp29p,prd,gue,gue,12,0,rp-4,prop,2009,8,29,2012,4,27,.,.,.,.,.,.,.,.,.,Navarro Aguilar Filemón,.
+898,949,Cayetano Díaz Antonino,guerp05s,c4rp29s,prd,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cayetano Díaz Antonino,.
+899,450,Rosario Morales Florentina,guerp06p,c4rp30p,prd,gue,gue,12,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rosario Morales Florentina,.
+900,950,Tenango Salgado Carmina,guerp06s,c4rp30s,prd,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tenango Salgado Carmina,.
+901,451,Álvarez Santamaría Miguel,guerp01p,c4rp31p,pri,gue,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]lvarez Santamaría Miguel,.
+902,951,Arenas Martínez Elvira Rebeca,guerp01s,c4rp31s,pri,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arenas Martínez Elvira Rebeca,.
+903,452,Becerra Pocoroba Mario Alberto,guerp02p,c4rp32p,pan,gue,df,9,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Becerra Pocoroba Mario Alberto,.
+904,952,Millán Sánchez Carlos Arturo,guerp02s,c4rp32s,pan,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Millán Sánchez Carlos Arturo,.
+905,453,Lozano Herrera Ilich Augusto,guerp04p,c4rp33p,prd,gue,gue,12,0,rp-4,prop,2009,8,29,2012,4,24,.,.,.,.,.,.,.,.,.,Lozano Herrera Ilich Augusto,.
+906,953,Mendoza Flores Zeus Rafael,guerp04s,c4rp33s,prd,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mendoza Flores Zeus Rafael,.
+907,454,Lobato Ramírez Ana Luz,guerp03p,c4rp34p,prd,gue,gue,12,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Lobato Ramírez Ana Luz,2/6/2012 renuncia a prd y pasa al pri
+908,954,Trejo Trujillo Virginia,guerp03s,c4rp34s,prd,gue,.,12,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Trejo Trujillo Virginia,.
+909,455,Giles Sánchez Jesús,morrp01p,c4rp35p,pan,mor,mor,17,0,rp-4,prop,2009,8,29,2012,4,15,.,.,.,.,.,.,.,.,.,Giles Sánchez Jesús,Fallece 15/4/2012
+910,955,Rubí Huicochea Fidel Christian,morrp01s,c4rp35s,pan,mor,.,17,0,rp-4,sup,2012,4,19,.,.,.,.,.,.,.,.,.,.,.,.,Rubí Huicochea Fidel Christian,.
+911,456,Álvarez Cisneros Jaime,morrp02p,c4rp36p,conve,mor,mor,17,0,rp-4,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]lvarez Cisneros Jaime,.
+912,956,Garduño Aguilar Guillermo,morrp02s,c4rp36s,conve,mor,.,17,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Garduño Aguilar Guillermo,.
+913,457,Díaz de Rivera Hernández Augusta Valentina,puerp01p,c4rp37p,pan,pue,.,21,0,rp-4,prop,2009,8,29,2012,4,27,2012,4,27,.,.,.,.,.,.,Díaz de Rivera Hernández A.* Valentina,.
+914,957,García Olivares Andrés,puerp01s,c4rp37s,pan,pue,.,21,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,García Olivares Andrés,.
+915,458,Escobar García Herón Agustín,sinrp10p,c4rp38p,pt,sin,sin,25,0,rp-1,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Escobar García Herón Agustín,wrong (inocuous) dist num
+916,958,Hernández Reyes Mariano,sinrp10s,c4rp38s,pt,sin,.,25,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Reyes Mariano,wrong (inocuous) dist num
+917,459,González Hernández Sergio,tlarp02p,c4rp39p,pan,tla,tla,29,0,rp-4,prop,2009,8,29,2010,1,5,2010,3,2,.,.,.,.,.,.,González Hernández Sergio,.
+918,959,Pérez Gutiérrez Fany,tlarp02s,c4rp39s,pan,tla,.,29,0,rp-4,sup,2010,2,2,2010,2,28,.,.,.,.,.,.,.,.,.,Pérez Gutiérrez Fany,.
+919,460,Paredes Rangel Beatriz,tlarp01p,c4rp40p,pri,tla,df,9,0,rp-4,prop,2009,8,29,2012,1,25,.,.,.,.,.,.,.,.,.,Paredes Rangel Beatr[ií]z Elena,.
+920,960,Álvarez y Mazarrasa Jaime Aguilar,tlarp01s,c4rp40s,pri,tla,.,29,0,rp-4,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]lvarez y Mazarrasa Jaime Aguilar,.
+921,461,Benítez Treviño Víctor Humberto,mexrp03p,c5rp01p,pri,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Benítez Treviño Víctor Humberto,.
+922,961,López Cano Aveleyra Norma Silvia,mexrp03s,c5rp01s,pri,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,López Cano Aveleyra Norma Silvia,.
+923,462,Castro y Castro Juventino Víctor,mexrp15p,c5rp02p,prd,mex,df,9,0,rp-5,prop,2009,8,29,2012,4,8,.,.,.,.,.,.,.,.,.,Castro y Castro Juventino Víctor,falleció
+924,962,Sánchez Cortés Hilario Everardo,mexrp15s,c5rp02s,prd,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Cortés Hilario Everardo,.
+925,463,González Yáñez Óscar,mexrp22p,c5rp03p,pt,mex,mex,15,0,rp-5,prop,2009,8,29,2012,4,24,2011,4,27,2012,4,24,.,.,.,González Yáñez [ÓO]scar,suplente no juró
+926,963,Palacios Calderón Martín,mexrp22s,c5rp03s,pt,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Palacios Calderón Martín,no juró
+927,464,Videgaray Caso Luis,mexrp09p,c5rp04p,pri,mex,mex,15,0,rp-5,prop,2009,8,29,2011,3,29,.,.,.,.,.,.,.,.,.,Videgaray Caso Luis,.
+928,964,Fernández Martínez Silvia,mexrp09s,c5rp04s,pri,mex,mex,15,0,rp-5,sup,2011,3,29,.,.,.,.,.,.,.,.,.,.,.,.,Fernández Martínez Silvia,.
+929,465,Serrano Hernández Maricela,mexrp08p,c5rp05p,pri,mex,mex,15,0,rp-5,prop,2009,8,29,2012,4,10,2012,4,24,2012,4,30,.,.,.,Serrano Hernández Maricela,.
+930,965,Arvizu Lara Orlando,mexrp08s,c5rp05s,pri,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Arvizu Lara Orlando,.
+931,466,Massieu Fernández Andrés,mexrp05p,c5rp06p,pri,mex,df ,9,0,rp-5,prop,2009,8,29,2012,4,10,.,.,.,.,.,.,.,.,.,Massieu Fernández Andrés,.
+932,966,Melgarejo Fukutake Imelda,mexrp05s,c5rp06s,pri,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Melgarejo Fukutake Imelda,.
+933,467,García Cañón Carolina,mexrp19p,c5rp07p,pvem,mex,df,9,0,rp-5,prop,2009,8,29,2009,12,22,.,.,.,.,.,.,.,.,.,García Cañón Carolina,juanita
+934,967,Del Mazo Maza Alejandro,mexrp19s,c5rp07s,pvem,mex,.,15,0,rp-5,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,Del Mazo Maza Alejandro,.
+935,468,Reyes Sahagún Teresa Guadalupe,mexrp23p,c5rp08p,pt,mex,df,9,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Reyes Sahag[uú]n Teresa Guadalupe,.
+936,968,González Camacho María Elena,mexrp23s,c5rp08s,pt,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Camacho María Elena,.
+937,469,Pérez de Tejada Romero Ma. Elena,mexrp13p,c5rp09p,pan,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez de Tejada Romero Ma.*Elena,.
+938,969,Morales Najera Jacobo,mexrp13s,c5rp09s,pan,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Morales Najera Jacobo,.
+939,470,Acosta Naranjo Guadalupe,hgorp04p,c5rp10p,prd,hgo,nay,18,0,rp-5,prop,2009,8,29,2011,1,9,2011,8,24,.,.,.,.,.,.,Acosta Naranjo Guadalupe,.
+940,970,Cornejo Barrera Luciano,hgorp04s,c5rp10s,prd,hgo,hgo,13,0,rp-5,sup,2011,2,1,2011,8,23,.,.,.,.,.,.,.,.,.,Cornejo Barrera Luciano,.
+941,471,Marín Díaz Feliciano Rosendo,mexrp18p,c5rp11p,prd,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Marín Díaz Feliciano Rosendo,.
+942,971,Enríquez Rosado José del Carmen,mexrp18s,c5rp11s,prd,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Enríquez Rosado José del Carmen,.
+943,472,García Coronado Lizbeth,mexrp16p,c5rp12p,prd,mex,mex,15,0,rp-5,prop,2009,8,29,2012,5,1,.,.,.,.,.,.,.,.,.,García Coronado Lizbeth,.
+944,972,Méndez Aguilar María Diana,mexrp16s,c5rp12s,prd,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Méndez Aguilar María Diana,.
+945,473,Bernardino Rojas Martha Angélica,mexrp14p,c5rp13p,prd,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Bernardino Rojas Martha Angélica,.
+946,973,Álvarez Vázquez María Teresa,mexrp14s,c5rp13s,prd,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,[ÁA]lvarez Vázquez María Teresa,.
+947,474,Martel López José Ramón,mexrp04p,c5rp14p,pri,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Martel López José Ramón,.
+948,974,Gómez Molano Judith Aracely,mexrp04s,c5rp14s,pri,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gómez Molano Judith Aracely,.
+949,475,Gertz Manero Alejandro,mexrp24p,c5rp15p,conve,mex,df,9,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Gertz Manero Alejandro,.
+950,975,Tapia Latisnere Paulino Gerardo,mexrp24s,c5rp15s,conve,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Tapia Latisnere Paulino Gerardo,.
+951,476,Vargas Sáenz Álvaro Raymundo,mexrp21p,c5rp16p,pvem,mex,mex,15,0,rp-5,prop,2009,8,29,2009,12,22,.,.,.,.,.,.,.,.,.,Vargas S.enz .lvaro Raymundo,.
+952,976,Sáenz Vargas Caritina,mexrp21s,c5rp16s,pvem,mex,mex,15,0,rp-5,sup,2009,9,3,.,.,.,.,.,.,.,.,.,.,.,.,S..nz Vargas Caritina,.
+953,477,Landero Gutiérrez José Francisco Javier,mexrp11p,c5rp17p,pan,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Landero Gutiérrez José Francisco Javier,.
+954,977,Mondragón Cobos Guadalupe,mexrp11s,c5rp17s,pan,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Mondragón Cobos Guadalupe,.
+955,478,Hinojosa Céspedes Adriana de Lourdes,mexrp10p,c5rp18p,pan,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hinojosa Céspedes Adriana de Lourdes,.
+956,978,Muro Ortíz Jorge Alberto,mexrp10s,c5rp18s,pan,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Muro Ortíz Jorge Alberto,.
+957,479,Ochoa Mejía Ma. Teresa Rosaura,mexrp25p,c5rp19p,conve,mex,mex,15,0,rp-5,prop,2009,8,29,2011,4,1,2011,4,13,.,.,.,.,.,.,Ochoa Mejía Ma. Teresa Rosaura,Mesa dir 1; suplente no juró
+958,979,Huidobro González Zuleyma,mexrp25s,c5rp19s,conve,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Huidobro González Zuleyma,no juró
+959,480,Vázquez Aguilar Jaime Arturo,mexrp27p,c5rp20p,panal,mex,df,9,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez Aguilar Jaime Arturo,"Electo panal, renunció 23 sep 2010 (El universal); mesa dir 1"
+960,980,Molina Vélez Sarbelio Augusto,mexrp27s,c5rp20s,panal,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Molina Vélez Sarbelio Augusto,Su propietario renunció al panal para evitar licencia
+961,481,Pérez Cuevas Carlos Alberto,mexrp12p,c5rp21p,pan,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Cuevas Carlos Alberto,coord from 24-4-12 to 31/8/12
+962,981,Zafra Alvarado Ana María,mexrp12s,c5rp21s,pan,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Zafra Alvarado Ana María,.
+963,482,Torre Canales María del Pilar,mexrp26p,c5rp22p,panal,mex,ver,30,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Torre Canales María del Pilar,.
+964,982,Romero Vázquez Gabriel,mexrp26s,c5rp22s,panal,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Romero Vázquez Gabriel,.
+965,483,Vizcaíno Silva Indira,colrp04p,c5rp23p,prd,col,col,6,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vizcaíno Silva Indira,.
+966,983,López Mejía Priscila,colrp04s,c5rp23s,prd,col,.,6,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,López Mejía Priscila,.
+967,484,Ceballos Llerenas Hilda,colrp01p,c5rp24p,pri,col,col,6,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Ceballos Llerenas Hilda,.
+968,984,Ruíz Zubieta Maríano,colrp01s,c5rp24s,pri,col,.,6,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ruíz Zubieta Maríano,.
+969,485,Cortés León Yulenny Guylaine,colrp02p,c5rp25p,pan,col,col,6,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Cortés León Yulenny Guylaine,.
+970,985,Partida Valencia Jesús Alberto,colrp02s,c5rp25s,pan,col,.,6,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Partida Valencia Jesús Alberto,.
+971,486,Peralta Rivas Pedro,colrp03p,c5rp26p,pan,col,col,6,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Peralta Rivas Pedro,.
+972,986,Castell Ibáñez Amalia,colrp03s,c5rp26s,pan,col,.,6,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Castell Ibáñez Amalia,.
+973,487,Vázquez Góngora Canek,hgorp02p,c5rp27p,pri,hgo,.,13,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Vázquez Góngora.*Canek,.
+974,987,Cervantes Mandujano Beatríz,hgorp02s,c5rp27s,pri,hgo,mex,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Cervantes Mandujano Beatríz,.
+975,488,Hernández Olmos Paula Angélica,hgorp01p,c5rp28p,pri,hgo,hgo,13,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hernández Olmos Paula Angélica,.
+976,988,Serrano González Onésimo,hgorp01s,c5rp28s,pri,hgo,.,13,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Serrano González Onésimo,.
+977,489,Romero León Gloria,hgorp03p,c5rp29p,pan,hgo,hgo,13,0,rp-5,prop,2009,8,29,2011,4,26,2011,7,20,.,.,.,.,.,.,Romero León Gloria,.
+978,989,Ramírez Reyes Escobar Horacio,hgorp03s,c5rp29s,pan,hgo,df,9,0,rp-5,sup,2011,7,20,.,.,.,.,.,.,.,.,.,.,.,.,Ramírez Reyes Escobar Horacio,.
+979,490,Guerra Abud Juan José,mexrp20p,c5rp30p,pvem,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Guerra Abud Juan José,coord
+980,990,Sánchez Sánchez Misael,mexrp20s,c5rp30s,pvem,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Sánchez Misael,.
+981,491,Neyra Chávez Armando,mexrp06p,c5rp31p,pri,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Neyra Chávez Armando,.
+982,991,Espino Suárez Mayra,mexrp06s,c5rp31s,pri,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Espino Suárez Mayra,.
+983,492,Rojas Gutiérrez Francisco José,mexrp07p,c5rp32p,pri,mex,df,9,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Rojas Gutiérrez Francisco José,coord
+984,992,Juan López María de las Mercedes Martha,mexrp07s,c5rp32s,pri,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Juan López María de las Mercedes Martha,.
+985,493,Torres Piña Carlos,micrp07p,c5rp33p,prd,mic,mic,16,0,rp-5,prop,2009,8,29,2011,3,8,.,.,.,.,.,.,.,.,.,Torres Piña Carlos,.
+986,993,Díaz Juárez Pável,micrp07s,c5rp33s,prd,mic,mic,16,0,rp-5,sup,2011,3,10,.,.,.,.,.,.,.,.,.,.,.,.,Díaz Juárez P[áa]vel,.
+987,494,Nazares Jerónimo Dolores de los Ángeles,micrp06p,c5rp34p,prd,mic,mic,16,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Nazares Jerónimo Dolores de los [ÁA]ngeles,.
+988,994,Frausto Vázquez Karla Patricia,micrp06s,c5rp34s,prd,mic,.,16,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Frausto Vázquez Karla Patricia,.
+989,495,Quezada Naranjo Benigno,micrp04p,c5rp35p,pan,mic,mic,16,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Quezada Naranjo Benigno,.
+990,995,Herrera Maldonado Teresita de Jesús,micrp04s,c5rp35s,pan,mic,.,16,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Herrera Maldonado Teresita de Jesús,.
+991,496,Torres Ibarrola Agustín,micrp05p,c5rp36p,pan,mic,.,16,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Torres Ibarrola Agustín,.
+992,996,González Hernández Doramitzi,micrp05s,c5rp36s,pan,mic,.,16,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,González Hernández Doramitzi,.
+993,497,Hinojosa Pérez José Manuel,micrp03p,c5rp37p,pan,mic,mic,16,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Hinojosa Pérez José Manuel,.
+994,997,Medina Castro María Elena,micrp03s,c5rp37s,pan,mic,.,16,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Medina Castro María Elena,.
+995,498,Castellanos Ramírez Julio,micrp02p,c5rp38p,pan,mic,mic,16,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Castellanos Ramírez Julio,.
+996,998,Gudiño Paredes Mariana,micrp02s,c5rp38s,pan,mic,.,16,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gudiño Paredes Mariana,.
+997,499,De los Reyes Aguilar Jeny,micrp01p,c5rp39p,pri,mic,mic,16,0,rp-5,prop,2009,8,29,2010,8,14,.,.,.,.,.,.,.,.,.,De los Reyes Aguilar Jeny,falleció
+998,999,Espino Arévalo Fernando,micrp01s,c5rp39s,pri,mic,df,9,0,rp-5,sup,2010,9,7,.,.,.,.,.,.,.,.,.,.,.,.,Espino Arévalo Fernando,.
+999,500,Jaime Correa José Luis,mexrp17p,c5rp40p,prd,mex,mex,15,0,rp-5,prop,2009,8,29,.,.,.,.,.,.,.,.,.,.,.,.,Jaime Correa José Luis,.
+1000,1000,Alonso Pérez Pedro,mexrp17s,c5rp40s,prd,mex,.,15,0,rp-5,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Alonso Pérez Pedro,.
+1001,1001,Ledesma Romo Eduardo,bcrp05p,c1rp41p,pvem,bc,bc,2,0,rp-1,prop,2010,2,9,.,.,.,.,.,.,.,.,.,.,.,.,Ledesma Romo Eduardo,siguiente en lista para sustituir a suplente de Laura Ledesma
+1002,1002,San Román Flores Mariano,bcrp05s,c1rp41s,pvem,bc,.,2,0,rp-1,sup,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,San Román Flores Mariano,.
+1003,1003,Alemán Olvera Emma Margarita ,mexrpXXp,c5rp41p,pan,mex,.,15,0,rp-5,prop,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Alemán Olvera Emma Margarita ,"siguiente en lista para sustituir a JVM, no aceptó el puesto"
+1004,1004,Sánchez Miranda Hugo Lino ,mexrpXXs,c5rp41s,pan,mex,.,15,0,rp-5,sup,2012,3,27,.,.,.,.,.,.,.,.,.,.,.,.,Sánchez Miranda Hugo Lino,.
+1005,1005,González Hernández Yolanda Eugenia,cpsrpXXp,c3rp41p,pri,.,coa,7,0,rp-3,prop,2012,4,17,.,.,.,.,.,.,.,.,.,.,.,.,González Hernández Yolanda Eugenia,siguiente en lista para sustituir a Nazar c3rp
+1006,1006,Ortiz Proal Fernando,.,c3rp41p,pri,.,coa,7,0,rp-3,prop,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Ortiz Proal Fernando,.
