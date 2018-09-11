@@ -1,0 +1,19 @@
+From http://alexgaudio.com/2011/07/24/sharing-part-your-repo-github.html
+
+branches: master - all files
+          github - subset that will be pushed to git hub
+
+Add files to subset:
+
+git checkout github
+git checkout master file-name
+git commit
+
+Drop files from subset:
+
+git checkout github
+git rm -rf file-to-drop
+git commit
+
+There is a hook that pushes subset to 'github' remote whenever master is committed.
+
