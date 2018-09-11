@@ -15,9 +15,9 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
 @article{cantuDesposatoMagar2014,
 	title = {Consideraciones metodol\'ogicas para estudiantes de pol\'itica legislativa mexicana: sesgo por selecci\'on en votaciones nominales},
 	author = {Cant\'u, Francisco and Desposato, Scott and Magar, Eric},
-	year = 2014,
-	volume = 21,
-	number = 1,
+	year = {2014},
+	volume = {21},
+	number = {1},
 	journal = {Pol\'itica y Gobierno},
 	pages = {25--54}
         url = {http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/18/564}
@@ -26,7 +26,7 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
 
 *Description*
 
-The main primary source is the Chamber of Deputies' web page at http://www.diputados.gob.mx/. Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (code/getweb/); databases preparation from raw data (code/rcPrep); and descriptive analysis and ideal point estimation (code/rcAnalysis/). Raw data downloaded for the 60th (2006-2009), 61st (2009-2012), and part of the 62nd (2012-2015) Legislatures is included (in data/fromWeb/). **If interested in clean roll call votes only, simply copy the contents of the data/votesForWeb/ subdirectory**. It includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (http://cran.r-project.org/) and csv formats. 
+The main primary source is the Chamber of Deputies' web page at http://www.diputados.gob.mx/. Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (code/getweb/); databases preparation from raw data (code/rcPrep); and descriptive analysis and ideal point estimation (code/rcAnalysis/). Raw data is in data/fromWeb/ directory. **If interested in clean roll call votes only, simply copy the contents of the data/votesForWeb/ subdirectory**. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (http://cran.r-project.org/) and csv formats. 
 
 *Codebook*
 
