@@ -49,7 +49,7 @@ ord,nom,id,postulo,part,dprop,cabecera,edo,dsmd,yrin1,moin1,dyin1,yrout1,moout1,
 48,ROSA MARIA BAYARDO CABRERA,col02s,pt,.,0,MANZANILLO,col,1,2018,12,4,,,,,,,,,,,sesión instalación cámara diputados
 49,MANUELA DEL CARMEN OBRADOR NARVAEZ,cps01p,morena,morena,1,PALENQUE,cps,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
 50,REBECA ARCOS SANCHEZ,cps01s,morena,.,0,PALENQUE,cps,1,,,,,,,,,,,,,,sesión instalación cámara diputados
-51,HUMBERTO PEDRERO MORENO,cps02p,pvem,morena,1,BOCHIL,cps,1,2018,8,29,,,,,,,,,,"ine invalidó x falso tzotzil, pero tepjf repuso 20ago18 Manuelito cambió a morena el 4sep2018",sesión instalación cámara diputados
+51,HUMBERTO PEDRERO MORENO,cps02p,pvem,morena,1,BOCHIL,cps,1,2018,8,29,,,,,,,,,,"ine invalidó x falso tzotzil, pero tepjf repuso 20ago18  cambió a morena el 4sep2018",sesión instalación cámara diputados
 52,ALFREDO ANTONIO GORDILLO MORENO,cps02s,pvem,.,0,BOCHIL,cps,1,,,,,,,,,,,,,"ine invalidó x falso tzotzil, pero tepjf repuso 20ago18",sesión instalación cámara diputados
 53,ALFREDO VAZQUEZ VAZQUEZ,cps03p,morena,morena,1,OCOSINGO,cps,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
 54,MANUEL TORRES HERNANDEZ,cps03s,morena,.,0,OCOSINGO,cps,1,,,,,,,,,,,,,,sesión instalación cámara diputados
@@ -118,7 +118,7 @@ ord,nom,id,postulo,part,dprop,cabecera,edo,dsmd,yrin1,moin1,dyin1,yrout1,moout1,
 117,MARIO MARTIN DELGADO CARRILLO,df13p,pt,morena,1,IZTACALCO,df,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
 118,OSCAR EUGENIO GUTIERREZ CAMACHO,df13s,pt,.,0,IZTACALCO,df,1,,,,,,,,,,,,,,sesión instalación cámara diputados
 119,ALFONSO RAMIREZ CUELLAR,df14p,morena,morena,1,TLALPAN,df,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
-120,JAVIER URIEL AGUIRRE VALENCIANA,df14s,morena,.,0,TLALPAN,df,1,,,,,,,,,,,,,,sesión instalación cámara diputados
+120,JAVIER URIEL AGUIRRE VALENCIANA,df14s,morena,.,0,TLALPAN,df,1,2020,3,18,,,,,,,,,,,sesión instalación cámara diputados
 121,LUIS ALBERTO MENDOZA ACEVEDO,df15p,pan,pan,1,BENITO JUAREZ,df,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
 122,VICTOR MANUEL MENDOZA ACEVEDO,df15s,pan,.,0,BENITO JUAREZ,df,1,,,,,,,,,,,,,,sesión instalación cámara diputados
 123,SILVIA LORENA VILLAVICENCIO AYALA,df16p,morena,morena,1,ALVARO OBREGON,df,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
@@ -586,7 +586,7 @@ ord,nom,id,postulo,part,dprop,cabecera,edo,dsmd,yrin1,moin1,dyin1,yrout1,moout1,
 585,MARIA ESTER ALONZO MORALES,yuc02p,panal,pri,1,PROGRESO,yuc,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
 586,GUADALUPE ELIZABETH ZAPATA GONZALEZ,yuc02s,panal,.,0,PROGRESO,yuc,1,,,,,,,,,,,,,,sesión instalación cámara diputados
 587,ROGER HERVE AGUILAR SALAZAR,yuc03p,morena,morena,1,MERIDA,yuc,1,,,,,,,,,,,,,TEPJF revocó triunfo Frente 28jul18-Falleció 5sep2018 por complicaciones de salud,sesión instalación cámara diputados
-588,LIMBERT IVAN DE JESUS INTERIAN GALLEGOS,yuc03s,morena,.,0,MERIDA,yuc,1,,,,,,,,,,,,,,sesión instalación cámara diputados
+588,LIMBERT IVAN DE JESUS INTERIAN GALLEGOS,yuc03s,morena,.,0,MERIDA,yuc,1,2018,9,13,,,,,,,,,,,sesión instalación cámara diputados
 589,JOSE ELIAS LIXA ABIMERHI,yuc04p,pan,pan,1,MERIDA,yuc,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados
 590,MARIO ENMANUEL ARAGON CASTILLO,yuc04s,pan,.,0,MERIDA,yuc,1,,,,,,,,,,,,,,sesión instalación cámara diputados
 591,JUAN JOSE CANUL PEREZ,yuc05p,pri,pri,1,TICUL,yuc,1,2018,8,29,,,,,,,,,,,sesión instalación cámara diputados

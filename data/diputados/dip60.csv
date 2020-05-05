@@ -257,8 +257,8 @@ ord,n,nom,id,part,edo,edon,dsmd,dis,tipo,yrin1,moin1,dyin1,yrout1,moout1,dyout1,
 256,628,Almanza Monroy Fidel,mex03s,pri,mex,15,1,3,sup,.,.,.,.,.,.,.,.,.,.,.,.,Almanza Monroy Fidel,.,mex03s
 257,129,Acosta Dávila Constantino,mex04p,pan,mex,15,1,4,prop,2006,8,29,2009,4,21,.,.,.,.,.,.,Acosta Dávila Constantino,.,mex04p
 258,629,Galván Rivas Erika,mex04s,pan,mex,15,1,4,sup,.,.,.,.,.,.,.,.,.,.,.,.,Galván Rivas Erika,.,mex04s
-259,130,Saavedra Coronel José Antonio,mex05p,prd,mex,15,1,5,prop,2006,8,29,2009,4,28,.,.,.,.,.,.,Saavedra Coronel José Antonio,.,mex05p
-260,630,Pérez Luna Armando,mex05s,prd,mex,15,1,5,sup,.,.,.,.,.,.,.,.,.,.,.,.,Pérez Luna Armando,.,mex05s
+259,130,Saavedra Coronel José Antonio,mex05p,prd,mex,15,1,5,prop,2006,8,29,2009,3,5,.,.,.,.,.,.,Saavedra Coronel José Antonio,.,mex05p
+260,630,Pérez Luna Armando,mex05s,prd,mex,15,1,5,sup,2009,3,5,.,.,.,.,.,.,.,.,.,Pérez Luna Armando,.,mex05s
 261,131,López Becerra Santiago,mex06p,prd,mex,15,1,6,prop,2006,8,29,.,.,.,.,.,.,.,.,.,López Becerra Santiago,.,mex06p
 262,631,Escalona Cortés Mauro,mex06s,prd,mex,15,1,6,sup,.,.,.,.,.,.,.,.,.,.,.,.,Escalona Cortés Mauro,.,mex06s
 263,132,Arredondo Ibarra Salvador,mex07p,pan,mex,15,1,7,prop,2006,8,29,2009,4,28,.,.,.,.,.,.,Arredondo Ibarra Salvador,.,mex07p
@@ -303,7 +303,7 @@ ord,n,nom,id,part,edo,edon,dsmd,dis,tipo,yrin1,moin1,dyin1,yrout1,moout1,dyout1,
 302,651,Ovalles Castro María Aurora,mex26s,pan,mex,15,1,26,sup,.,.,.,.,.,.,.,.,.,.,.,.,Ovalles Castro María Aurora,.,mex26s
 303,152,Maawad Robert Luis Xavier,mex27p,pan,mex,15,1,27,prop,2006,8,29,2009,4,16,.,.,.,.,.,.,Maawad Robert Luis Xavier,.,mex27p
 304,652,Ortiz Martínez De Kores Gabriela,mex27s,pan,mex,15,1,27,sup,.,.,.,.,.,.,.,.,.,.,.,.,Ortiz Martínez [dD]e Kores Gabriela,.,mex27s
-305,153,Muñoz Serna Rogelio,mex28p,pri,mex,15,1,28,prop,2006,8,29,2009,5,1,.,.,.,.,.,.,Muñoz Serna Rogelio,decía out1 2009-2-26,mex28p
+305,153,Muñoz Serna Rogelio,mex28p,pri,mex,15,1,28,prop,2006,8,29,2009,4,23,.,.,.,.,.,.,Muñoz Serna Rogelio,decía out1 2009-2-26,mex28p
 306,653,Colín Castro Virginia,mex28s,pri,mex,15,1,28,sup,.,.,.,.,.,.,.,.,.,.,.,.,Colín Castro Virginia,.,mex28s
 307,154,Ulloa Pérez Emilio,mex29p,prd,mex,15,1,29,prop,2006,8,29,2009,3,31,.,.,.,.,.,.,Ulloa Pérez Emilio,.,mex29p
 308,654,Rojas Carmona Sergio,mex29s,prd,mex,15,1,29,sup,2009,3,31,.,.,.,.,.,.,.,.,.,Rojas Carmona Sergio,.,mex29s
