@@ -13,4 +13,7 @@ vignettes/*.html
 vignettes/*.pdf
 
 # backup files
-*~
+*.*~
+
+# mac files
+.DS_Store
