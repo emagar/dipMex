@@ -1,5 +1,5 @@
 ord,n,pila,patmat,id,birth,gen,part,edo,edon,edoSIL,disn,dsmd,dsup,yrin1,moin1,dyin1,yrout1,moout1,dyout1,yrin2,moin2,dyin2,yrout2,moout2,dyout2,lider,prescom,seccom,nota
-1,1,JOSE PILAR,MORENO MONTOYA,ags01p,1959,M,pri,ags,1,ags,1,1,0,2012,8,29,,,,,,,,,,,,,^(?=.*[J.]*)(?=.*Pilar)(?=.*Moreno)(?=.*Montoya).*$
+1,1,JOSE PILAR,MORENO MONTOYA,doval,1959,M,pri,ags,1,ags,1,1,0,2012,8,29,,,,,,,,,,,,,^(?=.*[J.]*)(?=.*Pilar)(?=.*Moreno)(?=.*Montoya).*$
 3,2,MARIA TERESA,JIMENEZ ESQUIVEL,ags02p,1984,F,pan,ags,1,ags,2,1,0,2012,8,29,,,,,,,,,,,,,
 5,3,JOSE ANGEL,GONZALEZ SERNA,ags03p,1959,M,pan,ags,1,ags,3,1,0,2012,8,29,,,,,,,,,,,,,
 7,4,BENJAMIN,CASTILLO VALDEZ,bc01p,1959,M,pri,bc,2,bc,1,1,0,2012,8,29,2013,3,12,2013,7,16,,,,,,agricultura,perdio diputacion local
@@ -422,7 +422,7 @@ ord,n,pila,patmat,id,birth,gen,part,edo,edon,edoSIL,disn,dsmd,dsup,yrin1,moin1,d
 841,421,SONIA,RINCON CHANONA,c4rp01p,,F,panal,,,cps,rp-3,0,0,2012,8,29,,,,,,,,,,,,,
 843,422,MARGARITA,SALDAÑA HERNANDEZ,c4rp02p,,F,pan,,,df,rp-4,0,0,2012,8,29,,,,,,,,,,,cultycine,,
 845,423,FLOR DE MARIA,PEDRAZA AGUILERA,c4rp03p,,F,pan,,,df,rp-4,0,0,2012,8,29,,,,,,,,,,,,,
-847,424,FERNANDO,RODRIGUEZ DOVAL,c4rp04p,,M,pan,,,df,rp-4,0,0,2012,8,29,,,,,,,,,,,,,nuestro alumno
+847,424,FERNANDO,RODRIGUEZ DOVAL,c4rp04p,1980,M,pan,,,df,rp-4,0,0,2012,8,29,,,,,,,,,,,bibliotecas,df ptosConst,nuestro alumno
 849,425,GERARDO MAXIMILIANO,CORTAZAR LARA,c4rp05p,,M,pan,,,df,rp-4,0,0,2012,8,29,2015,2,2,,,,,,,,,,
 851,426,LUIS MIGUEL,RAMIREZ ROMERO,c4rp06p,,M,pan,,,mor,rp-4,0,0,2012,8,29,2015,3,11,,,,,,,,,,
 853,427,JUAN PABLO,ADAME ALEMAN,c4rp07p,,M,pan,,,mor,rp-4,0,0,2012,8,29,,,,,,,,,,,,,
