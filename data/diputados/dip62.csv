@@ -39,7 +39,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,38,519,ALFIO,VEGA DE LA PEÑA,coa04s,1955,M,,pri,coa,1,1,SALTILLO ,2013,2,6,2013,7,16,,,,,,,,,,,,,,,1
 62,39,20,SALOMON,JUAN MARCOS ISSA,coa05p,1948,M,,pri,coa,1,0,TORREON ,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,40,520,TEODORO,ARGUIJO HERNANDEZ,coa05s,,M,,pri,coa,1,1,TORREON ,,,,,,,,,,,,,,,,,,,,,0
-62,41,21,MARCELO DE JESUS,TORRES COFIÑO,coa06p,1956,M,,pan,coa,1,0,TORREON ,2012,8,29,,,,,,,,,,,,,coor,,"pres mineria 12-2-2015 al 1-4-2015, coordinador en 2015",,,1
+62,41,21,MARCELO DE JESUS,TORRES COFIÑO,coa06p,1956,M,,pan,coa,1,0,TORREON ,2012,8,29,,,,,,,,,,,,,coor,mineria,"pres mineria 12-2-2015 al 1-4-2015, coordinador en 2015",,,1
 62,42,521,ROCIO,VAZQUEZ HERNANDEZ,coa06s,,F,,pan,coa,1,1,TORREON ,,,,,,,,,,,,,,,,,,,,,0
 62,43,22,ESTHER,QUINTANA SALINAS,coa07p,1951,F,,pan,coa,1,0,SALTILLO ,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,44,522,ANGELA,ANCHONDO RIVERA,coa07s,,F,,pan,coa,1,1,SALTILLO ,,,,,,,,,,,,,,,,,,,,,0
@@ -83,7 +83,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,82,541,JESUS,AGUILAR BUENO,cua05s,,M,,pri,cua,1,1,DELICIAS,,,,,,,,,,,,,,,,,,,,59-620,0
 62,83,42,MINERVA,CASTILLO RODRIGUEZ,cua06p,1955,F,,pri,cua,1,0,CHIHUAHUA,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,84,542,DANIELA,GARZA MAYAGOITIA,cua06s,,F,,pri,cua,1,1,CHIHUAHUA,,,,,,,,,,,,,,,,,,,,,0
-62,85,43,KAMEL,ATHIE FLORES,cua07p,1950,M,,pri,cua,1,0,CUAUHTEMOC,2012,8,29,,,,,,,,,,,,,,agpot,,,,1
+62,85,43,KAMEL,ATHIE FLORES,cua07p,1950,M,,pri,cua,1,0,CUAUHTEMOC,2012,8,29,,,,,,,,,,,,,,aguaPot,,,,1
 62,86,543,SIGIFREDO,GALAZ VARELA,cua07s,,M,,pri,cua,1,1,CUAUHTEMOC,,,,,,,,,,,,,,,,,,,,,0
 62,87,44,PEDRO IGNACIO,DOMINGUEZ ZEPEDA,cua08p,1971,M,,pri,cua,1,0,CHIHUAHUA,2012,8,29,,,,,,,,,,,,,,infraestructura,,,,1
 62,88,544,RICARDO,PEÑA PARRA,cua08s,,M,,pri,cua,1,1,CHIHUAHUA,,,,,,,,,,,,,,,,,,,,,0
@@ -307,7 +307,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,306,653,MARIA GABRIELA,BARDALES HERNANDEZ,mex28s,,F,,pri,mex,1,1,ZUMPANGO DE OCAMPO,2015,3,18,,,,,,,,,,,,,,,,,,1
 62,307,154,VALENTIN,GONZALEZ BAUTISTA,mex29p,1955,M,,prd,mex,1,0,CIUDAD NEZAHUALCOYOLT,2012,8,29,2015,3,11,,,,,,,,,,,,,,59-62,1
 62,308,654,RODRIGO,ROSAS ESPARZA,mex29s,,M,,prd,mex,1,1,CIUDAD NEZAHUALCOYOLT,2015,3,12,,,,,,,,,,,,,,,,,,1
-62,309,155,ALLIET MARIANA,BAUTISTA BRAVO,mex30p,1968,F,,prd,mex,1,0,CIUDAD NEZAHUALCOYOTL,2012,8,29,2015,3,9,,,,,,,,,,,fomcoopyeconsoc,,,580-60-62,1
+62,309,155,ALLIET MARIANA,BAUTISTA BRAVO,mex30p,1968,F,,prd,mex,1,0,CIUDAD NEZAHUALCOYOTL,2012,8,29,2015,3,9,,,,,,,,,,,fomCoopEconSoc,,,580-60-62,1
 62,310,655,ELIZABETH,VAZQUEZ HERNANDEZ,mex30s,,F,,prd,mex,1,1,CIUDAD NEZAHUALCOYOTL,2015,3,10,,,,,,,,,,,,,,,,,,1
 62,311,156,VICTOR MANUEL,BAUTISTA LOPEZ,mex31p,1947,M,,prd,mex,1,0,CIUDAD NEZAHUALCOYOLT,2012,8,29,2015,3,9,,,,,,,,,,,,,,,1
 62,312,656,FRANCISCO ANTONIO EDUARDO,MORA MOLINA,mex31s,,M,,prd,mex,1,1,CIUDAD NEZAHUALCOYOLT,2015,3,10,,,,,,,,,,,,,,,,,,1
@@ -605,7 +605,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,604,802,MARIA LUCRECIA,ARZOLA GODINES,zc1rp02s,,F,,pan,bcs,0,1,--,2015,2,3,,,,,,,,,,,,,,,,,,1
 62,605,303,ROCIO ESMERALDA,REZA GALLEGOS,zc1rp03p,1968,F,,pan,cua,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,606,803,MARTHA,GOMEZ DEL CAMPO BRAHAM,zc1rp03s,,F,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,607,304,RODOLFO DORADOR,PEREZ GAVILAN,zc1rp04p,1969,M,,pan,dgo,0,0,--,2012,8,29,,,,,,,,,,,,,,turismo,,,58-62,1
+62,607,304,RODOLFO,DORADOR PEREZ GAVILAN,zc1rp04p,1969,M,,pan,dgo,0,0,--,2012,8,29,,,,,,,,,,,,,,turismo,,,58-62,1
 62,608,804,GISELA EDITH,MARIN DELGADO,zc1rp04s,,F,,pan,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,0
 62,609,305,CARMEN LUCIA,PEREZ CAMARENA,zc1rp05p,1968,F,,pan,jal,0,0,--,2012,8,29,2015,4,6,,,,,,,,,,,,,,600-62,1
 62,610,805,CLAUDIA ROCIO,VILLA OÑATE,zc1rp05s,,F,,pan,jal,0,1,--,2015,4,7,,,,,,,,,,,,,,,,,,1
@@ -619,18 +619,18 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,618,809,ELSA,RODRIGUEZ GARCIA,zc1rp09s,,F,,pan,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,0
 62,619,310,CARLOS HUMBERTO,CASTAÑOS VALENZUELA,zc1rp10p,1977,M,,pan,sin,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,62-64,1
 62,620,810,VIANEY,MELENDREZ LOPEZ,zc1rp10s,,F,,pan,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,621,311,TANIA MARGARITA,MORGAN NAVARRETE,zc1rp11p,,F,,pan,sin,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
+62,621,311,TANIA MARGARITA,MORGAN NAVARRETE,zc1rp11p,1985,F,,pan,sin,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,622,811,BEYCE DHANEY,GONZALEZ PIÑA,zc1rp11s,,F,,pan,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,623,312,MARIO,SANCHEZ RUIZ,zc1rp12p,,M,,pan,son,0,0,--,2012,8,29,,,,,,,,,,,,,,economia,,,,1
+62,623,312,MARIO,SANCHEZ RUIZ,zc1rp12p,1961,M,,pan,son,0,0,--,2012,8,29,,,,,,,,,,,,,,economia,,,,1
 62,624,812,NORMA ESTHER,ALMEIDA GARCIA,zc1rp12s,,F,,pan,son,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,625,313,LESLIE,PANTOJA HERNANDEZ,zc1rp13p,,F,,pan,son,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
+62,625,313,LESLIE,PANTOJA HERNANDEZ,zc1rp13p,1976,F,,pan,son,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,626,813,BERNADETH,RUIZ ROMERO,zc1rp13s,,M,,pan,son,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,627,314,HEBERTO,NEBLINA VEGA,zc1rp14p,,M,,pan,son,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
+62,627,314,HEBERTO,NEBLINA VEGA,zc1rp14p,1969,M,,pan,son,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,628,814,SERGIO,ORLANDO FLORES,zc1rp14s,,M,,pan,son,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,629,315,MARIA ELVIA,AMAYA ARAUJO,zc1rp15p,,F,,pri,bc,0,0,--,,,,,,,,,,,,,,,,,,,,,0
-62,630,815,MARIA CARMEN,LOPEZ SEGURA,zc1rp15s,,F,,pri,bc,0,1,--,2012,9,18,,,,,,,,,,,,,,,,,,1
-62,631,316,FERNANDO JORGE,CASTRO TRENTI,zc1rp16p,,M,,pri,bc,0,0,--,2012,8,29,2013,2,7,,,,,,,,,,,comunic,cando gober bc derrotado,,,1
-62,632,816,ADAN DAVID,RUIZ GUTIERREZ,zc1rp16s,,M,,pri,bc,0,1,--,2013,2,14,,,,,,,,,,,,,,,,,,1
+62,629,315,MARIA ELVIA,AMAYA ARAUJO,zc1rp15p,1955,F,,pri,bc,0,0,--,,,,,,,,,,,,,,,,,,,,,0
+62,630,815,MARIA CARMEN,LOPEZ SEGURA,zc1rp15s,1946,F,,pri,bc,0,1,--,2012,9,18,,,,,,,,,,,,,,,,,,1
+62,631,316,FERNANDO JORGE,CASTRO TRENTI,zc1rp16p,1955,M,,pri,bc,0,0,--,2012,8,29,2013,2,7,,,,,,,,,,,comunic,cando gober bc derrotado,,,1
+62,632,816,ADAN DAVID,RUIZ GUTIERREZ,zc1rp16s,1966,M,,pri,bc,0,1,--,2013,2,14,,,,,,,,,,,,,,,,,,1
 62,633,317,RICARDO FIDEL,PACHECO RODRIGUEZ,zc1rp17p,,M,,pri,dgo,0,0,--,2012,8,29,,,,,,,,,,,,,,Vivienda justicia,,,,1
 62,634,817,J. ISAIAS,BERUMEN AGUILAR,zc1rp17s,,M,,pri,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,0
 62,635,318,LOURDES EULALIA,QUIÑONES CANALES,zc1rp18p,,F,,pri,dgo,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
@@ -789,7 +789,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,788,894,CELESTINO MANUEL,ALONSO ALVAREZ,zc3rp14s,,M,,pri,cam,0,1,--,2015,2,5,,,,,,,,,,,,,,,,,,1
 62,789,395,SIMON,VALANCI BUZALI,zc3rp15p,,M,,pri,cps,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,790,895,JORGE YUNIS,RAFFUL ZEPEDA,zc3rp15s,,M,,pri,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-620,0
-62,791,396,ARELI,MADRID TOVILLA,zc3rp16p,,F,,pri,cps,0,0,--,2012,8,29,,,,,,,,,,,,,,transyantcorr,,,60-62,1
+62,791,396,ARELI,MADRID TOVILLA,zc3rp16p,,F,,pri,cps,0,0,--,2012,8,29,,,,,,,,,,,,,,funcionPub transpAnticorr,,,60-62,1
 62,792,896,ANA GUADALUPE,INGRAM VALLINES,zc3rp16s,,F,,pri,cps,0,1,--,,,,,,,,,,,,,,,,,,,,,0
 62,793,397,MARTIN DE JESUS,VASQUEZ VILLANUEVA,zc3rp17p,,M,,pri,oax,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,794,897,MANUEL ISRAEL,ALAMILLA CEBALLOS,zc3rp17s,,M,,pri,oax,0,1,--,,,,,,,,,,,,,,,,,,,,,0
@@ -921,7 +921,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 62,920,960,KATYA,IZQUIERDO HERRERA,zc4rp40s,,F,,panal,df,0,1,--,,,,,,,,,,,,,,,,,,,,,0
 62,921,461,RENE RICARDO,FUJIWARA MONTELONGO,zc5rp01p,,M,,panal,df,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,922,961,LUCIANO,QUADRI BARBA,zc5rp01s,,M,,panal,df,0,1,--,,,,,,,,,,,,,,,,,,,,,0
-62,923,462,PATRICIA,LUGO BARRIGA,zc5rp02p,,F,,pan,col,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,59-62,1
+62,923,462,PATRICIA,LUGO BARRIGA,zc5rp02p,1973,F,,pan,col,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,59-62,1
 62,924,962,PATRICIA DE LA CRUZ,SANDOVAL SALGADO,zc5rp02s,,F,,pan,col,0,1,--,,,,,,,,,,,,,,,,,,,,,0
 62,925,463,MARTHA LETICIA,SOSA GOVEA,zc5rp03p,,F,,pan,col,0,0,--,2012,8,29,,,,,,,,,,,,,,,,,,1
 62,926,963,ALMA DELIA,VELASCO SANCHEZ,zc5rp03s,,F,,pan,col,0,1,--,,,,,,,,,,,,,,,,,,,,,0
