@@ -133,7 +133,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,132,566,MARIBEL,FLORES GARCIA,df20s,,F,morena,,df,1,1,IZTAPALAPA,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
 64,133,67,FLOR IVONE,MORALES MIRANDA,df21p,,F,pt,morena,df,1,0,XOCHIMILCO,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,1
 64,134,567,KAREN IVETTE,ANDIFFRED FERNANDEZ,df21s,,F,pt,,df,1,1,XOCHIMILCO,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
-64,135,68,VICTOR GABRIEL,VARELA LOPEZ,df22p,,M,pes,morena,df,1,0,IZTAPALAPA,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,60-64,1
+64,135,68,VICTOR GABRIEL,VARELA LOPEZ,df22p,1973,M,pes,morena,df,1,0,IZTAPALAPA,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,60-64,1
 64,136,568,SALVADOR,MONTES VILLALBA,df22s,,M,pes,,df,1,1,IZTAPALAPA,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
 64,137,69,PABLO,GOMEZ ALVAREZ,df23p,1946,M,pt,morena,df,1,0,COYOACAN,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,57-59-64,1
 64,138,569,SANDINO,LUNA ALMEIDA,df23s,,M,pt,,df,1,1,COYOACAN,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
@@ -377,7 +377,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,376,688,REBECA LIDIA,GARCIA VALLEJO,nl02s,,F,pes,,nl,1,1,APODACA,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
 64,377,189,JOSE LUIS,GARCIA DUQUE,nl03p,,M,morena,pes,nl,1,0,GRAL ESCOBEDO,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,1
 64,378,689,JUAN HUGO,LOPEZ FLORES,nl03s,,M,morena,,nl,1,1,GRAL ESCOBEDO,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
-64,379,190,RICARDO,FLORES SUAREZ,nl04p,,M,pan,pan,nl,1,0,SAN NICOLAS DE LOS GARZA,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,62-64,1
+64,379,190,RICARDO,FLORES SUAREZ,nl04p,1977,M,pan,pan,nl,1,0,SAN NICOLAS DE LOS GARZA,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,62-64,1
 64,380,690,JULIO CESAR,ALVARADO MENDOZA,nl04s,,M,pan,,nl,1,1,SAN NICOLAS DE LOS GARZA,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
 64,381,191,SANTIAGO,GONZALEZ SOTO,nl05p,,M,pt,pt,nl,1,0,MONTERREY,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,1
 64,382,691,PEDRO,VAZQUEZ GONZALEZ,nl05s,1953,M,pt,,nl,1,1,MONTERREY,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,59-61-640,0
@@ -795,7 +795,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,794,897,ENRIQUE,FANJON GONZALEZ,zrp2pvem01s,,M,pvem,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,795,398,BEATRIZ,MANRIQUE GUEVARA,zrp2pvem02p,1967,F,pvem,pvem,0,0,0,--,2018,8,29,2019,9,2,,,,,,,,,,,,,acuerdo INE,60-64,1
 64,796,898,ZULMA,ESPINOZA MATA,zrp2pvem02s,,F,pvem,pvem,0,0,1,--,2019,9,3,,,,,,,,,,,,,,,,acuerdo INE,,1
-64,797,399,FRANCISCO,ELIZONDO GARRIDO,zrp2pvem03p,,M,pvem,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,Cambio a morena el 4sep2018,acuerdo INE,60-630-64,1
+64,797,399,FRANCISCO,ELIZONDO GARRIDO,zrp2pvem03p,1982,M,pvem,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,Cambio a morena el 4sep2018,acuerdo INE,60-630-64,1
 64,798,899,ARTURO,ARROYO NAVARRETE,zrp2pvem03s,,M,pvem,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,799,400,JORGE EMILIO,GONZALEZ MARTINEZ,zrp3pvem01p,1972,M,pvem,pvem,0,0,0,--,2018,8,29,2019,4,10,,,,,,,,,,,,,acuerdo INE,57-60-64,1
 64,800,900,JORGE FRANCISCO,CORONA MENDEZ,zrp3pvem01s,,M,pvem,pvem,0,0,1,--,2019,4,29,,,,,,,,,,,,,,,,acuerdo INE,620-64,1
@@ -809,7 +809,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,808,904,MARTHA,RAMIREZ BRAVO,zrp5pvem01s,,F,pvem,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,809,405,JESUS SERGIO,ALCANTARA NUÑEZ,zrp5pvem02p,1965,M,pvem,pvem,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,60-64,1
 64,810,905,FERNANDO,DANEL VILLAREAL,zrp5pvem02s,,M,pvem,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
-64,811,406,ITZCOATL TONATIUH,BRAVO PADILLA,zrp1mc01p,,M,mc,mc,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,60-64,1
+64,811,406,ITZCOATL TONATIUH,BRAVO PADILLA,zrp1mc01p,1960,M,mc,mc,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,60-64,1
 64,812,906,ENRIQUE ISRAEL,MEDINA TORRES,zrp1mc01s,,M,mc,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,813,407,MARTHA ANGELICA,ZAMUDIO MACIAS,zrp1mc02p,,F,mc,mc,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,814,907,MICHELLE ESTEFANIA,MURGUIA PUGA,zrp1mc02s,,F,mc,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
@@ -973,7 +973,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,972,986,MIGUEL ANGEL,SANDOVAL RODRIGUEZ,zrp5morena04s,,M,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,973,487,SUSANA,CANO GONZALEZ,zrp5morena05p,,F,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,974,987,MARIA GUADALUPE,ROLDAN GONZALEZ,zrp5morena05s,,F,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,580-640,0
-64,975,488,HORACIO,DUARTE OLIVARES,zrp5morena06p,,M,morena,morena,0,0,0,--,2018,8,29,2018,12,1,,,,,,,,,,,,,acuerdo INE,59-64,1
+64,975,488,HORACIO,DUARTE OLIVARES,zrp5morena06p,1971,M,morena,morena,0,0,0,--,2018,8,29,2018,12,1,,,,,,,,,,,,,acuerdo INE,59-64,1
 64,976,988,SERGIO CARLOS,GUTIERREZ LUNA,zrp5morena06s,,M,morena,morena,0,0,1,--,2018,12,4,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,977,489,JUANA,CARRILLO LUNA,zrp5morena07p,,F,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,978,989,TALIA DEL CARMEN,VAZQUEZ ALATORRE,zrp5morena07s,,F,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0

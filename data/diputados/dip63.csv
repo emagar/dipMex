@@ -311,7 +311,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,310,655,ALBERTO,OJEDA OJEDA,mex30s,,,,prd,mex,1,1,CIUDAD NEZAHUALCOYOTL,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,311,156,ARMANDO,SOTO ESPINO,mex31p,,,,prd,mex,1,0,CIUDAD NEZAHUALCOYOLT,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,312,656,EDGAR JONATHAN,PEREZ AVILA,mex31s,,,,prd,mex,1,1,CIUDAD NEZAHUALCOYOLT,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
-63,313,157,ALMA LILIA,LUNA MUNGUIA,mex32p,,F,,pri,mex,1,0,XICO,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
+63,313,157,ALMA LILIA,LUNA MUNGUIA,mex32p,1976,F,,pri,mex,1,0,XICO,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
 63,314,657,NORMA CECILIA,REYES GUERRERO,mex32s,,,,pri,mex,1,1,XICO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,315,158,SUSANA,OSORNO BELMONT,mex33p,,,,pri,mex,1,0,CHALCO DE DIAZ COVARRUBIAS,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,316,658,JEANY,FERNANDEZ JIMENEZ,mex33s,,,,pri,mex,1,1,CHALCO DE DIAZ COVARRUBIAS,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
@@ -507,7 +507,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,506,753,JORGE LUIS,ARELLANO CRUZ,son07s,,,,pri,son,1,1,NAVOJOA,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,507,254,ELIO,BOCANEGRA RUIZ,tab01p,,,,prd,tab,1,0,MACUSPANA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,508,754,ABELARDO,ZURITA SOLANO,tab01s,,,,prd,tab,1,1,MACUSPANA,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
-63,509,255,OSCAR,FERRER ABALOS,tab02p,,,,prd,tab,1,0,HEROICA CARDENAS,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
+63,509,255,OSCAR,FERRER ABALOS,tab02p,1968,,,prd,tab,1,0,HEROICA CARDENAS,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
 63,510,755,LEONIDES,FERNANDEZ CRUZ,tab02s,,,,prd,tab,1,1,HEROICA CARDENAS,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,511,256,HECTOR,PERALTA GRAPPIN,tab03p,,,,prd,tab,1,0,COMALCALCO,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,512,756,LUIS JOSE,SANCHEZ TORRES,tab03s,,,,prd,tab,1,1,COMALCALCO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
@@ -525,7 +525,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,524,762,ERNESTO GABRIEL,ROBINSON TERAN,tam03s,,,,pri,tam,1,1,RIO BRAVO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,525,263,JESUS JUAN,DE LA GARZA DIAZ DEL GUANTE,tam04p,,,,pri,tam,1,0,H. MATAMOROS,2015,8,29,2015,2,3,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,526,763,PEDRO LUIS,CORONADO AYARZAGOITIA,tam04s,,,,pri,tam,1,1,H. MATAMOROS,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
-63,527,264,MIGUEL ANGEL,GONZALEZ SALUM,tam05p,,,,pri,tam,1,0,CIUDAD VICTORIA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
+63,527,264,MIGUEL ANGEL,GONZALEZ SALUM,tam05p,1967,,,pri,tam,1,0,CIUDAD VICTORIA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
 63,528,764,JOSE ANGEL,CARDENAS CASTILLEJOS,tam05s,,,,pri,tam,1,1,CIUDAD VICTORIA,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,529,265,LUIS ALEJANDRO,GUEVARA COBOS,tam06p,1975,,,pri,tam,1,0,CIUDAD MANTE,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,57-590-600-61-63,1
 63,530,765,JULIO CESAR,PORTALES MARTINEZ,tam06s,,,,pri,tam,1,1,CIUDAD MANTE,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,580-630,
@@ -541,7 +541,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,540,770,TEODARDO,MUÑOZ TORRES,tla03s,,,,pri,tla,1,1,ZACATELCO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,541,271,SOFIA DEL SAGRARIO,DE LEON MAZA,ver01p,,,,pri,ver,1,0,PANUCO,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,542,771,ROCIO GUZMAN,DE PAZ,ver01s,,,,pri,ver,1,1,PANUCO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,59-63,
-63,543,272,MARIA DEL CARMEN,PINETE VARGAS,ver02p,,,,pri,ver,1,0,TANTOYUCA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
+63,543,272,MARIA DEL CARMEN,PINETE VARGAS,ver02p,1960,,,pri,ver,1,0,TANTOYUCA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
 63,544,772,ROSALBA,SANTIAGO ESCOBAR,ver02s,,,,pri,ver,1,1,TANTOYUCA,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,545,273,ALBERTO,SILVA RAMOS,ver03p,,,,pri,ver,1,0,TUXPAN DE RODRIGUEZ CANO,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,546,773,PAULINO ALBERTO,VAZQUEZ VILLALOBOS,ver03s,,,,pri,ver,1,1,TUXPAN DE RODRIGUEZ CANO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
@@ -553,7 +553,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,552,776,VICTORIA NATALY,OLMEDO BASILIO,ver06s,,,,pri,ver,1,1,PAPANTLA DE OLARTE,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,553,277,EDGAR,SPINOSO CARRERA,ver07p,,,,pvem,ver,1,0,MARTINEZ DE LA TORRE,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,554,777,GUSTAVO,MORENO RAMOS,ver07s,,,,pvem,ver,1,1,MARTINEZ DE LA TORRE,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,59-63,
-63,555,278,ADOLFO,MOTA HERNANDEZ,ver08p,,M,,pri,ver,1,0,XALAPA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
+63,555,278,ADOLFO,MOTA HERNANDEZ,ver08p,1976,M,,pri,ver,1,0,XALAPA,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,60-63,1
 63,556,778,ROGELIO,AYALA PALOMINO,ver08s,,,,pri,ver,1,1,XALAPA,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,557,279,NOEMI,GUZMAN LAGUNES,ver09p,,,,pri,ver,1,0,COATEPEC,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,57-63,1
 63,558,779,LINDA RUBI,MARTINEZ DIAZ,ver09s,,,,pri,ver,1,1,COATEPEC,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
@@ -704,7 +704,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,703,352,CLAUDIA,SANCHEZ JUAREZ,zc5,1979,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,60-63,1
 63,704,852,FRANCISCA,SANDOVAL MAREZ,zc5,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,705,353,LUIS FERNANDO,ANTERO VALLE,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
-63,706,853,VICTOR MANUEL,TORRES HERRERA,zc5,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,60-630,0
+63,706,853,VICTOR MANUEL,TORRES HERRERA,zc5,1958,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,60-630,0
 63,707,354,DAVID EPIFANIO,LOPEZ GUTIERREZ,zc1,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,708,854,VICTOR MANUEL,GODOY ANGULO,zc1,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,709,355,ESTHELA DE JESUS,PONCE BELTRAN,zc1,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,61-63,1
@@ -715,7 +715,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,714,857,MARIA LORENA,PEREZ OLIVAS,zc1,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,715,358,RAFAEL,YERENA ZAMBRANO,zc1,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,61-63,1
 63,716,858,JUAN CARLOS,VILLARREAL SALAZAR,zc1,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,630-64,0
-63,717,359,YOLANDA,DE LA TORRE VALDEZ,zc1,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+63,717,359,YOLANDA,DE LA TORRE VALDEZ,zc1,1964,F,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,61-63,1
 63,718,859,BRENDA,BORUNDA ESPINOZA,zc1,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,719,360,MARCO ANTONIO,GARCIA AYALA,zc1,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-61-63,1
 63,720,860,RICARDO,NAVARRETE REYES,zc1,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
@@ -765,7 +765,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,764,882,JOAQUINA,VIVEROS CORDOBA,zc3,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,765,383,DAVID,AGUILAR ROBLES,zc3,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,766,883,GONZALO RENE,BRITO HERRERA,zc3,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,767,384,SARA LATIFE,RUIZ CHAVEZ,zc3,,,,pri,0,0,0,--,,,,,,,,,,,,,,,,,,Su entrada estuvo pendiente al resultado de extraordinaria ags01: entraría si perdía el pri,acuerdo INE,60-630,
+63,767,384,SARA LATIFE,RUIZ CHAVEZ,zc3,1976,,,pri,0,0,0,--,,,,,,,,,,,,,,,,,,Su entrada estuvo pendiente al resultado de extraordinaria ags01: entraría si perdía el pri,acuerdo INE,60-630,
 63,768,884,CRISTINA DEL CARMEN,ALCERRECA MANZANERO,zc3,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,769,385,MANUEL,VALLEJO BARRAGAN,zc4,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,770,885,MARCO ANTONIO,VELASQUEZ VALENCIA,zc4,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
@@ -859,16 +859,16 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,858,929,JOSE EDUARDO,RUIZ CHIMAL,zc1,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,859,430,LORENA,CORONA VALDES,zc1,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,61-63,1
 63,860,930,MARIA GUADALUPE,SOTO COTA,zc1,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,861,431,JESUS RICARDO,CANAVATI TAFICH,zc2,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,57-60-63,1
+63,861,431,JESUS RICARDO,CANAVATI TAFICH,zc2,1943,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,57-60-63,1
 63,862,931,MARCELINO,CISNEROS RAMIREZ,zc2,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,863,432,WENDOLIN,TOLEDO ACEVES,zc2,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,864,932,DANIELA,GARCIA TREVIÑO,zc2,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,865,433,JOSE ANTONIO,AREVALO GONZALEZ,zc2,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,58-60-63,1
+63,865,433,JOSE ANTONIO,AREVALO GONZALEZ,zc2,1971,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,58-60-63,1
 63,866,933,VICTOR CARLOS,ARMAS ZAGOYA,zc2,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,867,434,ALMA LUCIA,ARZALUZ ALONSO,zc2,,F,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,610-63,1
 63,868,934,GENNY JANETH,LOPEZ VALENZUELA,zc2,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,869,435,EDUARDO FRANCISCO,ZENTENO NUÑEZ,zc3,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,590-63,1
-63,870,935,FRANCISCO,ELIZONDO GARRIDO,zc3,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,60-630-64,0
+63,870,935,FRANCISCO,ELIZONDO GARRIDO,zc3,1982,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,60-630-64,0
 63,871,436,PALOMA,CANALES SUAREZ,zc3,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,872,936,SANDRA ALEJANDRINA,HERRERA ALVAREZ,zc3,,,,pvem,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,873,437,JAVIER OCTAVIO,HERRERA BORUNDA,zc3,,,,pvem,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
