@@ -677,8 +677,8 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,676,838,OSCAR CARLOS,ZURROZA BARRERA,zrp5pan03s,,M,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,677,339,MARIA LIDUVINA,SANDOVAL MENDOZA,zrp5pan04p,1975,F,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,birth approx,acuerdo INE,,1
 64,678,839,ELENA GABRIELA,OCON CORONA,zrp5pan04s,,F,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
-64,679,340,ADOLFO,TORRES RAMIREZ,zrp5pan05p,1980,M,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,Decia out20191211 in20191213,acuerdo INE,,1
-64,680,840,ARMANDO,AVILES GARCIA,zrp5pan05s,,M,pan,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,1
+64,679,340,ADOLFO,TORRES RAMIREZ,zrp5pan05p,1980,M,pan,pan,0,0,0,--,2018,8,29,2019,12,11,2020,2,1,,,,,,,,,Decia out20191211 in20191213,acuerdo INE,,1
+64,680,840,ARMANDO,AVILES GARCIA,zrp5pan05s,,M,pan,pan,0,0,1,--,2019,12,12,2020,1,31,,,,,,,,,,,,,acuerdo INE,,1
 64,681,341,GLORIA,ROMERO LEON,zrp5pan06p,1964,F,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,61-64,1
 64,682,841,GLORIA ISABEL,VITE CRUZ,zrp5pan06s,,F,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,683,342,BENITO,MEDINA HERRERA,zrp1pri01p,,M,pri,pri,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
