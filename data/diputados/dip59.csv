@@ -17,15 +17,15 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,16,508,ANTONIO,VALLADOLID RODRIGUEZ,bc05s,1973,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,590-60,0
 59,17,9,VICTOR MANUEL,GONZALEZ REYES ,bc06p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,18,509,JOSE TEODORO,BARRAZA LOPEZ,bc06s,,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,590-63,
-59,19,10,FRANCISCO JAVIER,OBREGON ESPINOZA ,bcs01p,,,,prd,bcs,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,19,10,FRANCISCO JAVIER,OBREGON ESPINOZA ,bcs01p,,,,prd,bcs,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,20,510,BENJAMIN,GARCIA MEZA,bcs01s,,,,prd,bcs,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,21,11,NARCISO,AGUNDEZ MONTAÑO,bcs02p,,,,prd,bcs,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,22,511,JOSEFINA,COTA COTA,bcs02s,,,,prd,bcs,1,1,,2004,8,30,,,,,,,,,,,,,,,,,,1
+59,22,511,JOSEFINA,COTA COTA,bcs02s,,,,prd,bcs,1,1,,2004,8,30,,,,,,,,,,,,,,,,,59-sen,1
 59,23,12,ENRIQUE ARIEL,ESCALANTE ARCEO ,cam01p,,,,pri,cam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,24,512,SERGIO AGUSTIN,RAMIREZ GONZALEZ,cam01s,,,,pri,cam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,25,13,SEBASTIAN,CALDERON CENTENO ,cam02p,,,,pan,cam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,25,13,SEBASTIAN,CALDERON CENTENO ,cam02p,,,,pan,cam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,26,513,RAMON,DIMAS HERNANDEZ,cam02s,,,,pan,cam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,27,14,JESUS MARIA,RAMON VALDES ,coa01p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,27,14,JESUS MARIA,RAMON VALDES ,coa01p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,28,514,ERNESTO VELA,DEL CAMPO,coa01s,,,,pri,coa,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,29,15,JESUS,ZUÑIGA ROMERO ,coa02p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
 59,30,515,PATRICIA DEL CARMEN,QUISTIAN CONTRERAS,coa02s,,,,pri,coa,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -41,11 +41,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,40,520,ALDO MAURICIO,MARTINEZ HERNANDEZ ,coa07s,,,,pri,coa,1,1,,2005,8,30,,,,,,,,,,,,,,,,,,1
 59,41,21,ANTONIO,MORALES DE LA PEÑA,col01p,,,,pan,col,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,42,521,PATRICIA,LUGO BARRIGA,col01s,1973,,,pan,col,1,1,,,,,,,,,,,,,,,,,,,,,59-62,1
-59,43,22,ROGELIO HUMBERTO,RUEDA SANCHEZ ,col02p,,,,pri,col,1,0,,2003,8,29,2006,5,17,,,,,,,,,,,,,,,1
+59,43,22,ROGELIO HUMBERTO,RUEDA SANCHEZ ,col02p,,,,pri,col,1,0,,2003,8,29,2006,5,17,,,,,,,,,,,,,,59-sen,1
 59,44,522,ANAMIN ZENAIDA,SOLORZANO TORRES,col02s,,,,pri,col,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,45,23,JORGE BALDEMAR,UTRILLA ROBLES ,cps01p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,46,523,FRANCISCA,DAMAS DAMAS,cps01s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,47,24,MARIA ELENA,ORANTES LOPEZ ,cps02p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
+59,47,24,MARIA ELENA,ORANTES LOPEZ ,cps02p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
 59,48,524,RAMIRO,GOMEZ DOMINGUEZ,cps02s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,49,25,JUAN ANTONIO,GORDILLO REYES,cps03p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,50,525,ARMANDO,AGUILAR GORDILLO,cps03s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -77,7 +77,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,76,538,ARTURO,AVILA FIERRO,cua04s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,77,39,FERNANDO,ALVAREZ MONJE ,cua05p,,,,pan,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,78,539,DANIEL,TORRES CHAVEZ,cua05s,,,,pan,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,79,40,GUSTAVO ENRIQUE,MADERO MUÑOZ ,cua06p,,,,pan,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
+59,79,40,GUSTAVO ENRIQUE,MADERO MUÑOZ ,cua06p,,,,pan,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
 59,80,540,LILIANA,ROJERO LUEVANO,cua06s,,,,pan,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,81,41,JORGE DE JESUS,CASTILLO CABRERA ,cua07p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,82,541,MANUEL RAMON,CARRERA AGUILAR,cua07s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -99,7 +99,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,98,549,IMELDA,MENDOZA ROMERO,df06s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,99,50,IVAN,GARCIA SOLIS ,df07p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,100,550,HUGO OTILIO,DELGADILLO MEJIA,df07s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,101,51,MARIA DE LOS DOLORES,PADIERNA LUNA,df08p,1958,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-64,1
+59,101,51,MARIA DE LOS DOLORES,PADIERNA LUNA,df08p,1958,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen-64,1
 59,102,551,BEATRIZ ASCENCION,LARA AGUIRRE,df08s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,103,52,MARIA GUADALUPE,MORALES RUBIO ,df09p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,104,552,IRMA,MORALES MORAN,df09s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -113,7 +113,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,112,556,KARINA,CORDOVA GUERRERO,df13s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,113,57,DANIEL,ORDOÑEZ HERNANDEZ ,df14p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
 59,114,557,MERCEDES ARACELI,ARCE NAVA,df14s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,115,58,FEDERICO,DÖRING CASAR,df15p,,,,pan,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,115,58,FEDERICO,DORING CASAR,df15p,,,,pan,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
 59,116,558,JUAN PABLO,CHABAUD LIMON,df15s,,,,pan,df,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,117,59,VICTOR,SUAREZ CARRERA ,df16p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,118,559,LEONARDO GREGORIO,BOBADILLA VALDES,df16s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -129,7 +129,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,128,564,JOSE MARIA,GOMEZ VILLASEÑOR,df21s,,,,pan,df,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,129,65,GILBERTO,SANTIAGO ENSASTIGA,df22p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,130,565,FRANCISCO,DIEGO AGUILAR ,df22s,,,,prd,df,1,1,,2005,2,8,,,,,,,,,,,,,,,,,,1
-59,131,66,PABLO,GOMEZ ALVARADO,df23p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-64,1
+59,131,66,PABLO,GOMEZ ALVARADO,df23p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen-64,1
 59,132,566,HECTOR,ROMERO BOLAÑOS,df23s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,133,67,BERNARDINO,RAMOS ITURBIDE ,df24p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,134,567,RAUL,AVILES ALLENDE,df24s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -156,7 +156,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,155,78,PEDRO,AVILA NEVAREZ ,dgo05p,,,,pri,dgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
 59,156,578,JORGE,VAZQUEZ VELOZ,dgo05s,,,,pri,dgo,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,157,79,ALFONSO,MORENO MORAN ,gua01p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,158,579,GABRIELA MIRANDA CAMPERO,LOPEZ MALO,gua01s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
+59,158,579,GABRIELA MIRANDA,CAMPERO LOPEZ MALO,gua01s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,159,80,ARMANDO,RANGEL HERNANDEZ,gua02p,1965,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
 59,160,580,BERENICE,MONTES ESTRADA,gua02s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,161,81,JORGE CARLOS,OBREGON SERRANO,gua03p,,,,pan,gua,1,0,,2003,8,29,2006,2,1,2006,5,24,,,,,,,,,,,,1
@@ -199,7 +199,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,198,599,WILFRIDA,SANCHEZ TEJEDA,gue06s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,199,100,MARIO,MORENO ARCOS ,gue07p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
 59,200,600,ALBERTO,DE LOS SANTOS DIAZ,gue07s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,201,101,ANGEL HELADIO,AGUIRRE RIVERO ,gue08p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,201,101,ANGEL HELADIO,AGUIRRE RIVERO ,gue08p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,202,601,JOSE FELICIANO,MOLINA CRUZALTA,gue08s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,203,102,ROSARIO,HERRERA ASCENCIO ,gue09p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,204,602,MARIA DE LOS ANGELES,COLLI CAAMAL,gue09s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -207,7 +207,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,206,603,OSCAR OCTAVIO,LOPEZ VAZQUEZ,gue10s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,207,104,EMILIO,BADILLO RAMIREZ ,hgo01p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,208,604,YARELY,MELO RODRIGUEZ,hgo01s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,209,105,ROBERTO,PEDRAZA MARTINEZ ,hgo02p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,209,105,ROBERTO,PEDRAZA MARTINEZ ,hgo02p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,210,605,MARIA ASUNCION,MAYORGA PONCE,hgo02s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,211,106,GONZALO,RODRIGUEZ ANAYA ,hgo03p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,212,606,FRANCISCO,AVILES MARTINEZ,hgo03s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -317,7 +317,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,316,658,EDITH,GUILLEN ZARATE ,mex29s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,317,159,GERARDO,ULLOA PEREZ ,mex30p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,318,659,RODOLFO,RODRIGUEZ PEREZ,mex30s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,319,160,HECTOR MIGUEL,BAUTISTA LOPEZ ,mex31p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,319,160,HECTOR MIGUEL,BAUTISTA LOPEZ ,mex31p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,320,660,MARCOS,ALVAREZ PEREZ,mex31s,,,,prd,mex,1,1,,2005,2,17,,,,,,,,,,,,,,,,,,1
 59,321,161,ISAIAS,SORIANO LOPEZ ,mex32p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,322,661,PEDRO JAIME,HERNANDEZ MENDEZ,mex32s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -365,9 +365,9 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,364,682,EULALIO,ESPINDOLA ARANDA,mor04s,,,,pri,mor,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,365,183,MARIA HILARIA,DOMINGUEZ ARVIZU ,nay01p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
 59,366,683,JOSE LUCAS,VALLARTA CHAN,nay01s,,,,pri,nay,1,1,,,,,,,,,,,,,,,,,,,,,590-630,
-59,367,184,GERARDO,MONTENEGRO IBARRA ,nay02p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,367,184,GERARDO,MONTENEGRO IBARRA ,nay02p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,368,684,JASSIVE PATRICIA,DURAN MACIEL,nay02s,,,,pri,nay,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,369,185,RAUL JOSE,MEJIA GONZALEZ ,nay03p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,369,185,RAUL JOSE,MEJIA GONZALEZ ,nay03p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,370,685,JUAN MANUEL,GONZALEZ PORTUGAL,nay03s,,,,pri,nay,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,371,186,JUAN CARLOS,PEREZ GONGORA ,nl01p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,372,686,ALFONSO CRISOFORO,GUZMAN GOMEZ,nl01s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -377,7 +377,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,376,688,KARINA,MARTINEZ CANTU,nl03s,,,,pri,nl,1,1,,2006,4,25,,,,,,,,,,,,,,,,,,1
 59,377,189,NORMA,SAUCEDO MORENO ,nl04p,,,,pan,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,378,689,FRANCISCO JAVIER,ACOSTA ARMENDARIZ,nl04s,,,,pan,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,379,190,MARCELA,GUERRA CASTILLO ,nl05p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
+59,379,190,MARCELA,GUERRA CASTILLO ,nl05p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
 59,380,690,DANIEL,BAUTISTA ROCHA,nl05s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,381,191,MAYELA MARIA DE LOURDES,QUIROGA TAMEZ ,nl06p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,382,691,LILIANA,TIJERINA CANTU,nl06s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -391,7 +391,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,390,695,MARIO JESUS,PEÑA GARZA,nl10s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,391,196,ALFONSO,RODRIGUEZ OCHOA ,nl11p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,392,696,JESUS ALBERTO,ALMAGUER ROCHA,nl11s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,393,197,EVIEL,PEREZ MAGAÑA,oax01p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
+59,393,197,EVIEL,PEREZ MAGAÑA,oax01p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
 59,394,697,GUSTAVO,ZANATTA GASPERIN ,oax01s,,,,pri,oax,1,1,,2004,11,25,,,,,,,,,,,,,,,,,,1
 59,395,198,ELPIDIO,CONCHA ARELLANO ,oax02p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,396,698,ISABEL CARMELINA,CRUZ SILVA,oax02s,,,,pri,oax,1,1,,2006,3,20,,,,,,,,,,,,,,,,,,1
@@ -415,7 +415,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,414,707,PEDRO GUSTAVO,CABRERA RIVERO,oax11s,,,,pri,oax,1,1,,2006,3,16,,,,,,,,,,,,,,,,,,1
 59,415,208,FIDEL RENE,MEZA CABRERA ,pue01p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
 59,416,708,TOMAS,MARTINEZ ROLDAN,pue01s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,417,209,JOSE GUILLERMO,ARECHIGA SANTAMARIA ,pue02p,1958,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,59-64,1
+59,417,209,JOSE GUILLERMO,ARECHIGA SANTAMARIA ,pue02p,1958,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,59-sen-62,1
 59,418,709,JUAN MANUEL,LOPEZ ARROYO,pue02s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,419,210,JOSE LUIS,FLORES HERNANDEZ ,pue03p,1950,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
 59,420,710,LUDIVINO,MORA TEJEDA,pue03s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -427,7 +427,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,426,713,MARIA CECILIA DEL ROSARIO,ESPINO GONZALEZ,pue06s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,427,214,JESUS,MORALES FLORES ,pue07p,1946,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
 59,428,714,DULCE MARIA,PALACIOS FORTIZ,pue07s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,429,215,RAFAEL MORENO,VALLE ROSAS,pue08p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,429,215,RAFAEL,MORENO VALLE ROSAS,pue08p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,430,715,JOSE,LOPEZ MEDINA ,pue08s,,,,pri,pue,1,1,,2004,12,9,,,,,,,,,,,,,,,,,,1
 59,431,216,JOSE FELIPE,PUELLES ESPINA ,pue09p,,,,pan,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,432,716,JANET MIGUELINA,VARGAS JARQUIN,pue09s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -447,11 +447,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,446,723,ANGEL ARIEL,HERNANDEZ HURTADO,que01s,,,,pri,que,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,447,224,ROGELIO,CHAVARRIA SALAS ,que02p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,448,724,BALBINA,MATA TREJO,que02s,,,,pan,que,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,449,225,GUILLERMO ENRIQUE MARCOS,TAMBORREL SUAREZ ,que03p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,449,225,GUILLERMO ENRIQUE MARCOS,TAMBORREL SUAREZ ,que03p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,450,725,GONZALO,MENDOZA FELIX,que03s,,,,pan,que,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,451,226,RICARDO,ALEGRE BOJORQUEZ,que04p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,452,726,MIGUEL,SIERRA ZUÑIGA ,que04s,,,,pan,que,1,1,,2006,2,28,,,,,,,,,,,,,,,,,,1
-59,453,227,FELIX ARTURO,GONZALEZ CANTO,qui01p,,,,pri,qui,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,453,227,FELIX ARTURO,GONZALEZ CANTO,qui01p,,,,pri,qui,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,454,727,MARIA CONCEPCION,FAJARDO MUÑOZ,qui01s,,,,pri,qui,1,1,,2004,11,9,,,,,,,,,,,,,,,,,,1
 59,455,228,VICTOR MANUEL,ALCERRECA SANCHEZ,qui02p,,,,pri,qui,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,456,728,MANUEL JESUS,TZAB CASTRO,qui02s,,,,pri,qui,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -495,11 +495,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,494,747,HECTOR SAMUEL,RODRIGUEZ SANCHEZ,son04s,,,,pri,son,1,1,,2006,2,2,,,,,,,,,,,,,,,,,,1
 59,495,248,GUSTAVO ADOLFO,DE UNANUE AGUIRRE,son05p,,,,pan,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,496,748,MARIA GERTRUDIS,ALCARAZ ORTEGA,son05s,,,,pan,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,497,249,JAVIER,CASTELO PARADA ,son06p,,,,pan,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
+59,497,249,JAVIER,CASTELO PARADA ,son06p,,,,pan,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen,1
 59,498,749,GUILLERMO,PINEDA BOURS,son06s,,,,pan,son,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,499,250,JOSE LAMBERTO,DIAZ NIEBLAS,son07p,,,,pri,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,500,750,GUADALUPE,MENDIVIL MORALES ,son07s,,,,pri,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,501,251,FRANCISCO,HERRERA LEON ,tab01p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,501,251,FRANCISCO,HERRERA LEON ,tab01p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,502,751,BENIGNO ANTONIO,LEZAMA SANCHEZ,tab01s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,503,252,LUIS FELIPE,MADRIGAL HERNANDEZ,tab02p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,504,752,CARLOS HUMBERTO GALLEGOS,DE LA CRUZ,tab02s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
@@ -513,14 +513,14 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,512,756,PEDRO,GUTIERREZ GUTIERREZ,tab06s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,513,257,JOSE MANUEL,ABDALA DE LA FUENTE,tam01p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,514,757,SERVANDO,LOPEZ MORENO,tam01s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,515,258,MAKI ESTHER,ORTIZ DOMINGUEZ ,tam02p,,,,pan,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,515,258,MAKI ESTHER,ORTIZ DOMINGUEZ ,tam02p,,,,pan,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,516,758,NORMA,CORDERO GONZALEZ,tam02s,,,,pan,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,517,259,JESUS HUMBERTO,MARTINEZ DE LA CRUZ,tam03p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,518,759,MARGARITA,GARCIA MARTINEZ,tam03s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,519,260,BALTAZAR MANUEL,HINOJOSA OCHOA,tam04p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-63,1
 59,520,760,ERICK AGUSTIN,SILVA SANTOS ,tam04s,,,,pri,tam,1,1,,2004,8,30,,,,,,,,,,,,,,,,,,1
 59,521,261,HUMBERTO FRANCISCO,FILIZOLA HACES ,tam05p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,522,761,GRACIELA DE,ALEJANDRO ACEVEDO,tam05s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
+59,522,761,GRACIELA,DE ALEJANDRO ACEVEDO,tam05s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,523,262,OSCAR MARTIN,RAMOS SALINAS ,tam06p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
 59,524,762,LUCIA ADRIANA,DIEZ PIÑEYRO,tam06s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,525,263,GONZALO,ALEMAN MIGLIOLO ,tam07p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
@@ -597,13 +597,13 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,596,798,RAFAEL,CANDELAS SALINAS,zac03s,,,,prd,zac,1,1,,2004,4,1,,,,,,,,,,,,,,,,,57-59,1
 59,597,299,RAFAEL,FLORES MENDOZA ,zac04p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,598,799,JOSE MANUEL,ZAMBRANO TISCAREÑO,zac04s,,,,prd,zac,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,599,300,ANTONIO,MEJIA HARO ,zac05p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,599,300,ANTONIO,MEJIA HARO ,zac05p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,600,800,FRANCISCO,ROJAS CONTRERAS,zac05s,,,,prd,zac,1,1,,,,,,,,,,,,,,,,,,,,,,
 59,601,301,CONSUELO RODRIGUEZ,DE ALBA ,zrp001p,,,,pri,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,602,801,HUGO CESAR,OLIVARES VELASCO,zrp001s,,,,pri,ags,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,603,302,MARIA GUADALUPE,GARCIA VELASCO ,zrp002p,,,,pan,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,604,802,FRANCISCO,GUZMAN HERRERA,zrp002s,,,,pan,ags,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,605,303,ANGELICA,DE LA PEÑA GOMEZ,zrp003p,,F,,prd,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
+59,605,303,ANGELICA,DE LA PEÑA GOMEZ,zrp003p,,F,,prd,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen,1
 59,606,803,MYRTHALA INES,HERNANDEZ RUIZ,zrp003s,,,,prd,ags,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,607,304,RAUL,POMPA VICTORIA ,zrp004p,,,,pri,bc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,608,804,LUIS RIGOBERTO,DIAZ TEJEDA,zrp004s,,,,pri,bc,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -639,7 +639,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,638,819,MARTHA BEATRIZ,CORDOVA BERNAL,zrp019s,,,,conv,coa,0,1,--,,,,,,,,,,,,,,,,,,,,590-62,0
 59,639,320,GRACIELA,LARIOS RIVAS ,zrp020p,,,,pri,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,640,820,MARIA DE LA,LUZ MORENO ,zrp020s,,,,pri,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,641,321,JORGE LUIS,PRECIADO RODRIGUEZ ,zrp021p,1972,,,pan,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-64,1
+59,641,321,JORGE LUIS,PRECIADO RODRIGUEZ ,zrp021p,1972,,,pan,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-64,1
 59,642,821,KARLA MARGARITA,RAMIREZ Y RAMIREZ,zrp021s,,,,pan,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,643,322,SOCORRO,DIAZ PALACIOS ,zrp022p,,,,prd,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,644,822,ANTONIO,CALDERON CENDEJAS,zrp022s,,,,prd,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -655,7 +655,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,654,827,JORGE,BLAS LOPEZ,zrp027s,,,,prd,cps,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,655,328,EMILIO,ZEBADUA GONZALEZ,zrp028p,,,,prd,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,656,828,JUAN,ROMERO TENORIO,zrp028s,,,,prd,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-63,
-59,657,329,MANUEL,VELASCO COELLO ,zrp029p,,,,pvem,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,657,329,MANUEL,VELASCO COELLO ,zrp029p,,,,pvem,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,658,829,EDUARDO FRANCISCO,ZENTENO NUÑEZ,zrp029s,,,,pvem,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-63,0
 59,659,330,FRANCISCO,ESPINOZA RAMOS ,zrp030p,,,,pt,cps,0,0,--,2003,8,29,,,,2006,3,25,,,,,,,,,,,,1
 59,660,830,HECTOR HUGO,ROBLERO GORDILLO,zrp030s,,,,pt,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-610-62,0
@@ -663,7 +663,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,662,831,OMAR,BAZAN FLORES,zrp031s,,,,pri,cua,0,1,--,,,,,,,,,,,,,,,,,,,,57-590,
 59,663,332,FRANCISCO,BARRIO TERRAZAS ,zrp032p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,664,832,VERONICA,PEREZ HERRERA,zrp032s,,,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,665,333,RAMON,GALINDO NORIEGA ,zrp033p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,665,333,RAMON,GALINDO NORIEGA ,zrp033p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,666,833,MARIA ANTONIETA,PEREZ REYES,zrp033s,,,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,
 59,667,334,BLANCA AMELIA,GAMEZ GUTIERREZ ,zrp034p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,668,834,LUIS ENRIQUE,ACOSTA TORRES,zrp034s,,,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -695,11 +695,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,694,847,ROSA MARIA,DEL VAL RUIZ,zrp047s,,,,pan,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,695,348,MARGARITA ESTHER,ZAVALA GOMEZ DEL CAMPO,zrp048p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,696,848,ALONSO,ROLANDO GARCIA,zrp048s,,,,pan,df,0,1,--,2006,4,13,,,,,,,,,,,,,,,,,,1
-59,697,349,RENE,ARCE ISLAS ,zrp049p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,697,349,RENE,ARCE ISLAS ,zrp049p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,698,849,EDUARDO,MAYA PADILLA,zrp049s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,699,350,JULIO,BOLTVINIK KALINKA ,zrp050p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,700,850,NEMESIO HERLINDO,HERNANDEZ SANTANDER,zrp050s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,701,351,VICTOR MANUEL,CAMACHO SOLIS ,zrp051p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,701,351,VICTOR MANUEL,CAMACHO SOLIS ,zrp051p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,702,851,DAVID,GAXIOLA PINEDA,zrp051s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,703,352,LUIS EDUARDO,ESPINOZA PEREZ ,zrp052p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,704,852,JOSE FERNANDO,VAZQUEZ NAJERA,zrp052s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -723,7 +723,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,722,861,JOSE DE JESUS,PEREZNEGRON PEREZNEGRON,zrp061s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,723,362,JORGE ANTONIO,KAHWAGI MACRI,zrp062p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,724,862,MINERVA ELIZABETH,CASTILLEROS CERVANTES,zrp062s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,725,363,JAVIER,OROZCO GOMEZ ,zrp063p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
+59,725,363,JAVIER,OROZCO GOMEZ ,zrp063p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62,1
 59,726,863,MIGUEL,OROZCO GOMEZ,zrp063s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,590-610-620,
 59,727,364,MIGUEL,MORENO GARAVILLA ,zrp064p,,,,conv,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,728,864,GUILLERMO,ROJAS RUBIN,zrp064s,,,,conv,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -735,7 +735,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,734,867,MARIA SALOME,ELYD SAENZ,zrp067s,,,,pan,dgo,0,1,--,2004,9,13,,,,,,,,,,,,,,,,,,1
 59,735,368,BERNARDO,LOERA CASTILLO ,zrp068p,,,,pan,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,736,868,SILVIA MARCELA,MARTINEZ MORALES,zrp068s,,,,pan,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,737,369,ALEJANDRO,GONZALEZ YAÑEZ ,zrp069p,1956,M,,pt,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
+59,737,369,ALEJANDRO,GONZALEZ YAÑEZ ,zrp069p,1956,M,,pt,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen,1
 59,738,869,GLORIA CRISTINA,RUIZ MENDOZA,zrp069s,,,,pt,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,739,370,WINTILO,VEGA MURILLO,zrp070p,1962,,,pri,gua,0,0,--,2003,8,29,2005,11,30,,,,,,,,,,,,,,57-59,1
 59,740,870,OFELIA,RUIZ VEGA,zrp070s,,,,pri,gua,0,1,--,2006,2,1,,,,,,,,,,,,,,,,,,1
@@ -777,7 +777,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,776,888,AMALIA,PADILLA GONZALEZ,zrp088s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,777,389,FERNANDO ANTONIO GUZMAN,PEREZ PELAEZ ,zrp089p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,778,889,MARIA GUADALUPE,PLASCENCIA VAZQUEZ,zrp089s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,779,390,GABRIELA RUIZ,DEL RINCON ,zrp090p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,779,390,GABRIELA RUIZ,DEL RINCON ,zrp090p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,780,890,CARLOS ALBERTO,TORRES TORRES,zrp090s,1975,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
 59,781,391,RAFAEL,SANCHEZ PEREZ ,zrp091p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
 59,782,891,MARISELA DE LOURDES,MEZA SERVIN,zrp091s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -799,7 +799,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,798,899,AURELIO,SALINAS ORTIZ,zrp099s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,799,400,ALFREDO HILARIO ISIDRO,DEL MAZO GONZALEZ,zrp100p,,,,pri,mex,0,0,--,2003,8,29,2006,1,16,2006,3,9,2006,8,16,,,,,,,,,1
 59,800,900,JOSE ADOLFO,MURAT MACIAS,zrp100s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,801,401,ARMANDO,NEYRA CHAVEZ ,zrp101p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,51-55-57-59-61,1
+59,801,401,ARMANDO,NEYRA CHAVEZ ,zrp101p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,51-55-57-59-61-sen,1
 59,802,901,CITLALLI MALINALLI,LUGO DIAZ,zrp101s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,803,402,FRANCISCO JOSE,ROJAS GUTIERREZ ,zrp102p,,,,pri,mex,0,0,--,2003,8,29,2005,12,21,2006,4,21,,,,,,,,,,,59-61,1
 59,804,902,ERIK IVAN,JAIMES ARCHUNDIA,zrp102s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,590-600,
@@ -807,7 +807,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,806,903,RAMON,PATIÑO LEMUS,zrp103s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,807,404,RODRIGO IVAN,CORTES JIMENEZ ,zrp104p,,,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,808,904,LUCIA JAZMIN,CARRILLO OVALLES,zrp104s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,809,405,ADRIANA,GONZALEZ CARRILLO ,zrp105p,,F,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
+59,809,405,ADRIANA,GONZALEZ CARRILLO ,zrp105p,,F,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62,1
 59,810,905,CARLOS ARTURO,MILLAN SANCHEZ,zrp105s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,590-610,
 59,811,406,EDELMIRA,GUTIERREZ RIOS ,zrp106p,,,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,812,906,PEDRO ELOY,ESTEVA VELASCO,zrp106s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -837,13 +837,13 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,836,918,EMMA,MONDRAGON NAVARRETE,zrp118s,,,,pri,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,837,419,MARGARITA DEL SAGRADO CORAZON DE JESUS,CHAVEZ MURGUIA ,zrp119p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
 59,838,919,FRANCISCO JOSE,PEREZ PEREZ,zrp119s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,839,420,MARKO ANTONIO,CORTES MENDOZA ,zrp120p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
+59,839,420,MARKO ANTONIO,CORTES MENDOZA ,zrp120p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
 59,840,920,MONICA,LUGO VIDAL,zrp120s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,841,421,JOSE,GONZALEZ MORFIN ,zrp121p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
+59,841,421,JOSE,GONZALEZ MORFIN ,zrp121p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62,1
 59,842,921,MARIA DEL PILAR,IBARROLA MACOUZET,zrp121s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,843,422,GERMAN,MARTINEZ CAZARES ,zrp122p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
 59,844,922,MARIA ELENA,PEREZ DE TEJADA ROMERO,zrp122s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,0
-59,845,423,SALVADOR,VEGA CASILLAS ,zrp123p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,845,423,SALVADOR,VEGA CASILLAS ,zrp123p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,846,923,PERLA,ORTIZ CABRERA,zrp123s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,847,424,SERGIO AUGUSTO,MAGAÑA MARTINEZ ,zrp124p,,,,prd,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,848,924,VICTOR LENIN,SANCHEZ RODRIGUEZ,zrp124s,,,,prd,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -863,7 +863,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,862,931,DAVID,FAJARDO PEREZ,zrp131s,,,,pri,nay,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,863,432,MANUEL,PEREZ CARDENAS ,zrp132p,,,,pan,nay,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,864,932,ANA ERIKA,CAMBERO NAVARRO,zrp132s,,,,pan,nay,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,865,433,MARIA CRISTINA,DIAZ SALAZAR ,zrp133p,,,,pri,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
+59,865,433,MARIA CRISTINA,DIAZ SALAZAR ,zrp133p,,,,pri,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
 59,866,933,LUIS ALEJANDRO,GUEVARA COBOS,zrp133s,1975,,,pri,nl,0,1,--,2006,3,16,,,,,,,,,,,,,,,,,57-590-600-61-63,1
 59,867,434,HECTOR HUMBERTO,GUTIERREZ DE LA GARZA,zrp134p,1962,,,pri,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
 59,868,934,HECTOR,RODRIGUEZ ROCHA,zrp134s,,,,pri,nl,0,1,--,2006,4,27,,,,,,,,,,,,,,,,,,1
@@ -895,7 +895,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,894,947,MARIA DE JESUS,MENDOZA SANCHEZ,zrp147s,,,,pan,pue,0,1,--,,,,,,,,,,,,,,,,,,se repiten zrp144s Zrp147s,,590-61,
 59,895,448,ROSA MARIA,AVILES NAJERA ,zrp148p,,,,prd,pue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,896,948,ELODIA,MARQUEZ CABRERA,zrp148s,,,,prd,pue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,897,449,ENRIQUE,BURGOS GARCIA ,zrp149p,,,,pri,que,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,897,449,ENRIQUE,BURGOS GARCIA ,zrp149p,,,,pri,que,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,898,949,REYNA,MORA VAZQUEZ,zrp149s,,,,pri,que,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,899,450,MANUEL ENRIQUE,OVALLE ARAIZA ,zrp150p,,,,pan,que,0,0,--,2003,8,29,2005,12,13,,,,,,,,,,,,,,,1
 59,900,950,MARGARITA,ROSADO RAMIREZ,zrp150s,,,,pan,que,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -909,13 +909,13 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,908,954,MARIA LUISA,DE LA VEGA MENDOZA,zrp154s,,,,pan,qui,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,909,455,ROGELIO,FRANCO CASTAN,zrp155p,1975,M,,prd,qui,0,0,--,2003,8,29,,,,,,,,,,,,,,,se repiten zrp155s Zrp183s,,no,1
 59,910,955,EMILIANO BLADIMIR,RAMOS HERNANDEZ ,zrp155s,,,,prd,qui,0,1,--,2005,4,27,,,,,,,,,,,,,,,,,,1
-59,911,456,CARLOS,JIMENEZ MACIAS ,zrp156p,,,,pri,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,911,456,CARLOS,JIMENEZ MACIAS ,zrp156p,,,,pri,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,912,956,REYNALDO,BELTRAN OVIEDO,zrp156s,,,,pri,san,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,913,457,SARA,ROCHA MEDINA ,zrp157p,,,,pri,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,914,957,ROSALBA,BALDERRAMA BRAVO,zrp157s,,,,pri,san,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,915,458,ALFREDO,FERNANDEZ MORENO ,zrp158p,,,,pan,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,916,958,ROSA MARIA,PADILLA CONTRERAS,zrp158s,,,,pan,san,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,917,459,DIVA HADAMIRA,GASTELUM BAJO ,zrp159p,,,,pri,sin,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
+59,917,459,DIVA HADAMIRA,GASTELUM BAJO ,zrp159p,,,,pri,sin,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
 59,918,959,DANILA,PERKINS FERNANDEZ,zrp159s,,,,pri,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,919,460,ALFREDO,VILLEGAS ARREOLA ,zrp160p,1951,M,,pri,sin,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-61-64,1
 59,920,960,EVERARDO,RAMOS GARCIA,zrp160s,,,,pri,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -949,19 +949,19 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,948,974,ENRIQUE,SARMIENTO ALVAREZ,zrp174s,,,,pri,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,949,475,GISELA JULIANA,LARA SALDAÑA ,zrp175p,,,,pan,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,950,975,JOSE DE JESUS,DE LA CRUZ RAMIREZ,zrp175s,,,,pan,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,951,476,JOSE JULIAN,SACRAMENTO GARZA ,zrp176p,,,,pan,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,951,476,JOSE JULIAN,SACRAMENTO GARZA ,zrp176p,,,,pan,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,952,976,MARIA LIZETH,ACOSTA AGUIRRE,zrp176s,,,,pan,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,953,477,ELPIDIO,TOVAR DE LA CRUZ,zrp177p,,,,prd,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,954,977,ROBERTO AURELIO,CAZARES QUINTANA,zrp177s,,,,prd,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,955,478,LUIS ANTONIO,GONZALEZ ROLDAN ,zrp178p,,,,pvem,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
 59,956,978,JESUS,GONZALEZ MACIAS,zrp178s,1972,,,pvem,tam,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
 59,957,479,JUAN ANTONIO,GUAJARDO ANZALDUA ,zrp179p,,,,pt,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,958,979,RUBEN,AGUILAR JIMENEZ,zrp179s,1943,,,pt,tam,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,
-59,959,480,MARTHA,PALAFOX GUTIERREZ ,zrp180p,1949,,,pri,tla,0,0,--,,,,,,,,,,,,,,,,,,,,57-590,
-59,960,980,ROBERTO ARMANDO,ALBORES GLEASON,zrp180s,1979,,,pri,tla,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,0
+59,958,979,RUBEN,AGUILAR JIMENEZ,zrp179s,1943,,,pt,tam,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
+59,959,480,MARTHA,PALAFOX GUTIERREZ ,zrp180p,1949,,,pri,tla,0,0,--,,,,,,,,,,,,,,,,,,,,57-590-sen,0
+59,960,980,ROBERTO ARMANDO,ALBORES GLEASON,zrp180s,1979,,,pri,tla,0,1,--,,,,,,,,,,,,,,,,,,,,590-61-sen,0
 59,961,481,JOSE JUAN,BARCENAS GONZALEZ ,zrp181p,,,,pan,tla,0,0,--,,,,,,,,,,,,,,,,,,,,,
 59,962,981,AMADA,ACOLTZI GONZALEZ,zrp181s,,,,pan,tla,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,963,482,MINERVA,HERNANDEZ RAMOS ,zrp182p,,,,prd,tla,0,0,--,,,,,,,,,,,,,,,,,,,,59-63,1
+59,963,482,MINERVA,HERNANDEZ RAMOS ,zrp182p,,,,prd,tla,0,0,--,,,,,,,,,,,,,,,,,,,,59-sen-63,1
 59,964,982,JUAN JESUS,MARTINEZ ZAVALA,zrp182s,,,,prd,tla,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,965,483,ROGELIO,FRANCO CASTAN,zrp183p,,,,pri,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,se repiten zrp155s Zrp183s,,,1
 59,966,983,EMILIO VALDIMIR,RAMOS HERNANDEZ,zrp183s,,,,pri,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
@@ -987,13 +987,13 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 59,986,993,JUSTO JOSE,FERNANDEZ GARIBAY,zrp193s,,,,pvem,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,987,494,JUAN FERNANDO,PERDOMO BUENO ,zrp194p,,,,conv,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,988,994,MANUEL BERNARDO,CARBONELL ORTEGA,zrp194s,,,,conv,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,989,495,ALFREDO RODRIGUEZ,Y PACHECO ,zrp195p,,,,pan,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
+59,989,495,ALFREDO,RODRIGUEZ Y PACHECO,zrp195p,,,,pan,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
 59,990,995,YOLANDA LETICIA,PENICHE BLANCO,zrp195s,,,,pan,yuc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,991,496,MARIA BEATRIZ,ZAVALA PENICHE ,zrp196p,,,,pan,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-62,1
+59,991,496,MARIA BEATRIZ,ZAVALA PENICHE ,zrp196p,,,,pan,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen-62,1
 59,992,996,MARCO ANTONIO,PASOS TEC,zrp196s,,,,pan,yuc,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,993,497,MARBELLA,CASANOVA CALAM ,zrp197p,,,,prd,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,994,997,MIRNA CONCEPCION,CASTRO PAVIA,zrp197s,,,,prd,yuc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,995,498,JOSE ISABEL,TREJO REYES ,zrp198p,1959,,,pan,zac,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62-64,1
+59,995,498,JOSE ISABEL,TREJO REYES ,zrp198p,1959,,,pan,zac,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62-64,1
 59,996,998,ANA MARIA,AVILA FLORES,zrp198s,,,,pan,zac,0,1,--,,,,,,,,,,,,,,,,,,,,,
 59,997,499,JOSE LUIS,MEDINA LIZALDE ,zrp199p,,,,prd,zac,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
 59,998,999,TERESINA,CASAS CASTRO,zrp199s,,,,prd,zac,0,1,--,,,,,,,,,,,,,,,,,,,,,

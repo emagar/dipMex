@@ -117,7 +117,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,116,558,JUAN MANUEL,OROZCO CARMONA,df13s,,,,prd,df,1,1,IZTACALCO,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,117,59,CARLOS,HERNANDEZ MIRON,df14p,,,,prd,df,1,0,TLALPAN,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,118,559,ALONSO,ORTEGA GAMBOA,df14s,,,,prd,df,1,1,TLALPAN,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
-63,119,60,FEDERICO,DORING CASAR,df15p,,,,pan,df,1,0,BENITO JUAREZ,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
+63,119,60,FEDERICO,DORING CASAR,df15p,,,,pan,df,1,0,BENITO JUAREZ,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,59-sen-63,1
 63,120,560,OSCAR DANIEL,HERNANDEZ MORALES,df15s,,,,pan,df,1,1,BENITO JUAREZ,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,121,61,MARIA CRISTINA TERESA,GARCIA BRAVO,df16p,,,,prd,df,1,0,ALVARO OBREGON,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,122,561,MARTHA EUGENIA,ALBORES LOEZA,df16s,,,,prd,df,1,1,ALVARO OBREGON,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
@@ -599,7 +599,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,598,799,ELIZABETH,HERNANDEZ CALDERON,zac03s,,,,pri,zac,1,1,ZACATECAS,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
 63,599,300,ARACELI,GUERRERO ESQUIVEL,zac04p,,,,pri,zac,1,0,GUADALUPE,2015,8,29,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,1
 63,600,800,MARIA DOLORES,SERNA IBARRA,zac04s,,,,pri,zac,1,1,GUADALUPE,,,,,,,,,,,,,,,,,,,sesion instalacion camara diputados,,
-63,601,301,GUSTAVO ENRIQUE,MADERO MUÑOZ,zc1,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-63,1
+63,601,301,GUSTAVO ENRIQUE,MADERO MUÑOZ,zc1,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-sen-63,1
 63,602,801,LUIS FERNANDO,MESTA SOULE,zc1,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,603,302,MARIA ELOISA,TALAVERA HERNANDEZ,zc1,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-63,1
 63,604,802,ROSA ISELA,MARTINEZ DIAZ,zc1,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
@@ -687,11 +687,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,686,843,JACOBO,SOTO PIZANO,zc4,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,687,344,GUADALUPE,GONZALEZ SUASTEGUI,zc4,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,688,844,ANGELINA LIZETH,ARCOS VILLALVA,zc4,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,689,345,ULISES,RAMIREZ NUÑEZ,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,58-63,1
+63,689,345,ULISES,RAMIREZ NUÑEZ,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,58-sen-63,1
 63,690,845,ODIN RAMSES,RAMIREZ NUÑEZ,zc5,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,691,346,MINERVA,HERNANDEZ RAMOS,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-63,1
+63,691,346,MINERVA,HERNANDEZ RAMOS,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-sen-63,1
 63,692,846,ADRIANA GABRIELA,CEBALLOS HERNANDEZ,zc5,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,693,347,MARKO ANTONIO,CORTES MENDOZA,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-63,1
+63,693,347,MARKO ANTONIO,CORTES MENDOZA,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-sen-63,1
 63,694,847,CARLOS FRANCISCO,CASTELAZO MENDOZA,zc5,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,695,348,GRETEL,CULIN JAIME,zc5,,,,pan,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,696,848,MINE VALERIA,MARES VILLASEÑOR,zc5,,,,pan,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
@@ -749,7 +749,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,748,874,RAYMUNDO,MUÑOZ LEYVA,zc2,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,749,375,JORGE CARLOS,RAMIREZ MARIN,zc3,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,58-61-63,1
 63,750,875,ERUBIEL LORENZO,ALONSO QUE,zc3,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,751,376,IVONNE ARACELLY,ORTEGA PACHECO,zc3,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+63,751,376,IVONNE ARACELLY,ORTEGA PACHECO,zc3,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,sen-63,1
 63,752,876,ZACIL LEONOR,MOGUEL MANZUR,zc3,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,753,377,VIRGILIO DANIEL,MENDEZ BAZAN,zc3,,,,pri,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,754,877,JOSE ANTONIO,ALBORES TRUJILLO,zc3,,,,pri,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
@@ -851,7 +851,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,850,925,JULIO CESAR,TINOCO OROS,zc5,,,,prd,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,851,426,MIRIAM,TINOCO SOTO,zc5,,,,prd,0,0,0,--,2015,8,29,2015,10,1,,,,,,,,,,,,,acuerdo INE,,1
 63,852,926,MARIA CONCEPCION,VALDES RAMIREZ,zc5,,,,prd,0,0,1,--,2015,8,6,,,,,,,,,,,,,,,,acuerdo INE,,1
-63,853,427,DAVID,JIMENEZ RUMBO,zc5,,,,prd,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+63,853,427,DAVID,JIMENEZ RUMBO,zc5,,,,prd,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,sen-63,1
 63,854,927,HUGO EDUARDO,MARTINEZ PADILLA,zc5,1971,,,prd,0,0,1,--,2018,2,6,,,,,,,,,,,,,,,,acuerdo INE,60-63,1
 63,855,428,MARIA LUISA,BELTRAN REYES,zc5,,,,prd,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,856,928,CRISELDA,SANTOS GUZMAN,zc5,,,,prd,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
@@ -907,11 +907,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 63,906,953,MARIA TERESA,FUENTES ESCALANTE,zc1,,,,mc,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,907,454,GUSTAVO ADOLFO,CARDENAS GUTIERREZ,zc2,1958,,,mc,0,0,0,--,2015,8,29,2015,2,3,,,,,,,,,,,,,acuerdo INE,60-63,1
 63,908,954,DANIEL ADRIAN,SOSA CARPIO,zc2,,,,mc,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,909,455,CLAUDIA SOFIA,CORICHI GARCIA,zc2,,,,mc,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+63,909,455,CLAUDIA SOFIA,CORICHI GARCIA,zc2,,,,mc,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,sen-63,1
 63,910,955,MAYRA DANIELA,PARRA MONTEJO,zc2,,,,mc,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,911,456,MARIA ELENA,ORANTES LOPEZ,zc3,,,,mc,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-63,1
+63,911,456,MARIA ELENA,ORANTES LOPEZ,zc3,,,,mc,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,59-sen-63,1
 63,912,956,DALIA MARIA,ROCHA LADRON DE GUEVARA,zc3,,,,mc,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
-63,913,457,RAFAEL,OCHOA GUZMAN,zc3,,,,mc,0,0,0,--,,,,,,,,,,,,,,,,,,Su entrada estuvo pendiente al resultado de extraordinaria ags01: entraría si ganaba el pri,acuerdo INE,,
+63,913,457,RAFAEL,OCHOA GUZMAN,zc3,,,,mc,0,0,0,--,,,,,,,,,,,,,,,,,,Su entrada estuvo pendiente al resultado de extraordinaria ags01: entraría si ganaba el pri,acuerdo INE,sen-63,
 63,914,957,FLORENTINO DE LA CRUZ,BALAM XIU,zc3,,,,mc,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
 63,915,458,RENE,CERVERA GARCIA,zc4,,,,mc,0,0,0,--,2015,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 63,916,958,GONZALO FABIAN,MEDINA HERNANDEZ,zc4,,,,mc,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,
