@@ -1,17 +1,17 @@
 
 # Table of Contents
 
-1.  [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#orgc7f8463)
-2.  [License](#orgff523a1)
-3.  [Citation in BibTex format](#org729cb00)
-4.  [Files included](#org7b2794a)
-5.  [Codebook](#org9ab16a3)
-6.  [Acknowledgements](#orgc7b5dda)
+1.  [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#org65e1ec2)
+2.  [License](#org57e8332)
+3.  [Citation in BibTex format](#orgf8196e6)
+4.  [Files included](#orge9e41c4)
+5.  [Codebook](#orgabd82c9)
+6.  [Acknowledgements](#orgdcd9dd8)
 
 Last revision: 2020-06-09
 
 
-<a id="orgc7f8463"></a>
+<a id="org65e1ec2"></a>
 
 # Description of *Roll call votes data for the Mexican Chamber of Deputies* repository
 
@@ -24,14 +24,14 @@ The repository contains roll call data for recent Cámaras de Diputados of the M
 Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (`code/getweb/`); databases preparation from raw data (`code/rcPrep`); and descriptive analysis and ideal point estimation (`code/rcAnalysis/`). Raw data is in `data/fromWeb/` directory. ****If interested in clean roll call votes only, simply copy the contents of the `data/votesForWeb/` subdirectory****. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (<http://cran.r-project.org/>) and csv formats. 
 
 
-<a id="orgff523a1"></a>
+<a id="org57e8332"></a>
 
 # License
 
 This repository in under the MIT License, see <http://opensource.org/licenses/MIT>. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
 
 
-<a id="org729cb00"></a>
+<a id="orgf8196e6"></a>
 
 # Citation in BibTex format
 
@@ -47,21 +47,20 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
     }
 
 
-<a id="org7b2794a"></a>
+<a id="orge9e41c4"></a>
 
 # Files included
 
 -   `data/diputados/dip*.csv` = comma-separated vote for all diputados elected to one term of office (*Legislatura*). The numeral identifies the term in question (eg. `dip58.csv` are 58th Legislatura members). **Columns include the following data**:
-    -   `leg` = Legislatura.
-    -   `pila` = first and middle names.
-    -   `patmat` = last names (includes patronym and matronym, as used in Mexico).
+    -   `pila` = member's first and middle names.
+    -   `patmat` = member's last names (includes patronym and matronym, as used in Mexico).
     -   `id` = district identifier. For members elected in single-member districts (SMDs), the `id` concatenates the state abbreviation, the district number, and whether the member is *propietario* (p) or *suplente* (s). For members elected by proportional representation (PR), the `id` includes information on the second-tier district number and the member's *propietario/suplente* status.
-    -   `edo` = district's state for SMD members. For PR members, the state that they declared representing (often none).
+    -   `edo` = SMD's state. For PR members, the state that they declared representing (often none).
     -   `birth` = member's birthyear.
     -   `gen` = member's gender (\*M\*ale or \*F\*emale).
     -   `part` = member's party.
-    -   `postulo` = the party who nominated the member, if different from `part`.
-    -   `dsmd` = dummy equal 1 for members elected in SMDs, 0 for members elected by PR.
+    -   `postulo` = party that nominated the member, if different from `part`.
+    -   `dsmd` = dummy equal 1 for SMD members, 0 for members elected by PR.
     -   `dsup` = dummy equal 1 for *suplentes*, 0 for *propietarios*.  Suplentes may replace propietarios taking leaves o absence (*licencia*).
     -   `cabecera` = administrative seat of SMDs.
     -   `yrin` `moin` `dyin` = date when member took oath.
@@ -73,7 +72,7 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 -   (Under construction)
 
 
-<a id="org9ab16a3"></a>
+<a id="orgabd82c9"></a>
 
 # Codebook
 
@@ -94,7 +93,7 @@ The objects in each R file (zipped together in text-only files) are the followin
  **Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
 
 
-<a id="orgc7b5dda"></a>
+<a id="orgdcd9dd8"></a>
 
 # Acknowledgements
 

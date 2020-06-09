@@ -32,16 +32,15 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
 
 * Files included
 - ~data/diputados/dip*.csv~ = comma-separated vote for all diputados elected to one term of office (/Legislatura/). The numeral identifies the term in question (eg. ~dip58.csv~ are 58th Legislatura members). *Columns include the following data*:
-  + ~leg~ = Legislatura.
-  + ~pila~ = first and middle names.
-  + ~patmat~ = last names (includes patronym and matronym, as used in Mexico).
+  + ~pila~ = member's first and middle names.
+  + ~patmat~ = member's last names (includes patronym and matronym, as used in Mexico).
   + ~id~ = district identifier. For members elected in single-member districts (SMDs), the ~id~ concatenates the state abbreviation, the district number, and whether the member is /propietario/ (p) or /suplente/ (s). For members elected by proportional representation (PR), the ~id~ includes information on the second-tier district number and the member's /propietario/suplente/ status.
-  + ~edo~ = district's state for SMD members. For PR members, the state that they declared representing (often none).
+  + ~edo~ = SMD's state. For PR members, the state that they declared representing (often none).
   + ~birth~ = member's birthyear.
   + ~gen~ = member's gender (*M*ale or *F*emale).
   + ~part~ = member's party.
-  + ~postulo~ = the party who nominated the member, if different from ~part~.
-  + ~dsmd~ = dummy equal 1 for members elected in SMDs, 0 for members elected by PR.
+  + ~postulo~ = party that nominated the member, if different from ~part~.
+  + ~dsmd~ = dummy equal 1 for SMD members, 0 for members elected by PR.
   + ~dsup~ = dummy equal 1 for /suplentes/, 0 for /propietarios/.  Suplentes may replace propietarios taking leaves o absence (/licencia/).  
   + ~cabecera~ = administrative seat of SMDs.
   + ~yrin~ ~moin~ ~dyin~ = date when member took oath.
@@ -53,7 +52,6 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
 - (Under construction)
 
 * Codebook
-
 The objects in each R file (zipped together in text-only files) are the following:
 
 -dipdat: individual federal deputy information (nom=name, id=district, part=party, 
