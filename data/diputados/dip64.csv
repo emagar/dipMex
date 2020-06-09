@@ -49,7 +49,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,48,524,ROSA MARIA,BAYARDO CABRERA,col02s,1988,F,pt,morena,col,1,1,MANZANILLO,2018,12,4,,,,,,,,,,,,,,,birth approx,sesión instalación cámara diputados,,1
 64,49,25,MANUELA DEL CARMEN,OBRADOR NARVAEZ,cps01p,,F,morena,morena,cps,1,0,PALENQUE,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,1
 64,50,525,REBECA,ARCOS SANCHEZ,cps01s,,F,morena,,cps,1,1,PALENQUE,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
-64,51,26,HUMBERTO,PEDRERO MORENO,cps02p,,M,pvem,morena,cps,1,0,BOCHIL,2018,8,29,2019,8,21,,,,,,,,,,,,Nuestro alumno-ine invalidó x falso tzotzil tepjf repuso 20ago18-cambio a morena 4sep2018-sec finanzas IMSS ago2019,sesión instalación cámara diputados,,1
+64,51,26,HUMBERTO,PEDRERO MORENO,cps02p,1985,M,pvem,morena,cps,1,0,BOCHIL,2018,8,29,2019,8,21,,,,,,,,,,,,Nuestro alumno-ine invalidó x falso tzotzil tepjf repuso 20ago18-cambio a morena 4sep2018-sec finanzas IMSS ago2019 BIRTH APPROX,sesión instalación cámara diputados,,1
 64,52,526,ALFREDO ANTONIO,GORDILLO MORENO,cps02s,,M,pvem,morena,cps,1,1,BOCHIL,2019,9,1,,,,,,,,,,,,,,,ine invalido x falso tzotzil tepjf repuso 20ago18,sesión instalación cámara diputados,,1
 64,53,27,ALFREDO,VAZQUEZ VAZQUEZ,cps03p,,M,morena,morena,cps,1,0,OCOSINGO,2018,8,29,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,1
 64,54,527,MANUEL,TORRES HERNANDEZ,cps03s,,M,morena,,cps,1,1,OCOSINGO,,,,,,,,,,,,,,,,,,,sesión instalación cámara diputados,,0
@@ -627,7 +627,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,626,813,JORGE LUIS,ALARCON NEVE,zrp2pan05s,,M,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,627,314,SYLVIA VIOLETA,GARFIAS CEDILLO,zrp2pan06p,,F,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,628,814,MARIA FERNANDA,DE LA TORRE DELGADO,zrp2pan06s,,F,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
-64,629,315,VICTOR MANUEL,PEREZ DIAZ,zrp2pan07p,,M,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+64,629,315,VICTOR MANUEL,PEREZ DIAZ,zrp2pan07p,,M,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,comunicTrasp,,acuerdo INE,,1
 64,630,815,EUGENIO,BUENO LOZANO,zrp2pan07s,,M,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,631,316,NOHEMI,ALEMAN HERNANDEZ,zrp2pan08p,,F,pan,pan,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,632,816,PRISCILLA HAYDEE,LAGUNAS CUELLAR,zrp2pan08s,,F,pan,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
@@ -775,7 +775,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,774,887,BENITO,OCAMPO OLIVARES,zrp4prd03s,,M,prd,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,775,388,LUZ ESTEFANIA,ROSAS MARTINEZ,zrp4prd04p,,F,prd,prd,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,776,888,GABRIELA SCARLETT,PEREZ PEREZ,zrp4prd04s,,F,prd,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
-64,777,389,CARLOS,TORRES PIÑA,zrp5prd01p,1979,M,prd,prd,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,61-64,1
+64,777,389,CARLOS,TORRES PIÑA,zrp5prd01p,1979,M,prd,prd,0,0,0,--,2018,8,29,,,,,,,,,,,,,,vivienda,,acuerdo INE,61-64,1
 64,778,889,JUAN CARLOS,LARA ALCANTAR,zrp5prd01s,,M,prd,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,779,390,MONICA,BAUTISTA RODRIGUEZ,zrp5prd02p,,F,prd,prd,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,780,890,MARIA ISABEL,MONROY GARCIA,zrp5prd02s,,F,prd,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
@@ -871,7 +871,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,870,935,ALEJANDRA,RAMIREZ RODRIGUEZ,zrp2morena04s,,F,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,871,436,JUAN ISRAEL,RAMOS RUIZ,zrp2morena05p,,M,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,872,936,JAIME FERNANDO,GUERRERO GONZALEZ,zrp2morena05s,,M,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
-64,873,437,MIROSLAVA,SANCHEZ GALVAN,zrp2morena06p,,F,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+64,873,437,MIROSLAVA,SANCHEZ GALVAN,zrp2morena06p,,F,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,salud,,acuerdo INE,,1
 64,874,937,CLAUDIA,TAPIA CASTELO,zrp2morena06s,,F,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,875,438,DIEGO EDUARDO,DEL BOSQUE VILLARREAL,zrp2morena07p,,M,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,876,938,RAUL STEEL,RAMIREZ GARZA,zrp2morena07s,,M,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
@@ -985,7 +985,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moi
 64,984,992,RAUL,DIAZ JIMENEZ,zrp5morena10s,,M,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
 64,985,493,JULIETA,GARCIA ZEPEDA,zrp5morena11p,,F,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,986,993,ISAINA SARAHI,RENTERIA INFANTE,zrp5morena11s,,F,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
-64,987,494,HUGO RAFAEL,RUIZ LUSTRE,zrp5morena12p,,M,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
+64,987,494,HUGO RAFAEL,RUIZ LUSTRE,zrp5morena12p,,M,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,ddhh,,acuerdo INE,,1
 64,988,994,ALEJANDRO CANEK,VAZQUEZ GONGORA,zrp5morena12s,1979,M,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,600-61-640,0
 64,989,495,MARIA GUADALUPE EDITH,CASTAÑEDA ORTIZ,zrp5morena13p,,F,morena,morena,0,0,0,--,2018,8,29,,,,,,,,,,,,,,,,acuerdo INE,,1
 64,990,995,VIRIDIANA,ROJAS PORTUGUEZ,zrp5morena13s,,F,morena,,0,0,1,--,,,,,,,,,,,,,,,,,,,acuerdo INE,,0
