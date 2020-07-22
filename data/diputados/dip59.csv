@@ -1,1001 +1,1001 @@
-leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,yrin1,moin1,dyin1,yrout1,moout1,dyout1,yrin2,moin2,dyin2,yrout2,moout2,dyout2,yrin3,moin3,dyin3,lider,prescom,nota,fuente,repite,doath
-59,1,1,ARTURO,ROBLES AGUILAR ,ags01p,1956,M,,pri,ags,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,2,501,LAURA PATRICIA,ROMO CASTORENA,ags01s,,F,,pri,ags,1,1,,,,,,,,,,,,,,,,,,,,,590-620,
-59,3,2,FRANCISCO JAVIER,VALDES DE ANDA,ags02p,,,,pan,ags,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,4,502,HECTOR EDUARDO,ANAYA PEREZ,ags02s,,,,pan,ags,1,1,,,,,,,,,,,,,,,,,,,,,590-620,
-59,5,3,JAIME,DEL CONDE UGARTE,ags03p,1962,,,pan,ags,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,6,503,SANJUANA ADRIANA,ESTRADA GONZALEZ,ags03s,,,,pan,ags,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,7,4,HIDALGO,CONTRERAS COVARRUBIAS ,bc01p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,8,504,JAVIER,MAYORAL MURILLO,bc01s,,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,9,5,NORBERTO,CORELLA TORRES ,bc02p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,10,505,IRENE,MANRIQUEZ MINORI,bc02s,,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,11,6,PABLO ALEJO,LOPEZ NUÑEZ ,bc03p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,12,506,SILVANO,ABARCA MACKLIS,bc03s,,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,13,7,RENATO,SANDOVAL FRANCO ,bc04p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,14,507,JUAN FRANCISCO,RIOS GALVAN,bc04s,,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,15,8,JOSE GUADALUPE,OSUNA MILLAN ,bc05p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,16,508,ANTONIO,VALLADOLID RODRIGUEZ,bc05s,1973,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,590-60,0
-59,17,9,VICTOR MANUEL,GONZALEZ REYES ,bc06p,,,,pan,bc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,18,509,JOSE TEODORO,BARRAZA LOPEZ,bc06s,,,,pan,bc,1,1,,,,,,,,,,,,,,,,,,,,,590-63,
-59,19,10,FRANCISCO JAVIER,OBREGON ESPINOZA ,bcs01p,,,,prd,bcs,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,20,510,BENJAMIN,GARCIA MEZA,bcs01s,,,,prd,bcs,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,21,11,NARCISO,AGUNDEZ MONTAÑO,bcs02p,,,,prd,bcs,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,22,511,JOSEFINA,COTA COTA,bcs02s,,,,prd,bcs,1,1,,2004,8,30,,,,,,,,,,,,,,,,,59-sen,1
-59,23,12,ENRIQUE ARIEL,ESCALANTE ARCEO ,cam01p,,,,pri,cam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,24,512,SERGIO AGUSTIN,RAMIREZ GONZALEZ,cam01s,,,,pri,cam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,25,13,SEBASTIAN,CALDERON CENTENO ,cam02p,,,,pan,cam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,26,513,RAMON,DIMAS HERNANDEZ,cam02s,,,,pan,cam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,27,14,JESUS MARIA,RAMON VALDES ,coa01p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,28,514,ERNESTO VELA,DEL CAMPO,coa01s,,,,pri,coa,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,29,15,JESUS,ZUÑIGA ROMERO ,coa02p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,30,515,PATRICIA DEL CARMEN,QUISTIAN CONTRERAS,coa02s,,,,pri,coa,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,31,16,RICARDO,RODRIGUEZ ROCHA ,coa03p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,32,516,SYLBETH,GARCIA BOONE,coa03s,,,,pri,coa,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,33,17,OSCAR,PIMENTEL GONZALEZ,coa04p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,34,517,NORMA,DAVILA SALINAS ,coa04s,,,,pri,coa,1,1,,2005,11,22,,,,,,,,,,,,,,,,,,1
-59,35,18,EDUARDO,OLMOS CASTRO ,coa05p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,36,518,RAUL,ONOFRE CONTRERAS,coa05s,,,,pri,coa,1,1,,2003,11,28,,,,,,,,,,,,,,,,,,1
-59,37,19,LAURA,REYES RETANA ,coa06p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,38,519,CARLOS,JALIFE GARCIA,coa06s,,,,pri,coa,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,39,20,FERNANDO,DE LAS FUENTES HERNANDEZ,coa07p,,,,pri,coa,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,40,520,ALDO MAURICIO,MARTINEZ HERNANDEZ ,coa07s,,,,pri,coa,1,1,,2005,8,30,,,,,,,,,,,,,,,,,,1
-59,41,21,ANTONIO,MORALES DE LA PEÑA,col01p,,,,pan,col,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,42,521,PATRICIA,LUGO BARRIGA,col01s,1973,,,pan,col,1,1,,,,,,,,,,,,,,,,,,,,,59-62,1
-59,43,22,ROGELIO HUMBERTO,RUEDA SANCHEZ ,col02p,,,,pri,col,1,0,,2003,8,29,2006,5,17,,,,,,,,,,,,,,59-sen,1
-59,44,522,ANAMIN ZENAIDA,SOLORZANO TORRES,col02s,,,,pri,col,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,45,23,JORGE BALDEMAR,UTRILLA ROBLES ,cps01p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,46,523,FRANCISCA,DAMAS DAMAS,cps01s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,47,24,MARIA ELENA,ORANTES LOPEZ ,cps02p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
-59,48,524,RAMIRO,GOMEZ DOMINGUEZ,cps02s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,49,25,JUAN ANTONIO,GORDILLO REYES,cps03p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,50,525,ARMANDO,AGUILAR GORDILLO,cps03s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,51,26,JULIAN,NAZAR MORALES ,cps04p,,,,pri,cps,1,0,,2003,8,29,2006,5,10,,,,,,,,,,,,,,57-59-61-63,1
-59,52,526,ARTURO,BURGUETE LEON,cps04s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,53,27,FLORENCIO,COLLAZO GOMEZ ,cps05p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,54,527,MARCO ANTONIO,SANTIAGO SANCHEZ,cps05s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,55,28,ROBERTO AQUILES,AGUILAR HERNANDEZ ,cps06p,,,,pri,cps,1,0,,2003,8,29,2006,3,16,,,,,,,,,,,,,,,1
-59,56,528,ERIKA LILIANA,GRAJALES PASCACIO,cps06s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,57,29,FRANCISCO,GRAJALES PALACIOS ,cps07p,1956,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,58,529,MARIA DEL ROCIO,HERRERA ORTIZ,cps07s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,59,30,MARIO,CULEBRO VELASCO ,cps08p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,60,530,MARCO ANTONIO,MORALES LIEVANO,cps08s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,61,31,FRANCISCO ANTONIO,ROJAS TOLEDO ,cps09p,,,,pan,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,62,531,JORGE ISAAC,SANCHEZ MALDA,cps09s,,,,pan,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,63,32,BELISARIO IRAM,HERRERA SOLIS ,cps10p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,64,532,RAFAEL,GONZALEZ CHAMLATI,cps10s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,65,33,CESAR,GONZALEZ ORANTES ,cps11p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,66,533,MARIA LILIA CONCEPCION,ARMENDARIZ CEA,cps11s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,67,34,CARLOS OSWALDO,PANO BECERRA ,cps12p,,,,pri,cps,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,68,534,NEFTALI ARMANDO,DEL TORO GUZMAN,cps12s,,,,pri,cps,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,69,35,JOSE MARIO,WONG PEREZ ,cua01p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,70,535,HUMBERTO,PEREZ RODRIGUEZ,cua01s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,71,36,NORA,YU HERNANDEZ ,cua02p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,72,536,CARLOS,MURILLO MARTINEZ,cua02s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,73,37,MARIA,AVILA SERNA ,cua03p,,,,pvem,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,74,537,MICAELA DEL CARMEN,AGÜERO LOPEZ,cua03s,,,,pvem,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,75,38,LORENZO MIGUEL,LUCERO PALMA ,cua04p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,76,538,ARTURO,AVILA FIERRO,cua04s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,77,39,FERNANDO,ALVAREZ MONJE ,cua05p,,,,pan,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,78,539,DANIEL,TORRES CHAVEZ,cua05s,,,,pan,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,79,40,GUSTAVO ENRIQUE,MADERO MUÑOZ ,cua06p,,,,pan,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
-59,80,540,LILIANA,ROJERO LUEVANO,cua06s,,,,pan,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,81,41,JORGE DE JESUS,CASTILLO CABRERA ,cua07p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,82,541,MANUEL RAMON,CARRERA AGUILAR,cua07s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,83,42,MARIA MARTHA CELESTINA EVA,LAGUETTE  LARDIZABAL,cua08p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,84,542,KENNY DENISSE,ARROYO GONZALEZ,cua08s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,85,43,JESUS,AGUILAR BUENO ,cua09p,,,,pri,cua,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,59-620,1
-59,86,543,AGUSTIN ALBERTO NAVARRO,ROBLES GIL,cua09s,,,,pri,cua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,87,44,MARCOS,MORALES TORRES ,df01p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,88,544,FELIX VIDAL,GALLEGOS MELO,df01s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,89,45,MIGUEL ANGEL,GARCIA DOMINGUEZ ,df02p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,90,545,NAZARIO,NORBERTO SANCHEZ,df02s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,590-61,0
-59,91,46,PABLO,FRANCO HERNANDEZ ,df03p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,92,546,ROSALIA,AVILA GARCIA,df03s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,93,47,ROCIO,SANCHEZ PEREZ ,df04p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,94,547,HECTOR ADRIAN,AMEZCUA RODRIGUEZ,df04s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,95,48,FRANCISCO JAVIER,CARRILLO SOBERON,df05p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,580-59,1
-59,96,548,ALFONSO,HERNANDEZ GARCIA,df05s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,97,49,EDGAR,TORRES BALTAZAR ,df06p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,98,549,IMELDA,MENDOZA ROMERO,df06s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,99,50,IVAN,GARCIA SOLIS ,df07p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,100,550,HUGO OTILIO,DELGADILLO MEJIA,df07s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,101,51,MARIA DE LOS DOLORES,PADIERNA LUNA,df08p,1958,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen-64,1
-59,102,551,BEATRIZ ASCENCION,LARA AGUIRRE,df08s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,103,52,MARIA GUADALUPE,MORALES RUBIO ,df09p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,104,552,IRMA,MORALES MORAN,df09s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,105,53,ROBERTO,COLIN GAMBOA ,df10p,,,,pan,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,106,553,JUANA CONCEPCION,CUSI SOLANA,df10s,,,,pan,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,107,54,ALFONSO,RAMIREZ CUELLAR ,df11p,1959,M,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-64,1
-59,108,554,JOSE LUIS,HEREDIA MEDINA,df11s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,109,55,FRANCISCO JAVIER,SAUCEDO PEREZ,df12p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,110,555,FILEMON,SANCHEZ PEREZ,df12s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,111,56,EMILIO,SERRANO JIMENEZ ,df13p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,112,556,KARINA,CORDOVA GUERRERO,df13s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,113,57,DANIEL,ORDOÑEZ HERNANDEZ ,df14p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,114,557,MERCEDES ARACELI,ARCE NAVA,df14s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,115,58,FEDERICO,DORING CASAR,df15p,,,,pan,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
-59,116,558,JUAN PABLO,CHABAUD LIMON,df15s,,,,pan,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,117,59,VICTOR,SUAREZ CARRERA ,df16p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,118,559,LEONARDO GREGORIO,BOBADILLA VALDES,df16s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,119,60,MARIA ANGELICA,DIAZ DEL CAMPO,df17p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,120,560,MARIA DE LOURDES,PONCE DE LEON GARCIA,df17s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,121,61,HORACIO,MARTINEZ MEZA ,df18p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,122,561,GLORIA CAMERINA,MARTINEZ MARQUEZ,df18s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,123,62,MARIA ELBA,GARFIAS MALDONADO,df19p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,570-59,1
-59,124,562,ANGELINA,PEREZ JUAREZ,df19s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,125,63,DIANA ROSALIA,BERNAL LADRON DE GUEVARA,df20p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,126,563,ELSA,OBRAJERO MONTES,df20s,,,,prd,df,1,1,,2006,4,4,,,,,,,,,,,,,,,,,,1
-59,127,64,MIGUEL ANGEL,TOSCANO VELASCO,df21p,,,,pan,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,128,564,JOSE MARIA,GOMEZ VILLASEÑOR,df21s,,,,pan,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,129,65,GILBERTO,SANTIAGO ENSASTIGA,df22p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,130,565,FRANCISCO,DIEGO AGUILAR ,df22s,,,,prd,df,1,1,,2005,2,8,,,,,,,,,,,,,,,,,,1
-59,131,66,PABLO,GOMEZ ALVARADO,df23p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen-64,1
-59,132,566,HECTOR,ROMERO BOLAÑOS,df23s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,133,67,BERNARDINO,RAMOS ITURBIDE ,df24p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,134,567,RAUL,AVILES ALLENDE,df24s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,135,68,CLARA MARINA,BRUGADA  MOLINA,df25p,1963,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,136,568,LEONEL,PACHECO SALAS,df25s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,137,69,AGUSTIN,RODRIGUEZ FUENTES,df26p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,138,569,JOSE LUIS,GUTIERREZ CALZADILLA,df26s,1944,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,590-60,0
-59,139,70,JOSE LUIS,CABRERA PADILLA,df27p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,140,570,TERESA,RAMIREZ MAYA,df27s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,141,71,NANCY,CARDENAS SANCHEZ ,df28p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,142,571,ARTURO,GONZALEZ ALVARADO,df28s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,143,72,SUSANA GUILLERMINA,MANZANARES CORDOVA ,df29p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,144,572,BERTHA NOELIA,MARES SILVA,df29s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,145,73,SALVADOR PABLO,MARTINEZ DELLA ROCCA,df30p,,,,prd,df,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,146,573,TABITA,VALADEZ GARCIA,df30s,,,,prd,df,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,147,74,FRANCISCO LUIS,MONARREZ RINCON,dgo01p,,,,pri,dgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,148,574,JAIME,RIVAS LOAIZA,dgo01s,,,,pri,dgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,149,75,CARLOS,HERRERA ARALUCE,dgo02p,,,,pri,dgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,150,575,ROSARIO,SAENZ LOPEZ ,dgo02s,,,,pri,dgo,1,1,,2003,9,11,,,,,,,,,,,,,,,,,,1
-59,151,76,FERNANDO ULISES ADAME,DE LEON ,dgo03p,,,,pri,dgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,152,576,ENRIQUE AURELIO,ESTRADA ORTEGA,dgo03s,,,,pri,dgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,153,77,JAIME,FERNANDEZ SARACHO ,dgo04p,,,,pri,dgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,154,577,DIANA MARIA,ESPINOSA SANCHEZ,dgo04s,,,,pri,dgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,155,78,PEDRO,AVILA NEVAREZ ,dgo05p,,,,pri,dgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,156,578,JORGE,VAZQUEZ VELOZ,dgo05s,,,,pri,dgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,157,79,ALFONSO,MORENO MORAN ,gua01p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,158,579,GABRIELA MIRANDA,CAMPERO LOPEZ MALO,gua01s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,159,80,ARMANDO,RANGEL HERNANDEZ,gua02p,1965,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,160,580,BERENICE,MONTES ESTRADA,gua02s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,161,81,JORGE CARLOS,OBREGON SERRANO,gua03p,,,,pan,gua,1,0,,2003,8,29,2006,2,1,2006,5,24,,,,,,,,,,,,1
-59,162,581,MARTHA EUGENIA,GONZALEZ LOHR,gua03s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,163,82,FRANCISCO,ARROYO VIEYRA ,gua04p,,,,pri,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,164,582,LILIANA,NAVARRO VILLASEÑOR,gua04s,,,,pri,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,165,83,MARIO ERNESTO DE SAN ALBERTO MAGNO,DAVILA ARANDA ,gua05p,,,,pan,gua,1,0,,2003,8,29,2006,4,1,2006,7,3,,,,,,,,,,,,1
-59,166,583,MARIA DEL ROCIO,ORTIZ RICO,gua05s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,167,84,SALVADOR,MARQUEZ LOZORNIO ,gua06p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,168,584,DAFNE ESTELA,TORRES QUINTERO,gua06s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,169,85,JUAN MANUEL,DAVALOS PADILLA,gua07p,,,,pri,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,170,585,ROBERTO,ROCHA SANCHEZ,gua07s,,,,pri,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,171,86,CARLA,ROCHIN NIETO ,gua08p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,172,586,ALBERTO,PRIETO PATRON,gua08s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,173,87,CONSUELO,CAMARENA GOMEZ ,gua09p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,174,587,JOSE LUIS,ACOSTA RAMOS,gua09s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,175,88,FRANCISCO ISAIAS LEMUS,MUÑOZ LEDO,gua10p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,176,588,CECILIO,VALADES RAMIREZ,gua10s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,177,89,JOSE ERANDI,BERMUDEZ MENDEZ,gua11p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-63,1
-59,178,589,CELIA LETICIA,MONTES DE OCA Y CABRERA,gua11s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,179,90,ELIZABETH OSWELIA,YAÑEZ ROBLES ,gua12p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,180,590,SERGIO EUGENIO,IÑIGUEZ FLORES,gua12s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,181,91,MIGUEL,LUNA HERNANDEZ ,gua13p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,182,591,ROBERTO,RAMIREZ MANRIQUEZ,gua13s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,183,92,RUBEN ALFREDO,TORRES ZAVALA ,gua14p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,184,592,JORGE IGNACIO,TAPIA SANTAMARIA,gua14s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,185,93,MIGUEL ANGEL,RANGEL AVILA,gua15p,,,,pan,gua,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,186,593,MARISOL,ZAVALA TORRES,gua15s,,,,pan,gua,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,187,94,ABEL,ECHEVERRIA PINEDA ,gue01p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,188,594,ERNESTO,GONZALEZ HERNANDEZ,gue01s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,189,95,ALVARO,BURGOS BARRERA,gue02p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,190,595,MARIA EUGENIA,LOPEZ FITZ,gue02s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,191,96,FRANCISCO,CHAVARRIA VALDEOLIVAR,gue03p,,,,prd,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,192,596,SILVANO BLANCO,DE AQUINO,gue03s,,,,prd,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,193,97,JOSE RUBEN,FIGUEROA SMUTNY ,gue04p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,194,597,ANTONIO,VAZQUEZ RAMIREZ,gue04s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,195,98,JAVIER,MANZANO SALAZAR ,gue05p,1963,,,prd,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-64,1
-59,196,598,VICTOR,AGUIRRE ALCAIDE,gue05s,1972,,,prd,gue,1,1,,,,,,,,,,,,,,,,,,,,,590-60,0
-59,197,99,MARCELO,TECOLAPA TIXTECO,gue06p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,570-59,1
-59,198,599,WILFRIDA,SANCHEZ TEJEDA,gue06s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,199,100,MARIO,MORENO ARCOS ,gue07p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,200,600,ALBERTO,DE LOS SANTOS DIAZ,gue07s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,201,101,ANGEL HELADIO,AGUIRRE RIVERO ,gue08p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,202,601,JOSE FELICIANO,MOLINA CRUZALTA,gue08s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,203,102,ROSARIO,HERRERA ASCENCIO ,gue09p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,204,602,MARIA DE LOS ANGELES,COLLI CAAMAL,gue09s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,205,103,IRMA SINFORINA,FIGUEROA ROMERO ,gue10p,,,,pri,gue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,206,603,OSCAR OCTAVIO,LOPEZ VAZQUEZ,gue10s,,,,pri,gue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,207,104,EMILIO,BADILLO RAMIREZ ,hgo01p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,208,604,YARELY,MELO RODRIGUEZ,hgo01s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,209,105,ROBERTO,PEDRAZA MARTINEZ ,hgo02p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,210,605,MARIA ASUNCION,MAYORGA PONCE,hgo02s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,211,106,GONZALO,RODRIGUEZ ANAYA ,hgo03p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,212,606,FRANCISCO,AVILES MARTINEZ,hgo03s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,213,107,OSCAR,BITAR HADDAD ,hgo04p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,214,607,MARIA ORALIA,VEGA ORTIZ,hgo04s,1963,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,590-60,0
-59,215,108,JORGE,ROMERO ROMERO ,hgo05p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,216,608,ARACELI,VELAZQUEZ RAMIREZ,hgo05s,,,,pri,hgo,1,1,,2006,3,16,2006,3,28,,,,,,,,,,,,,,,1
-59,217,109,JORGE,OSORIO CHONG,hgo06p,,,,pri,hgo,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,218,609,ALFREDO,BEJOS NICOLAS,hgo06s,,M,,pri,hgo,1,1,,2004,11,25,,,,,,,,,,,,,,,,,59-63,1
-59,219,110,MOISES,JIMENEZ SANCHEZ ,hgo07p,,,,pri,hgo,1,0,,2003,8,29,2006,2,22,2006,3,29,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,220,610,MARIA GUADALUPE,MUÑOZ ROMERO,hgo07s,,,,pri,hgo,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,221,111,FRANCISCO JAVIER,GUIZAR RAMIREZ,jal01p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,222,611,BENITO,CHAVEZ MONTENEGRO ,jal01s,,,,pri,jal,1,1,,2005,6,21,,,,,,,,,,,,,,,,,,1
-59,223,112,JOSE LUIS,TREVIÑO RODRIGUEZ,jal02p,,,,pan,jal,1,0,,2003,8,29,2006,2,22,2006,3,30,,,,,,,,,,,,1
-59,224,612,CARLOS,SANCHEZ MACIAS,jal02s,,,,pan,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,225,113,RAMON,GONZALEZ GONZALEZ,jal03p,,,,pan,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,226,613,JOSE ALFREDO,MARTIN MARTIN,jal03s,,,,pan,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,227,114,HUGO,RODRIGUEZ DIAZ ,jal04p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,228,614,MIGUEL ANGEL,GONZALEZ VAZQUEZ,jal04s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,229,115,FRANCISCO JAVIER,BRAVO CARBAJAL ,jal05p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,230,615,ANGEL HERIBERTO,LOPEZ VILLASEÑOR,jal05s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,231,116,GONZALO,MORENO AREVALO ,jal06p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,232,616,VERONICA,RANGEL BERNAVE,jal06s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,233,117,SERGIO ARMANDO,CHAVEZ DAVALOS,jal07p,1974,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,234,617,MODESTA,VAZQUEZ VAZQUEZ ,jal07s,,,,pri,jal,1,1,,2006,2,23,,,,,,,,,,,,,,,,,,1
-59,235,118,MARISOL,URREA CAMARENA ,jal08p,,,,pan,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,236,618,LUIS EMILIO,DE LOZA HERNANDEZ,jal08s,,,,pan,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,237,119,QUINTIN,VAZQUEZ GARCIA,jal09p,,,,pri,jal,1,0,,2003,8,29,2005,12,16,2006,1,16,,,,,,,,,,,,1
-59,238,619,NORMA,RODRIGUEZ GUARDADO ,jal09s,,,,pri,jal,1,1,,2006,2,21,,,,,,,,,,,,,,,,,,1
-59,239,120,MARIA DEL CARMEN,MENDOZA FLORES,jal10p,,,,pan,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,240,620,PATRICIO ANDRES SANTIAGO,FERNANDEZ BARROS,jal10s,,,,pan,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,241,121,JORGE LEONEL,SANDOVAL FIGUEROA,jal11p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,242,621,CLAUDIA,DELGADILLO GONZALEZ ,jal11s,1972,,,pri,jal,1,1,,2006,3,2,,,,,,,,,,,,,,,,,59-62,1
-59,243,122,SERGIO,VAZQUEZ GARCIA ,jal12p,,,,pan,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,244,622,GERARDO DE JESUS,AGUILAR FLORES,jal12s,,,,pan,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,245,123,EVELIA,SANDOVAL URBAN ,jal13p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,246,623,SERGIO RAUL,GABRIEL LIMON,jal13s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,247,124,CARLOS NOEL,TISCAREÑO RODRIGUEZ ,jal14p,,,,pan,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,248,624,CARLOS ALBERTO,MALDONADO RABAGO,jal14s,,,,pan,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,249,125,JOSE MANUEL,CARRILLO RUBIO,jal15p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,250,625,PATRICIA,RETAMOZA VEGA ,jal15s,,,,pri,jal,1,1,,2006,2,23,,,,,,,,,,,,,,,,,,1
-59,251,126,DAVID,HERNANDEZ PEREZ ,jal16p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,252,626,MARIA ELVA,ALVAREZ GOMEZ,jal16s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,253,127,ROBERTO ANTONIO,MARRUFO TORRES ,jal17p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,254,627,GERARDO,DEGOLLADO GONZALEZ,jal17s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,255,128,JAVIER ALEJANDRO,GALVAN GUERRERO ,jal18p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,256,628,ENRIQUE,GUERRERO SANTANA,jal18s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,257,129,LAZARO,ARIAS MARTINEZ ,jal19p,,,,pri,jal,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,258,629,HECTOR,AGUILAR CORTES,jal19s,,,,pri,jal,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,259,130,ARTURO,OSORNIO SANCHEZ,mex01p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,260,630,HERIBERTO,ORTEGA RAMIREZ ,mex01s,,,,pri,mex,1,1,,2005,9,22,,,,,,,,,,,,,,,,,,1
-59,261,131,FERNANDO ALBERTO,GARCIA CUEVAS ,mex02p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,262,631,ABEL NEFTALI,DOMINGUEZ AZUZ,mex02s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,263,132,JOSE,RANGEL ESPINOZA ,mex03p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,264,632,JUAN DE LA,CRUZ RUIZ,mex03s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,265,133,RAUL,PAREDES VEGA ,mex04p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,266,633,MIGUEL ANGEL,VELEZ PEREZ,mex04s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,267,134,GASPAR,AVILA RODRIGUEZ ,mex05p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,268,634,EDGAR FRANCISCO,REVELES ANDRADE,mex05s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,269,135,ISRAEL RAYMUNDO,GALLARDO SEVILLA,mex06p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,270,635,MARIA EUGENIA,CASTILLO REYES,mex06s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,271,136,JULIAN,ANGULO GONGORA ,mex07p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,272,636,MIGUEL ANGEL,GONZALEZ GONZALEZ,mex07s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,273,137,SANTIAGO,CORTES SANDOVAL ,mex08p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,274,637,MATEO ALEJANDRO,ALVAREZ ESPINOZA,mex08s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,275,138,BLANCA ESTELA,GOMEZ CARMONA ,mex09p,1962,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,276,638,APOLINAR,ESCOBEDO ILDEFONSO,mex09s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,277,139,MARCO ANTONIO,GUTIERREZ ROMERO,mex10p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,278,639,JORGE,RODRIGUEZ FLORES,mex10s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,279,140,RUBEN MAXIMILIANO,ALEXANDER RABAGO,mex11p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,280,640,CIRO,GARCIA MARIN ,mex11s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,281,141,FERNANDO,FERNANDEZ GARCIA ,mex12p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,282,641,GUADALUPE MARTHA,MAIZ OCHOA,mex12s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,283,142,MARIA ISABEL,MAYA PINEDA ,mex13p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,284,642,LUIS ALBERTO,GARCIA BLAS,mex13s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,285,143,PATRICIA,FLORES FUENTES,mex14p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,286,643,RODRIGO SANCHEZ,DE LA PEÑA,mex14s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,287,144,MAGDALENA ADRIANA,GONZALEZ FURLONG ,mex15p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,288,644,GERARDO,GUZMAN ANGELES,mex15s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,289,145,RUBEN,MENDOZA AYALA ,mex16p,1961,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,290,645,ALONSO ADRIAN,JUAREZ JIMENEZ,mex16s,,,,pan,mex,1,1,,2006,4,25,,,,,,,,,,,,,,,,,,1
-59,291,146,PABLO,BEDOLLA LOPEZ ,mex17p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,292,646,INOCENCIO,CHAVEZ RESENDIZ,mex17s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,293,147,FELIX ADRIAN,FUENTES VILLALOBOS,mex18p,,,,pvem,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,294,647,JOSE LUIS,MAZOY KURI ,mex18s,,,,pvem,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,295,148,FRANCISCO,LANDERO GUTIERREZ ,mex19p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,296,648,YAZMIN,ULLOA CISNEROS,mex19s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,297,149,JOSE LUIS NARANJO,Y QUINTANA,mex20p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,580-59,1
-59,298,649,AGUSTIN EZEQUIEL,TORRES HERNANDEZ,mex20s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,299,150,MANUEL GOMEZ MORIN MARTINEZ,DEL RIO ,mex21p,,,,pan,mex,1,0,,2003,8,29,2006,3,14,,,,,,,,,,,,,,,1
-59,300,650,ROCIO GABRIELA,PIEDRA JACOME,mex21s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,301,151,CONCEPCION,CRUZ GARCIA,mex22p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,302,651,VICTOR MANUEL,SANCHEZ HERNANDEZ ,mex22s,,,,pan,mex,1,1,,2006,1,10,,,,,,,,,,,,,,,,,,1
-59,303,152,VICTOR ERNESTO,GONZALEZ HUERTA ,mex23p,,,,pri,mex,1,0,,2003,8,29,2006,4,10,,,,,,,,,,,,,,,1
-59,304,652,GENARO,FLORES MARTINEZ,mex23s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,305,153,PATRICIA ELISA,DURAN REVELES ,mex24p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,306,653,ELIAS,FLORES SALOMON,mex24s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,307,154,JESUS TOLENTINO,ROMAN BOJORQUEZ,mex25p,1956,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,308,654,MAURICIO,CARRILLO HERNANDEZ,mex25s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,309,155,JUAN CARLOS,NUÑEZ ARMAS,mex26p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,310,655,LUZ MARIA,HERNANDEZ BECERRIL,mex26s,,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,311,156,HORACIO,LUJAMBIO MORENO ,mex27p,,,,pvem,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,312,656,GASPAR,SECUNDINO VILLAVICENCIO,mex27s,,,,pvem,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,313,157,DAVID,FERREYRA MARTINEZ ,mex28p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,314,657,JOSE IDELFONSO JUAN,HERNANDEZ HERNANDEZ,mex28s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,315,158,VALENTIN,GONZALEZ BAUTISTA,mex29p,1955,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,316,658,EDITH,GUILLEN ZARATE ,mex29s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,317,159,GERARDO,ULLOA PEREZ ,mex30p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,318,659,RODOLFO,RODRIGUEZ PEREZ,mex30s,,,,prd,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,319,160,HECTOR MIGUEL,BAUTISTA LOPEZ ,mex31p,,,,prd,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,320,660,MARCOS,ALVAREZ PEREZ,mex31s,,,,prd,mex,1,1,,2005,2,17,,,,,,,,,,,,,,,,,,1
-59,321,161,ISAIAS,SORIANO LOPEZ ,mex32p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,322,661,PEDRO JAIME,HERNANDEZ MENDEZ,mex32s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,323,162,FELIPE,MEDINA SANTOS,mex33p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,324,662,OSCAR,JIMENEZ RAYON ,mex33s,,,,pri,mex,1,1,,2005,12,10,,,,,,,,,,,,,,,,,59-640,1
-59,325,163,LETICIA,USERRALDE GORDILLO ,mex34p,,,,pan,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,326,663,MARTIN OSCAR,GONZALEZ MORAN,mex34s,1967,,,pan,mex,1,1,,,,,,,,,,,,,,,,,,,,,590-60,0
-59,327,164,ALFREDO,GOMEZ SANCHEZ ,mex35p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,328,664,FERNANDO,FERREYRA OLIVARES,mex35s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,590-61,0
-59,329,165,JOSE,EDUVIGES NAVA ,mex36p,,,,pri,mex,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,330,665,GABINO,MONDRAGON TRUJILLO,mex36s,,,,pri,mex,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,331,166,ALEJANDRO,SALDAÑA VILLASEÑOR ,mic01p,,,,pri,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,332,666,BRENDA ALICIA,BECERRA BELTRAN,mic01s,,,,pri,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,333,167,ENRIQUE,TORRES CUADROS,mic02p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,334,667,ARTURO,ROMO,mic02s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,335,168,PASCUAL,SIGALA PAEZ ,mic03p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,336,668,FRANCISCO,BOLAÑOS CARMONA,mic03s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,337,169,MIGUEL,AMEZCUA ALEJO ,mic04p,,,,pri,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,338,669,CLEOTILDE,MORA MENDOZA,mic04s,,,,pri,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,339,170,REYNALDO,VALDEZ MANZO ,mic05p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,340,670,BLANCA ISABEL,ARRIAGA MARIN,mic05s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,341,171,MARGARITO,FIERROS TANO ,mic06p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,342,671,JAVIER,ROJAS BECERRIL,mic06s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,343,172,ABDALLAN,GUZMAN CRUZ ,mic07p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,344,672,JUAN MANUEL,MORENO HUANTE,mic07s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,345,173,ANA LILIA,GUILLEN QUIROZ,mic08p,1955,F,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-64,1
-59,346,673,MARIA DEL CARMEN,CORTES CORTES,mic08s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,347,174,CARLOS HERNAN,SILVA VALDES,mic09p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,348,674,ARNULFO,VAZQUEZ HERRERA,mic09s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,349,175,PABLO,VILLANUEVA RAMIREZ ,mic10p,,,,pan,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,350,675,ALFONSO JESUS,MARTINEZ ALCAZAR,mic10s,,,,pan,mic,1,1,,,,,,,,,,,,,,,,,,,,,590-61,0
-59,351,176,ISRAEL,TENTORY GARCIA ,mic11p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,352,676,HECTOR,MARTINEZ ROMERO,mic11s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,353,177,INELVO,MORENO ALVAREZ ,mic12p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,354,677,LORENZO,BARAJAS HEREDIA,mic12s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,355,178,RAFAEL GARCIA,TINAJERO PEREZ ,mic13p,,,,prd,mic,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,356,678,IVAN,MADERO NARANJO,mic13s,,,,prd,mic,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,357,179,JOSE,SIGONA TORRES ,mor01p,,,,pan,mor,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,358,679,LUCILA,OCHOA BATALLA,mor01s,,,,pan,mor,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,359,180,RODOLFO,ESQUIVEL LANDA ,mor02p,,,,pan,mor,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,360,680,DAVID,ALTAMIRANO URIBE,mor02s,,,,pan,mor,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,361,181,GUILLERMO,DEL VALLE REYES,mor03p,,,,pri,mor,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,362,681,ARACELI,AGUILAR NERI,mor03s,,,,pri,mor,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,363,182,ROSALINA,MAZARI ESPIN ,mor04p,,,,pri,mor,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-63,1
-59,364,682,EULALIO,ESPINDOLA ARANDA,mor04s,,,,pri,mor,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,365,183,MARIA HILARIA,DOMINGUEZ ARVIZU ,nay01p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,366,683,JOSE LUCAS,VALLARTA CHAN,nay01s,,,,pri,nay,1,1,,,,,,,,,,,,,,,,,,,,,590-630,
-59,367,184,GERARDO,MONTENEGRO IBARRA ,nay02p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,368,684,JASSIVE PATRICIA,DURAN MACIEL,nay02s,,,,pri,nay,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,369,185,RAUL JOSE,MEJIA GONZALEZ ,nay03p,,,,pri,nay,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,370,685,JUAN MANUEL,GONZALEZ PORTUGAL,nay03s,,,,pri,nay,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,371,186,JUAN CARLOS,PEREZ GONGORA ,nl01p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,372,686,ALFONSO CRISOFORO,GUZMAN GOMEZ,nl01s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,373,187,HUMBERTO,CERVANTES VEGA ,nl02p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,374,687,FELIX,CORONADO HERNANDEZ,nl02s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,59-61,
-59,375,188,EDUARDO,BAILEY ELIZONDO ,nl03p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,376,688,KARINA,MARTINEZ CANTU,nl03s,,,,pri,nl,1,1,,2006,4,25,,,,,,,,,,,,,,,,,,1
-59,377,189,NORMA,SAUCEDO MORENO ,nl04p,,,,pan,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,378,689,FRANCISCO JAVIER,ACOSTA ARMENDARIZ,nl04s,,,,pan,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,379,190,MARCELA,GUERRA CASTILLO ,nl05p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
-59,380,690,DANIEL,BAUTISTA ROCHA,nl05s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,381,191,MAYELA MARIA DE LOURDES,QUIROGA TAMEZ ,nl06p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,382,691,LILIANA,TIJERINA CANTU,nl06s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,383,192,ALFONSO,GONZALEZ RUIZ ,nl07p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,384,692,KERIMME ISABEL,SURO BARBOSA,nl07s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,385,193,MARIA DE JESUS,AGUIRRE MALDONADO ,nl08p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,386,693,GILBERTO,TREVIÑO AGUIRRE,nl08s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,387,194,ADRIAN,VILLAGOMEZ GARCIA ,nl09p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,388,694,JUANA AURORA,CAVAZOS CAVAZOS,nl09s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,590-63,
-59,389,195,MARGARITA,MARTINEZ LOPEZ ,nl10p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,570-59,1
-59,390,695,MARIO JESUS,PEÑA GARZA,nl10s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,391,196,ALFONSO,RODRIGUEZ OCHOA ,nl11p,,,,pri,nl,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,392,696,JESUS ALBERTO,ALMAGUER ROCHA,nl11s,,,,pri,nl,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,393,197,EVIEL,PEREZ MAGAÑA,oax01p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
-59,394,697,GUSTAVO,ZANATTA GASPERIN ,oax01s,,,,pri,oax,1,1,,2004,11,25,,,,,,,,,,,,,,,,,,1
-59,395,198,ELPIDIO,CONCHA ARELLANO ,oax02p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,396,698,ISABEL CARMELINA,CRUZ SILVA,oax02s,,,,pri,oax,1,1,,2006,3,20,,,,,,,,,,,,,,,,,,1
-59,397,199,JOSE LUIS,TAPIA PALACIOS ,oax03p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,398,699,SAMUEL,ROSALES OLMOS,oax03s,,,,pri,oax,1,1,,2006,3,16,,,,,,,,,,,,,,,,,,1
-59,399,200,JACOBO,SANCHEZ LOPEZ ,oax04p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,400,700,CONCEPCION SOFIA,ROBLES ALTAMIRANO,oax04s,,,,pri,oax,1,1,,2006,3,30,,,,,,,,,,,,,,,,,,1
-59,401,201,SOFIA,CASTRO RIOS ,oax05p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,402,701,ISMAEL,ORDOÑEZ ECHAVARRIA,oax05s,,,,pri,oax,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,403,202,RENE,RUIZ QUIROZ,oax06p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,404,702,HELIODORO CARLOS,DIAZ ESCARRAGA,oax06s,,,,pri,oax,1,1,,,,,,,,,,,,,,,,,,,,,59-61,
-59,405,203,JOSE,GUZMAN SANTOS ,oax07p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,406,703,CESAR AUGUSTO,CARRASCO GOMEZ,oax07s,,,,pri,oax,1,1,,2006,3,16,,,,,,,,,,,,,,,,,,1
-59,407,204,JESUS ANGEL,DIAZ ORTEGA,oax08p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,408,704,JAVIER,VILLACAÑA JIMENEZ ,oax08s,,,,pri,oax,1,1,,2004,11,25,,,,,,,,,,,,,,,,,,1
-59,409,205,TOMAS,GARCIA CORPUS ,oax09p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,410,705,DINORATH GUADALUPE,MENDOZA CRUZ,oax09s,,,,pri,oax,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,411,206,HECTOR PABLO RAMIREZ,PUGA LEYVA,oax10p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,412,706,MARIA MERCEDES,ROJAS SALDAÑA,oax10s,,,,pri,oax,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,413,207,GONZALO,RUIZ CERON ,oax11p,,,,pri,oax,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,414,707,PEDRO GUSTAVO,CABRERA RIVERO,oax11s,,,,pri,oax,1,1,,2006,3,16,,,,,,,,,,,,,,,,,,1
-59,415,208,FIDEL RENE,MEZA CABRERA ,pue01p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,416,708,TOMAS,MARTINEZ ROLDAN,pue01s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,417,209,JOSE GUILLERMO,ARECHIGA SANTAMARIA ,pue02p,1958,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,59-sen-62,1
-59,418,709,JUAN MANUEL,LOPEZ ARROYO,pue02s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,419,210,JOSE LUIS,FLORES HERNANDEZ ,pue03p,1950,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,420,710,LUDIVINO,MORA TEJEDA,pue03s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,421,211,JOSE PORFIRIO,ALARCON HERNANDEZ ,pue04p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,422,711,XOCHITL MARGARITA,LOBATO VALLE,pue04s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,423,212,ADRIAN VICTOR HUGO,ISLAS HERNANDEZ,pue05p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,424,712,JULIETA DEL ROCIO,HERNANDEZ MACIAS,pue05s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,425,213,JORGE ROBERTO RUIZ,ESPARZA ORUÑA,pue06p,,,,pan,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pan, quedó indep",,,1
-59,426,713,MARIA CECILIA DEL ROSARIO,ESPINO GONZALEZ,pue06s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,427,214,JESUS,MORALES FLORES ,pue07p,1946,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,428,714,DULCE MARIA,PALACIOS FORTIZ,pue07s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,429,215,RAFAEL,MORENO VALLE ROSAS,pue08p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,430,715,JOSE,LOPEZ MEDINA ,pue08s,,,,pri,pue,1,1,,2004,12,9,,,,,,,,,,,,,,,,,,1
-59,431,216,JOSE FELIPE,PUELLES ESPINA ,pue09p,,,,pan,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,432,716,JANET MIGUELINA,VARGAS JARQUIN,pue09s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,433,217,ROGELIO ALEJANDRO,FLORES MEJIA ,pue10p,,,,pan,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,434,717,MARIA LETICIA NICOLASA,PEREZ PAPAQUI,pue10s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,435,218,MARIA ANGELICA,RAMIREZ LUNA ,pue11p,,,,pan,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,436,718,MARIA DEL CARMEN,QUIROZ PREZA,pue11s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,437,219,MYRIAM DE LOURDES,ARABIAN COUTTOLENC ,pue12p,,,,pan,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,438,719,RAQUEL ROSALIA,RAZO VALDES,pue12s,,,,pan,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,439,220,FRANCISCO ALBERTO,JIMENEZ MERINO ,pue13p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,440,720,LISANDRO,CAMPOS CORDOVA ,pue13s,,,,pri,pue,1,1,,2005,2,3,,,,,,,,,,,,,,,,,,1
-59,441,221,JUAN MANUEL,VEGA RAYET ,pue14p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,442,721,ROSALBA,GERMAN HERMOSILLO,pue14s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,443,222,MARIA DEL CARMEN,IZAGUIRRE FRANCOS,pue15p,,,,pri,pue,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,444,722,JOSE VALENTIN,CUBILLAS ROMERO,pue15s,,,,pri,pue,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,445,223,JOSE ALFONSO,MUÑOZ MUÑOZ ,que01p,,,,pri,que,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,446,723,ANGEL ARIEL,HERNANDEZ HURTADO,que01s,,,,pri,que,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,447,224,ROGELIO,CHAVARRIA SALAS ,que02p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,448,724,BALBINA,MATA TREJO,que02s,,,,pan,que,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,449,225,GUILLERMO ENRIQUE MARCOS,TAMBORREL SUAREZ ,que03p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,450,725,GONZALO,MENDOZA FELIX,que03s,,,,pan,que,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,451,226,RICARDO,ALEGRE BOJORQUEZ,que04p,,,,pan,que,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,452,726,MIGUEL,SIERRA ZUÑIGA ,que04s,,,,pan,que,1,1,,2006,2,28,,,,,,,,,,,,,,,,,,1
-59,453,227,FELIX ARTURO,GONZALEZ CANTO,qui01p,,,,pri,qui,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,454,727,MARIA CONCEPCION,FAJARDO MUÑOZ,qui01s,,,,pri,qui,1,1,,2004,11,9,,,,,,,,,,,,,,,,,,1
-59,455,228,VICTOR MANUEL,ALCERRECA SANCHEZ,qui02p,,,,pri,qui,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,456,728,MANUEL JESUS,TZAB CASTRO,qui02s,,,,pri,qui,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,457,229,ALFONSO JUVENTINO,NAVA DIAZ ,san01p,,,,pri,san,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,458,729,AGUSTIN,SANCHEZ LUGO,san01s,,,,pri,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,459,230,ALVARO,ELIAS LOREDO ,san02p,,M,,pan,san,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,460,730,JAVIER,PALOALTO MACIAS,san02s,,,,pan,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,461,231,JOSE LUIS,BRIONES BRISEÑO,san03p,,,,pri,san,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,462,731,SERGIO,JUAREZ BERRONES,san03s,,,,pri,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,463,232,JOSE MARIA,DE LA VEGA LARRAGA,san04p,,,,pri,san,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,464,732,LUIS ANGEL,CONTRERAS MALIBRAN,san04s,,,,pri,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,465,233,MARCO ANTONIO,GAMA BASARTE ,san05p,,,,pan,san,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,466,733,PAOLA KARINA,RODRIGUEZ ESPINDOLA,san05s,,,,pan,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,467,234,FRANCISCO XAVIER,SALAZAR DIEZ DE SOLLANO,san06p,,,,pan,san,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,468,734,ANA LUZ,JUAREZ ALEJO,san06s,,,,pan,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,469,235,BENJAMIN,SAGAHON MEDINA ,san07p,,,,pri,san,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,470,735,JORGE ENRIQUE,ESPINOZA VAZQUEZ,san07s,,,,pri,san,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,471,236,FRANCISCO,FRIAS CASTRO ,sin01p,,,,pri,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,472,736,MARCOS RENE,PALAFOX PARRA,sin01s,,,,pri,sin,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,473,237,ESTEBAN,VALENZUELA GARCIA ,sin02p,,,,pri,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,474,737,ADRIANA LIZETH,PEREA ESCALANTE,sin02s,,,,pri,sin,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,475,238,ABRAHAM,VELAZQUEZ IRIBE,sin03p,,,,pri,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,476,738,ROSA HILDA,VALENZUELA RODELO,sin03s,,,,pri,sin,1,1,,2004,8,30,,,,,,,,,,,,,,,,,,1
-59,477,239,ARMANDO,LEYSON CASTRO,sin04p,,,,pri,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,478,739,ELIAZAR,CERVANTES,sin04s,,,,pri,sin,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,479,240,GUADALUPE DE JESUS,VIZCARRA CALDERON,sin05p,,,,pri,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,480,740,IRMA GUADALUPE,MORENO OVALLES ,sin05s,,F,,pri,sin,1,1,,2005,2,1,,,,,,,,,,,,,,,,,59-610,1
-59,481,241,JORGE ABEL,LOPEZ SANCHEZ,sin06p,,,,pri,sin,1,0,,2003,8,29,2003,6,16,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,482,741,BERNARDO,VEGA CARLOS ,sin06s,,,,pri,sin,1,1,,2003,9,4,,,,,,,,,,,,,,,,,,1
-59,483,242,OSCAR,FELIX OCHOA ,sin07p,,,,pri,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,484,742,GUSTAVO ELIAS,CORDOVA MORENO,sin07s,,,,pri,sin,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,485,243,ALEJANDRO,HIGUERA OSUNA,sin08p,,,,pan,sin,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,486,743,JOSE EVARISTO,CORRALES MACIAS,sin08s,,,,pan,sin,1,1,,2004,8,30,,,,,,,,,,,,,,,,,,1
-59,487,244,JULIO CESAR,CORDOVA MARTINEZ,son01p,,,,pri,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,488,744,JOSE LUIS,TOVAR TOVAR,son01s,,,,pri,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,489,245,FERMIN,TRUJILLO FUENTES ,son02p,,,,pri,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,490,745,JOSEFINA AURELIA,ROMERO SALAZAR,son02s,,,,pri,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,491,246,HOMERO,RIOS MURRIETA ,son03p,,,,pan,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,492,746,FRANCISCO ADRIAN,GALLEGOS GONZALEZ,son03s,,,,pan,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,493,247,ANTONIO FRANCISCO,ASTIAZARAN GUTIERREZ ,son04p,1971,,,pri,son,1,0,,2003,8,29,2006,8,9,,,,,,,,,,,,,,59-62,1
-59,494,747,HECTOR SAMUEL,RODRIGUEZ SANCHEZ,son04s,,,,pri,son,1,1,,2006,2,2,,,,,,,,,,,,,,,,,,1
-59,495,248,GUSTAVO ADOLFO,DE UNANUE AGUIRRE,son05p,,,,pan,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,496,748,MARIA GERTRUDIS,ALCARAZ ORTEGA,son05s,,,,pan,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,497,249,JAVIER,CASTELO PARADA ,son06p,,,,pan,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen,1
-59,498,749,GUILLERMO,PINEDA BOURS,son06s,,,,pan,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,499,250,JOSE LAMBERTO,DIAZ NIEBLAS,son07p,,,,pri,son,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,500,750,GUADALUPE,MENDIVIL MORALES ,son07s,,,,pri,son,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,501,251,FRANCISCO,HERRERA LEON ,tab01p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,502,751,BENIGNO ANTONIO,LEZAMA SANCHEZ,tab01s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,503,252,LUIS FELIPE,MADRIGAL HERNANDEZ,tab02p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,504,752,CARLOS HUMBERTO GALLEGOS,DE LA CRUZ,tab02s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,505,253,ROGELIO,RODRIGUEZ JAVIER ,tab03p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,506,753,GLADYS DEL CARMEN,CASTILLO CASTILLO,tab03s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,507,254,EUGENIO,MIER Y CONCHA CAMPOS,tab04p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,508,754,BLANCA ESTELA PULIDO,DE LA FUENTE,tab04s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,509,255,CARLOS MANUEL,ROVIROSA RAMIREZ,tab05p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,510,755,MARY CRUZ,ROMAN ALVAREZ,tab05s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,511,256,AMALIN,YABUR ELIAS ,tab06p,,,,pri,tab,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,512,756,PEDRO,GUTIERREZ GUTIERREZ,tab06s,,,,pri,tab,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,513,257,JOSE MANUEL,ABDALA DE LA FUENTE,tam01p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,514,757,SERVANDO,LOPEZ MORENO,tam01s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,515,258,MAKI ESTHER,ORTIZ DOMINGUEZ ,tam02p,,,,pan,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,516,758,NORMA,CORDERO GONZALEZ,tam02s,,,,pan,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,517,259,JESUS HUMBERTO,MARTINEZ DE LA CRUZ,tam03p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,518,759,MARGARITA,GARCIA MARTINEZ,tam03s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,519,260,BALTAZAR MANUEL,HINOJOSA OCHOA,tam04p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-61-63,1
-59,520,760,ERICK AGUSTIN,SILVA SANTOS ,tam04s,,,,pri,tam,1,1,,2004,8,30,,,,,,,,,,,,,,,,,,1
-59,521,261,HUMBERTO FRANCISCO,FILIZOLA HACES ,tam05p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,522,761,GRACIELA,DE ALEJANDRO ACEVEDO,tam05s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,523,262,OSCAR MARTIN,RAMOS SALINAS ,tam06p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,524,762,LUCIA ADRIANA,DIEZ PIÑEYRO,tam06s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,525,263,GONZALO,ALEMAN MIGLIOLO ,tam07p,,,,pri,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,526,763,EDNA ZAMIRA,LOPEZ LOJERO,tam07s,,,,pri,tam,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,527,264,JESUS ANTONIO,NADER NASRALLAH ,tam08p,,,,pan,tam,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,528,764,MARIA ANTONIA,GARCIA SANJINES,tam08s,,,,pan,tam,1,1,,,,,,,,,,,,,,,,,,,,,590-620,
-59,529,265,GELACIO,MONTIEL FUENTES ,tla01p,,,,prd,tla,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,530,765,JOSE LUIS,BARRAZA GARCIA,tla01s,,,,prd,tla,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,531,266,FLORENTINO,DOMINGUEZ ORDOÑEZ ,tla02p,,,,pri,tla,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,532,766,LAURA MARGARITA,VERA ORTEGA,tla02s,,,,pri,tla,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,533,267,FEDERICO,BARBOSA GUTIERREZ ,tla03p,,,,pri,tla,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,534,767,MARIA ANTONIETA ANGELICA,GUEVARA SANCHEZ,tla03s,,,,pri,tla,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,535,268,ROCIO GUZMAN,DE PAZ ,ver01p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,536,768,DANIEL,SEGURA GARCIA,ver01s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,537,269,UBALDO,AGUILAR FLORES,ver02p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,538,769,MANUELA,VAZQUEZ TENORIO,ver02s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,539,270,ALFONSO,SANCHEZ HERNANDEZ ,ver03p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,540,770,MARTIN,CRISTOBAL CRUZ,ver03s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,541,271,JUAN,BUSTILLOS MONTALVO ,ver04p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,542,771,JOSE ANTONIO,AVILES GERARDO,ver04s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,543,272,PABLO,ANAYA RIVERA ,ver05p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,544,772,RAMON,GARCIA SOLIS,ver05s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,545,273,ROMULO ISAEL,SALAZAR MACIAS ,ver06p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,546,773,EMILIANO,LOPEZ CRUZ,ver06s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,547,274,GUILLERMO,ZORRILLA FERNANDEZ ,ver07p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,548,774,FILADELFO,LANDA ORTIZ,ver07s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,549,275,GUSTAVO,MORENO RAMOS ,ver08p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,59-63,1
-59,550,775,RICARDO ANTONIO,LANDA CANO,ver08s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,551,276,ERNESTO,ALARCON TRUJILLO ,ver09p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,552,776,KENIA,HERRERA FERNANDEZ,ver09s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,553,277,MIGUEL ANGEL,LLERA BELLO ,ver10p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,554,777,MARIA DEL CARMEN,LOPEZ CERVANTES,ver10s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,555,278,MARCO ANTONIO,TORRES HERNANDEZ,ver11p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,556,778,MA. ARCADIA GUADALUPE,MARTINEZ SANCHEZ,ver11s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,557,279,FRANCICO JUAN,AVILA CAMBEROS ,ver12p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,558,779,MIGUEL ANGEL,CAMPOS ECHEVERRIA,ver12s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,559,280,ALBERTO URCINO,MENDEZ GALVEZ ,ver13p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,560,780,RENE,GONZALEZ PALESTINO,ver13s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,561,281,MARTIN REMIGIO,VIDAÑA PEREZ ,ver14p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,562,781,EDITH MARGARITA,FRANYUTI CARLIN,ver14s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,563,282,TOMAS ANTONIO,TRUEBA GRACIAN ,ver15p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,564,782,RAMON ARMANDO,ROMERO VEGA,ver15s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,565,283,SERGIO,PENAGOS GARCIA ,ver16p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,566,783,ALVARO RICARDO,DE GASPERIN SAMPIERI,ver16s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,567,284,DIEGO,PALMERO ANDRADE ,ver17p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,568,784,ANDRES,LARA HERNANDEZ,ver17s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,569,285,MARIO ALBERTO RAFAEL,ZEPAHUA VALENCIA ,ver18p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,570,785,ILDIBERTO,ESCOBAR VALDIVIA,ver18s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,571,286,JORGE,USCANGA ESCOBAR ,ver19p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,572,786,JOSABET AGUSTIN,CADENA GONZALEZ,ver19s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,573,287,REGINA,VAZQUEZ SAUT ,ver20p,1981,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,574,787,MIGUEL,LOPEZ MORALES,ver20s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,575,288,JOSE JESUS,VAZQUEZ GONZALEZ ,ver21p,,,,pan,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,576,788,MARIA JULIANA,RODRIGUEZ CARMONA,ver21s,,,,pan,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,577,289,GONZALO,GUIZAR VALLADARES ,ver22p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,578,789,IDALIA,GOMEZ GARCIA,ver22s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,579,290,PABLO,PAVON VINALES ,ver23p,,,,pri,ver,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,580,790,ROSA MARIA,GRANIEL REYES,ver23s,,,,pri,ver,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,581,291,ROGER DAVID,ALCOCER GARCIA ,yuc01p,,,,pri,yuc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,582,791,MARIA ANGELICA,PALMA CAPETILLO,yuc01s,,,,pri,yuc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,583,292,IVONNE,ORTEGA PACHECO ,yuc02p,,,,pri,yuc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,584,792,MARTIN ENRIQUE,CASTILLO RUZ,yuc02s,,,,pri,yuc,1,1,,,,,,,,,,,,,,,,,,,,,590-61,0
-59,585,293,JOSE ORLANDO,PEREZ MOGUEL ,yuc03p,,,,pan,yuc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,586,793,MARIO ALBERTO RAMON,GRANIEL ORTEGA,yuc03s,,,,pan,yuc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,587,294,VIRGINIA,BAEZA ESTRELLA ,yuc04p,,,,pan,yuc,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,588,794,JOSE BENJAMIN,CHACON CASTILLO,yuc04s,,,,pan,yuc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,589,295,ANGEL,CANUL PACAB ,yuc05p,,,,pri,yuc,1,0,,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,590,795,YAMILY MANUELA,ESCOBEDO LOPEZ,yuc05s,,,,pri,yuc,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,591,296,GUILLERMO,HUIZAR CARRANZA ,zac01p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,592,796,LAURA ISELA,RUIZ GONZALEZ,zac01s,,,,prd,zac,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,593,297,ARTURO,NAHLE GARCIA ,zac02p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,594,797,LEOPOLDO ENRIQUE,SANTOS PEREZ,zac02s,,,,prd,zac,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,595,298,AMALIA DOLORES,GARCIA MEDINA,zac03p,,F,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,596,798,RAFAEL,CANDELAS SALINAS,zac03s,,,,prd,zac,1,1,,2004,4,1,,,,,,,,,,,,,,,,,57-59,1
-59,597,299,RAFAEL,FLORES MENDOZA ,zac04p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,598,799,JOSE MANUEL,ZAMBRANO TISCAREÑO,zac04s,,,,prd,zac,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,599,300,ANTONIO,MEJIA HARO ,zac05p,,,,prd,zac,1,0,,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,600,800,FRANCISCO,ROJAS CONTRERAS,zac05s,,,,prd,zac,1,1,,,,,,,,,,,,,,,,,,,,,,
-59,601,301,CONSUELO RODRIGUEZ,DE ALBA ,zrp001p,,,,pri,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,602,801,HUGO CESAR,OLIVARES VELASCO,zrp001s,,,,pri,ags,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,603,302,MARIA GUADALUPE,GARCIA VELASCO ,zrp002p,,,,pan,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,604,802,FRANCISCO,GUZMAN HERRERA,zrp002s,,,,pan,ags,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,605,303,ANGELICA,DE LA PEÑA GOMEZ,zrp003p,,F,,prd,ags,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen,1
-59,606,803,MYRTHALA INES,HERNANDEZ RUIZ,zrp003s,,,,prd,ags,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,607,304,RAUL,POMPA VICTORIA ,zrp004p,,,,pri,bc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,608,804,LUIS RIGOBERTO,DIAZ TEJEDA,zrp004s,,,,pri,bc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,609,305,RUTH TRINIDAD,HERNANDEZ MARTINEZ ,zrp005p,,,,pan,bc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,580-59,1
-59,610,805,LEONARDO,FERNANDEZ ACEVES,zrp005s,,,,pan,bc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,611,306,MARIA ELOISA,TALAVERA HERNANDEZ ,zrp006p,,,,pan,bc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,612,806,CRISTOBAL WALTERIO,GASTELUM LOPEZ,zrp006s,,,,pan,bc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,613,307,JOSE ALBERTO,AGUILAR IÑARRITU ,zrp007p,,,,pri,bcs,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,614,807,JUAN GUILLERMO,PEÑA VILLA,zrp007s,,,,pri,bcs,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,615,308,ESTHELA,PONCE BELTRAN ,zrp008p,,,,pri,bcs,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,616,808,MARIA ELVIRA,VEGA AUDELO,zrp008s,,,,pri,bcs,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,617,309,ADRIAN,CHAVEZ RUIZ ,zrp009p,,,,prd,bcs,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,618,809,EDEN NATALY,COVARRUBIAS GONZALEZ,zrp009s,,,,prd,bcs,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,619,310,ISIDRO,CAMARILLO ZAVALA ,zrp010p,,,,pan,bcs,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pan, quedó indep",,,1
-59,620,810,MIRIAM MARINA,MUÑOZ VARGAS,zrp010s,,,,pan,bcs,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,621,311,GUADALUPE,FONZ SAENZ ,zrp011p,,,,pri,cam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,622,811,JORGE ENRIQUE,HERNANDEZ BIELMA,zrp011s,,,,pri,cam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,623,312,ALEJANDRO,MORENO CARDENAS ,zrp012p,,,,pri,cam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,624,812,ARIEL BALTAZAR,CORDOVA WILSON,zrp012s,,,,pri,cam,0,1,--,2006,4,27,,,,,,,,,,,,,,,,,,1
-59,625,313,OSCAR,RODRIGUEZ CABRERA ,zrp013p,,,,pri,cam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,626,813,NAHUM RUBEN,CARREÑO MENDOZA,zrp013s,,,,pri,cam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,627,314,YOLANDA GUADALUPE,VALLADARES VALLE ,zrp014p,,,,pan,cam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,628,814,CARLOS MANUEL,CAMBRANIS LOPEZ,zrp014s,,,,pan,cam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,629,315,ABRAHAM,BAGDADI ESTRELLA ,zrp015p,,M,,prd,cam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-61,1
-59,630,815,VICTOR MANUEL,MENDEZ RODRIGUEZ,zrp015s,,,,prd,cam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,631,316,LAURA ELENA,MARTINEZ RIVERA ,zrp016p,,,,pri,coa,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,632,816,ANTONIO,NERIO RODRIGUEZ,zrp016s,,,,pri,coa,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,633,317,BLANCA,EPPEN CANALES ,zrp017p,,,,pan,coa,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,634,817,EDUARDO JOSE,MELENDEZ GURZA,zrp017s,,,,pan,coa,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,635,318,MANUEL IGNACIO,LOPEZ VILLARREAL ,zrp018p,,,,pan,coa,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,636,818,ATALA CONSUELO,SANCHEZ MURILLO,zrp018s,,,,pan,coa,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,637,319,JESUS,GONZALEZ SCHMAL ,zrp019p,,,,conv,coa,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,638,819,MARTHA BEATRIZ,CORDOVA BERNAL,zrp019s,,,,conv,coa,0,1,--,,,,,,,,,,,,,,,,,,,,590-62,0
-59,639,320,GRACIELA,LARIOS RIVAS ,zrp020p,,,,pri,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,640,820,MARIA DE LA,LUZ MORENO ,zrp020s,,,,pri,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,641,321,JORGE LUIS,PRECIADO RODRIGUEZ ,zrp021p,1972,,,pan,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-64,1
-59,642,821,KARLA MARGARITA,RAMIREZ Y RAMIREZ,zrp021s,,,,pan,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,643,322,SOCORRO,DIAZ PALACIOS ,zrp022p,,,,prd,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,644,822,ANTONIO,CALDERON CENDEJAS,zrp022s,,,,prd,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,645,323,JOEL,PADILLA PEÑA ,zrp023p,,,,pt,col,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,646,823,JACQUELINE,BARRIOS GOMEZ,zrp023s,,,,pt,col,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,647,324,SAMI GABRIEL,DAVID DAVID ,zrp024p,,,,pri,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,648,824,ANTONIO SELEM HURTADO,DE MENDOZA,zrp024s,,,,pri,cps,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,649,325,SONIA,RINCON CHANONA ,zrp025p,,,,pri,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,59-62,1
-59,650,825,SELENE VERONICA,FLORES MOGUEL,zrp025s,,,,pri,cps,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,651,326,JANETTE,OVANDO REAZOLA ,zrp026p,,,,pan,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,652,826,JAVIER,JIMENEZ CORZO,zrp026s,,,,pan,cps,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,653,327,CESAR ANTONIO,CHAVEZ CASTILLO ,zrp027p,,,,prd,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,654,827,JORGE,BLAS LOPEZ,zrp027s,,,,prd,cps,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,655,328,EMILIO,ZEBADUA GONZALEZ,zrp028p,,,,prd,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,656,828,JUAN,ROMERO TENORIO,zrp028s,,,,prd,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-63,
-59,657,329,MANUEL,VELASCO COELLO ,zrp029p,,,,pvem,cps,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,658,829,EDUARDO FRANCISCO,ZENTENO NUÑEZ,zrp029s,,,,pvem,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-63,0
-59,659,330,FRANCISCO,ESPINOZA RAMOS ,zrp030p,,,,pt,cps,0,0,--,2003,8,29,,,,2006,3,25,,,,,,,,,,,,1
-59,660,830,HECTOR HUGO,ROBLERO GORDILLO,zrp030s,,,,pt,cps,0,1,--,,,,,,,,,,,,,,,,,,,,590-610-62,0
-59,661,331,JOSE REYES,BAEZA TERRAZAS,zrp031p,,,,pri,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,662,831,OMAR,BAZAN FLORES,zrp031s,,,,pri,cua,0,1,--,,,,,,,,,,,,,,,,,,,,57-590,
-59,663,332,FRANCISCO,BARRIO TERRAZAS ,zrp032p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,664,832,VERONICA,PEREZ HERRERA,zrp032s,,,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,665,333,RAMON,GALINDO NORIEGA ,zrp033p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,666,833,MARIA ANTONIETA,PEREZ REYES,zrp033s,,,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,
-59,667,334,BLANCA AMELIA,GAMEZ GUTIERREZ ,zrp034p,,,,pan,cua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,668,834,LUIS ENRIQUE,ACOSTA TORRES,zrp034s,,,,pan,cua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,669,335,ELBA ESTHER,GORDILLO MACIAS,zrp035p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,670,835,LILIA ISABEL ARAGON,DEL RIVERO,zrp035s,,,,pri,df,0,1,--,2004,3,23,,,,,,,,,,,,,,,,,,1
-59,671,336,PEREDO PRIMITIVO FILEMON,ARCOS SUAREZ ,zrp036p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,672,836,MARIA LUISA GPE.,RIVERA CANDELARIA,zrp036s,,,,pri,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,673,337,ROBERTO RAFAEL,CAMPA CIBRIAAN,zrp037p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,674,837,DANIEL,AREVALO GALLEGOS,zrp037s,,,,pri,df,0,1,--,2006,2,2,,,,,,,,,,,,,,,,,,1
-59,675,338,MARCO ANTONIO,GARCIA AYALA ,zrp038p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61-63,1
-59,676,838,MARIA DE LA LUZ ESTELA,TIRADO Y VALLE,zrp038s,,,,pri,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,677,339,JORGE,ORTIZ ALVARADO,zrp039p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,678,839,ALEJANDRO ISMAEL,MURAT HINOJOSA ,zrp039s,,,,pri,df,0,1,--,2004,10,28,,,,,,,,,,,,,,,,,,1
-59,679,340,CLAUDIA,RUIZ MASSIEU SALINAS,zrp040p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,680,840,JESUS EDUARDO,TOLEDANO LANDERO,zrp040s,,,,pri,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,681,341,FRANCISCO SUAREZ,Y DAVILA ,zrp041p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,682,841,OFELIA SOCORRO,JASSO NIETO,zrp041s,,,,pri,df,0,1,--,,,,,,,,,,,,,,,,,,,,570-590-630,
-59,683,342,ROBERTO,VEGA Y GALINA,zrp042p,,,,pri,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,684,842,ROSA DE LOURDES,GARCIA TOVAR,zrp042s,,,,pri,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,685,343,PATRICIA,GARDUÑO MORALES,zrp043p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,686,843,FRANCISCO,FLORES GONZALEZ,zrp043s,,,,pan,df,0,1,--,2006,4,27,,,,,,,,,,,,,,,,,,1
-59,687,344,ERNESTO,HERRERA TOVAR ,zrp044p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,688,844,VERONICA EDITH,ESPINOSA MEJIA,zrp044s,,,,pan,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,689,345,JUAN FRANCISCO,MOLINAR HORCASITAS ,zrp045p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,690,845,VERONICA,HERNANDEZ GUADARRAMA,zrp045s,,,,pan,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,691,346,MARGARITA,SALDAÑA HERNANDEZ ,zrp046p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,692,846,ALEJANDRO,MENDEZ GONZALEZ,zrp046s,,M,,pan,df,0,1,--,,,,,,,,,,,,,,,,,,,,590-63,0
-59,693,347,JORGE,TRIANA TENA ,zrp047p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,694,847,ROSA MARIA,DEL VAL RUIZ,zrp047s,,,,pan,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,695,348,MARGARITA ESTHER,ZAVALA GOMEZ DEL CAMPO,zrp048p,,,,pan,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,696,848,ALONSO,ROLANDO GARCIA,zrp048s,,,,pan,df,0,1,--,2006,4,13,,,,,,,,,,,,,,,,,,1
-59,697,349,RENE,ARCE ISLAS ,zrp049p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,698,849,EDUARDO,MAYA PADILLA,zrp049s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,699,350,JULIO,BOLTVINIK KALINKA ,zrp050p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,700,850,NEMESIO HERLINDO,HERNANDEZ SANTANDER,zrp050s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,701,351,VICTOR MANUEL,CAMACHO SOLIS ,zrp051p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,702,851,DAVID,GAXIOLA PINEDA,zrp051s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,703,352,LUIS EDUARDO,ESPINOZA PEREZ ,zrp052p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,704,852,JOSE FERNANDO,VAZQUEZ NAJERA,zrp052s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,705,353,ELIANA,GARCIA LAGUNA ,zrp053p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,706,853,AMADA ANA MARIA,TREJO PEREZ,zrp053s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,707,354,JUAN JOSE,GARCIA OCHOA ,zrp054p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,708,854,GUILLERMO ANTONIO,OLMOS CAPILLA,zrp054s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,709,355,MARCELA,LAGARDE Y DE LOS RIOS,zrp055p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,710,855,ROSARIO IGNACIA,ORTIZ MAGALLON,zrp055s,1951,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
-59,711,356,JORGE,MARTINEZ RAMOS ,zrp056p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,712,856,FERNANDO HUMBERTO,COELLO PEDRERO,zrp056s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,713,357,INTI,MUÑOZ SANTINI ,zrp057p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,714,857,EDGAR SANDALO,GALVEZ FLORES,zrp057s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,715,358,JOSE AGUSTIN ROBERTO,ORTIZ PINCHETTI ,zrp058p,,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,716,858,JUAN FRANCISCO,PARRA LOPEZ,zrp058s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,717,359,LIZBETH EUGENIA,ROSAS MONTERO ,zrp059p,1974,,,prd,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,718,859,SANDRA MARIANA,RODRIGUEZ REZA,zrp059s,,,,prd,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,719,360,MARIA DE LA LUZ,ARIAS STAINES ,zrp060p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,720,860,ALEJANDRO,AGUNDIS ARIAS,zrp060s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,721,361,FERNANDO,ESPINO AREVALO ,zrp061p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,55-59-61,1
-59,722,861,JOSE DE JESUS,PEREZNEGRON PEREZNEGRON,zrp061s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,723,362,JORGE ANTONIO,KAHWAGI MACRI,zrp062p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,724,862,MINERVA ELIZABETH,CASTILLEROS CERVANTES,zrp062s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,725,363,JAVIER,OROZCO GOMEZ ,zrp063p,,,,pvem,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62,1
-59,726,863,MIGUEL,OROZCO GOMEZ,zrp063s,,,,pvem,df,0,1,--,,,,,,,,,,,,,,,,,,,,590-610-620,
-59,727,364,MIGUEL,MORENO GARAVILLA ,zrp064p,,,,conv,df,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,728,864,GUILLERMO,ROJAS RUBIN,zrp064s,,,,conv,df,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,729,365,JOSE ANGEL,IBAÑEZ MONTES ,zrp065p,,,,pri,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,730,865,ALEJANDRINO,HERRERA BAILON,zrp065s,,,,pri,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,731,366,NORMA,SOTELO OCHOA ,zrp066p,,,,pri,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,732,866,CARMEN AIDE,QUIÑONEZ RUIZ,zrp066s,,,,pri,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,733,367,JUAN DE DIOS,CASTRO LOZANO,zrp067p,,,,pan,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,734,867,MARIA SALOME,ELYD SAENZ,zrp067s,,,,pan,dgo,0,1,--,2004,9,13,,,,,,,,,,,,,,,,,,1
-59,735,368,BERNARDO,LOERA CASTILLO ,zrp068p,,,,pan,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,736,868,SILVIA MARCELA,MARTINEZ MORALES,zrp068s,,,,pan,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,737,369,ALEJANDRO,GONZALEZ YAÑEZ ,zrp069p,1956,M,,pt,dgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen,1
-59,738,869,GLORIA CRISTINA,RUIZ MENDOZA,zrp069s,,,,pt,dgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,739,370,WINTILO,VEGA MURILLO,zrp070p,1962,,,pri,gua,0,0,--,2003,8,29,2005,11,30,,,,,,,,,,,,,,57-59,1
-59,740,870,OFELIA,RUIZ VEGA,zrp070s,,,,pri,gua,0,1,--,2006,2,1,,,,,,,,,,,,,,,,,,1
-59,741,371,JOSE ANGEL,CORDOVA VILLALOBOS ,zrp071p,,,,pan,gua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,742,871,MARTHA CECILIA,RODRIGUEZ AMARO,zrp071s,,,,pan,gua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,743,372,JOSE JULIO,GONZALEZ GARZA ,zrp072p,,,,pan,gua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,744,872,MARIA DEL ROSARIO,VARGAS CHAVEZ,zrp072s,,,,pan,gua,0,1,--,2006,4,1,,,,,,,,,,,,,,,,,,1
-59,745,373,MARIA GUADALUPE,SUAREZ PONCE ,zrp073p,,,,pan,gua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,746,873,JAIME HUMBERTO,BARRAGAN AVIÑA,zrp073s,,,,pan,gua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,747,374,AGUSTIN MIGUEL,ALONSO RAYA ,zrp074p,1954,M,,prd,gua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,53-57-59-62,1
-59,748,874,RODRIGO,GONZALEZ BARRIOS,zrp074s,,,,prd,gua,0,1,--,,,,,,,,,,,,,,,,,,,,590-62,0
-59,749,375,MARTHA LUCIA,MICHER CAMARENA ,zrp075p,1954,,,prd,gua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,750,875,MARIA ISABEL,GALIAZI MERLO,zrp075s,,,,prd,gua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,751,376,CUAUHTEMOC,OCHOA FERNANDEZ ,zrp076p,,,,pvem,gua,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,752,876,SERGIO ALBINO,HERNANDEZ LARRONDO,zrp076s,,,,pvem,gua,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,753,377,ANGEL,PASTA MUÑUZURI ,zrp077p,,,,pan,gue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,754,877,TERESITA DE JESUS,LOPEZ VICTORIA LOPEZ,zrp077s,,,,pan,gue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,755,378,JUAN,GARCIA COSTILLA ,zrp078p,,,,prd,gue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,756,878,GUILLERMO,SANCHEZ NAVA,zrp078s,,,,prd,gue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,757,379,BEATRIZ,MOJICA MORGA ,zrp079p,,,,prd,gue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,758,879,LILIA,BARRANCO COLIN,zrp079s,,,,prd,gue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,759,380,YADIRA,SERRANO CRESPO ,zrp080p,,,,prd,gue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,760,880,AMANDA LOLITA,PINEDA NORMAN,zrp080s,,,,prd,gue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,761,381,EDMUNDO GREGORIO,VALENCIA MONTERRUBIO ,zrp081p,,,,pan,hgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,762,881,MARTHA CRISTINA,GUERRERO HERNANDEZ,zrp081s,,,,pan,hgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,763,382,MARISOL,VARGAS BARCENA ,zrp082p,,,,pan,hgo,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,764,882,EDUARDO,LOPEZ RIVERA,zrp082s,,,,pan,hgo,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,765,383,CARLOS,BLACKALLER AYALA ,zrp083p,,,,pri,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,766,883,MARTHA AURORA,PALACIOS JIMENEZ,zrp083s,,,,pri,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,767,384,JOSE,GARCIA ORTIZ ,zrp084p,,,,pri,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,768,884,XIOMARA,ESTAVILLO DIAZ,zrp084s,,,,pri,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,769,385,LETICIA,GUTIERREZ CORONA ,zrp085p,,,,pri,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,770,885,LUIS CARLOS,TAPIA PEREZ,zrp085s,,,,pri,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,771,386,JESUS,LOMELI ROSAS ,zrp086p,,,,pri,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,772,886,JUANA MARICELA,SPINDOLA GARCIA,zrp086s,,,,pri,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,773,387,MARIA ESTHER DE JESUS,SCHERMAN LEAÑO,zrp087p,,,,pri,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61-63,1
-59,774,887,LIDIA,SARACCO TORRES,zrp087s,,,,pri,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,775,388,JOSE ANTONIO,CABELLO GIL ,zrp088p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,776,888,AMALIA,PADILLA GONZALEZ,zrp088s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,777,389,FERNANDO ANTONIO GUZMAN,PEREZ PELAEZ ,zrp089p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,778,889,MARIA GUADALUPE,PLASCENCIA VAZQUEZ,zrp089s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,779,390,GABRIELA RUIZ,DEL RINCON ,zrp090p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,780,890,CARLOS ALBERTO,TORRES TORRES,zrp090s,1975,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
-59,781,391,RAFAEL,SANCHEZ PEREZ ,zrp091p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,782,891,MARISELA DE LOURDES,MEZA SERVIN,zrp091s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,783,392,LORENA,TORRES RAMOS ,zrp092p,,,,pan,jal,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,784,892,EDWIN ALEJANDRO,ANGUIANO ALVAREZ,zrp092s,,,,pan,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,785,393,JORGE,LEGORRETA ORDORICA ,zrp093p,,,,pvem,jal,0,0,--,,,,,,,,,,,,,,,,,,,,,
-59,786,893,ALEJANDRO,GALLARDO AGUILAR,zrp093s,,,,pvem,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,787,394,ALEJANDRA,MENDEZ SALORIO ,zrp094p,,,,pvem,jal,0,0,--,,,,,,,,,,,,,,,,,,,,,
-59,788,894,JOSE JUAN,FUENTES VILCHIS,zrp094s,,,,pvem,jal,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,789,395,JOSE ARTURO,ALCANTARA ROJAS ,zrp095p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,790,895,GONZALO,UGALDE GAMEZ,zrp095s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,791,396,EMILIO,CHUAYFFET CHEMOR,zrp096p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,792,896,AURORA,LOPEZ OVANDO,zrp096s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,793,397,REBECA GODINEZ,Y BRAVO ,zrp097p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,794,897,IMELDA,MELGAREJO FUKUTAKE,zrp097s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,590-610,
-59,795,398,GEMA ISABEL,MARTINEZ LOPEZ ,zrp098p,,,,pri,mex,0,0,--,2003,8,29,2005,12,21,2006,3,15,,,,,,,,,,,,1
-59,796,898,EDUARDO GUADALUPE,BERNAL MARTINEZ,zrp098s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,57-590-620,
-59,797,399,GUILLERMO,MARTINEZ NOLASCO ,zrp099p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,798,899,AURELIO,SALINAS ORTIZ,zrp099s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,799,400,ALFREDO HILARIO ISIDRO,DEL MAZO GONZALEZ,zrp100p,,,,pri,mex,0,0,--,2003,8,29,2006,1,16,2006,3,9,2006,8,16,,,,,,,,,1
-59,800,900,JOSE ADOLFO,MURAT MACIAS,zrp100s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,801,401,ARMANDO,NEYRA CHAVEZ ,zrp101p,,,,pri,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,51-55-57-59-61-sen,1
-59,802,901,CITLALLI MALINALLI,LUGO DIAZ,zrp101s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,803,402,FRANCISCO JOSE,ROJAS GUTIERREZ ,zrp102p,,,,pri,mex,0,0,--,2003,8,29,2005,12,21,2006,4,21,,,,,,,,,,,59-61,1
-59,804,902,ERIK IVAN,JAIMES ARCHUNDIA,zrp102s,,,,pri,mex,0,1,--,,,,,,,,,,,,,,,,,,,,590-600,
-59,805,403,SHEYLA FABIOLA,ARAGON CORTES ,zrp103p,,,,pan,mex,0,0,--,2003,8,29,2006,1,10,,,,,,,,,,,,,,,1
-59,806,903,RAMON,PATIÑO LEMUS,zrp103s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,807,404,RODRIGO IVAN,CORTES JIMENEZ ,zrp104p,,,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,808,904,LUCIA JAZMIN,CARRILLO OVALLES,zrp104s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,809,405,ADRIANA,GONZALEZ CARRILLO ,zrp105p,,F,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62,1
-59,810,905,CARLOS ARTURO,MILLAN SANCHEZ,zrp105s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,590-610,
-59,811,406,EDELMIRA,GUTIERREZ RIOS ,zrp106p,,,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,812,906,PEDRO ELOY,ESTEVA VELASCO,zrp106s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,813,407,EVANGELINA,PEREZ ZARAGOZA ,zrp107p,,,,pan,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,814,907,MIGUEL ANGEL,CALZADA ADAME,zrp107s,,,,pan,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,815,408,TOMAS,CRUZ MARTINEZ ,zrp108p,,,,prd,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,816,908,EDGAR ALONSO,BLASIO GARCIA,zrp108s,,,,prd,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,817,409,HORACIO,DUARTE OLIVARES,zrp109p,1971,M,,prd,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-64,1
-59,818,909,HELADIO,PLATA CARMONA,zrp109s,,,,prd,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,819,410,MARCELA GONZALEZ,SALAS PETRICIOLI,zrp110p,,,,prd,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,820,910,SAMARIA KENIA,AHUATZIN GUERRA,zrp110s,,,,prd,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,821,411,OMAR,ORTEGA ALVAREZ ,zrp111p,,,,prd,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,822,911,MARCO ANTONIO,ORGANIZ RAMIREZ,zrp111s,,,,prd,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,823,412,JAVIER,SALINAS NARVAEZ ,zrp112p,1965,,,prd,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62-64,1
-59,824,912,FRANCISCO,CLARA SORIA,zrp112s,,,,prd,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,825,413,JAZMIN ELENA,ZEPEDA BURGOS ,zrp113p,,,,prd,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,826,913,MARIA MARTHA,CALIXTO ZARATE,zrp113s,,,,prd,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,827,414,JACQUELINE GUADALUPE,ARGÜELLES GUZMAN ,zrp114p,,,,pvem,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,828,914,CAMILO,CAMPOS LOPEZ,zrp114s,,,,pvem,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,829,415,GUILLERMO,VELASCO RODRIGUEZ,zrp115p,,,,pvem,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,830,915,RAUL,PIÑA HORTA ,zrp115s,,,,pvem,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,831,416,OSCAR,GONZALEZ YAÑEZ ,zrp116p,1964,,,pt,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,56-59-61-64,1
-59,832,916,HERON AGUSTIN,ESCOBAR GARCIA,zrp116s,,,,pt,mex,0,1,--,,,,,,,,,,,,,,,,,,,,590-600-61,0
-59,833,417,LUIS,MALDONADO VENEGAS ,zrp117p,,,,conv,mex,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-63,1
-59,834,917,FELIPE ROGELIO,VIZCAINO ALVAREZ,zrp117s,,,,conv,mex,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,835,418,CONSUELO,MURO URISTA ,zrp118p,,,,pri,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,836,918,EMMA,MONDRAGON NAVARRETE,zrp118s,,,,pri,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,837,419,MARGARITA DEL SAGRADO CORAZON DE JESUS,CHAVEZ MURGUIA ,zrp119p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,838,919,FRANCISCO JOSE,PEREZ PEREZ,zrp119s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,839,420,MARKO ANTONIO,CORTES MENDOZA ,zrp120p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-63,1
-59,840,920,MONICA,LUGO VIDAL,zrp120s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,841,421,JOSE,GONZALEZ MORFIN ,zrp121p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62,1
-59,842,921,MARIA DEL PILAR,IBARROLA MACOUZET,zrp121s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,843,422,GERMAN,MARTINEZ CAZARES ,zrp122p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,844,922,MARIA ELENA,PEREZ DE TEJADA ROMERO,zrp122s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,0
-59,845,423,SALVADOR,VEGA CASILLAS ,zrp123p,,,,pan,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,846,923,PERLA,ORTIZ CABRERA,zrp123s,,,,pan,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,847,424,SERGIO AUGUSTO,MAGAÑA MARTINEZ ,zrp124p,,,,prd,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,848,924,VICTOR LENIN,SANCHEZ RODRIGUEZ,zrp124s,,,,prd,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,849,425,FRANCISCO,MORA CIPRES ,zrp125p,,,,prd,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,850,925,DAVID,MOLINA HAMPSHERE,zrp125s,,,,prd,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,851,426,JUAN,PEREZ MEDINA ,zrp126p,,,,prd,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,852,926,CESAR,REYES CARBAJAL,zrp126s,,,,prd,mic,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,853,427,CRISTINA,PORTILLO AYALA ,zrp127p,,,,prd,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,854,927,DOLORES DE LOS ANGELES,NAZARES JERONIMO,zrp127s,,,,prd,mic,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,0
-59,855,428,ISIDORO,RUIZ ARGAIZ ,zrp128p,,,,prd,mic,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,856,928,JOSE MARIA,AGUIRRE MEDINA,zrp128s,,,,prd,mic,0,1,--,,,,,,,,,,,,,,,,,,,,580-590,
-59,857,429,SERGIO,ALVAREZ MATA ,zrp129p,,,,pan,mor,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,858,929,BELEM,VAZQUEZ BAUTISTA,zrp129s,,,,pan,mor,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,859,430,MARTHA,RIVERA CISNEROS ,zrp130p,,,,pan,mor,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,860,930,JUVENTINO,LOPEZ SERRANO,zrp130s,,,,pan,mor,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,861,431,SALVADOR,SANCHEZ VAZQUEZ ,zrp131p,1940,,,pri,nay,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,862,931,DAVID,FAJARDO PEREZ,zrp131s,,,,pri,nay,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,863,432,MANUEL,PEREZ CARDENAS ,zrp132p,,,,pan,nay,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,864,932,ANA ERIKA,CAMBERO NAVARRO,zrp132s,,,,pan,nay,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,865,433,MARIA CRISTINA,DIAZ SALAZAR ,zrp133p,,,,pri,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
-59,866,933,LUIS ALEJANDRO,GUEVARA COBOS,zrp133s,1975,,,pri,nl,0,1,--,2006,3,16,,,,,,,,,,,,,,,,,57-590-600-61-63,1
-59,867,434,HECTOR HUMBERTO,GUTIERREZ DE LA GARZA,zrp134p,1962,,,pri,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,868,934,HECTOR,RODRIGUEZ ROCHA,zrp134s,,,,pri,nl,0,1,--,2006,4,27,,,,,,,,,,,,,,,,,,1
-59,869,435,CARLOS,MIRELES MORALES ,zrp135p,,,,pri,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,870,935,RAQUEL,OCHOA ARAUJO,zrp135s,,,,pri,nl,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,871,436,BLANCA,DIAZ DELGADO ,zrp136p,,,,pan,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,872,936,ALFREDO,SANDOVAL MORONES,zrp136s,,,,pan,nl,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,873,437,JORGE LUIS,HINOJOSA MORENO ,zrp137p,,,,pan,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,874,937,MARIA LETICIA,LOPEZ JIMENEZ,zrp137s,,,,pan,nl,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,875,438,PEDRO,VAZQUEZ GONZALEZ ,zrp138p,1953,,,pt,nl,0,0,--,2003,8,29,2006,7,11,,,,,,,,,,,,,,59-61-640,1
-59,876,938,LIDIA,VAZQUEZ LUJAN,zrp138s,,,,pt,nl,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,877,439,TATIANA,CLOUTHIER CARRILLO ,zrp139p,1964,,,pan,nl,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pan, quedó indep",,55-59-64,1
-59,878,939,JORGE LUIS,MANCILLA GUTIERREZ,zrp139s,,,,pan,nl,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,879,440,LINO,CELAYA LURIA ,zrp140p,,,,pri,oax,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,880,940,GIOVANNA GUIOMARA,ORTEGA MILLET,zrp140s,,,,pri,oax,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,881,441,JORGE FERNANDO,FRANCO VARGAS,zrp141p,,,,pri,oax,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,882,941,BENJAMIN FERNANDO,HERNANDEZ BUSTAMANTE ,zrp141s,,,,pri,oax,0,1,--,2004,11,25,,,,,,,,,,,,,,,,,,1
-59,883,442,LUIS ANTONIO,RAMIREZ PINEDA ,zrp142p,,,,pri,oax,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,884,942,ROSA KARINA,TREJO ESTRADA,zrp142s,,,,pri,oax,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,885,443,HUMBERTO,ALDAZ HERNANDEZ ,zrp143p,,,,pan,oax,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,886,943,ARACELI,BARROSO RODRIGUEZ,zrp143s,,,,pan,oax,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,887,444,LUIS ANDRES,ESTEVA MELCHOR ,zrp144p,,,,pan,oax,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,888,944,MARIA DE JESUS,MENDOZA SANCHEZ,zrp144s,,,,pan,oax,0,1,--,,,,,,,,,,,,,,,,,,se repiten zrp144s Zrp147s,,590-61,
-59,889,445,JESUS,MARTINEZ ALVAREZ ,zrp145p,,,,conv,oax,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,890,945,ALBERTO,ESTEVA SALINAS,zrp145s,1964,M,,conv,oax,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
-59,891,446,ANGEL JUAN ALONSO,DIAZ CANEJA ,zrp146p,,,,pan,pue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,892,946,LAURA ELENA,FLORES SUÑER,zrp146s,,,,pan,pue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,893,447,FELIPE DE JESUS,DIAZ GONZALEZ ,zrp147p,,,,pan,pue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,894,947,MARIA DE JESUS,MENDOZA SANCHEZ,zrp147s,,,,pan,pue,0,1,--,,,,,,,,,,,,,,,,,,se repiten zrp144s Zrp147s,,590-61,
-59,895,448,ROSA MARIA,AVILES NAJERA ,zrp148p,,,,prd,pue,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,896,948,ELODIA,MARQUEZ CABRERA,zrp148s,,,,prd,pue,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,897,449,ENRIQUE,BURGOS GARCIA ,zrp149p,,,,pri,que,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,898,949,REYNA,MORA VAZQUEZ,zrp149s,,,,pri,que,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,899,450,MANUEL ENRIQUE,OVALLE ARAIZA ,zrp150p,,,,pan,que,0,0,--,2003,8,29,2005,12,13,,,,,,,,,,,,,,,1
-59,900,950,MARGARITA,ROSADO RAMIREZ,zrp150s,,,,pan,que,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,901,451,FRANCISCO XAVIER,ALVARADO VILLAZON ,zrp151p,,,,pvem,que,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,902,951,ANTONIO,GUERRERO MIRAMONTES,zrp151s,,,,pvem,que,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,903,452,YVETT,SALAZAR TORRES,zrp152p,,,,pvem,que,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,904,952,LEONARDO,ALVAREZ ROMO ,zrp152s,,,,pvem,que,0,1,--,2003,9,4,,,,,,,,,,,,,,,,,,1
-59,905,453,IRENE HERMINIA,BLANCO BECERRA ,zrp153p,,,,pan,qui,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,906,953,JOSE OCTAVIO AUGUSTO,PEREZ Y PRIEGO,zrp153s,,,,pan,qui,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,907,454,FRANCISCO XAVIER,LOPEZ MENA ,zrp154p,,,,pan,qui,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,908,954,MARIA LUISA,DE LA VEGA MENDOZA,zrp154s,,,,pan,qui,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,909,455,ROGELIO,FRANCO CASTAN,zrp155p,1975,M,,prd,qui,0,0,--,2003,8,29,,,,,,,,,,,,,,,se repiten zrp155s Zrp183s,,no,1
-59,910,955,EMILIANO BLADIMIR,RAMOS HERNANDEZ ,zrp155s,,,,prd,qui,0,1,--,2005,4,27,,,,,,,,,,,,,,,,,,1
-59,911,456,CARLOS,JIMENEZ MACIAS ,zrp156p,,,,pri,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,912,956,REYNALDO,BELTRAN OVIEDO,zrp156s,,,,pri,san,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,913,457,SARA,ROCHA MEDINA ,zrp157p,,,,pri,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,914,957,ROSALBA,BALDERRAMA BRAVO,zrp157s,,,,pri,san,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,915,458,ALFREDO,FERNANDEZ MORENO ,zrp158p,,,,pan,san,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,916,958,ROSA MARIA,PADILLA CONTRERAS,zrp158s,,,,pan,san,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,917,459,DIVA HADAMIRA,GASTELUM BAJO ,zrp159p,,,,pri,sin,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61-sen,1
-59,918,959,DANILA,PERKINS FERNANDEZ,zrp159s,,,,pri,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,919,460,ALFREDO,VILLEGAS ARREOLA ,zrp160p,1951,M,,pri,sin,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-61-64,1
-59,920,960,EVERARDO,RAMOS GARCIA,zrp160s,,,,pri,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,921,461,JOSE JAVIER,OSORIO SALCIDO ,zrp161p,,,,pan,sin,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,922,961,MARIA DE LOS ANGELES,HEREDIA ZAVALA,zrp161s,,,,pan,sin,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,923,462,MANLIO FABIO,BELTRONES RIVERA,zrp162p,1952,M,,pri,son,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,52-59-62,1
-59,924,962,JESUS ALBERTO,CANO VELEZ,zrp162s,,,,pri,son,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,
-59,925,463,RAFAEL,GALINDO JAIME ,zrp163p,,,,pri,son,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,926,963,GERMAN,URIBE CORONA,zrp163s,,,,pri,son,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,927,464,JOSE IRENE,ALVAREZ RAMOS ,zrp164p,,,,pan,son,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,928,964,ROSA VERONICA,FLORES CELAYA,zrp164s,,,,pan,son,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,929,465,MARIA VIOLA,CORELLA MANZANILLA ,zrp165p,,,,pan,son,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,930,965,JUAN ALEJANDRO,VARELA HALL,zrp165s,,,,pan,son,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,931,466,ANGEL AUGUSTO,BUENDIA TIRADO ,zrp166p,,,,pri,tab,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,932,966,JORGE YUNIS,RAFFUL ZEPEDA,zrp166s,,,,pri,tab,0,1,--,,,,,,,,,,,,,,,,,,,,590-620,0
-59,933,467,ADY,GARCIA LOPEZ,zrp167p,,,,pri,tab,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,934,967,FEDERICO,MADRAZO ROJAS,zrp167s,,,,pri,tab,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,935,468,JOSE ANTONIO PABLO,DE LA VEGA ASMITIA,zrp168p,,,,pan,tab,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,936,968,MARIA ALEJANDRA,MERINO FERRER,zrp168s,,,,pan,tab,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,937,469,LUCIO,LASTRA MARIN ,zrp169p,,,,pan,tab,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,938,969,MARIA VIRGINIA,BUENDIA CALZADA,zrp169s,,,,pan,tab,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,939,470,DOLORES DEL CARMEN,GUTIERREZ ZURITA ,zrp170p,,,,prd,tab,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,940,970,ENOE,JUAREZ GOMEZ,zrp170s,,,,prd,tab,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,941,471,HOMERO,DIAZ RODRIGUEZ ,zrp171p,,,,pri,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,942,971,GUADALUPE,PEREA ALMANZA,zrp171s,,,,pri,tam,0,1,--,,,,,,,,,,,,,,,,,,,,570-590,0
-59,943,472,CARLOS,FLORES RICO ,zrp172p,,,,pri,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,944,972,MARCELA,MUZQUIZ SCHEIB,zrp172s,,,,pri,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,945,473,CRUZ,LOPEZ AGUILAR ,zrp173p,,,,pri,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-61,1
-59,946,973,DIANA CARINA,VELAZQUEZ RAMIREZ,zrp173s,,,,pri,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,947,474,SERGIO ARTURO,POSADAS LARA ,zrp174p,,,,pri,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,948,974,ENRIQUE,SARMIENTO ALVAREZ,zrp174s,,,,pri,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,949,475,GISELA JULIANA,LARA SALDAÑA ,zrp175p,,,,pan,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,950,975,JOSE DE JESUS,DE LA CRUZ RAMIREZ,zrp175s,,,,pan,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,951,476,JOSE JULIAN,SACRAMENTO GARZA ,zrp176p,,,,pan,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,952,976,MARIA LIZETH,ACOSTA AGUIRRE,zrp176s,,,,pan,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,953,477,ELPIDIO,TOVAR DE LA CRUZ,zrp177p,,,,prd,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,954,977,ROBERTO AURELIO,CAZARES QUINTANA,zrp177s,,,,prd,tam,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,955,478,LUIS ANTONIO,GONZALEZ ROLDAN ,zrp178p,,,,pvem,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-62,1
-59,956,978,JESUS,GONZALEZ MACIAS,zrp178s,1972,,,pvem,tam,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
-59,957,479,JUAN ANTONIO,GUAJARDO ANZALDUA ,zrp179p,,,,pt,tam,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59,1
-59,958,979,RUBEN,AGUILAR JIMENEZ,zrp179s,1943,,,pt,tam,0,1,--,,,,,,,,,,,,,,,,,,,,590-60,0
-59,959,480,MARTHA,PALAFOX GUTIERREZ ,zrp180p,1949,,,pri,tla,0,0,--,,,,,,,,,,,,,,,,,,,,57-590-sen,0
-59,960,980,ROBERTO ARMANDO,ALBORES GLEASON,zrp180s,1979,,,pri,tla,0,1,--,,,,,,,,,,,,,,,,,,,,590-61-sen,0
-59,961,481,JOSE JUAN,BARCENAS GONZALEZ ,zrp181p,,,,pan,tla,0,0,--,,,,,,,,,,,,,,,,,,,,,
-59,962,981,AMADA,ACOLTZI GONZALEZ,zrp181s,,,,pan,tla,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,963,482,MINERVA,HERNANDEZ RAMOS ,zrp182p,,,,prd,tla,0,0,--,,,,,,,,,,,,,,,,,,,,59-sen-63,1
-59,964,982,JUAN JESUS,MARTINEZ ZAVALA,zrp182s,,,,prd,tla,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,965,483,ROGELIO,FRANCO CASTAN,zrp183p,,,,pri,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,se repiten zrp155s Zrp183s,,,1
-59,966,983,EMILIO VALDIMIR,RAMOS HERNANDEZ,zrp183s,,,,pri,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,967,484,OLIVIA,CASTAÑEDA ORTIZ ,zrp184p,,,,pri,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,968,984,SILVIO,LAGOS GALINDO,zrp184s,,,,pri,ver,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,0
-59,969,485,VICTOR FELIX,FLORES MORALES ,zrp185p,,,,pri,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-61,1
-59,970,985,ENA ROSA,VALENCIA ROSADO,zrp185s,,,,pri,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,971,486,TOMAS JOSE,RUIZ GONZALEZ,zrp186p,,,,pri,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,972,986,JOSE LUIS,GARCIA MERCADO,zrp186s,,,,pri,ver,0,1,--,,,,,,,,,,,,,,,,,,,,590-620,
-59,973,487,MIGUEL ANGEL,YUNES PERALTA,zrp187p,,,,pri,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,974,987,ANIBAL,PERALTA GARCIA,zrp187s,,,,pri,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,975,488,BARUCH ALBERTO,BARRERA ZURITA ,zrp188p,,,,pan,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,976,988,AURORA,GARDINI PICAZO,zrp188s,,,,pan,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,977,489,ROMULO,CARDENAS VELEZ ,zrp189p,,,,pan,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,978,989,DORA LILIA,GALLEGOS FALCONDI,zrp189s,,,,pan,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,979,490,MARIA DEL CARMEN,ESCUDERO FABRE ,zrp190p,,,,pan,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,980,990,BERNARDO MARGARITO,TELLEZ JUAREZ,zrp190s,,,,pan,ver,0,1,--,,,,,,,,,,,,,,,,,,,,590-61,0
-59,981,491,FRANCISCO JAVIER,LARA ARANO ,zrp191p,,,,pan,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,982,991,ELENA CECILIA,MORFIN RIOS,zrp191s,,,,pan,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,983,492,MARCELO,HERRERA HERBERT ,zrp192p,,,,prd,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,984,992,MARTHA ELBA,VILLARREAL ESCOBAR,zrp192s,,,,prd,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,985,493,MAXIMINO ALEJANDRO,FERNANDEZ AVILA ,zrp193p,,,,pvem,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-610,1
-59,986,993,JUSTO JOSE,FERNANDEZ GARIBAY,zrp193s,,,,pvem,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,987,494,JUAN FERNANDO,PERDOMO BUENO ,zrp194p,,,,conv,ver,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,988,994,MANUEL BERNARDO,CARBONELL ORTEGA,zrp194s,,,,conv,ver,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,989,495,ALFREDO,RODRIGUEZ Y PACHECO,zrp195p,,,,pan,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen,1
-59,990,995,YOLANDA LETICIA,PENICHE BLANCO,zrp195s,,,,pan,yuc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,991,496,MARIA BEATRIZ,ZAVALA PENICHE ,zrp196p,,,,pan,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,57-59-sen-62,1
-59,992,996,MARCO ANTONIO,PASOS TEC,zrp196s,,,,pan,yuc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,993,497,MARBELLA,CASANOVA CALAM ,zrp197p,,,,prd,yuc,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,994,997,MIRNA CONCEPCION,CASTRO PAVIA,zrp197s,,,,prd,yuc,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,995,498,JOSE ISABEL,TREJO REYES ,zrp198p,1959,,,pan,zac,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,59-sen-62-64,1
-59,996,998,ANA MARIA,AVILA FLORES,zrp198s,,,,pan,zac,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,997,499,JOSE LUIS,MEDINA LIZALDE ,zrp199p,,,,prd,zac,0,0,--,2003,8,29,,,,,,,,,,,,,,,,,,1
-59,998,999,TERESINA,CASAS CASTRO,zrp199s,,,,prd,zac,0,1,--,,,,,,,,,,,,,,,,,,,,,
-59,999,500,MARTIN,CARRILLO GUZMAN ,zrp200p,,,,pri,zac,0,0,--,2003,8,29,,,,,,,,,,,,,,,"Salió del pri, quedó indep",,,1
-59,1000,1000,OLGA AZUCENA,VALENZUELA LOPEZ,zrp200s,,,,pri,zac,0,1,--,,,,,,,,,,,,,,,,,,,,,
+leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in2,out2,in3,lider,prescom,nota,fuente,repite,doath
+59,1,1,ARTURO,ROBLES AGUILAR ,ags01p,1956,M,,pri,ags,1,0,,20030829,,,,,,,,,,1
+59,2,501,LAURA PATRICIA,ROMO CASTORENA,ags01s,,F,,pri,ags,1,1,,,,,,,,,,,590-620,
+59,3,2,FRANCISCO JAVIER,VALDES DE ANDA,ags02p,,,,pan,ags,1,0,,20030829,,,,,,,,,,1
+59,4,502,HECTOR EDUARDO,ANAYA PEREZ,ags02s,,,,pan,ags,1,1,,,,,,,,,,,590-620,
+59,5,3,JAIME,DEL CONDE UGARTE,ags03p,1962,,,pan,ags,1,0,,20030829,,,,,,,,,59-61,1
+59,6,503,SANJUANA ADRIANA,ESTRADA GONZALEZ,ags03s,,,,pan,ags,1,1,,,,,,,,,,,,
+59,7,4,HIDALGO,CONTRERAS COVARRUBIAS ,bc01p,,,,pan,bc,1,0,,20030829,,,,,,,,,,1
+59,8,504,JAVIER,MAYORAL MURILLO,bc01s,,,,pan,bc,1,1,,,,,,,,,,,,
+59,9,5,NORBERTO,CORELLA TORRES ,bc02p,,,,pan,bc,1,0,,20030829,,,,,,,,,,1
+59,10,505,IRENE,MANRIQUEZ MINORI,bc02s,,,,pan,bc,1,1,,,,,,,,,,,,
+59,11,6,PABLO ALEJO,LOPEZ NUÑEZ ,bc03p,,,,pan,bc,1,0,,20030829,,,,,,,,,,1
+59,12,506,SILVANO,ABARCA MACKLIS,bc03s,,,,pan,bc,1,1,,,,,,,,,,,,
+59,13,7,RENATO,SANDOVAL FRANCO ,bc04p,,,,pan,bc,1,0,,20030829,,,,,,,,,,1
+59,14,507,JUAN FRANCISCO,RIOS GALVAN,bc04s,,,,pan,bc,1,1,,,,,,,,,,,,
+59,15,8,JOSE GUADALUPE,OSUNA MILLAN ,bc05p,,,,pan,bc,1,0,,20030829,,,,,,,,,,1
+59,16,508,ANTONIO,VALLADOLID RODRIGUEZ,bc05s,1973,,,pan,bc,1,1,,,,,,,,,,,590-60,0
+59,17,9,VICTOR MANUEL,GONZALEZ REYES ,bc06p,,,,pan,bc,1,0,,20030829,,,,,,,,,,1
+59,18,509,JOSE TEODORO,BARRAZA LOPEZ,bc06s,,,,pan,bc,1,1,,,,,,,,,,,590-63,
+59,19,10,FRANCISCO JAVIER,OBREGON ESPINOZA ,bcs01p,,,,prd,bcs,1,0,,20030829,,,,,,,,,59-sen,1
+59,20,510,BENJAMIN,GARCIA MEZA,bcs01s,,,,prd,bcs,1,1,,,,,,,,,,,,
+59,21,11,NARCISO,AGUNDEZ MONTAÑO,bcs02p,,,,prd,bcs,1,0,,20030829,,,,,,,,,,1
+59,22,511,JOSEFINA,COTA COTA,bcs02s,,,,prd,bcs,1,1,,20040830,,,,,,,,,59-sen,1
+59,23,12,ENRIQUE ARIEL,ESCALANTE ARCEO ,cam01p,,,,pri,cam,1,0,,20030829,,,,,,,,,,1
+59,24,512,SERGIO AGUSTIN,RAMIREZ GONZALEZ,cam01s,,,,pri,cam,1,1,,,,,,,,,,,,
+59,25,13,SEBASTIAN,CALDERON CENTENO ,cam02p,,,,pan,cam,1,0,,20030829,,,,,,,,,59-sen,1
+59,26,513,RAMON,DIMAS HERNANDEZ,cam02s,,,,pan,cam,1,1,,,,,,,,,,,,
+59,27,14,JESUS MARIA,RAMON VALDES ,coa01p,,,,pri,coa,1,0,,20030829,,,,,,,,,59-sen,1
+59,28,514,ERNESTO VELA,DEL CAMPO,coa01s,,,,pri,coa,1,1,,,,,,,,,,,,
+59,29,15,JESUS,ZUÑIGA ROMERO ,coa02p,,,,pri,coa,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,30,515,PATRICIA DEL CARMEN,QUISTIAN CONTRERAS,coa02s,,,,pri,coa,1,1,,,,,,,,,,,,
+59,31,16,RICARDO,RODRIGUEZ ROCHA ,coa03p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
+59,32,516,SYLBETH,GARCIA BOONE,coa03s,,,,pri,coa,1,1,,,,,,,,,,,,
+59,33,17,OSCAR,PIMENTEL GONZALEZ,coa04p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
+59,34,517,NORMA,DAVILA SALINAS ,coa04s,,,,pri,coa,1,1,,20051122,,,,,,,,,,1
+59,35,18,EDUARDO,OLMOS CASTRO ,coa05p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
+59,36,518,RAUL,ONOFRE CONTRERAS,coa05s,,,,pri,coa,1,1,,20031128,,,,,,,,,,1
+59,37,19,LAURA,REYES RETANA ,coa06p,,,,pri,coa,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,38,519,CARLOS,JALIFE GARCIA,coa06s,,,,pri,coa,1,1,,,,,,,,,,,,
+59,39,20,FERNANDO,DE LAS FUENTES HERNANDEZ,coa07p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
+59,40,520,ALDO MAURICIO,MARTINEZ HERNANDEZ ,coa07s,,,,pri,coa,1,1,,20050830,,,,,,,,,,1
+59,41,21,ANTONIO,MORALES DE LA PEÑA,col01p,,,,pan,col,1,0,,20030829,,,,,,,,,,1
+59,42,521,PATRICIA,LUGO BARRIGA,col01s,1973,,,pan,col,1,1,,,,,,,,,,,59-62,1
+59,43,22,ROGELIO HUMBERTO,RUEDA SANCHEZ ,col02p,,,,pri,col,1,0,,20030829,20060517,,,,,,,,59-sen,1
+59,44,522,ANAMIN ZENAIDA,SOLORZANO TORRES,col02s,,,,pri,col,1,1,,,,,,,,,,,,
+59,45,23,JORGE BALDEMAR,UTRILLA ROBLES ,cps01p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,46,523,FRANCISCA,DAMAS DAMAS,cps01s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,47,24,MARIA ELENA,ORANTES LOPEZ ,cps02p,,,,pri,cps,1,0,,20030829,,,,,,,,,59-sen-63,1
+59,48,524,RAMIRO,GOMEZ DOMINGUEZ,cps02s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,49,25,JUAN ANTONIO,GORDILLO REYES,cps03p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,50,525,ARMANDO,AGUILAR GORDILLO,cps03s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,51,26,JULIAN,NAZAR MORALES ,cps04p,,,,pri,cps,1,0,,20030829,20060510,,,,,,,,57-59-61-63,1
+59,52,526,ARTURO,BURGUETE LEON,cps04s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,53,27,FLORENCIO,COLLAZO GOMEZ ,cps05p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,54,527,MARCO ANTONIO,SANTIAGO SANCHEZ,cps05s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,55,28,ROBERTO AQUILES,AGUILAR HERNANDEZ ,cps06p,,,,pri,cps,1,0,,20030829,20060316,,,,,,,,,1
+59,56,528,ERIKA LILIANA,GRAJALES PASCACIO,cps06s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,57,29,FRANCISCO,GRAJALES PALACIOS ,cps07p,1956,,,pri,cps,1,0,,20030829,,,,,,,,,59-62,1
+59,58,529,MARIA DEL ROCIO,HERRERA ORTIZ,cps07s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,59,30,MARIO,CULEBRO VELASCO ,cps08p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,60,530,MARCO ANTONIO,MORALES LIEVANO,cps08s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,61,31,FRANCISCO ANTONIO,ROJAS TOLEDO ,cps09p,,,,pan,cps,1,0,,20030829,,,,,,,,,,1
+59,62,531,JORGE ISAAC,SANCHEZ MALDA,cps09s,,,,pan,cps,1,1,,,,,,,,,,,,
+59,63,32,BELISARIO IRAM,HERRERA SOLIS ,cps10p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,64,532,RAFAEL,GONZALEZ CHAMLATI,cps10s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,65,33,CESAR,GONZALEZ ORANTES ,cps11p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,66,533,MARIA LILIA CONCEPCION,ARMENDARIZ CEA,cps11s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,67,34,CARLOS OSWALDO,PANO BECERRA ,cps12p,,,,pri,cps,1,0,,20030829,,,,,,,,,,1
+59,68,534,NEFTALI ARMANDO,DEL TORO GUZMAN,cps12s,,,,pri,cps,1,1,,,,,,,,,,,,
+59,69,35,JOSE MARIO,WONG PEREZ ,cua01p,,,,pri,cua,1,0,,20030829,,,,,,,,,,1
+59,70,535,HUMBERTO,PEREZ RODRIGUEZ,cua01s,,,,pri,cua,1,1,,,,,,,,,,,,
+59,71,36,NORA,YU HERNANDEZ ,cua02p,,,,pri,cua,1,0,,20030829,,,,,,,,,,1
+59,72,536,CARLOS,MURILLO MARTINEZ,cua02s,,,,pri,cua,1,1,,,,,,,,,,,,
+59,73,37,MARIA,AVILA SERNA ,cua03p,,,,pvem,cua,1,0,,20030829,,,,,,,,,59-63,1
+59,74,537,MICAELA DEL CARMEN,AGÜERO LOPEZ,cua03s,,,,pvem,cua,1,1,,,,,,,,,,,,
+59,75,38,LORENZO MIGUEL,LUCERO PALMA ,cua04p,,,,pri,cua,1,0,,20030829,,,,,,,,,,1
+59,76,538,ARTURO,AVILA FIERRO,cua04s,,,,pri,cua,1,1,,,,,,,,,,,,
+59,77,39,FERNANDO,ALVAREZ MONJE ,cua05p,,,,pan,cua,1,0,,20030829,,,,,,,,,,1
+59,78,539,DANIEL,TORRES CHAVEZ,cua05s,,,,pan,cua,1,1,,,,,,,,,,,,
+59,79,40,GUSTAVO ENRIQUE,MADERO MUÑOZ ,cua06p,,,,pan,cua,1,0,,20030829,,,,,,,,,59-sen-63,1
+59,80,540,LILIANA,ROJERO LUEVANO,cua06s,,,,pan,cua,1,1,,,,,,,,,,,,
+59,81,41,JORGE DE JESUS,CASTILLO CABRERA ,cua07p,,,,pri,cua,1,0,,20030829,,,,,,,,,,1
+59,82,541,MANUEL RAMON,CARRERA AGUILAR,cua07s,,,,pri,cua,1,1,,,,,,,,,,,,
+59,83,42,MARIA MARTHA CELESTINA EVA,LAGUETTE  LARDIZABAL,cua08p,,,,pri,cua,1,0,,20030829,,,,,,,,,,1
+59,84,542,KENNY DENISSE,ARROYO GONZALEZ,cua08s,,,,pri,cua,1,1,,,,,,,,,,,,
+59,85,43,JESUS,AGUILAR BUENO ,cua09p,,,,pri,cua,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,59-620,1
+59,86,543,AGUSTIN ALBERTO NAVARRO,ROBLES GIL,cua09s,,,,pri,cua,1,1,,,,,,,,,,,,
+59,87,44,MARCOS,MORALES TORRES ,df01p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,88,544,FELIX VIDAL,GALLEGOS MELO,df01s,,,,prd,df,1,1,,,,,,,,,,,,
+59,89,45,MIGUEL ANGEL,GARCIA DOMINGUEZ ,df02p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,90,545,NAZARIO,NORBERTO SANCHEZ,df02s,,,,prd,df,1,1,,,,,,,,,,,590-61,0
+59,91,46,PABLO,FRANCO HERNANDEZ ,df03p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,92,546,ROSALIA,AVILA GARCIA,df03s,,,,prd,df,1,1,,,,,,,,,,,,
+59,93,47,ROCIO,SANCHEZ PEREZ ,df04p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,94,547,HECTOR ADRIAN,AMEZCUA RODRIGUEZ,df04s,,,,prd,df,1,1,,,,,,,,,,,,
+59,95,48,FRANCISCO JAVIER,CARRILLO SOBERON,df05p,,,,prd,df,1,0,,20030829,,,,,,,,,580-59,1
+59,96,548,ALFONSO,HERNANDEZ GARCIA,df05s,,,,prd,df,1,1,,,,,,,,,,,,
+59,97,49,EDGAR,TORRES BALTAZAR ,df06p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,98,549,IMELDA,MENDOZA ROMERO,df06s,,,,prd,df,1,1,,,,,,,,,,,,
+59,99,50,IVAN,GARCIA SOLIS ,df07p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,100,550,HUGO OTILIO,DELGADILLO MEJIA,df07s,,,,prd,df,1,1,,,,,,,,,,,,
+59,101,51,MARIA DE LOS DOLORES,PADIERNA LUNA,df08p,1958,,,prd,df,1,0,,20030829,,,,,,,,,57-59-sen-64,1
+59,102,551,BEATRIZ ASCENCION,LARA AGUIRRE,df08s,,,,prd,df,1,1,,,,,,,,,,,,
+59,103,52,MARIA GUADALUPE,MORALES RUBIO ,df09p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,104,552,IRMA,MORALES MORAN,df09s,,,,prd,df,1,1,,,,,,,,,,,,
+59,105,53,ROBERTO,COLIN GAMBOA ,df10p,,,,pan,df,1,0,,20030829,,,,,,,,,,1
+59,106,553,JUANA CONCEPCION,CUSI SOLANA,df10s,,,,pan,df,1,1,,,,,,,,,,,,
+59,107,54,ALFONSO,RAMIREZ CUELLAR ,df11p,1959,M,,prd,df,1,0,,20030829,,,,,,,,,57-59-64,1
+59,108,554,JOSE LUIS,HEREDIA MEDINA,df11s,,,,prd,df,1,1,,,,,,,,,,,,
+59,109,55,FRANCISCO JAVIER,SAUCEDO PEREZ,df12p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,110,555,FILEMON,SANCHEZ PEREZ,df12s,,,,prd,df,1,1,,,,,,,,,,,,
+59,111,56,EMILIO,SERRANO JIMENEZ ,df13p,,,,prd,df,1,0,,20030829,,,,,,,,,59-61,1
+59,112,556,KARINA,CORDOVA GUERRERO,df13s,,,,prd,df,1,1,,,,,,,,,,,,
+59,113,57,DANIEL,ORDOÑEZ HERNANDEZ ,df14p,,,,prd,df,1,0,,20030829,,,,,,,,,59-63,1
+59,114,557,MERCEDES ARACELI,ARCE NAVA,df14s,,,,prd,df,1,1,,,,,,,,,,,,
+59,115,58,FEDERICO,DORING CASAR,df15p,,,,pan,df,1,0,,20030829,,,,,,,,,59-sen-63,1
+59,116,558,JUAN PABLO,CHABAUD LIMON,df15s,,,,pan,df,1,1,,,,,,,,,,,,
+59,117,59,VICTOR,SUAREZ CARRERA ,df16p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,118,559,LEONARDO GREGORIO,BOBADILLA VALDES,df16s,,,,prd,df,1,1,,,,,,,,,,,,
+59,119,60,MARIA ANGELICA,DIAZ DEL CAMPO,df17p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,120,560,MARIA DE LOURDES,PONCE DE LEON GARCIA,df17s,,,,prd,df,1,1,,,,,,,,,,,,
+59,121,61,HORACIO,MARTINEZ MEZA ,df18p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,122,561,GLORIA CAMERINA,MARTINEZ MARQUEZ,df18s,,,,prd,df,1,1,,,,,,,,,,,,
+59,123,62,MARIA ELBA,GARFIAS MALDONADO,df19p,,,,prd,df,1,0,,20030829,,,,,,,,,570-59,1
+59,124,562,ANGELINA,PEREZ JUAREZ,df19s,,,,prd,df,1,1,,,,,,,,,,,,
+59,125,63,DIANA ROSALIA,BERNAL LADRON DE GUEVARA,df20p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,126,563,ELSA,OBRAJERO MONTES,df20s,,,,prd,df,1,1,,20060404,,,,,,,,,,1
+59,127,64,MIGUEL ANGEL,TOSCANO VELASCO,df21p,,,,pan,df,1,0,,20030829,,,,,,,,,,1
+59,128,564,JOSE MARIA,GOMEZ VILLASEÑOR,df21s,,,,pan,df,1,1,,,,,,,,,,,,
+59,129,65,GILBERTO,SANTIAGO ENSASTIGA,df22p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,130,565,FRANCISCO,DIEGO AGUILAR ,df22s,,,,prd,df,1,1,,20050208,,,,,,,,,,1
+59,131,66,PABLO,GOMEZ ALVARADO,df23p,,,,prd,df,1,0,,20030829,,,,,,,,,57-59-sen-64,1
+59,132,566,HECTOR,ROMERO BOLAÑOS,df23s,,,,prd,df,1,1,,,,,,,,,,,,
+59,133,67,BERNARDINO,RAMOS ITURBIDE ,df24p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,134,567,RAUL,AVILES ALLENDE,df24s,,,,prd,df,1,1,,,,,,,,,,,,
+59,135,68,CLARA MARINA,BRUGADA  MOLINA,df25p,1963,,,prd,df,1,0,,20030829,,,,,,,,,57-59,1
+59,136,568,LEONEL,PACHECO SALAS,df25s,,,,prd,df,1,1,,,,,,,,,,,,
+59,137,69,AGUSTIN,RODRIGUEZ FUENTES,df26p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,138,569,JOSE LUIS,GUTIERREZ CALZADILLA,df26s,1944,,,prd,df,1,1,,,,,,,,,,,590-60,0
+59,139,70,JOSE LUIS,CABRERA PADILLA,df27p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,140,570,TERESA,RAMIREZ MAYA,df27s,,,,prd,df,1,1,,,,,,,,,,,,
+59,141,71,NANCY,CARDENAS SANCHEZ ,df28p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,142,571,ARTURO,GONZALEZ ALVARADO,df28s,,,,prd,df,1,1,,,,,,,,,,,,
+59,143,72,SUSANA GUILLERMINA,MANZANARES CORDOVA ,df29p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,144,572,BERTHA NOELIA,MARES SILVA,df29s,,,,prd,df,1,1,,,,,,,,,,,,
+59,145,73,SALVADOR PABLO,MARTINEZ DELLA ROCCA,df30p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
+59,146,573,TABITA,VALADEZ GARCIA,df30s,,,,prd,df,1,1,,,,,,,,,,,,
+59,147,74,FRANCISCO LUIS,MONARREZ RINCON,dgo01p,,,,pri,dgo,1,0,,20030829,,,,,,,,,,1
+59,148,574,JAIME,RIVAS LOAIZA,dgo01s,,,,pri,dgo,1,1,,,,,,,,,,,,
+59,149,75,CARLOS,HERRERA ARALUCE,dgo02p,,,,pri,dgo,1,0,,20030829,,,,,,,,,,1
+59,150,575,ROSARIO,SAENZ LOPEZ ,dgo02s,,,,pri,dgo,1,1,,20030911,,,,,,,,,,1
+59,151,76,FERNANDO ULISES ADAME,DE LEON ,dgo03p,,,,pri,dgo,1,0,,20030829,,,,,,,,,,1
+59,152,576,ENRIQUE AURELIO,ESTRADA ORTEGA,dgo03s,,,,pri,dgo,1,1,,,,,,,,,,,,
+59,153,77,JAIME,FERNANDEZ SARACHO ,dgo04p,,,,pri,dgo,1,0,,20030829,,,,,,,,,,1
+59,154,577,DIANA MARIA,ESPINOSA SANCHEZ,dgo04s,,,,pri,dgo,1,1,,,,,,,,,,,,
+59,155,78,PEDRO,AVILA NEVAREZ ,dgo05p,,,,pri,dgo,1,0,,20030829,,,,,,,,,59-61,1
+59,156,578,JORGE,VAZQUEZ VELOZ,dgo05s,,,,pri,dgo,1,1,,,,,,,,,,,,
+59,157,79,ALFONSO,MORENO MORAN ,gua01p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,158,579,GABRIELA MIRANDA,CAMPERO LOPEZ MALO,gua01s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,159,80,ARMANDO,RANGEL HERNANDEZ,gua02p,1965,,,pan,gua,1,0,,20030829,,,,,,,,,57-59,1
+59,160,580,BERENICE,MONTES ESTRADA,gua02s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,161,81,JORGE CARLOS,OBREGON SERRANO,gua03p,,,,pan,gua,1,0,,20030829,20060201,20060524,,,,,,,,1
+59,162,581,MARTHA EUGENIA,GONZALEZ LOHR,gua03s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,163,82,FRANCISCO,ARROYO VIEYRA ,gua04p,,,,pri,gua,1,0,,20030829,,,,,,,,,,1
+59,164,582,LILIANA,NAVARRO VILLASEÑOR,gua04s,,,,pri,gua,1,1,,,,,,,,,,,,
+59,165,83,MARIO ERNESTO DE SAN ALBERTO MAGNO,DAVILA ARANDA ,gua05p,,,,pan,gua,1,0,,20030829,20060401,20060703,,,,,,,,1
+59,166,583,MARIA DEL ROCIO,ORTIZ RICO,gua05s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,167,84,SALVADOR,MARQUEZ LOZORNIO ,gua06p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,168,584,DAFNE ESTELA,TORRES QUINTERO,gua06s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,169,85,JUAN MANUEL,DAVALOS PADILLA,gua07p,,,,pri,gua,1,0,,20030829,,,,,,,,,,1
+59,170,585,ROBERTO,ROCHA SANCHEZ,gua07s,,,,pri,gua,1,1,,,,,,,,,,,,
+59,171,86,CARLA,ROCHIN NIETO ,gua08p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,172,586,ALBERTO,PRIETO PATRON,gua08s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,173,87,CONSUELO,CAMARENA GOMEZ ,gua09p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,174,587,JOSE LUIS,ACOSTA RAMOS,gua09s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,175,88,FRANCISCO ISAIAS LEMUS,MUÑOZ LEDO,gua10p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,176,588,CECILIO,VALADES RAMIREZ,gua10s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,177,89,JOSE ERANDI,BERMUDEZ MENDEZ,gua11p,,,,pan,gua,1,0,,20030829,,,,,,,,,59-61-63,1
+59,178,589,CELIA LETICIA,MONTES DE OCA Y CABRERA,gua11s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,179,90,ELIZABETH OSWELIA,YAÑEZ ROBLES ,gua12p,,,,pan,gua,1,0,,20030829,,,,,,,,,59-62,1
+59,180,590,SERGIO EUGENIO,IÑIGUEZ FLORES,gua12s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,181,91,MIGUEL,LUNA HERNANDEZ ,gua13p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,182,591,ROBERTO,RAMIREZ MANRIQUEZ,gua13s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,183,92,RUBEN ALFREDO,TORRES ZAVALA ,gua14p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,184,592,JORGE IGNACIO,TAPIA SANTAMARIA,gua14s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,185,93,MIGUEL ANGEL,RANGEL AVILA,gua15p,,,,pan,gua,1,0,,20030829,,,,,,,,,,1
+59,186,593,MARISOL,ZAVALA TORRES,gua15s,,,,pan,gua,1,1,,,,,,,,,,,,
+59,187,94,ABEL,ECHEVERRIA PINEDA ,gue01p,,,,pri,gue,1,0,,20030829,,,,,,,,,,1
+59,188,594,ERNESTO,GONZALEZ HERNANDEZ,gue01s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,189,95,ALVARO,BURGOS BARRERA,gue02p,,,,pri,gue,1,0,,20030829,,,,,,,,,,1
+59,190,595,MARIA EUGENIA,LOPEZ FITZ,gue02s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,191,96,FRANCISCO,CHAVARRIA VALDEOLIVAR,gue03p,,,,prd,gue,1,0,,20030829,,,,,,,,,,1
+59,192,596,SILVANO BLANCO,DE AQUINO,gue03s,,,,prd,gue,1,1,,,,,,,,,,,,
+59,193,97,JOSE RUBEN,FIGUEROA SMUTNY ,gue04p,,,,pri,gue,1,0,,20030829,,,,,,,,,,1
+59,194,597,ANTONIO,VAZQUEZ RAMIREZ,gue04s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,195,98,JAVIER,MANZANO SALAZAR ,gue05p,1963,,,prd,gue,1,0,,20030829,,,,,,,,,59-64,1
+59,196,598,VICTOR,AGUIRRE ALCAIDE,gue05s,1972,,,prd,gue,1,1,,,,,,,,,,,590-60,0
+59,197,99,MARCELO,TECOLAPA TIXTECO,gue06p,,,,pri,gue,1,0,,20030829,,,,,,,,,570-59,1
+59,198,599,WILFRIDA,SANCHEZ TEJEDA,gue06s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,199,100,MARIO,MORENO ARCOS ,gue07p,,,,pri,gue,1,0,,20030829,,,,,,,,,59-61,1
+59,200,600,ALBERTO,DE LOS SANTOS DIAZ,gue07s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,201,101,ANGEL HELADIO,AGUIRRE RIVERO ,gue08p,,,,pri,gue,1,0,,20030829,,,,,,,,,59-sen,1
+59,202,601,JOSE FELICIANO,MOLINA CRUZALTA,gue08s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,203,102,ROSARIO,HERRERA ASCENCIO ,gue09p,,,,pri,gue,1,0,,20030829,,,,,,,,,,1
+59,204,602,MARIA DE LOS ANGELES,COLLI CAAMAL,gue09s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,205,103,IRMA SINFORINA,FIGUEROA ROMERO ,gue10p,,,,pri,gue,1,0,,20030829,,,,,,,,,,1
+59,206,603,OSCAR OCTAVIO,LOPEZ VAZQUEZ,gue10s,,,,pri,gue,1,1,,,,,,,,,,,,
+59,207,104,EMILIO,BADILLO RAMIREZ ,hgo01p,,,,pri,hgo,1,0,,20030829,,,,,,,,,,1
+59,208,604,YARELY,MELO RODRIGUEZ,hgo01s,,,,pri,hgo,1,1,,,,,,,,,,,,
+59,209,105,ROBERTO,PEDRAZA MARTINEZ ,hgo02p,,,,pri,hgo,1,0,,20030829,,,,,,,,,59-sen,1
+59,210,605,MARIA ASUNCION,MAYORGA PONCE,hgo02s,,,,pri,hgo,1,1,,,,,,,,,,,,
+59,211,106,GONZALO,RODRIGUEZ ANAYA ,hgo03p,,,,pri,hgo,1,0,,20030829,,,,,,,,,,1
+59,212,606,FRANCISCO,AVILES MARTINEZ,hgo03s,,,,pri,hgo,1,1,,,,,,,,,,,,
+59,213,107,OSCAR,BITAR HADDAD ,hgo04p,,,,pri,hgo,1,0,,20030829,,,,,,,,,,1
+59,214,607,MARIA ORALIA,VEGA ORTIZ,hgo04s,1963,,,pri,hgo,1,1,,,,,,,,,,,590-60,0
+59,215,108,JORGE,ROMERO ROMERO ,hgo05p,,,,pri,hgo,1,0,,20030829,,,,,,,,,59-61,1
+59,216,608,ARACELI,VELAZQUEZ RAMIREZ,hgo05s,,,,pri,hgo,1,1,,20060316,20060328,,,,,,,,,1
+59,217,109,JORGE,OSORIO CHONG,hgo06p,,,,pri,hgo,1,0,,20030829,,,,,,,,,,1
+59,218,609,ALFREDO,BEJOS NICOLAS,hgo06s,,M,,pri,hgo,1,1,,20041125,,,,,,,,,59-63,1
+59,219,110,MOISES,JIMENEZ SANCHEZ ,hgo07p,,,,pri,hgo,1,0,,20030829,20060222,20060329,,,,,"Salió del pri, quedó indep",,,1
+59,220,610,MARIA GUADALUPE,MUÑOZ ROMERO,hgo07s,,,,pri,hgo,1,1,,,,,,,,,,,,
+59,221,111,FRANCISCO JAVIER,GUIZAR RAMIREZ,jal01p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,222,611,BENITO,CHAVEZ MONTENEGRO ,jal01s,,,,pri,jal,1,1,,20050621,,,,,,,,,,1
+59,223,112,JOSE LUIS,TREVIÑO RODRIGUEZ,jal02p,,,,pan,jal,1,0,,20030829,20060222,20060330,,,,,,,,1
+59,224,612,CARLOS,SANCHEZ MACIAS,jal02s,,,,pan,jal,1,1,,,,,,,,,,,,
+59,225,113,RAMON,GONZALEZ GONZALEZ,jal03p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
+59,226,613,JOSE ALFREDO,MARTIN MARTIN,jal03s,,,,pan,jal,1,1,,,,,,,,,,,,
+59,227,114,HUGO,RODRIGUEZ DIAZ ,jal04p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,228,614,MIGUEL ANGEL,GONZALEZ VAZQUEZ,jal04s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,229,115,FRANCISCO JAVIER,BRAVO CARBAJAL ,jal05p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,230,615,ANGEL HERIBERTO,LOPEZ VILLASEÑOR,jal05s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,231,116,GONZALO,MORENO AREVALO ,jal06p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,232,616,VERONICA,RANGEL BERNAVE,jal06s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,233,117,SERGIO ARMANDO,CHAVEZ DAVALOS,jal07p,1974,,,pri,jal,1,0,,20030829,,,,,,,,,59-62,1
+59,234,617,MODESTA,VAZQUEZ VAZQUEZ ,jal07s,,,,pri,jal,1,1,,20060223,,,,,,,,,,1
+59,235,118,MARISOL,URREA CAMARENA ,jal08p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
+59,236,618,LUIS EMILIO,DE LOZA HERNANDEZ,jal08s,,,,pan,jal,1,1,,,,,,,,,,,,
+59,237,119,QUINTIN,VAZQUEZ GARCIA,jal09p,,,,pri,jal,1,0,,20030829,20051216,20060116,,,,,,,,1
+59,238,619,NORMA,RODRIGUEZ GUARDADO ,jal09s,,,,pri,jal,1,1,,20060221,,,,,,,,,,1
+59,239,120,MARIA DEL CARMEN,MENDOZA FLORES,jal10p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
+59,240,620,PATRICIO ANDRES SANTIAGO,FERNANDEZ BARROS,jal10s,,,,pan,jal,1,1,,,,,,,,,,,,
+59,241,121,JORGE LEONEL,SANDOVAL FIGUEROA,jal11p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,242,621,CLAUDIA,DELGADILLO GONZALEZ ,jal11s,1972,,,pri,jal,1,1,,20060302,,,,,,,,,59-62,1
+59,243,122,SERGIO,VAZQUEZ GARCIA ,jal12p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
+59,244,622,GERARDO DE JESUS,AGUILAR FLORES,jal12s,,,,pan,jal,1,1,,,,,,,,,,,,
+59,245,123,EVELIA,SANDOVAL URBAN ,jal13p,,,,pri,jal,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,246,623,SERGIO RAUL,GABRIEL LIMON,jal13s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,247,124,CARLOS NOEL,TISCAREÑO RODRIGUEZ ,jal14p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
+59,248,624,CARLOS ALBERTO,MALDONADO RABAGO,jal14s,,,,pan,jal,1,1,,,,,,,,,,,,
+59,249,125,JOSE MANUEL,CARRILLO RUBIO,jal15p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,250,625,PATRICIA,RETAMOZA VEGA ,jal15s,,,,pri,jal,1,1,,20060223,,,,,,,,,,1
+59,251,126,DAVID,HERNANDEZ PEREZ ,jal16p,,,,pri,jal,1,0,,20030829,,,,,,,,,59-61,1
+59,252,626,MARIA ELVA,ALVAREZ GOMEZ,jal16s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,253,127,ROBERTO ANTONIO,MARRUFO TORRES ,jal17p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,254,627,GERARDO,DEGOLLADO GONZALEZ,jal17s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,255,128,JAVIER ALEJANDRO,GALVAN GUERRERO ,jal18p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,256,628,ENRIQUE,GUERRERO SANTANA,jal18s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,257,129,LAZARO,ARIAS MARTINEZ ,jal19p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
+59,258,629,HECTOR,AGUILAR CORTES,jal19s,,,,pri,jal,1,1,,,,,,,,,,,,
+59,259,130,ARTURO,OSORNIO SANCHEZ,mex01p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,260,630,HERIBERTO,ORTEGA RAMIREZ ,mex01s,,,,pri,mex,1,1,,20050922,,,,,,,,,,1
+59,261,131,FERNANDO ALBERTO,GARCIA CUEVAS ,mex02p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,262,631,ABEL NEFTALI,DOMINGUEZ AZUZ,mex02s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,263,132,JOSE,RANGEL ESPINOZA ,mex03p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,264,632,JUAN DE LA,CRUZ RUIZ,mex03s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,265,133,RAUL,PAREDES VEGA ,mex04p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,266,633,MIGUEL ANGEL,VELEZ PEREZ,mex04s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,267,134,GASPAR,AVILA RODRIGUEZ ,mex05p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,268,634,EDGAR FRANCISCO,REVELES ANDRADE,mex05s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,269,135,ISRAEL RAYMUNDO,GALLARDO SEVILLA,mex06p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,270,635,MARIA EUGENIA,CASTILLO REYES,mex06s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,271,136,JULIAN,ANGULO GONGORA ,mex07p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,272,636,MIGUEL ANGEL,GONZALEZ GONZALEZ,mex07s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,273,137,SANTIAGO,CORTES SANDOVAL ,mex08p,,,,prd,mex,1,0,,20030829,,,,,,,,,,1
+59,274,637,MATEO ALEJANDRO,ALVAREZ ESPINOZA,mex08s,,,,prd,mex,1,1,,,,,,,,,,,,
+59,275,138,BLANCA ESTELA,GOMEZ CARMONA ,mex09p,1962,,,pri,mex,1,0,,20030829,,,,,,,,,59-62,1
+59,276,638,APOLINAR,ESCOBEDO ILDEFONSO,mex09s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,277,139,MARCO ANTONIO,GUTIERREZ ROMERO,mex10p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,278,639,JORGE,RODRIGUEZ FLORES,mex10s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,279,140,RUBEN MAXIMILIANO,ALEXANDER RABAGO,mex11p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,280,640,CIRO,GARCIA MARIN ,mex11s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,281,141,FERNANDO,FERNANDEZ GARCIA ,mex12p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,282,641,GUADALUPE MARTHA,MAIZ OCHOA,mex12s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,283,142,MARIA ISABEL,MAYA PINEDA ,mex13p,,,,pri,mex,1,0,,20030829,,,,,,,,,59-63,1
+59,284,642,LUIS ALBERTO,GARCIA BLAS,mex13s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,285,143,PATRICIA,FLORES FUENTES,mex14p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,286,643,RODRIGO SANCHEZ,DE LA PEÑA,mex14s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,287,144,MAGDALENA ADRIANA,GONZALEZ FURLONG ,mex15p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,288,644,GERARDO,GUZMAN ANGELES,mex15s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,289,145,RUBEN,MENDOZA AYALA ,mex16p,1961,,,pan,mex,1,0,,20030829,,,,,,,,,57-59,1
+59,290,645,ALONSO ADRIAN,JUAREZ JIMENEZ,mex16s,,,,pan,mex,1,1,,20060425,,,,,,,,,,1
+59,291,146,PABLO,BEDOLLA LOPEZ ,mex17p,,,,pri,mex,1,0,,20030829,,,,,,,,,59-63,1
+59,292,646,INOCENCIO,CHAVEZ RESENDIZ,mex17s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,293,147,FELIX ADRIAN,FUENTES VILLALOBOS,mex18p,,,,pvem,mex,1,0,,20030829,,,,,,,,,,1
+59,294,647,JOSE LUIS,MAZOY KURI ,mex18s,,,,pvem,mex,1,1,,,,,,,,,,,,
+59,295,148,FRANCISCO,LANDERO GUTIERREZ ,mex19p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,296,648,YAZMIN,ULLOA CISNEROS,mex19s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,297,149,JOSE LUIS NARANJO,Y QUINTANA,mex20p,,,,prd,mex,1,0,,20030829,,,,,,,,,580-59,1
+59,298,649,AGUSTIN EZEQUIEL,TORRES HERNANDEZ,mex20s,,,,prd,mex,1,1,,,,,,,,,,,,
+59,299,150,MANUEL GOMEZ MORIN MARTINEZ,DEL RIO ,mex21p,,,,pan,mex,1,0,,20030829,20060314,,,,,,,,,1
+59,300,650,ROCIO GABRIELA,PIEDRA JACOME,mex21s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,301,151,CONCEPCION,CRUZ GARCIA,mex22p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,302,651,VICTOR MANUEL,SANCHEZ HERNANDEZ ,mex22s,,,,pan,mex,1,1,,20060110,,,,,,,,,,1
+59,303,152,VICTOR ERNESTO,GONZALEZ HUERTA ,mex23p,,,,pri,mex,1,0,,20030829,20060410,,,,,,,,,1
+59,304,652,GENARO,FLORES MARTINEZ,mex23s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,305,153,PATRICIA ELISA,DURAN REVELES ,mex24p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,306,653,ELIAS,FLORES SALOMON,mex24s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,307,154,JESUS TOLENTINO,ROMAN BOJORQUEZ,mex25p,1956,,,pri,mex,1,0,,20030829,,,,,,,,,59-62,1
+59,308,654,MAURICIO,CARRILLO HERNANDEZ,mex25s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,309,155,JUAN CARLOS,NUÑEZ ARMAS,mex26p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,310,655,LUZ MARIA,HERNANDEZ BECERRIL,mex26s,,,,pan,mex,1,1,,,,,,,,,,,,
+59,311,156,HORACIO,LUJAMBIO MORENO ,mex27p,,,,pvem,mex,1,0,,20030829,,,,,,,,,,1
+59,312,656,GASPAR,SECUNDINO VILLAVICENCIO,mex27s,,,,pvem,mex,1,1,,,,,,,,,,,,
+59,313,157,DAVID,FERREYRA MARTINEZ ,mex28p,,,,prd,mex,1,0,,20030829,,,,,,,,,,1
+59,314,657,JOSE IDELFONSO JUAN,HERNANDEZ HERNANDEZ,mex28s,,,,prd,mex,1,1,,,,,,,,,,,,
+59,315,158,VALENTIN,GONZALEZ BAUTISTA,mex29p,1955,,,prd,mex,1,0,,20030829,,,,,,,,,59-62,1
+59,316,658,EDITH,GUILLEN ZARATE ,mex29s,,,,prd,mex,1,1,,,,,,,,,,,,
+59,317,159,GERARDO,ULLOA PEREZ ,mex30p,,,,prd,mex,1,0,,20030829,,,,,,,,,,1
+59,318,659,RODOLFO,RODRIGUEZ PEREZ,mex30s,,,,prd,mex,1,1,,,,,,,,,,,,
+59,319,160,HECTOR MIGUEL,BAUTISTA LOPEZ ,mex31p,,,,prd,mex,1,0,,20030829,,,,,,,,,59-sen,1
+59,320,660,MARCOS,ALVAREZ PEREZ,mex31s,,,,prd,mex,1,1,,20050217,,,,,,,,,,1
+59,321,161,ISAIAS,SORIANO LOPEZ ,mex32p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,322,661,PEDRO JAIME,HERNANDEZ MENDEZ,mex32s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,323,162,FELIPE,MEDINA SANTOS,mex33p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,324,662,OSCAR,JIMENEZ RAYON ,mex33s,,,,pri,mex,1,1,,20051210,,,,,,,,,59-640,1
+59,325,163,LETICIA,USERRALDE GORDILLO ,mex34p,,,,pan,mex,1,0,,20030829,,,,,,,,,,1
+59,326,663,MARTIN OSCAR,GONZALEZ MORAN,mex34s,1967,,,pan,mex,1,1,,,,,,,,,,,590-60,0
+59,327,164,ALFREDO,GOMEZ SANCHEZ ,mex35p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,328,664,FERNANDO,FERREYRA OLIVARES,mex35s,,,,pri,mex,1,1,,,,,,,,,,,590-61,0
+59,329,165,JOSE,EDUVIGES NAVA ,mex36p,,,,pri,mex,1,0,,20030829,,,,,,,,,,1
+59,330,665,GABINO,MONDRAGON TRUJILLO,mex36s,,,,pri,mex,1,1,,,,,,,,,,,,
+59,331,166,ALEJANDRO,SALDAÑA VILLASEÑOR ,mic01p,,,,pri,mic,1,0,,20030829,,,,,,,,,,1
+59,332,666,BRENDA ALICIA,BECERRA BELTRAN,mic01s,,,,pri,mic,1,1,,,,,,,,,,,,
+59,333,167,ENRIQUE,TORRES CUADROS,mic02p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,334,667,ARTURO,ROMO,mic02s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,335,168,PASCUAL,SIGALA PAEZ ,mic03p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,336,668,FRANCISCO,BOLAÑOS CARMONA,mic03s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,337,169,MIGUEL,AMEZCUA ALEJO ,mic04p,,,,pri,mic,1,0,,20030829,,,,,,,,,,1
+59,338,669,CLEOTILDE,MORA MENDOZA,mic04s,,,,pri,mic,1,1,,,,,,,,,,,,
+59,339,170,REYNALDO,VALDEZ MANZO ,mic05p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,340,670,BLANCA ISABEL,ARRIAGA MARIN,mic05s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,341,171,MARGARITO,FIERROS TANO ,mic06p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,342,671,JAVIER,ROJAS BECERRIL,mic06s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,343,172,ABDALLAN,GUZMAN CRUZ ,mic07p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,344,672,JUAN MANUEL,MORENO HUANTE,mic07s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,345,173,ANA LILIA,GUILLEN QUIROZ,mic08p,1955,F,,prd,mic,1,0,,20030829,,,,,,,,,59-64,1
+59,346,673,MARIA DEL CARMEN,CORTES CORTES,mic08s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,347,174,CARLOS HERNAN,SILVA VALDES,mic09p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,348,674,ARNULFO,VAZQUEZ HERRERA,mic09s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,349,175,PABLO,VILLANUEVA RAMIREZ ,mic10p,,,,pan,mic,1,0,,20030829,,,,,,,,,,1
+59,350,675,ALFONSO JESUS,MARTINEZ ALCAZAR,mic10s,,,,pan,mic,1,1,,,,,,,,,,,590-61,0
+59,351,176,ISRAEL,TENTORY GARCIA ,mic11p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,352,676,HECTOR,MARTINEZ ROMERO,mic11s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,353,177,INELVO,MORENO ALVAREZ ,mic12p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,354,677,LORENZO,BARAJAS HEREDIA,mic12s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,355,178,RAFAEL GARCIA,TINAJERO PEREZ ,mic13p,,,,prd,mic,1,0,,20030829,,,,,,,,,,1
+59,356,678,IVAN,MADERO NARANJO,mic13s,,,,prd,mic,1,1,,,,,,,,,,,,
+59,357,179,JOSE,SIGONA TORRES ,mor01p,,,,pan,mor,1,0,,20030829,,,,,,,,,,1
+59,358,679,LUCILA,OCHOA BATALLA,mor01s,,,,pan,mor,1,1,,,,,,,,,,,,
+59,359,180,RODOLFO,ESQUIVEL LANDA ,mor02p,,,,pan,mor,1,0,,20030829,,,,,,,,,,1
+59,360,680,DAVID,ALTAMIRANO URIBE,mor02s,,,,pan,mor,1,1,,,,,,,,,,,,
+59,361,181,GUILLERMO,DEL VALLE REYES,mor03p,,,,pri,mor,1,0,,20030829,,,,,,,,,,1
+59,362,681,ARACELI,AGUILAR NERI,mor03s,,,,pri,mor,1,1,,,,,,,,,,,,
+59,363,182,ROSALINA,MAZARI ESPIN ,mor04p,,,,pri,mor,1,0,,20030829,,,,,,,,,59-61-63,1
+59,364,682,EULALIO,ESPINDOLA ARANDA,mor04s,,,,pri,mor,1,1,,,,,,,,,,,,
+59,365,183,MARIA HILARIA,DOMINGUEZ ARVIZU ,nay01p,,,,pri,nay,1,0,,20030829,,,,,,,,,59-61,1
+59,366,683,JOSE LUCAS,VALLARTA CHAN,nay01s,,,,pri,nay,1,1,,,,,,,,,,,590-630,
+59,367,184,GERARDO,MONTENEGRO IBARRA ,nay02p,,,,pri,nay,1,0,,20030829,,,,,,,,,59-sen,1
+59,368,684,JASSIVE PATRICIA,DURAN MACIEL,nay02s,,,,pri,nay,1,1,,,,,,,,,,,,
+59,369,185,RAUL JOSE,MEJIA GONZALEZ ,nay03p,,,,pri,nay,1,0,,20030829,,,,,,,,,59-sen,1
+59,370,685,JUAN MANUEL,GONZALEZ PORTUGAL,nay03s,,,,pri,nay,1,1,,,,,,,,,,,,
+59,371,186,JUAN CARLOS,PEREZ GONGORA ,nl01p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
+59,372,686,ALFONSO CRISOFORO,GUZMAN GOMEZ,nl01s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,373,187,HUMBERTO,CERVANTES VEGA ,nl02p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
+59,374,687,FELIX,CORONADO HERNANDEZ,nl02s,,,,pri,nl,1,1,,,,,,,,,,,59-61,
+59,375,188,EDUARDO,BAILEY ELIZONDO ,nl03p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
+59,376,688,KARINA,MARTINEZ CANTU,nl03s,,,,pri,nl,1,1,,20060425,,,,,,,,,,1
+59,377,189,NORMA,SAUCEDO MORENO ,nl04p,,,,pan,nl,1,0,,20030829,,,,,,,,,,1
+59,378,689,FRANCISCO JAVIER,ACOSTA ARMENDARIZ,nl04s,,,,pan,nl,1,1,,,,,,,,,,,,
+59,379,190,MARCELA,GUERRA CASTILLO ,nl05p,,,,pri,nl,1,0,,20030829,,,,,,,,,59-61-sen,1
+59,380,690,DANIEL,BAUTISTA ROCHA,nl05s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,381,191,MAYELA MARIA DE LOURDES,QUIROGA TAMEZ ,nl06p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
+59,382,691,LILIANA,TIJERINA CANTU,nl06s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,383,192,ALFONSO,GONZALEZ RUIZ ,nl07p,,,,pri,nl,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,384,692,KERIMME ISABEL,SURO BARBOSA,nl07s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,385,193,MARIA DE JESUS,AGUIRRE MALDONADO ,nl08p,,,,pri,nl,1,0,,20030829,,,,,,,,,59-61,1
+59,386,693,GILBERTO,TREVIÑO AGUIRRE,nl08s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,387,194,ADRIAN,VILLAGOMEZ GARCIA ,nl09p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
+59,388,694,JUANA AURORA,CAVAZOS CAVAZOS,nl09s,,,,pri,nl,1,1,,,,,,,,,,,590-63,
+59,389,195,MARGARITA,MARTINEZ LOPEZ ,nl10p,,,,pri,nl,1,0,,20030829,,,,,,,,,570-59,1
+59,390,695,MARIO JESUS,PEÑA GARZA,nl10s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,391,196,ALFONSO,RODRIGUEZ OCHOA ,nl11p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
+59,392,696,JESUS ALBERTO,ALMAGUER ROCHA,nl11s,,,,pri,nl,1,1,,,,,,,,,,,,
+59,393,197,EVIEL,PEREZ MAGAÑA,oax01p,,,,pri,oax,1,0,,20030829,,,,,,,,,59-61-sen,1
+59,394,697,GUSTAVO,ZANATTA GASPERIN ,oax01s,,,,pri,oax,1,1,,20041125,,,,,,,,,,1
+59,395,198,ELPIDIO,CONCHA ARELLANO ,oax02p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,396,698,ISABEL CARMELINA,CRUZ SILVA,oax02s,,,,pri,oax,1,1,,20060320,,,,,,,,,,1
+59,397,199,JOSE LUIS,TAPIA PALACIOS ,oax03p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,398,699,SAMUEL,ROSALES OLMOS,oax03s,,,,pri,oax,1,1,,20060316,,,,,,,,,,1
+59,399,200,JACOBO,SANCHEZ LOPEZ ,oax04p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,400,700,CONCEPCION SOFIA,ROBLES ALTAMIRANO,oax04s,,,,pri,oax,1,1,,20060330,,,,,,,,,,1
+59,401,201,SOFIA,CASTRO RIOS ,oax05p,,,,pri,oax,1,0,,20030829,,,,,,,,,59-61,1
+59,402,701,ISMAEL,ORDOÑEZ ECHAVARRIA,oax05s,,,,pri,oax,1,1,,,,,,,,,,,,
+59,403,202,RENE,RUIZ QUIROZ,oax06p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,404,702,HELIODORO CARLOS,DIAZ ESCARRAGA,oax06s,,,,pri,oax,1,1,,,,,,,,,,,59-61,
+59,405,203,JOSE,GUZMAN SANTOS ,oax07p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,406,703,CESAR AUGUSTO,CARRASCO GOMEZ,oax07s,,,,pri,oax,1,1,,20060316,,,,,,,,,,1
+59,407,204,JESUS ANGEL,DIAZ ORTEGA,oax08p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,408,704,JAVIER,VILLACAÑA JIMENEZ ,oax08s,,,,pri,oax,1,1,,20041125,,,,,,,,,,1
+59,409,205,TOMAS,GARCIA CORPUS ,oax09p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,410,705,DINORATH GUADALUPE,MENDOZA CRUZ,oax09s,,,,pri,oax,1,1,,,,,,,,,,,,
+59,411,206,HECTOR PABLO RAMIREZ,PUGA LEYVA,oax10p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,412,706,MARIA MERCEDES,ROJAS SALDAÑA,oax10s,,,,pri,oax,1,1,,,,,,,,,,,,
+59,413,207,GONZALO,RUIZ CERON ,oax11p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
+59,414,707,PEDRO GUSTAVO,CABRERA RIVERO,oax11s,,,,pri,oax,1,1,,20060316,,,,,,,,,,1
+59,415,208,FIDEL RENE,MEZA CABRERA ,pue01p,,,,pri,pue,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,416,708,TOMAS,MARTINEZ ROLDAN,pue01s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,417,209,JOSE GUILLERMO,ARECHIGA SANTAMARIA ,pue02p,1958,,,pri,pue,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,59-sen-62,1
+59,418,709,JUAN MANUEL,LOPEZ ARROYO,pue02s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,419,210,JOSE LUIS,FLORES HERNANDEZ ,pue03p,1950,,,pri,pue,1,0,,20030829,,,,,,,,,57-59,1
+59,420,710,LUDIVINO,MORA TEJEDA,pue03s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,421,211,JOSE PORFIRIO,ALARCON HERNANDEZ ,pue04p,,,,pri,pue,1,0,,20030829,,,,,,,,,,1
+59,422,711,XOCHITL MARGARITA,LOBATO VALLE,pue04s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,423,212,ADRIAN VICTOR HUGO,ISLAS HERNANDEZ,pue05p,,,,pri,pue,1,0,,20030829,,,,,,,,,,1
+59,424,712,JULIETA DEL ROCIO,HERNANDEZ MACIAS,pue05s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,425,213,JORGE ROBERTO RUIZ,ESPARZA ORUÑA,pue06p,,,,pan,pue,1,0,,20030829,,,,,,,"Salió del pan, quedó indep",,,1
+59,426,713,MARIA CECILIA DEL ROSARIO,ESPINO GONZALEZ,pue06s,,,,pan,pue,1,1,,,,,,,,,,,,
+59,427,214,JESUS,MORALES FLORES ,pue07p,1946,,,pri,pue,1,0,,20030829,,,,,,,,,59-62,1
+59,428,714,DULCE MARIA,PALACIOS FORTIZ,pue07s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,429,215,RAFAEL,MORENO VALLE ROSAS,pue08p,,,,pri,pue,1,0,,20030829,,,,,,,,,59-sen,1
+59,430,715,JOSE,LOPEZ MEDINA ,pue08s,,,,pri,pue,1,1,,20041209,,,,,,,,,,1
+59,431,216,JOSE FELIPE,PUELLES ESPINA ,pue09p,,,,pan,pue,1,0,,20030829,,,,,,,,,,1
+59,432,716,JANET MIGUELINA,VARGAS JARQUIN,pue09s,,,,pan,pue,1,1,,,,,,,,,,,,
+59,433,217,ROGELIO ALEJANDRO,FLORES MEJIA ,pue10p,,,,pan,pue,1,0,,20030829,,,,,,,,,,1
+59,434,717,MARIA LETICIA NICOLASA,PEREZ PAPAQUI,pue10s,,,,pan,pue,1,1,,,,,,,,,,,,
+59,435,218,MARIA ANGELICA,RAMIREZ LUNA ,pue11p,,,,pan,pue,1,0,,20030829,,,,,,,,,,1
+59,436,718,MARIA DEL CARMEN,QUIROZ PREZA,pue11s,,,,pan,pue,1,1,,,,,,,,,,,,
+59,437,219,MYRIAM DE LOURDES,ARABIAN COUTTOLENC ,pue12p,,,,pan,pue,1,0,,20030829,,,,,,,,,,1
+59,438,719,RAQUEL ROSALIA,RAZO VALDES,pue12s,,,,pan,pue,1,1,,,,,,,,,,,,
+59,439,220,FRANCISCO ALBERTO,JIMENEZ MERINO ,pue13p,,,,pri,pue,1,0,,20030829,,,,,,,,,59-61,1
+59,440,720,LISANDRO,CAMPOS CORDOVA ,pue13s,,,,pri,pue,1,1,,20050203,,,,,,,,,,1
+59,441,221,JUAN MANUEL,VEGA RAYET ,pue14p,,,,pri,pue,1,0,,20030829,,,,,,,,,,1
+59,442,721,ROSALBA,GERMAN HERMOSILLO,pue14s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,443,222,MARIA DEL CARMEN,IZAGUIRRE FRANCOS,pue15p,,,,pri,pue,1,0,,20030829,,,,,,,,,59-61,1
+59,444,722,JOSE VALENTIN,CUBILLAS ROMERO,pue15s,,,,pri,pue,1,1,,,,,,,,,,,,
+59,445,223,JOSE ALFONSO,MUÑOZ MUÑOZ ,que01p,,,,pri,que,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,446,723,ANGEL ARIEL,HERNANDEZ HURTADO,que01s,,,,pri,que,1,1,,,,,,,,,,,,
+59,447,224,ROGELIO,CHAVARRIA SALAS ,que02p,,,,pan,que,1,0,,20030829,,,,,,,,,,1
+59,448,724,BALBINA,MATA TREJO,que02s,,,,pan,que,1,1,,,,,,,,,,,,
+59,449,225,GUILLERMO ENRIQUE MARCOS,TAMBORREL SUAREZ ,que03p,,,,pan,que,1,0,,20030829,,,,,,,,,59-sen,1
+59,450,725,GONZALO,MENDOZA FELIX,que03s,,,,pan,que,1,1,,,,,,,,,,,,
+59,451,226,RICARDO,ALEGRE BOJORQUEZ,que04p,,,,pan,que,1,0,,20030829,,,,,,,,,,1
+59,452,726,MIGUEL,SIERRA ZUÑIGA ,que04s,,,,pan,que,1,1,,20060228,,,,,,,,,,1
+59,453,227,FELIX ARTURO,GONZALEZ CANTO,qui01p,,,,pri,qui,1,0,,20030829,,,,,,,,,59-sen,1
+59,454,727,MARIA CONCEPCION,FAJARDO MUÑOZ,qui01s,,,,pri,qui,1,1,,20041109,,,,,,,,,,1
+59,455,228,VICTOR MANUEL,ALCERRECA SANCHEZ,qui02p,,,,pri,qui,1,0,,20030829,,,,,,,,,,1
+59,456,728,MANUEL JESUS,TZAB CASTRO,qui02s,,,,pri,qui,1,1,,,,,,,,,,,,
+59,457,229,ALFONSO JUVENTINO,NAVA DIAZ ,san01p,,,,pri,san,1,0,,20030829,,,,,,,,,,1
+59,458,729,AGUSTIN,SANCHEZ LUGO,san01s,,,,pri,san,1,1,,,,,,,,,,,,
+59,459,230,ALVARO,ELIAS LOREDO ,san02p,,M,,pan,san,1,0,,20030829,,,,,,,,,57-59,1
+59,460,730,JAVIER,PALOALTO MACIAS,san02s,,,,pan,san,1,1,,,,,,,,,,,,
+59,461,231,JOSE LUIS,BRIONES BRISEÑO,san03p,,,,pri,san,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,462,731,SERGIO,JUAREZ BERRONES,san03s,,,,pri,san,1,1,,,,,,,,,,,,
+59,463,232,JOSE MARIA,DE LA VEGA LARRAGA,san04p,,,,pri,san,1,0,,20030829,,,,,,,,,,1
+59,464,732,LUIS ANGEL,CONTRERAS MALIBRAN,san04s,,,,pri,san,1,1,,,,,,,,,,,,
+59,465,233,MARCO ANTONIO,GAMA BASARTE ,san05p,,,,pan,san,1,0,,20030829,,,,,,,,,59-63,1
+59,466,733,PAOLA KARINA,RODRIGUEZ ESPINDOLA,san05s,,,,pan,san,1,1,,,,,,,,,,,,
+59,467,234,FRANCISCO XAVIER,SALAZAR DIEZ DE SOLLANO,san06p,,,,pan,san,1,0,,20030829,,,,,,,,,,1
+59,468,734,ANA LUZ,JUAREZ ALEJO,san06s,,,,pan,san,1,1,,,,,,,,,,,,
+59,469,235,BENJAMIN,SAGAHON MEDINA ,san07p,,,,pri,san,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,470,735,JORGE ENRIQUE,ESPINOZA VAZQUEZ,san07s,,,,pri,san,1,1,,,,,,,,,,,,
+59,471,236,FRANCISCO,FRIAS CASTRO ,sin01p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
+59,472,736,MARCOS RENE,PALAFOX PARRA,sin01s,,,,pri,sin,1,1,,,,,,,,,,,,
+59,473,237,ESTEBAN,VALENZUELA GARCIA ,sin02p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
+59,474,737,ADRIANA LIZETH,PEREA ESCALANTE,sin02s,,,,pri,sin,1,1,,,,,,,,,,,,
+59,475,238,ABRAHAM,VELAZQUEZ IRIBE,sin03p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
+59,476,738,ROSA HILDA,VALENZUELA RODELO,sin03s,,,,pri,sin,1,1,,20040830,,,,,,,,,,1
+59,477,239,ARMANDO,LEYSON CASTRO,sin04p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
+59,478,739,ELIAZAR,CERVANTES,sin04s,,,,pri,sin,1,1,,,,,,,,,,,,
+59,479,240,GUADALUPE DE JESUS,VIZCARRA CALDERON,sin05p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
+59,480,740,IRMA GUADALUPE,MORENO OVALLES ,sin05s,,F,,pri,sin,1,1,,20050201,,,,,,,,,59-610,1
+59,481,241,JORGE ABEL,LOPEZ SANCHEZ,sin06p,,,,pri,sin,1,0,,20030829,20030616,,,,,,"Salió del pri, quedó indep",,,1
+59,482,741,BERNARDO,VEGA CARLOS ,sin06s,,,,pri,sin,1,1,,20030904,,,,,,,,,,1
+59,483,242,OSCAR,FELIX OCHOA ,sin07p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
+59,484,742,GUSTAVO ELIAS,CORDOVA MORENO,sin07s,,,,pri,sin,1,1,,,,,,,,,,,,
+59,485,243,ALEJANDRO,HIGUERA OSUNA,sin08p,,,,pan,sin,1,0,,20030829,,,,,,,,,,1
+59,486,743,JOSE EVARISTO,CORRALES MACIAS,sin08s,,,,pan,sin,1,1,,20040830,,,,,,,,,,1
+59,487,244,JULIO CESAR,CORDOVA MARTINEZ,son01p,,,,pri,son,1,0,,20030829,,,,,,,,,,1
+59,488,744,JOSE LUIS,TOVAR TOVAR,son01s,,,,pri,son,1,1,,,,,,,,,,,,
+59,489,245,FERMIN,TRUJILLO FUENTES ,son02p,,,,pri,son,1,0,,20030829,,,,,,,,,,1
+59,490,745,JOSEFINA AURELIA,ROMERO SALAZAR,son02s,,,,pri,son,1,1,,,,,,,,,,,,
+59,491,246,HOMERO,RIOS MURRIETA ,son03p,,,,pan,son,1,0,,20030829,,,,,,,,,,1
+59,492,746,FRANCISCO ADRIAN,GALLEGOS GONZALEZ,son03s,,,,pan,son,1,1,,,,,,,,,,,,
+59,493,247,ANTONIO FRANCISCO,ASTIAZARAN GUTIERREZ ,son04p,1971,,,pri,son,1,0,,20030829,20060809,,,,,,,,59-62,1
+59,494,747,HECTOR SAMUEL,RODRIGUEZ SANCHEZ,son04s,,,,pri,son,1,1,,20060202,,,,,,,,,,1
+59,495,248,GUSTAVO ADOLFO,DE UNANUE AGUIRRE,son05p,,,,pan,son,1,0,,20030829,,,,,,,,,,1
+59,496,748,MARIA GERTRUDIS,ALCARAZ ORTEGA,son05s,,,,pan,son,1,1,,,,,,,,,,,,
+59,497,249,JAVIER,CASTELO PARADA ,son06p,,,,pan,son,1,0,,20030829,,,,,,,,,57-59-sen,1
+59,498,749,GUILLERMO,PINEDA BOURS,son06s,,,,pan,son,1,1,,,,,,,,,,,,
+59,499,250,JOSE LAMBERTO,DIAZ NIEBLAS,son07p,,,,pri,son,1,0,,20030829,,,,,,,,,,1
+59,500,750,GUADALUPE,MENDIVIL MORALES ,son07s,,,,pri,son,1,1,,,,,,,,,,,,
+59,501,251,FRANCISCO,HERRERA LEON ,tab01p,,,,pri,tab,1,0,,20030829,,,,,,,,,59-sen,1
+59,502,751,BENIGNO ANTONIO,LEZAMA SANCHEZ,tab01s,,,,pri,tab,1,1,,,,,,,,,,,,
+59,503,252,LUIS FELIPE,MADRIGAL HERNANDEZ,tab02p,,,,pri,tab,1,0,,20030829,,,,,,,,,,1
+59,504,752,CARLOS HUMBERTO GALLEGOS,DE LA CRUZ,tab02s,,,,pri,tab,1,1,,,,,,,,,,,,
+59,505,253,ROGELIO,RODRIGUEZ JAVIER ,tab03p,,,,pri,tab,1,0,,20030829,,,,,,,,,,1
+59,506,753,GLADYS DEL CARMEN,CASTILLO CASTILLO,tab03s,,,,pri,tab,1,1,,,,,,,,,,,,
+59,507,254,EUGENIO,MIER Y CONCHA CAMPOS,tab04p,,,,pri,tab,1,0,,20030829,,,,,,,,,,1
+59,508,754,BLANCA ESTELA PULIDO,DE LA FUENTE,tab04s,,,,pri,tab,1,1,,,,,,,,,,,,
+59,509,255,CARLOS MANUEL,ROVIROSA RAMIREZ,tab05p,,,,pri,tab,1,0,,20030829,,,,,,,,,,1
+59,510,755,MARY CRUZ,ROMAN ALVAREZ,tab05s,,,,pri,tab,1,1,,,,,,,,,,,,
+59,511,256,AMALIN,YABUR ELIAS ,tab06p,,,,pri,tab,1,0,,20030829,,,,,,,,,,1
+59,512,756,PEDRO,GUTIERREZ GUTIERREZ,tab06s,,,,pri,tab,1,1,,,,,,,,,,,,
+59,513,257,JOSE MANUEL,ABDALA DE LA FUENTE,tam01p,,,,pri,tam,1,0,,20030829,,,,,,,,,,1
+59,514,757,SERVANDO,LOPEZ MORENO,tam01s,,,,pri,tam,1,1,,,,,,,,,,,,
+59,515,258,MAKI ESTHER,ORTIZ DOMINGUEZ ,tam02p,,,,pan,tam,1,0,,20030829,,,,,,,,,59-sen,1
+59,516,758,NORMA,CORDERO GONZALEZ,tam02s,,,,pan,tam,1,1,,,,,,,,,,,,
+59,517,259,JESUS HUMBERTO,MARTINEZ DE LA CRUZ,tam03p,,,,pri,tam,1,0,,20030829,,,,,,,,,,1
+59,518,759,MARGARITA,GARCIA MARTINEZ,tam03s,,,,pri,tam,1,1,,,,,,,,,,,,
+59,519,260,BALTAZAR MANUEL,HINOJOSA OCHOA,tam04p,,,,pri,tam,1,0,,20030829,,,,,,,,,59-61-63,1
+59,520,760,ERICK AGUSTIN,SILVA SANTOS ,tam04s,,,,pri,tam,1,1,,20040830,,,,,,,,,,1
+59,521,261,HUMBERTO FRANCISCO,FILIZOLA HACES ,tam05p,,,,pri,tam,1,0,,20030829,,,,,,,,,,1
+59,522,761,GRACIELA,DE ALEJANDRO ACEVEDO,tam05s,,,,pri,tam,1,1,,,,,,,,,,,,
+59,523,262,OSCAR MARTIN,RAMOS SALINAS ,tam06p,,,,pri,tam,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,524,762,LUCIA ADRIANA,DIEZ PIÑEYRO,tam06s,,,,pri,tam,1,1,,,,,,,,,,,,
+59,525,263,GONZALO,ALEMAN MIGLIOLO ,tam07p,,,,pri,tam,1,0,,20030829,,,,,,,,,,1
+59,526,763,EDNA ZAMIRA,LOPEZ LOJERO,tam07s,,,,pri,tam,1,1,,,,,,,,,,,,
+59,527,264,JESUS ANTONIO,NADER NASRALLAH ,tam08p,,,,pan,tam,1,0,,20030829,,,,,,,,,,1
+59,528,764,MARIA ANTONIA,GARCIA SANJINES,tam08s,,,,pan,tam,1,1,,,,,,,,,,,590-620,
+59,529,265,GELACIO,MONTIEL FUENTES ,tla01p,,,,prd,tla,1,0,,20030829,,,,,,,,,,1
+59,530,765,JOSE LUIS,BARRAZA GARCIA,tla01s,,,,prd,tla,1,1,,,,,,,,,,,,
+59,531,266,FLORENTINO,DOMINGUEZ ORDOÑEZ ,tla02p,,,,pri,tla,1,0,,20030829,,,,,,,,,,1
+59,532,766,LAURA MARGARITA,VERA ORTEGA,tla02s,,,,pri,tla,1,1,,,,,,,,,,,,
+59,533,267,FEDERICO,BARBOSA GUTIERREZ ,tla03p,,,,pri,tla,1,0,,20030829,,,,,,,,,,1
+59,534,767,MARIA ANTONIETA ANGELICA,GUEVARA SANCHEZ,tla03s,,,,pri,tla,1,1,,,,,,,,,,,,
+59,535,268,ROCIO GUZMAN,DE PAZ ,ver01p,,,,pan,ver,1,0,,20030829,,,,,,,,,59-63,1
+59,536,768,DANIEL,SEGURA GARCIA,ver01s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,537,269,UBALDO,AGUILAR FLORES,ver02p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,538,769,MANUELA,VAZQUEZ TENORIO,ver02s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,539,270,ALFONSO,SANCHEZ HERNANDEZ ,ver03p,,,,pri,ver,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,540,770,MARTIN,CRISTOBAL CRUZ,ver03s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,541,271,JUAN,BUSTILLOS MONTALVO ,ver04p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,542,771,JOSE ANTONIO,AVILES GERARDO,ver04s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,543,272,PABLO,ANAYA RIVERA ,ver05p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,544,772,RAMON,GARCIA SOLIS,ver05s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,545,273,ROMULO ISAEL,SALAZAR MACIAS ,ver06p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,546,773,EMILIANO,LOPEZ CRUZ,ver06s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,547,274,GUILLERMO,ZORRILLA FERNANDEZ ,ver07p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,548,774,FILADELFO,LANDA ORTIZ,ver07s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,549,275,GUSTAVO,MORENO RAMOS ,ver08p,,,,pri,ver,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,59-63,1
+59,550,775,RICARDO ANTONIO,LANDA CANO,ver08s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,551,276,ERNESTO,ALARCON TRUJILLO ,ver09p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,552,776,KENIA,HERRERA FERNANDEZ,ver09s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,553,277,MIGUEL ANGEL,LLERA BELLO ,ver10p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,554,777,MARIA DEL CARMEN,LOPEZ CERVANTES,ver10s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,555,278,MARCO ANTONIO,TORRES HERNANDEZ,ver11p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,556,778,MA. ARCADIA GUADALUPE,MARTINEZ SANCHEZ,ver11s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,557,279,FRANCICO JUAN,AVILA CAMBEROS ,ver12p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,558,779,MIGUEL ANGEL,CAMPOS ECHEVERRIA,ver12s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,559,280,ALBERTO URCINO,MENDEZ GALVEZ ,ver13p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,560,780,RENE,GONZALEZ PALESTINO,ver13s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,561,281,MARTIN REMIGIO,VIDAÑA PEREZ ,ver14p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,562,781,EDITH MARGARITA,FRANYUTI CARLIN,ver14s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,563,282,TOMAS ANTONIO,TRUEBA GRACIAN ,ver15p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,564,782,RAMON ARMANDO,ROMERO VEGA,ver15s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,565,283,SERGIO,PENAGOS GARCIA ,ver16p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,566,783,ALVARO RICARDO,DE GASPERIN SAMPIERI,ver16s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,567,284,DIEGO,PALMERO ANDRADE ,ver17p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,568,784,ANDRES,LARA HERNANDEZ,ver17s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,569,285,MARIO ALBERTO RAFAEL,ZEPAHUA VALENCIA ,ver18p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,570,785,ILDIBERTO,ESCOBAR VALDIVIA,ver18s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,571,286,JORGE,USCANGA ESCOBAR ,ver19p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,572,786,JOSABET AGUSTIN,CADENA GONZALEZ,ver19s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,573,287,REGINA,VAZQUEZ SAUT ,ver20p,1981,,,pan,ver,1,0,,20030829,,,,,,,,,59-62,1
+59,574,787,MIGUEL,LOPEZ MORALES,ver20s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,575,288,JOSE JESUS,VAZQUEZ GONZALEZ ,ver21p,,,,pan,ver,1,0,,20030829,,,,,,,,,,1
+59,576,788,MARIA JULIANA,RODRIGUEZ CARMONA,ver21s,,,,pan,ver,1,1,,,,,,,,,,,,
+59,577,289,GONZALO,GUIZAR VALLADARES ,ver22p,,,,pri,ver,1,0,,20030829,,,,,,,,,59-63,1
+59,578,789,IDALIA,GOMEZ GARCIA,ver22s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,579,290,PABLO,PAVON VINALES ,ver23p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
+59,580,790,ROSA MARIA,GRANIEL REYES,ver23s,,,,pri,ver,1,1,,,,,,,,,,,,
+59,581,291,ROGER DAVID,ALCOCER GARCIA ,yuc01p,,,,pri,yuc,1,0,,20030829,,,,,,,,,,1
+59,582,791,MARIA ANGELICA,PALMA CAPETILLO,yuc01s,,,,pri,yuc,1,1,,,,,,,,,,,,
+59,583,292,IVONNE,ORTEGA PACHECO ,yuc02p,,,,pri,yuc,1,0,,20030829,,,,,,,,,,1
+59,584,792,MARTIN ENRIQUE,CASTILLO RUZ,yuc02s,,,,pri,yuc,1,1,,,,,,,,,,,590-61,0
+59,585,293,JOSE ORLANDO,PEREZ MOGUEL ,yuc03p,,,,pan,yuc,1,0,,20030829,,,,,,,,,,1
+59,586,793,MARIO ALBERTO RAMON,GRANIEL ORTEGA,yuc03s,,,,pan,yuc,1,1,,,,,,,,,,,,
+59,587,294,VIRGINIA,BAEZA ESTRELLA ,yuc04p,,,,pan,yuc,1,0,,20030829,,,,,,,,,,1
+59,588,794,JOSE BENJAMIN,CHACON CASTILLO,yuc04s,,,,pan,yuc,1,1,,,,,,,,,,,,
+59,589,295,ANGEL,CANUL PACAB ,yuc05p,,,,pri,yuc,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,590,795,YAMILY MANUELA,ESCOBEDO LOPEZ,yuc05s,,,,pri,yuc,1,1,,,,,,,,,,,,
+59,591,296,GUILLERMO,HUIZAR CARRANZA ,zac01p,,,,prd,zac,1,0,,20030829,,,,,,,,,,1
+59,592,796,LAURA ISELA,RUIZ GONZALEZ,zac01s,,,,prd,zac,1,1,,,,,,,,,,,,
+59,593,297,ARTURO,NAHLE GARCIA ,zac02p,,,,prd,zac,1,0,,20030829,,,,,,,,,,1
+59,594,797,LEOPOLDO ENRIQUE,SANTOS PEREZ,zac02s,,,,prd,zac,1,1,,,,,,,,,,,,
+59,595,298,AMALIA DOLORES,GARCIA MEDINA,zac03p,,F,,prd,zac,1,0,,20030829,,,,,,,,,59-62,1
+59,596,798,RAFAEL,CANDELAS SALINAS,zac03s,,,,prd,zac,1,1,,20040401,,,,,,,,,57-59,1
+59,597,299,RAFAEL,FLORES MENDOZA ,zac04p,,,,prd,zac,1,0,,20030829,,,,,,,,,,1
+59,598,799,JOSE MANUEL,ZAMBRANO TISCAREÑO,zac04s,,,,prd,zac,1,1,,,,,,,,,,,,
+59,599,300,ANTONIO,MEJIA HARO ,zac05p,,,,prd,zac,1,0,,20030829,,,,,,,,,59-sen,1
+59,600,800,FRANCISCO,ROJAS CONTRERAS,zac05s,,,,prd,zac,1,1,,,,,,,,,,,,
+59,601,301,CONSUELO RODRIGUEZ,DE ALBA ,zrp001p,,,,pri,ags,0,0,--,20030829,,,,,,,,,,1
+59,602,801,HUGO CESAR,OLIVARES VELASCO,zrp001s,,,,pri,ags,0,1,--,,,,,,,,,,,
+59,603,302,MARIA GUADALUPE,GARCIA VELASCO ,zrp002p,,,,pan,ags,0,0,--,20030829,,,,,,,,,,1
+59,604,802,FRANCISCO,GUZMAN HERRERA,zrp002s,,,,pan,ags,0,1,--,,,,,,,,,,,
+59,605,303,ANGELICA,DE LA PEÑA GOMEZ,zrp003p,,F,,prd,ags,0,0,--,20030829,,,,,,,,,57-59-sen,1
+59,606,803,MYRTHALA INES,HERNANDEZ RUIZ,zrp003s,,,,prd,ags,0,1,--,,,,,,,,,,,
+59,607,304,RAUL,POMPA VICTORIA ,zrp004p,,,,pri,bc,0,0,--,20030829,,,,,,,,,,1
+59,608,804,LUIS RIGOBERTO,DIAZ TEJEDA,zrp004s,,,,pri,bc,0,1,--,,,,,,,,,,,
+59,609,305,RUTH TRINIDAD,HERNANDEZ MARTINEZ ,zrp005p,,,,pan,bc,0,0,--,20030829,,,,,,,,,580-59,1
+59,610,805,LEONARDO,FERNANDEZ ACEVES,zrp005s,,,,pan,bc,0,1,--,,,,,,,,,,,
+59,611,306,MARIA ELOISA,TALAVERA HERNANDEZ ,zrp006p,,,,pan,bc,0,0,--,20030829,,,,,,,,,59-63,1
+59,612,806,CRISTOBAL WALTERIO,GASTELUM LOPEZ,zrp006s,,,,pan,bc,0,1,--,,,,,,,,,,,
+59,613,307,JOSE ALBERTO,AGUILAR IÑARRITU ,zrp007p,,,,pri,bcs,0,0,--,20030829,,,,,,,,,,1
+59,614,807,JUAN GUILLERMO,PEÑA VILLA,zrp007s,,,,pri,bcs,0,1,--,,,,,,,,,,,
+59,615,308,ESTHELA,PONCE BELTRAN ,zrp008p,,,,pri,bcs,0,0,--,20030829,,,,,,,,,,1
+59,616,808,MARIA ELVIRA,VEGA AUDELO,zrp008s,,,,pri,bcs,0,1,--,,,,,,,,,,,
+59,617,309,ADRIAN,CHAVEZ RUIZ ,zrp009p,,,,prd,bcs,0,0,--,20030829,,,,,,,,,,1
+59,618,809,EDEN NATALY,COVARRUBIAS GONZALEZ,zrp009s,,,,prd,bcs,0,1,--,,,,,,,,,,,
+59,619,310,ISIDRO,CAMARILLO ZAVALA ,zrp010p,,,,pan,bcs,0,0,--,20030829,,,,,,,"Salió del pan, quedó indep",,,1
+59,620,810,MIRIAM MARINA,MUÑOZ VARGAS,zrp010s,,,,pan,bcs,0,1,--,,,,,,,,,,,
+59,621,311,GUADALUPE,FONZ SAENZ ,zrp011p,,,,pri,cam,0,0,--,20030829,,,,,,,,,,1
+59,622,811,JORGE ENRIQUE,HERNANDEZ BIELMA,zrp011s,,,,pri,cam,0,1,--,,,,,,,,,,,
+59,623,312,ALEJANDRO,MORENO CARDENAS ,zrp012p,,,,pri,cam,0,0,--,20030829,,,,,,,,,,1
+59,624,812,ARIEL BALTAZAR,CORDOVA WILSON,zrp012s,,,,pri,cam,0,1,--,20060427,,,,,,,,,,1
+59,625,313,OSCAR,RODRIGUEZ CABRERA ,zrp013p,,,,pri,cam,0,0,--,20030829,,,,,,,,,,1
+59,626,813,NAHUM RUBEN,CARREÑO MENDOZA,zrp013s,,,,pri,cam,0,1,--,,,,,,,,,,,
+59,627,314,YOLANDA GUADALUPE,VALLADARES VALLE ,zrp014p,,,,pan,cam,0,0,--,20030829,,,,,,,,,,1
+59,628,814,CARLOS MANUEL,CAMBRANIS LOPEZ,zrp014s,,,,pan,cam,0,1,--,,,,,,,,,,,
+59,629,315,ABRAHAM,BAGDADI ESTRELLA ,zrp015p,,M,,prd,cam,0,0,--,20030829,,,,,,,,,57-59-61,1
+59,630,815,VICTOR MANUEL,MENDEZ RODRIGUEZ,zrp015s,,,,prd,cam,0,1,--,,,,,,,,,,,
+59,631,316,LAURA ELENA,MARTINEZ RIVERA ,zrp016p,,,,pri,coa,0,0,--,20030829,,,,,,,,,,1
+59,632,816,ANTONIO,NERIO RODRIGUEZ,zrp016s,,,,pri,coa,0,1,--,,,,,,,,,,,
+59,633,317,BLANCA,EPPEN CANALES ,zrp017p,,,,pan,coa,0,0,--,20030829,,,,,,,,,,1
+59,634,817,EDUARDO JOSE,MELENDEZ GURZA,zrp017s,,,,pan,coa,0,1,--,,,,,,,,,,,
+59,635,318,MANUEL IGNACIO,LOPEZ VILLARREAL ,zrp018p,,,,pan,coa,0,0,--,20030829,,,,,,,,,,1
+59,636,818,ATALA CONSUELO,SANCHEZ MURILLO,zrp018s,,,,pan,coa,0,1,--,,,,,,,,,,,
+59,637,319,JESUS,GONZALEZ SCHMAL ,zrp019p,,,,conv,coa,0,0,--,20030829,,,,,,,,,,1
+59,638,819,MARTHA BEATRIZ,CORDOVA BERNAL,zrp019s,,,,conv,coa,0,1,--,,,,,,,,,,590-62,0
+59,639,320,GRACIELA,LARIOS RIVAS ,zrp020p,,,,pri,col,0,0,--,20030829,,,,,,,,,,1
+59,640,820,MARIA DE LA,LUZ MORENO ,zrp020s,,,,pri,col,0,1,--,,,,,,,,,,,
+59,641,321,JORGE LUIS,PRECIADO RODRIGUEZ ,zrp021p,1972,,,pan,col,0,0,--,20030829,,,,,,,,,59-sen-64,1
+59,642,821,KARLA MARGARITA,RAMIREZ Y RAMIREZ,zrp021s,,,,pan,col,0,1,--,,,,,,,,,,,
+59,643,322,SOCORRO,DIAZ PALACIOS ,zrp022p,,,,prd,col,0,0,--,20030829,,,,,,,,,,1
+59,644,822,ANTONIO,CALDERON CENDEJAS,zrp022s,,,,prd,col,0,1,--,,,,,,,,,,,
+59,645,323,JOEL,PADILLA PEÑA ,zrp023p,,,,pt,col,0,0,--,20030829,,,,,,,,,,1
+59,646,823,JACQUELINE,BARRIOS GOMEZ,zrp023s,,,,pt,col,0,1,--,,,,,,,,,,,
+59,647,324,SAMI GABRIEL,DAVID DAVID ,zrp024p,,,,pri,cps,0,0,--,20030829,,,,,,,,,,1
+59,648,824,ANTONIO SELEM HURTADO,DE MENDOZA,zrp024s,,,,pri,cps,0,1,--,,,,,,,,,,,
+59,649,325,SONIA,RINCON CHANONA ,zrp025p,,,,pri,cps,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,59-62,1
+59,650,825,SELENE VERONICA,FLORES MOGUEL,zrp025s,,,,pri,cps,0,1,--,,,,,,,,,,,
+59,651,326,JANETTE,OVANDO REAZOLA ,zrp026p,,,,pan,cps,0,0,--,20030829,,,,,,,,,59-63,1
+59,652,826,JAVIER,JIMENEZ CORZO,zrp026s,,,,pan,cps,0,1,--,,,,,,,,,,,
+59,653,327,CESAR ANTONIO,CHAVEZ CASTILLO ,zrp027p,,,,prd,cps,0,0,--,20030829,,,,,,,,,,1
+59,654,827,JORGE,BLAS LOPEZ,zrp027s,,,,prd,cps,0,1,--,,,,,,,,,,,
+59,655,328,EMILIO,ZEBADUA GONZALEZ,zrp028p,,,,prd,cps,0,0,--,20030829,,,,,,,,,,1
+59,656,828,JUAN,ROMERO TENORIO,zrp028s,,,,prd,cps,0,1,--,,,,,,,,,,590-63,
+59,657,329,MANUEL,VELASCO COELLO ,zrp029p,,,,pvem,cps,0,0,--,20030829,,,,,,,,,59-sen,1
+59,658,829,EDUARDO FRANCISCO,ZENTENO NUÑEZ,zrp029s,,,,pvem,cps,0,1,--,,,,,,,,,,590-63,0
+59,659,330,FRANCISCO,ESPINOZA RAMOS ,zrp030p,,,,pt,cps,0,0,--,20030829,,20060325,,,,,,,,1
+59,660,830,HECTOR HUGO,ROBLERO GORDILLO,zrp030s,,,,pt,cps,0,1,--,,,,,,,,,,590-610-62,0
+59,661,331,JOSE REYES,BAEZA TERRAZAS,zrp031p,,,,pri,cua,0,0,--,20030829,,,,,,,,,,1
+59,662,831,OMAR,BAZAN FLORES,zrp031s,,,,pri,cua,0,1,--,,,,,,,,,,57-590,
+59,663,332,FRANCISCO,BARRIO TERRAZAS ,zrp032p,,,,pan,cua,0,0,--,20030829,,,,,,,,,,1
+59,664,832,VERONICA,PEREZ HERRERA,zrp032s,,,,pan,cua,0,1,--,,,,,,,,,,,
+59,665,333,RAMON,GALINDO NORIEGA ,zrp033p,,,,pan,cua,0,0,--,20030829,,,,,,,,,59-sen,1
+59,666,833,MARIA ANTONIETA,PEREZ REYES,zrp033s,,,,pan,cua,0,1,--,,,,,,,,,,590-61,
+59,667,334,BLANCA AMELIA,GAMEZ GUTIERREZ ,zrp034p,,,,pan,cua,0,0,--,20030829,,,,,,,,,,1
+59,668,834,LUIS ENRIQUE,ACOSTA TORRES,zrp034s,,,,pan,cua,0,1,--,,,,,,,,,,,
+59,669,335,ELBA ESTHER,GORDILLO MACIAS,zrp035p,,,,pri,df,0,0,--,20030829,,,,,,,,,,1
+59,670,835,LILIA ISABEL ARAGON,DEL RIVERO,zrp035s,,,,pri,df,0,1,--,20040323,,,,,,,,,,1
+59,671,336,PEREDO PRIMITIVO FILEMON,ARCOS SUAREZ ,zrp036p,,,,pri,df,0,0,--,20030829,,,,,,,,,,1
+59,672,836,MARIA LUISA GPE.,RIVERA CANDELARIA,zrp036s,,,,pri,df,0,1,--,,,,,,,,,,,
+59,673,337,ROBERTO RAFAEL,CAMPA CIBRIAAN,zrp037p,,,,pri,df,0,0,--,20030829,,,,,,,,,,1
+59,674,837,DANIEL,AREVALO GALLEGOS,zrp037s,,,,pri,df,0,1,--,20060202,,,,,,,,,,1
+59,675,338,MARCO ANTONIO,GARCIA AYALA ,zrp038p,,,,pri,df,0,0,--,20030829,,,,,,,,,59-61-63,1
+59,676,838,MARIA DE LA LUZ ESTELA,TIRADO Y VALLE,zrp038s,,,,pri,df,0,1,--,,,,,,,,,,,
+59,677,339,JORGE,ORTIZ ALVARADO,zrp039p,,,,pri,df,0,0,--,20030829,,,,,,,,,,1
+59,678,839,ALEJANDRO ISMAEL,MURAT HINOJOSA ,zrp039s,,,,pri,df,0,1,--,20041028,,,,,,,,,,1
+59,679,340,CLAUDIA,RUIZ MASSIEU SALINAS,zrp040p,,,,pri,df,0,0,--,20030829,,,,,,,,,59-61,1
+59,680,840,JESUS EDUARDO,TOLEDANO LANDERO,zrp040s,,,,pri,df,0,1,--,,,,,,,,,,,
+59,681,341,FRANCISCO SUAREZ,Y DAVILA ,zrp041p,,,,pri,df,0,0,--,20030829,,,,,,,,,,1
+59,682,841,OFELIA SOCORRO,JASSO NIETO,zrp041s,,,,pri,df,0,1,--,,,,,,,,,,570-590-630,
+59,683,342,ROBERTO,VEGA Y GALINA,zrp042p,,,,pri,df,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,684,842,ROSA DE LOURDES,GARCIA TOVAR,zrp042s,,,,pri,df,0,1,--,,,,,,,,,,,
+59,685,343,PATRICIA,GARDUÑO MORALES,zrp043p,,,,pan,df,0,0,--,20030829,,,,,,,,,,1
+59,686,843,FRANCISCO,FLORES GONZALEZ,zrp043s,,,,pan,df,0,1,--,20060427,,,,,,,,,,1
+59,687,344,ERNESTO,HERRERA TOVAR ,zrp044p,,,,pan,df,0,0,--,20030829,,,,,,,,,,1
+59,688,844,VERONICA EDITH,ESPINOSA MEJIA,zrp044s,,,,pan,df,0,1,--,,,,,,,,,,,
+59,689,345,JUAN FRANCISCO,MOLINAR HORCASITAS ,zrp045p,,,,pan,df,0,0,--,20030829,,,,,,,,,,1
+59,690,845,VERONICA,HERNANDEZ GUADARRAMA,zrp045s,,,,pan,df,0,1,--,,,,,,,,,,,
+59,691,346,MARGARITA,SALDAÑA HERNANDEZ ,zrp046p,,,,pan,df,0,0,--,20030829,,,,,,,,,59-62,1
+59,692,846,ALEJANDRO,MENDEZ GONZALEZ,zrp046s,,M,,pan,df,0,1,--,,,,,,,,,,590-63,0
+59,693,347,JORGE,TRIANA TENA ,zrp047p,,,,pan,df,0,0,--,20030829,,,,,,,,,59-63,1
+59,694,847,ROSA MARIA,DEL VAL RUIZ,zrp047s,,,,pan,df,0,1,--,,,,,,,,,,,
+59,695,348,MARGARITA ESTHER,ZAVALA GOMEZ DEL CAMPO,zrp048p,,,,pan,df,0,0,--,20030829,,,,,,,,,,1
+59,696,848,ALONSO,ROLANDO GARCIA,zrp048s,,,,pan,df,0,1,--,20060413,,,,,,,,,,1
+59,697,349,RENE,ARCE ISLAS ,zrp049p,,,,prd,df,0,0,--,20030829,,,,,,,,,59-sen,1
+59,698,849,EDUARDO,MAYA PADILLA,zrp049s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,699,350,JULIO,BOLTVINIK KALINKA ,zrp050p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,700,850,NEMESIO HERLINDO,HERNANDEZ SANTANDER,zrp050s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,701,351,VICTOR MANUEL,CAMACHO SOLIS ,zrp051p,,,,prd,df,0,0,--,20030829,,,,,,,,,59-sen,1
+59,702,851,DAVID,GAXIOLA PINEDA,zrp051s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,703,352,LUIS EDUARDO,ESPINOZA PEREZ ,zrp052p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,704,852,JOSE FERNANDO,VAZQUEZ NAJERA,zrp052s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,705,353,ELIANA,GARCIA LAGUNA ,zrp053p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,706,853,AMADA ANA MARIA,TREJO PEREZ,zrp053s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,707,354,JUAN JOSE,GARCIA OCHOA ,zrp054p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,708,854,GUILLERMO ANTONIO,OLMOS CAPILLA,zrp054s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,709,355,MARCELA,LAGARDE Y DE LOS RIOS,zrp055p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,710,855,ROSARIO IGNACIA,ORTIZ MAGALLON,zrp055s,1951,,,prd,df,0,1,--,,,,,,,,,,590-60,0
+59,711,356,JORGE,MARTINEZ RAMOS ,zrp056p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,712,856,FERNANDO HUMBERTO,COELLO PEDRERO,zrp056s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,713,357,INTI,MUÑOZ SANTINI ,zrp057p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,714,857,EDGAR SANDALO,GALVEZ FLORES,zrp057s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,715,358,JOSE AGUSTIN ROBERTO,ORTIZ PINCHETTI ,zrp058p,,,,prd,df,0,0,--,20030829,,,,,,,,,,1
+59,716,858,JUAN FRANCISCO,PARRA LOPEZ,zrp058s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,717,359,LIZBETH EUGENIA,ROSAS MONTERO ,zrp059p,1974,,,prd,df,0,0,--,20030829,,,,,,,,,59-62,1
+59,718,859,SANDRA MARIANA,RODRIGUEZ REZA,zrp059s,,,,prd,df,0,1,--,,,,,,,,,,,
+59,719,360,MARIA DE LA LUZ,ARIAS STAINES ,zrp060p,,,,pvem,df,0,0,--,20030829,,,,,,,,,,1
+59,720,860,ALEJANDRO,AGUNDIS ARIAS,zrp060s,,,,pvem,df,0,1,--,,,,,,,,,,,
+59,721,361,FERNANDO,ESPINO AREVALO ,zrp061p,,,,pvem,df,0,0,--,20030829,,,,,,,,,55-59-61,1
+59,722,861,JOSE DE JESUS,PEREZNEGRON PEREZNEGRON,zrp061s,,,,pvem,df,0,1,--,,,,,,,,,,,
+59,723,362,JORGE ANTONIO,KAHWAGI MACRI,zrp062p,,,,pvem,df,0,0,--,20030829,,,,,,,,,,1
+59,724,862,MINERVA ELIZABETH,CASTILLEROS CERVANTES,zrp062s,,,,pvem,df,0,1,--,,,,,,,,,,,
+59,725,363,JAVIER,OROZCO GOMEZ ,zrp063p,,,,pvem,df,0,0,--,20030829,,,,,,,,,59-sen-62,1
+59,726,863,MIGUEL,OROZCO GOMEZ,zrp063s,,,,pvem,df,0,1,--,,,,,,,,,,590-610-620,
+59,727,364,MIGUEL,MORENO GARAVILLA ,zrp064p,,,,conv,df,0,0,--,20030829,,,,,,,,,,1
+59,728,864,GUILLERMO,ROJAS RUBIN,zrp064s,,,,conv,df,0,1,--,,,,,,,,,,,
+59,729,365,JOSE ANGEL,IBAÑEZ MONTES ,zrp065p,,,,pri,dgo,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,730,865,ALEJANDRINO,HERRERA BAILON,zrp065s,,,,pri,dgo,0,1,--,,,,,,,,,,,
+59,731,366,NORMA,SOTELO OCHOA ,zrp066p,,,,pri,dgo,0,0,--,20030829,,,,,,,,,,1
+59,732,866,CARMEN AIDE,QUIÑONEZ RUIZ,zrp066s,,,,pri,dgo,0,1,--,,,,,,,,,,,
+59,733,367,JUAN DE DIOS,CASTRO LOZANO,zrp067p,,,,pan,dgo,0,0,--,20030829,,,,,,,,,,1
+59,734,867,MARIA SALOME,ELYD SAENZ,zrp067s,,,,pan,dgo,0,1,--,20040913,,,,,,,,,,1
+59,735,368,BERNARDO,LOERA CASTILLO ,zrp068p,,,,pan,dgo,0,0,--,20030829,,,,,,,,,,1
+59,736,868,SILVIA MARCELA,MARTINEZ MORALES,zrp068s,,,,pan,dgo,0,1,--,,,,,,,,,,,
+59,737,369,ALEJANDRO,GONZALEZ YAÑEZ ,zrp069p,1956,M,,pt,dgo,0,0,--,20030829,,,,,,,,,57-59-sen,1
+59,738,869,GLORIA CRISTINA,RUIZ MENDOZA,zrp069s,,,,pt,dgo,0,1,--,,,,,,,,,,,
+59,739,370,WINTILO,VEGA MURILLO,zrp070p,1962,,,pri,gua,0,0,--,20030829,20051130,,,,,,,,57-59,1
+59,740,870,OFELIA,RUIZ VEGA,zrp070s,,,,pri,gua,0,1,--,20060201,,,,,,,,,,1
+59,741,371,JOSE ANGEL,CORDOVA VILLALOBOS ,zrp071p,,,,pan,gua,0,0,--,20030829,,,,,,,,,,1
+59,742,871,MARTHA CECILIA,RODRIGUEZ AMARO,zrp071s,,,,pan,gua,0,1,--,,,,,,,,,,,
+59,743,372,JOSE JULIO,GONZALEZ GARZA ,zrp072p,,,,pan,gua,0,0,--,20030829,,,,,,,,,,1
+59,744,872,MARIA DEL ROSARIO,VARGAS CHAVEZ,zrp072s,,,,pan,gua,0,1,--,20060401,,,,,,,,,,1
+59,745,373,MARIA GUADALUPE,SUAREZ PONCE ,zrp073p,,,,pan,gua,0,0,--,20030829,,,,,,,,,,1
+59,746,873,JAIME HUMBERTO,BARRAGAN AVIÑA,zrp073s,,,,pan,gua,0,1,--,,,,,,,,,,,
+59,747,374,AGUSTIN MIGUEL,ALONSO RAYA ,zrp074p,1954,M,,prd,gua,0,0,--,20030829,,,,,,,,,53-57-59-62,1
+59,748,874,RODRIGO,GONZALEZ BARRIOS,zrp074s,,,,prd,gua,0,1,--,,,,,,,,,,590-62,0
+59,749,375,MARTHA LUCIA,MICHER CAMARENA ,zrp075p,1954,,,prd,gua,0,0,--,20030829,,,,,,,,,59-62,1
+59,750,875,MARIA ISABEL,GALIAZI MERLO,zrp075s,,,,prd,gua,0,1,--,,,,,,,,,,,
+59,751,376,CUAUHTEMOC,OCHOA FERNANDEZ ,zrp076p,,,,pvem,gua,0,0,--,20030829,,,,,,,,,,1
+59,752,876,SERGIO ALBINO,HERNANDEZ LARRONDO,zrp076s,,,,pvem,gua,0,1,--,,,,,,,,,,,
+59,753,377,ANGEL,PASTA MUÑUZURI ,zrp077p,,,,pan,gue,0,0,--,20030829,,,,,,,,,,1
+59,754,877,TERESITA DE JESUS,LOPEZ VICTORIA LOPEZ,zrp077s,,,,pan,gue,0,1,--,,,,,,,,,,,
+59,755,378,JUAN,GARCIA COSTILLA ,zrp078p,,,,prd,gue,0,0,--,20030829,,,,,,,,,,1
+59,756,878,GUILLERMO,SANCHEZ NAVA,zrp078s,,,,prd,gue,0,1,--,,,,,,,,,,,
+59,757,379,BEATRIZ,MOJICA MORGA ,zrp079p,,,,prd,gue,0,0,--,20030829,,,,,,,,,,1
+59,758,879,LILIA,BARRANCO COLIN,zrp079s,,,,prd,gue,0,1,--,,,,,,,,,,,
+59,759,380,YADIRA,SERRANO CRESPO ,zrp080p,,,,prd,gue,0,0,--,20030829,,,,,,,,,,1
+59,760,880,AMANDA LOLITA,PINEDA NORMAN,zrp080s,,,,prd,gue,0,1,--,,,,,,,,,,,
+59,761,381,EDMUNDO GREGORIO,VALENCIA MONTERRUBIO ,zrp081p,,,,pan,hgo,0,0,--,20030829,,,,,,,,,,1
+59,762,881,MARTHA CRISTINA,GUERRERO HERNANDEZ,zrp081s,,,,pan,hgo,0,1,--,,,,,,,,,,,
+59,763,382,MARISOL,VARGAS BARCENA ,zrp082p,,,,pan,hgo,0,0,--,20030829,,,,,,,,,59-63,1
+59,764,882,EDUARDO,LOPEZ RIVERA,zrp082s,,,,pan,hgo,0,1,--,,,,,,,,,,,
+59,765,383,CARLOS,BLACKALLER AYALA ,zrp083p,,,,pri,jal,0,0,--,20030829,,,,,,,,,,1
+59,766,883,MARTHA AURORA,PALACIOS JIMENEZ,zrp083s,,,,pri,jal,0,1,--,,,,,,,,,,,
+59,767,384,JOSE,GARCIA ORTIZ ,zrp084p,,,,pri,jal,0,0,--,20030829,,,,,,,,,,1
+59,768,884,XIOMARA,ESTAVILLO DIAZ,zrp084s,,,,pri,jal,0,1,--,,,,,,,,,,,
+59,769,385,LETICIA,GUTIERREZ CORONA ,zrp085p,,,,pri,jal,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,770,885,LUIS CARLOS,TAPIA PEREZ,zrp085s,,,,pri,jal,0,1,--,,,,,,,,,,,
+59,771,386,JESUS,LOMELI ROSAS ,zrp086p,,,,pri,jal,0,0,--,20030829,,,,,,,,,,1
+59,772,886,JUANA MARICELA,SPINDOLA GARCIA,zrp086s,,,,pri,jal,0,1,--,,,,,,,,,,,
+59,773,387,MARIA ESTHER DE JESUS,SCHERMAN LEAÑO,zrp087p,,,,pri,jal,0,0,--,20030829,,,,,,,,,59-61-63,1
+59,774,887,LIDIA,SARACCO TORRES,zrp087s,,,,pri,jal,0,1,--,,,,,,,,,,,
+59,775,388,JOSE ANTONIO,CABELLO GIL ,zrp088p,,,,pan,jal,0,0,--,20030829,,,,,,,,,,1
+59,776,888,AMALIA,PADILLA GONZALEZ,zrp088s,,,,pan,jal,0,1,--,,,,,,,,,,,
+59,777,389,FERNANDO ANTONIO GUZMAN,PEREZ PELAEZ ,zrp089p,,,,pan,jal,0,0,--,20030829,,,,,,,,,,1
+59,778,889,MARIA GUADALUPE,PLASCENCIA VAZQUEZ,zrp089s,,,,pan,jal,0,1,--,,,,,,,,,,,
+59,779,390,GABRIELA RUIZ,DEL RINCON ,zrp090p,,,,pan,jal,0,0,--,20030829,,,,,,,,,59-sen,1
+59,780,890,CARLOS ALBERTO,TORRES TORRES,zrp090s,1975,,,pan,jal,0,1,--,,,,,,,,,,590-60,0
+59,781,391,RAFAEL,SANCHEZ PEREZ ,zrp091p,,,,pan,jal,0,0,--,20030829,,,,,,,,,57-59,1
+59,782,891,MARISELA DE LOURDES,MEZA SERVIN,zrp091s,,,,pan,jal,0,1,--,,,,,,,,,,,
+59,783,392,LORENA,TORRES RAMOS ,zrp092p,,,,pan,jal,0,0,--,20030829,,,,,,,,,,1
+59,784,892,EDWIN ALEJANDRO,ANGUIANO ALVAREZ,zrp092s,,,,pan,jal,0,1,--,,,,,,,,,,,
+59,785,393,JORGE,LEGORRETA ORDORICA ,zrp093p,,,,pvem,jal,0,0,--,,,,,,,,,,,
+59,786,893,ALEJANDRO,GALLARDO AGUILAR,zrp093s,,,,pvem,jal,0,1,--,,,,,,,,,,,
+59,787,394,ALEJANDRA,MENDEZ SALORIO ,zrp094p,,,,pvem,jal,0,0,--,,,,,,,,,,,
+59,788,894,JOSE JUAN,FUENTES VILCHIS,zrp094s,,,,pvem,jal,0,1,--,,,,,,,,,,,
+59,789,395,JOSE ARTURO,ALCANTARA ROJAS ,zrp095p,,,,pri,mex,0,0,--,20030829,,,,,,,,,,1
+59,790,895,GONZALO,UGALDE GAMEZ,zrp095s,,,,pri,mex,0,1,--,,,,,,,,,,,
+59,791,396,EMILIO,CHUAYFFET CHEMOR,zrp096p,,,,pri,mex,0,0,--,20030829,,,,,,,,,59-61,1
+59,792,896,AURORA,LOPEZ OVANDO,zrp096s,,,,pri,mex,0,1,--,,,,,,,,,,,
+59,793,397,REBECA GODINEZ,Y BRAVO ,zrp097p,,,,pri,mex,0,0,--,20030829,,,,,,,,,,1
+59,794,897,IMELDA,MELGAREJO FUKUTAKE,zrp097s,,,,pri,mex,0,1,--,,,,,,,,,,590-610,
+59,795,398,GEMA ISABEL,MARTINEZ LOPEZ ,zrp098p,,,,pri,mex,0,0,--,20030829,20051221,20060315,,,,,,,,1
+59,796,898,EDUARDO GUADALUPE,BERNAL MARTINEZ,zrp098s,,,,pri,mex,0,1,--,,,,,,,,,,57-590-620,
+59,797,399,GUILLERMO,MARTINEZ NOLASCO ,zrp099p,,,,pri,mex,0,0,--,20030829,,,,,,,,,,1
+59,798,899,AURELIO,SALINAS ORTIZ,zrp099s,,,,pri,mex,0,1,--,,,,,,,,,,,
+59,799,400,ALFREDO HILARIO ISIDRO,DEL MAZO GONZALEZ,zrp100p,,,,pri,mex,0,0,--,20030829,20060116,20060309,20060816,,,,,,,1
+59,800,900,JOSE ADOLFO,MURAT MACIAS,zrp100s,,,,pri,mex,0,1,--,,,,,,,,,,,
+59,801,401,ARMANDO,NEYRA CHAVEZ ,zrp101p,,,,pri,mex,0,0,--,20030829,,,,,,,,,51-55-57-59-61-sen,1
+59,802,901,CITLALLI MALINALLI,LUGO DIAZ,zrp101s,,,,pri,mex,0,1,--,,,,,,,,,,,
+59,803,402,FRANCISCO JOSE,ROJAS GUTIERREZ ,zrp102p,,,,pri,mex,0,0,--,20030829,20051221,20060421,,,,,,,59-61,1
+59,804,902,ERIK IVAN,JAIMES ARCHUNDIA,zrp102s,,,,pri,mex,0,1,--,,,,,,,,,,590-600,
+59,805,403,SHEYLA FABIOLA,ARAGON CORTES ,zrp103p,,,,pan,mex,0,0,--,20030829,20060110,,,,,,,,,1
+59,806,903,RAMON,PATIÑO LEMUS,zrp103s,,,,pan,mex,0,1,--,,,,,,,,,,,
+59,807,404,RODRIGO IVAN,CORTES JIMENEZ ,zrp104p,,,,pan,mex,0,0,--,20030829,,,,,,,,,,1
+59,808,904,LUCIA JAZMIN,CARRILLO OVALLES,zrp104s,,,,pan,mex,0,1,--,,,,,,,,,,,
+59,809,405,ADRIANA,GONZALEZ CARRILLO ,zrp105p,,F,,pan,mex,0,0,--,20030829,,,,,,,,,59-sen-62,1
+59,810,905,CARLOS ARTURO,MILLAN SANCHEZ,zrp105s,,,,pan,mex,0,1,--,,,,,,,,,,590-610,
+59,811,406,EDELMIRA,GUTIERREZ RIOS ,zrp106p,,,,pan,mex,0,0,--,20030829,,,,,,,,,,1
+59,812,906,PEDRO ELOY,ESTEVA VELASCO,zrp106s,,,,pan,mex,0,1,--,,,,,,,,,,,
+59,813,407,EVANGELINA,PEREZ ZARAGOZA ,zrp107p,,,,pan,mex,0,0,--,20030829,,,,,,,,,,1
+59,814,907,MIGUEL ANGEL,CALZADA ADAME,zrp107s,,,,pan,mex,0,1,--,,,,,,,,,,,
+59,815,408,TOMAS,CRUZ MARTINEZ ,zrp108p,,,,prd,mex,0,0,--,20030829,,,,,,,,,,1
+59,816,908,EDGAR ALONSO,BLASIO GARCIA,zrp108s,,,,prd,mex,0,1,--,,,,,,,,,,,
+59,817,409,HORACIO,DUARTE OLIVARES,zrp109p,1971,M,,prd,mex,0,0,--,20030829,,,,,,,,,59-64,1
+59,818,909,HELADIO,PLATA CARMONA,zrp109s,,,,prd,mex,0,1,--,,,,,,,,,,,
+59,819,410,MARCELA GONZALEZ,SALAS PETRICIOLI,zrp110p,,,,prd,mex,0,0,--,20030829,,,,,,,,,,1
+59,820,910,SAMARIA KENIA,AHUATZIN GUERRA,zrp110s,,,,prd,mex,0,1,--,,,,,,,,,,,
+59,821,411,OMAR,ORTEGA ALVAREZ ,zrp111p,,,,prd,mex,0,0,--,20030829,,,,,,,,,59-63,1
+59,822,911,MARCO ANTONIO,ORGANIZ RAMIREZ,zrp111s,,,,prd,mex,0,1,--,,,,,,,,,,,
+59,823,412,JAVIER,SALINAS NARVAEZ ,zrp112p,1965,,,prd,mex,0,0,--,20030829,,,,,,,,,59-62-64,1
+59,824,912,FRANCISCO,CLARA SORIA,zrp112s,,,,prd,mex,0,1,--,,,,,,,,,,,
+59,825,413,JAZMIN ELENA,ZEPEDA BURGOS ,zrp113p,,,,prd,mex,0,0,--,20030829,,,,,,,,,,1
+59,826,913,MARIA MARTHA,CALIXTO ZARATE,zrp113s,,,,prd,mex,0,1,--,,,,,,,,,,,
+59,827,414,JACQUELINE GUADALUPE,ARGÜELLES GUZMAN ,zrp114p,,,,pvem,mex,0,0,--,20030829,,,,,,,,,,1
+59,828,914,CAMILO,CAMPOS LOPEZ,zrp114s,,,,pvem,mex,0,1,--,,,,,,,,,,,
+59,829,415,GUILLERMO,VELASCO RODRIGUEZ,zrp115p,,,,pvem,mex,0,0,--,20030829,,,,,,,,,,1
+59,830,915,RAUL,PIÑA HORTA ,zrp115s,,,,pvem,mex,0,1,--,,,,,,,,,,,
+59,831,416,OSCAR,GONZALEZ YAÑEZ ,zrp116p,1964,,,pt,mex,0,0,--,20030829,,,,,,,,,56-59-61-64,1
+59,832,916,HERON AGUSTIN,ESCOBAR GARCIA,zrp116s,,,,pt,mex,0,1,--,,,,,,,,,,590-600-61,0
+59,833,417,LUIS,MALDONADO VENEGAS ,zrp117p,,,,conv,mex,0,0,--,20030829,,,,,,,,,59-63,1
+59,834,917,FELIPE ROGELIO,VIZCAINO ALVAREZ,zrp117s,,,,conv,mex,0,1,--,,,,,,,,,,,
+59,835,418,CONSUELO,MURO URISTA ,zrp118p,,,,pri,mic,0,0,--,20030829,,,,,,,,,,1
+59,836,918,EMMA,MONDRAGON NAVARRETE,zrp118s,,,,pri,mic,0,1,--,,,,,,,,,,,
+59,837,419,MARGARITA DEL SAGRADO CORAZON DE JESUS,CHAVEZ MURGUIA ,zrp119p,,,,pan,mic,0,0,--,20030829,,,,,,,,,57-59,1
+59,838,919,FRANCISCO JOSE,PEREZ PEREZ,zrp119s,,,,pan,mic,0,1,--,,,,,,,,,,,
+59,839,420,MARKO ANTONIO,CORTES MENDOZA ,zrp120p,,,,pan,mic,0,0,--,20030829,,,,,,,,,59-sen-63,1
+59,840,920,MONICA,LUGO VIDAL,zrp120s,,,,pan,mic,0,1,--,,,,,,,,,,,
+59,841,421,JOSE,GONZALEZ MORFIN ,zrp121p,,,,pan,mic,0,0,--,20030829,,,,,,,,,59-sen-62,1
+59,842,921,MARIA DEL PILAR,IBARROLA MACOUZET,zrp121s,,,,pan,mic,0,1,--,,,,,,,,,,,
+59,843,422,GERMAN,MARTINEZ CAZARES ,zrp122p,,,,pan,mic,0,0,--,20030829,,,,,,,,,57-59,1
+59,844,922,MARIA ELENA,PEREZ DE TEJADA ROMERO,zrp122s,,,,pan,mic,0,1,--,,,,,,,,,,590-61,0
+59,845,423,SALVADOR,VEGA CASILLAS ,zrp123p,,,,pan,mic,0,0,--,20030829,,,,,,,,,59-sen,1
+59,846,923,PERLA,ORTIZ CABRERA,zrp123s,,,,pan,mic,0,1,--,,,,,,,,,,,
+59,847,424,SERGIO AUGUSTO,MAGAÑA MARTINEZ ,zrp124p,,,,prd,mic,0,0,--,20030829,,,,,,,,,,1
+59,848,924,VICTOR LENIN,SANCHEZ RODRIGUEZ,zrp124s,,,,prd,mic,0,1,--,,,,,,,,,,,
+59,849,425,FRANCISCO,MORA CIPRES ,zrp125p,,,,prd,mic,0,0,--,20030829,,,,,,,,,,1
+59,850,925,DAVID,MOLINA HAMPSHERE,zrp125s,,,,prd,mic,0,1,--,,,,,,,,,,,
+59,851,426,JUAN,PEREZ MEDINA ,zrp126p,,,,prd,mic,0,0,--,20030829,,,,,,,,,,1
+59,852,926,CESAR,REYES CARBAJAL,zrp126s,,,,prd,mic,0,1,--,,,,,,,,,,,
+59,853,427,CRISTINA,PORTILLO AYALA ,zrp127p,,,,prd,mic,0,0,--,20030829,,,,,,,,,57-59,1
+59,854,927,DOLORES DE LOS ANGELES,NAZARES JERONIMO,zrp127s,,,,prd,mic,0,1,--,,,,,,,,,,590-61,0
+59,855,428,ISIDORO,RUIZ ARGAIZ ,zrp128p,,,,prd,mic,0,0,--,20030829,,,,,,,,,,1
+59,856,928,JOSE MARIA,AGUIRRE MEDINA,zrp128s,,,,prd,mic,0,1,--,,,,,,,,,,580-590,
+59,857,429,SERGIO,ALVAREZ MATA ,zrp129p,,,,pan,mor,0,0,--,20030829,,,,,,,,,,1
+59,858,929,BELEM,VAZQUEZ BAUTISTA,zrp129s,,,,pan,mor,0,1,--,,,,,,,,,,,
+59,859,430,MARTHA,RIVERA CISNEROS ,zrp130p,,,,pan,mor,0,0,--,20030829,,,,,,,,,,1
+59,860,930,JUVENTINO,LOPEZ SERRANO,zrp130s,,,,pan,mor,0,1,--,,,,,,,,,,,
+59,861,431,SALVADOR,SANCHEZ VAZQUEZ ,zrp131p,1940,,,pri,nay,0,0,--,20030829,,,,,,,,,57-59,1
+59,862,931,DAVID,FAJARDO PEREZ,zrp131s,,,,pri,nay,0,1,--,,,,,,,,,,,
+59,863,432,MANUEL,PEREZ CARDENAS ,zrp132p,,,,pan,nay,0,0,--,20030829,,,,,,,,,,1
+59,864,932,ANA ERIKA,CAMBERO NAVARRO,zrp132s,,,,pan,nay,0,1,--,,,,,,,,,,,
+59,865,433,MARIA CRISTINA,DIAZ SALAZAR ,zrp133p,,,,pri,nl,0,0,--,20030829,,,,,,,,,59-61-sen,1
+59,866,933,LUIS ALEJANDRO,GUEVARA COBOS,zrp133s,1975,,,pri,nl,0,1,--,20060316,,,,,,,,,57-590-600-61-63,1
+59,867,434,HECTOR HUMBERTO,GUTIERREZ DE LA GARZA,zrp134p,1962,,,pri,nl,0,0,--,20030829,,,,,,,,,59-62,1
+59,868,934,HECTOR,RODRIGUEZ ROCHA,zrp134s,,,,pri,nl,0,1,--,20060427,,,,,,,,,,1
+59,869,435,CARLOS,MIRELES MORALES ,zrp135p,,,,pri,nl,0,0,--,20030829,,,,,,,,,,1
+59,870,935,RAQUEL,OCHOA ARAUJO,zrp135s,,,,pri,nl,0,1,--,,,,,,,,,,,
+59,871,436,BLANCA,DIAZ DELGADO ,zrp136p,,,,pan,nl,0,0,--,20030829,,,,,,,,,,1
+59,872,936,ALFREDO,SANDOVAL MORONES,zrp136s,,,,pan,nl,0,1,--,,,,,,,,,,,
+59,873,437,JORGE LUIS,HINOJOSA MORENO ,zrp137p,,,,pan,nl,0,0,--,20030829,,,,,,,,,,1
+59,874,937,MARIA LETICIA,LOPEZ JIMENEZ,zrp137s,,,,pan,nl,0,1,--,,,,,,,,,,,
+59,875,438,PEDRO,VAZQUEZ GONZALEZ ,zrp138p,1953,,,pt,nl,0,0,--,20030829,20060711,,,,,,,,59-61-640,1
+59,876,938,LIDIA,VAZQUEZ LUJAN,zrp138s,,,,pt,nl,0,1,--,,,,,,,,,,,
+59,877,439,TATIANA,CLOUTHIER CARRILLO ,zrp139p,1964,,,pan,nl,0,0,--,20030829,,,,,,,"Salió del pan, quedó indep",,55-59-64,1
+59,878,939,JORGE LUIS,MANCILLA GUTIERREZ,zrp139s,,,,pan,nl,0,1,--,,,,,,,,,,,
+59,879,440,LINO,CELAYA LURIA ,zrp140p,,,,pri,oax,0,0,--,20030829,,,,,,,,,,1
+59,880,940,GIOVANNA GUIOMARA,ORTEGA MILLET,zrp140s,,,,pri,oax,0,1,--,,,,,,,,,,,
+59,881,441,JORGE FERNANDO,FRANCO VARGAS,zrp141p,,,,pri,oax,0,0,--,20030829,,,,,,,,,59-61,1
+59,882,941,BENJAMIN FERNANDO,HERNANDEZ BUSTAMANTE ,zrp141s,,,,pri,oax,0,1,--,20041125,,,,,,,,,,1
+59,883,442,LUIS ANTONIO,RAMIREZ PINEDA ,zrp142p,,,,pri,oax,0,0,--,20030829,,,,,,,,,,1
+59,884,942,ROSA KARINA,TREJO ESTRADA,zrp142s,,,,pri,oax,0,1,--,,,,,,,,,,,
+59,885,443,HUMBERTO,ALDAZ HERNANDEZ ,zrp143p,,,,pan,oax,0,0,--,20030829,,,,,,,,,,1
+59,886,943,ARACELI,BARROSO RODRIGUEZ,zrp143s,,,,pan,oax,0,1,--,,,,,,,,,,,
+59,887,444,LUIS ANDRES,ESTEVA MELCHOR ,zrp144p,,,,pan,oax,0,0,--,20030829,,,,,,,,,,1
+59,888,944,MARIA DE JESUS,MENDOZA SANCHEZ,zrp144s,,,,pan,oax,0,1,--,,,,,,,,se repiten zrp144s Zrp147s,,590-61,
+59,889,445,JESUS,MARTINEZ ALVAREZ ,zrp145p,,,,conv,oax,0,0,--,20030829,,,,,,,,,,1
+59,890,945,ALBERTO,ESTEVA SALINAS,zrp145s,1964,M,,conv,oax,0,1,--,,,,,,,,,,590-60,0
+59,891,446,ANGEL JUAN ALONSO,DIAZ CANEJA ,zrp146p,,,,pan,pue,0,0,--,20030829,,,,,,,,,,1
+59,892,946,LAURA ELENA,FLORES SUÑER,zrp146s,,,,pan,pue,0,1,--,,,,,,,,,,,
+59,893,447,FELIPE DE JESUS,DIAZ GONZALEZ ,zrp147p,,,,pan,pue,0,0,--,20030829,,,,,,,,,,1
+59,894,947,MARIA DE JESUS,MENDOZA SANCHEZ,zrp147s,,,,pan,pue,0,1,--,,,,,,,,se repiten zrp144s Zrp147s,,590-61,
+59,895,448,ROSA MARIA,AVILES NAJERA ,zrp148p,,,,prd,pue,0,0,--,20030829,,,,,,,,,,1
+59,896,948,ELODIA,MARQUEZ CABRERA,zrp148s,,,,prd,pue,0,1,--,,,,,,,,,,,
+59,897,449,ENRIQUE,BURGOS GARCIA ,zrp149p,,,,pri,que,0,0,--,20030829,,,,,,,,,59-sen,1
+59,898,949,REYNA,MORA VAZQUEZ,zrp149s,,,,pri,que,0,1,--,,,,,,,,,,,
+59,899,450,MANUEL ENRIQUE,OVALLE ARAIZA ,zrp150p,,,,pan,que,0,0,--,20030829,20051213,,,,,,,,,1
+59,900,950,MARGARITA,ROSADO RAMIREZ,zrp150s,,,,pan,que,0,1,--,,,,,,,,,,,
+59,901,451,FRANCISCO XAVIER,ALVARADO VILLAZON ,zrp151p,,,,pvem,que,0,0,--,20030829,,,,,,,,,,1
+59,902,951,ANTONIO,GUERRERO MIRAMONTES,zrp151s,,,,pvem,que,0,1,--,,,,,,,,,,,
+59,903,452,YVETT,SALAZAR TORRES,zrp152p,,,,pvem,que,0,0,--,20030829,,,,,,,,,,1
+59,904,952,LEONARDO,ALVAREZ ROMO ,zrp152s,,,,pvem,que,0,1,--,20030904,,,,,,,,,,1
+59,905,453,IRENE HERMINIA,BLANCO BECERRA ,zrp153p,,,,pan,qui,0,0,--,20030829,,,,,,,,,,1
+59,906,953,JOSE OCTAVIO AUGUSTO,PEREZ Y PRIEGO,zrp153s,,,,pan,qui,0,1,--,,,,,,,,,,,
+59,907,454,FRANCISCO XAVIER,LOPEZ MENA ,zrp154p,,,,pan,qui,0,0,--,20030829,,,,,,,,,,1
+59,908,954,MARIA LUISA,DE LA VEGA MENDOZA,zrp154s,,,,pan,qui,0,1,--,,,,,,,,,,,
+59,909,455,ROGELIO,FRANCO CASTAN,zrp155p,1975,M,,prd,qui,0,0,--,20030829,,,,,,,se repiten zrp155s Zrp183s,,no,1
+59,910,955,EMILIANO BLADIMIR,RAMOS HERNANDEZ ,zrp155s,,,,prd,qui,0,1,--,20050427,,,,,,,,,,1
+59,911,456,CARLOS,JIMENEZ MACIAS ,zrp156p,,,,pri,san,0,0,--,20030829,,,,,,,,,59-sen,1
+59,912,956,REYNALDO,BELTRAN OVIEDO,zrp156s,,,,pri,san,0,1,--,,,,,,,,,,,
+59,913,457,SARA,ROCHA MEDINA ,zrp157p,,,,pri,san,0,0,--,20030829,,,,,,,,,,1
+59,914,957,ROSALBA,BALDERRAMA BRAVO,zrp157s,,,,pri,san,0,1,--,,,,,,,,,,,
+59,915,458,ALFREDO,FERNANDEZ MORENO ,zrp158p,,,,pan,san,0,0,--,20030829,,,,,,,,,,1
+59,916,958,ROSA MARIA,PADILLA CONTRERAS,zrp158s,,,,pan,san,0,1,--,,,,,,,,,,,
+59,917,459,DIVA HADAMIRA,GASTELUM BAJO ,zrp159p,,,,pri,sin,0,0,--,20030829,,,,,,,,,59-61-sen,1
+59,918,959,DANILA,PERKINS FERNANDEZ,zrp159s,,,,pri,sin,0,1,--,,,,,,,,,,,
+59,919,460,ALFREDO,VILLEGAS ARREOLA ,zrp160p,1951,M,,pri,sin,0,0,--,20030829,,,,,,,,,57-59-61-64,1
+59,920,960,EVERARDO,RAMOS GARCIA,zrp160s,,,,pri,sin,0,1,--,,,,,,,,,,,
+59,921,461,JOSE JAVIER,OSORIO SALCIDO ,zrp161p,,,,pan,sin,0,0,--,20030829,,,,,,,,,,1
+59,922,961,MARIA DE LOS ANGELES,HEREDIA ZAVALA,zrp161s,,,,pan,sin,0,1,--,,,,,,,,,,,
+59,923,462,MANLIO FABIO,BELTRONES RIVERA,zrp162p,1952,M,,pri,son,0,0,--,20030829,,,,,,,,,52-59-62,1
+59,924,962,JESUS ALBERTO,CANO VELEZ,zrp162s,,,,pri,son,0,1,--,,,,,,,,,,590-61,
+59,925,463,RAFAEL,GALINDO JAIME ,zrp163p,,,,pri,son,0,0,--,20030829,,,,,,,,,,1
+59,926,963,GERMAN,URIBE CORONA,zrp163s,,,,pri,son,0,1,--,,,,,,,,,,,
+59,927,464,JOSE IRENE,ALVAREZ RAMOS ,zrp164p,,,,pan,son,0,0,--,20030829,,,,,,,,,,1
+59,928,964,ROSA VERONICA,FLORES CELAYA,zrp164s,,,,pan,son,0,1,--,,,,,,,,,,,
+59,929,465,MARIA VIOLA,CORELLA MANZANILLA ,zrp165p,,,,pan,son,0,0,--,20030829,,,,,,,,,,1
+59,930,965,JUAN ALEJANDRO,VARELA HALL,zrp165s,,,,pan,son,0,1,--,,,,,,,,,,,
+59,931,466,ANGEL AUGUSTO,BUENDIA TIRADO ,zrp166p,,,,pri,tab,0,0,--,20030829,,,,,,,,,,1
+59,932,966,JORGE YUNIS,RAFFUL ZEPEDA,zrp166s,,,,pri,tab,0,1,--,,,,,,,,,,590-620,0
+59,933,467,ADY,GARCIA LOPEZ,zrp167p,,,,pri,tab,0,0,--,20030829,,,,,,,,,,1
+59,934,967,FEDERICO,MADRAZO ROJAS,zrp167s,,,,pri,tab,0,1,--,,,,,,,,,,,
+59,935,468,JOSE ANTONIO PABLO,DE LA VEGA ASMITIA,zrp168p,,,,pan,tab,0,0,--,20030829,,,,,,,,,,1
+59,936,968,MARIA ALEJANDRA,MERINO FERRER,zrp168s,,,,pan,tab,0,1,--,,,,,,,,,,,
+59,937,469,LUCIO,LASTRA MARIN ,zrp169p,,,,pan,tab,0,0,--,20030829,,,,,,,,,,1
+59,938,969,MARIA VIRGINIA,BUENDIA CALZADA,zrp169s,,,,pan,tab,0,1,--,,,,,,,,,,,
+59,939,470,DOLORES DEL CARMEN,GUTIERREZ ZURITA ,zrp170p,,,,prd,tab,0,0,--,20030829,,,,,,,,,,1
+59,940,970,ENOE,JUAREZ GOMEZ,zrp170s,,,,prd,tab,0,1,--,,,,,,,,,,,
+59,941,471,HOMERO,DIAZ RODRIGUEZ ,zrp171p,,,,pri,tam,0,0,--,20030829,,,,,,,,,,1
+59,942,971,GUADALUPE,PEREA ALMANZA,zrp171s,,,,pri,tam,0,1,--,,,,,,,,,,570-590,0
+59,943,472,CARLOS,FLORES RICO ,zrp172p,,,,pri,tam,0,0,--,20030829,,,,,,,,,59-61,1
+59,944,972,MARCELA,MUZQUIZ SCHEIB,zrp172s,,,,pri,tam,0,1,--,,,,,,,,,,,
+59,945,473,CRUZ,LOPEZ AGUILAR ,zrp173p,,,,pri,tam,0,0,--,20030829,,,,,,,,,59-61,1
+59,946,973,DIANA CARINA,VELAZQUEZ RAMIREZ,zrp173s,,,,pri,tam,0,1,--,,,,,,,,,,,
+59,947,474,SERGIO ARTURO,POSADAS LARA ,zrp174p,,,,pri,tam,0,0,--,20030829,,,,,,,,,,1
+59,948,974,ENRIQUE,SARMIENTO ALVAREZ,zrp174s,,,,pri,tam,0,1,--,,,,,,,,,,,
+59,949,475,GISELA JULIANA,LARA SALDAÑA ,zrp175p,,,,pan,tam,0,0,--,20030829,,,,,,,,,,1
+59,950,975,JOSE DE JESUS,DE LA CRUZ RAMIREZ,zrp175s,,,,pan,tam,0,1,--,,,,,,,,,,,
+59,951,476,JOSE JULIAN,SACRAMENTO GARZA ,zrp176p,,,,pan,tam,0,0,--,20030829,,,,,,,,,59-sen,1
+59,952,976,MARIA LIZETH,ACOSTA AGUIRRE,zrp176s,,,,pan,tam,0,1,--,,,,,,,,,,,
+59,953,477,ELPIDIO,TOVAR DE LA CRUZ,zrp177p,,,,prd,tam,0,0,--,20030829,,,,,,,,,,1
+59,954,977,ROBERTO AURELIO,CAZARES QUINTANA,zrp177s,,,,prd,tam,0,1,--,,,,,,,,,,,
+59,955,478,LUIS ANTONIO,GONZALEZ ROLDAN ,zrp178p,,,,pvem,tam,0,0,--,20030829,,,,,,,,,59-62,1
+59,956,978,JESUS,GONZALEZ MACIAS,zrp178s,1972,,,pvem,tam,0,1,--,,,,,,,,,,590-60,0
+59,957,479,JUAN ANTONIO,GUAJARDO ANZALDUA ,zrp179p,,,,pt,tam,0,0,--,20030829,,,,,,,,,57-59,1
+59,958,979,RUBEN,AGUILAR JIMENEZ,zrp179s,1943,,,pt,tam,0,1,--,,,,,,,,,,590-60,0
+59,959,480,MARTHA,PALAFOX GUTIERREZ ,zrp180p,1949,,,pri,tla,0,0,--,,,,,,,,,,57-590-sen,0
+59,960,980,ROBERTO ARMANDO,ALBORES GLEASON,zrp180s,1979,,,pri,tla,0,1,--,,,,,,,,,,590-61-sen,0
+59,961,481,JOSE JUAN,BARCENAS GONZALEZ ,zrp181p,,,,pan,tla,0,0,--,,,,,,,,,,,
+59,962,981,AMADA,ACOLTZI GONZALEZ,zrp181s,,,,pan,tla,0,1,--,,,,,,,,,,,
+59,963,482,MINERVA,HERNANDEZ RAMOS ,zrp182p,,,,prd,tla,0,0,--,,,,,,,,,,59-sen-63,1
+59,964,982,JUAN JESUS,MARTINEZ ZAVALA,zrp182s,,,,prd,tla,0,1,--,,,,,,,,,,,
+59,965,483,ROGELIO,FRANCO CASTAN,zrp183p,,,,pri,ver,0,0,--,20030829,,,,,,,se repiten zrp155s Zrp183s,,,1
+59,966,983,EMILIO VALDIMIR,RAMOS HERNANDEZ,zrp183s,,,,pri,ver,0,1,--,,,,,,,,,,,
+59,967,484,OLIVIA,CASTAÑEDA ORTIZ ,zrp184p,,,,pri,ver,0,0,--,20030829,,,,,,,,,,1
+59,968,984,SILVIO,LAGOS GALINDO,zrp184s,,,,pri,ver,0,1,--,,,,,,,,,,590-61,0
+59,969,485,VICTOR FELIX,FLORES MORALES ,zrp185p,,,,pri,ver,0,0,--,20030829,,,,,,,,,57-59-61,1
+59,970,985,ENA ROSA,VALENCIA ROSADO,zrp185s,,,,pri,ver,0,1,--,,,,,,,,,,,
+59,971,486,TOMAS JOSE,RUIZ GONZALEZ,zrp186p,,,,pri,ver,0,0,--,20030829,,,,,,,,,,1
+59,972,986,JOSE LUIS,GARCIA MERCADO,zrp186s,,,,pri,ver,0,1,--,,,,,,,,,,590-620,
+59,973,487,MIGUEL ANGEL,YUNES PERALTA,zrp187p,,,,pri,ver,0,0,--,20030829,,,,,,,,,,1
+59,974,987,ANIBAL,PERALTA GARCIA,zrp187s,,,,pri,ver,0,1,--,,,,,,,,,,,
+59,975,488,BARUCH ALBERTO,BARRERA ZURITA ,zrp188p,,,,pan,ver,0,0,--,20030829,,,,,,,,,,1
+59,976,988,AURORA,GARDINI PICAZO,zrp188s,,,,pan,ver,0,1,--,,,,,,,,,,,
+59,977,489,ROMULO,CARDENAS VELEZ ,zrp189p,,,,pan,ver,0,0,--,20030829,,,,,,,,,,1
+59,978,989,DORA LILIA,GALLEGOS FALCONDI,zrp189s,,,,pan,ver,0,1,--,,,,,,,,,,,
+59,979,490,MARIA DEL CARMEN,ESCUDERO FABRE ,zrp190p,,,,pan,ver,0,0,--,20030829,,,,,,,,,,1
+59,980,990,BERNARDO MARGARITO,TELLEZ JUAREZ,zrp190s,,,,pan,ver,0,1,--,,,,,,,,,,590-61,0
+59,981,491,FRANCISCO JAVIER,LARA ARANO ,zrp191p,,,,pan,ver,0,0,--,20030829,,,,,,,,,,1
+59,982,991,ELENA CECILIA,MORFIN RIOS,zrp191s,,,,pan,ver,0,1,--,,,,,,,,,,,
+59,983,492,MARCELO,HERRERA HERBERT ,zrp192p,,,,prd,ver,0,0,--,20030829,,,,,,,,,,1
+59,984,992,MARTHA ELBA,VILLARREAL ESCOBAR,zrp192s,,,,prd,ver,0,1,--,,,,,,,,,,,
+59,985,493,MAXIMINO ALEJANDRO,FERNANDEZ AVILA ,zrp193p,,,,pvem,ver,0,0,--,20030829,,,,,,,,,59-610,1
+59,986,993,JUSTO JOSE,FERNANDEZ GARIBAY,zrp193s,,,,pvem,ver,0,1,--,,,,,,,,,,,
+59,987,494,JUAN FERNANDO,PERDOMO BUENO ,zrp194p,,,,conv,ver,0,0,--,20030829,,,,,,,,,,1
+59,988,994,MANUEL BERNARDO,CARBONELL ORTEGA,zrp194s,,,,conv,ver,0,1,--,,,,,,,,,,,
+59,989,495,ALFREDO,RODRIGUEZ Y PACHECO,zrp195p,,,,pan,yuc,0,0,--,20030829,,,,,,,,,59-sen,1
+59,990,995,YOLANDA LETICIA,PENICHE BLANCO,zrp195s,,,,pan,yuc,0,1,--,,,,,,,,,,,
+59,991,496,MARIA BEATRIZ,ZAVALA PENICHE ,zrp196p,,,,pan,yuc,0,0,--,20030829,,,,,,,,,57-59-sen-62,1
+59,992,996,MARCO ANTONIO,PASOS TEC,zrp196s,,,,pan,yuc,0,1,--,,,,,,,,,,,
+59,993,497,MARBELLA,CASANOVA CALAM ,zrp197p,,,,prd,yuc,0,0,--,20030829,,,,,,,,,,1
+59,994,997,MIRNA CONCEPCION,CASTRO PAVIA,zrp197s,,,,prd,yuc,0,1,--,,,,,,,,,,,
+59,995,498,JOSE ISABEL,TREJO REYES ,zrp198p,1959,,,pan,zac,0,0,--,20030829,,,,,,,,,59-sen-62-64,1
+59,996,998,ANA MARIA,AVILA FLORES,zrp198s,,,,pan,zac,0,1,--,,,,,,,,,,,
+59,997,499,JOSE LUIS,MEDINA LIZALDE ,zrp199p,,,,prd,zac,0,0,--,20030829,,,,,,,,,,1
+59,998,999,TERESINA,CASAS CASTRO,zrp199s,,,,prd,zac,0,1,--,,,,,,,,,,,
+59,999,500,MARTIN,CARRILLO GUZMAN ,zrp200p,,,,pri,zac,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,1000,1000,OLGA AZUCENA,VALENZUELA LOPEZ,zrp200s,,,,pri,zac,0,1,--,,,,,,,,,,,
