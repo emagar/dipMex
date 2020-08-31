@@ -29,7 +29,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,28,514,DANIEL JESUS,GOMEZ VARGAS,cam01s,,M,morena,morena,cam,1,1,SAN FRANCISCO DE CAMPECHE,,,,,,,,,sesión instalación cámara diputados,,0
 64,29,15,IRASEMA DEL CARMEN,BUENFIL DIAZ,cam02p,,F,morena,pes,cam,1,0,CIUDAD DEL CARMEN,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,30,515,AZALIA DEL CARMEN,KURI GARCIA,cam02s,,F,morena,morena,cam,1,1,CIUDAD DEL CARMEN,,,,,,,,,sesión instalación cámara diputados,,0
-64,31,16,EVARISTO LENIN,PEREZ RIVERA,coa01p,,M,pan,pan,coa,1,0,PIEDRAS NEGRAS,20180829,,,,,,,,sesión instalación cámara diputados,no,1
+64,31,16,EVARISTO LENIN,PEREZ RIVERA,coa01p,1966,M,pan,pan,coa,1,0,PIEDRAS NEGRAS,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,32,516,SERGIO,BORJA CASTILLO,coa01s,,M,pan,,coa,1,1,PIEDRAS NEGRAS,,,,,,,,,sesión instalación cámara diputados,,0
 64,33,17,FRANCISCO JAVIER,BORREGO ADAME,coa02p,,M,pes,morena,coa,1,0,SAN PEDRO,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,34,517,JORGE ARTURO,VALDES FLORES,coa02s,,M,pes,,coa,1,1,SAN PEDRO,,,,,,,,,sesión instalación cámara diputados,,0
@@ -119,7 +119,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,118,559,OSCAR EUGENIO,GUTIERREZ CAMACHO,df13s,,M,pt,,df,1,1,IZTACALCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,119,60,ALFONSO,RAMIREZ CUELLAR,df14p,1959,M,morena,morena,df,1,0,TLALPAN,20180829,20200317,,,,,Presupuesto y Cuenta Publica ,,sesión instalación cámara diputados,57-59-64,1
 64,120,560,JAVIER URIEL,AGUIRRE VALENCIANA,df14s,,M,morena,morena,df,1,1,TLALPAN,20200318,,,,,,,,sesión instalación cámara diputados,,1
-64,121,61,LUIS ALBERTO,MENDOZA ACEVEDO,df15p,,M,pan,pan,df,1,0,BENITO JUAREZ,20180829,,,,,,Economia Social y Fomento del Cooperativismo ,,sesión instalación cámara diputados,no,1
+64,121,61,LUIS ALBERTO,MENDOZA ACEVEDO,df15p,1985,M,pan,pan,df,1,0,BENITO JUAREZ,20180829,,,,,,Economia Social y Fomento del Cooperativismo ,birth approx,sesión instalación cámara diputados,no,1
 64,122,561,VICTOR MANUEL,MENDOZA ACEVEDO,df15s,,M,pan,,df,1,1,BENITO JUAREZ,,,,,,,,,sesión instalación cámara diputados,,0
 64,123,62,SILVIA LORENA,VILLAVICENCIO AYALA,df16p,,F,morena,morena,df,1,0,ALVARO OBREGON,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,124,562,ALICIA TORRES,SAN JUAN,df16s,,F,morena,,df,1,1,ALVARO OBREGON,,,,,,,,,sesión instalación cámara diputados,,0
@@ -223,7 +223,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,222,611,ELSA NOEMI,MAYORGA OCHOA,jal06s,,F,mc,,jal,1,1,ZAPOPAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,223,112,JUAN CARLOS,VILLARREAL SALAZAR,jal07p,,M,mc,mc,jal,1,0,TONALA,20180829,,,,,,,,sesión instalación cámara diputados,630-64,1
 64,224,612,JOSE CARLOS,MARROQUIN GOMEZ,jal07s,,M,mc,,jal,1,1,TONALA,,,,,,,,,sesión instalación cámara diputados,,0
-64,225,113,ABRIL,ALCALA PADILLA,jal08p,,F,prd,prd,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,225,113,ABRIL,ALCALA PADILLA,jal08p,,F,prd,pri,jal,1,0,GUADALAJARA,20180829,,,,,,,cambio a pri 31ago2020,sesión instalación cámara diputados,,1
 64,226,613,SUSANA PRISCILA,ALVAREZ HERNANDEZ,jal08s,,F,prd,,jal,1,1,GUADALAJARA,,,,,,,,,sesión instalación cámara diputados,,0
 64,227,114,CARMEN JULIA,PRUDENCIO GONZALEZ,jal09p,,F,mc,mc,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,228,614,IRENE,GARCIA MARTINEZ,jal09s,,F,mc,,jal,1,1,GUADALAJARA,,,,,,,,,sesión instalación cámara diputados,,0
@@ -461,11 +461,11 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,460,730,ERIKA EDITH,LOPEZ LARA,qui02s,,F,morena,,qui,1,1,CHETUMAL,,,,,,,,,sesión instalación cámara diputados,,0
 64,461,231,MILDRED CONCEPCION,AVILA VERA,qui03p,,F,pes,morena,qui,1,0,CANCUN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,462,731,RUBY MARIVEL,CANTO ROSADO,qui03s,,F,pes,,qui,1,1,CANCUN,,,,,,,,,sesión instalación cámara diputados,,0
-64,463,232,JESUS DE LOS ANGELES,POOL MOO,qui04p,,M,pt,morena,qui,1,0,CANCUN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,463,232,JESUS DE LOS ANGELES,POOL MOO,qui04p,,M,pt,pri,qui,1,0,CANCUN,20180829,,,,,,,switched morena 2 prd 27jul2020 cambio a pri 31ago2020,sesión instalación cámara diputados,,1
 64,464,732,VICTOR GILBERTO,AGUILAR ESPINOSA,qui04s,,M,pt,,qui,1,1,CANCUN,,,,,,,,,sesión instalación cámara diputados,,0
 64,465,233,MARIA SARA,ROCHA MEDINA,san01p,,F,pri,pri,san,1,0,MATEHUALA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,466,733,MARIA DEL CARMEN,MATA VALENZUELA,san01s,,F,pri,,san,1,1,MATEHUALA,,,,,,,,,sesión instalación cámara diputados,,0
-64,467,234,JOSE RICARDO,GALLARDO CARDONA,san02p,,M,prd,prd,san,1,0,SOLEDAD,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,467,234,JOSE RICARDO,GALLARDO CARDONA,san02p,,M,prd,pvem,san,1,0,SOLEDAD,20180829,,,,,,,switched pvem,sesión instalación cámara diputados,,1
 64,468,734,RAUL IVAN,LOPEZ GUZMAN,san02s,,M,prd,,san,1,1,SOLEDAD,,,,,,,,,sesión instalación cámara diputados,,0
 64,469,235,OSCAR,BAUTISTA VILLEGAS,san03p,1964,M,pvem,pvem,san,1,0,RIOVERDE,20180829,,,,,,,,sesión instalación cámara diputados,62-64,1
 64,470,735,RODOLFO ISAAC,MONSIVAIS MORQUECHO,san03s,,M,pvem,,san,1,1,RIOVERDE,,,,,,,,,sesión instalación cámara diputados,,0
@@ -473,7 +473,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,472,736,ANTOLIN,GUERRERO MARQUEZ,san04s,,M,pt,,san,1,1,CIUDAD VALLES,,,,,,,,,sesión instalación cámara diputados,,0
 64,473,237,JOSEFINA,SALAZAR BAEZ,san05p,,F,pan,pan,san,1,0,SAN LUIS POTOSI,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,474,737,ZAIRA,RIVERA HERVERT,san05s,,F,pan,pan,san,1,1,SAN LUIS POTOSI,,,,,,,,,sesión instalación cámara diputados,,0
-64,475,238,MARIA GUADALUPE,ALMAGUER PARDO,san06p,,F,prd,prd,san,1,0,SAN LUIS POTOSI,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,475,238,MARIA GUADALUPE,ALMAGUER PARDO,san06p,,F,prd,pri,san,1,0,SAN LUIS POTOSI,20180829,,,,,,,cambio a pri 31ago2020,sesión instalación cámara diputados,,1
 64,476,738,LETICIA,MARTINEZ GOMEZ,san06s,,F,prd,prd,san,1,1,SAN LUIS POTOSI,,,,,,,,,sesión instalación cámara diputados,,0
 64,477,239,MARCELINO,RIVERA HERNANDEZ,san07p,,M,pan,pan,san,1,0,TAMAZUNCHALE,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,478,739,JUAN MARCOS,GARCIA HERNANDEZ,san07s,,M,pan,,san,1,1,TAMAZUNCHALE,,,,,,,,,sesión instalación cámara diputados,,0
@@ -761,17 +761,17 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,760,880,BEATRIZ SELENE,ZAMORA ROMERO,zrp1prd01s,,F,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,761,381,FRIDA ALEJANDRA,ESPARZA MARQUEZ,zrp2prd01p,,F,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
 64,762,881,MARIA GUADALUPE,MARTINEZ ARIAS,zrp2prd01s,,F,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
-64,763,382,ANTONIO,ORTEGA MARTINEZ,zrp2prd02p,1954,M,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,60-64,1
+64,763,382,ANTONIO,ORTEGA MARTINEZ,zrp2prd02p,1954,M,prd,pri,0,0,0,--,20180829,,,,,,,cambio a pri 31ago2020,acuerdo INE,60-64,1
 64,764,882,JESUS JOSUE,HERNANDEZ MEDINA,zrp2prd02s,,M,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,765,383,NORMA AZUCENA,RODRIGUEZ ZAMORA,zrp3prd01p,,F,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
 64,766,883,PERLA EUGENIA,RODRIGUEZ SILVA,zrp3prd01s,,F,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,767,384,TEOFILO MANUEL,GARCIA CORPUS,zrp3prd02p,1958,M,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,57-61-64,1
 64,768,884,LUIS OCTAVIO,MURAT MACIAS,zrp3prd02s,,M,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
-64,769,385,HECTOR,SERRANO CORTES,zrp4prd01p,,M,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
+64,769,385,HECTOR,SERRANO CORTES,zrp4prd01p,,M,prd,pt,0,0,0,--,20180829,,,,,,,cambio a pt 28ago2020,acuerdo INE,,1
 64,770,885,LAURO ANTONIO,MARTINEZ SALAS,zrp4prd01s,,M,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,771,386,CARMEN JULIETA,MACIAS RABAGO,zrp4prd02p,,F,prd,mc,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
 64,772,886,MARIANA IVONNE,BRETON HERNANDEZ,zrp4prd02s,,F,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
-64,773,387,MAURICIO ALONSO,TOLEDO GUTIERREZ,zrp4prd03p,1980,M,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,61-64,1
+64,773,387,MAURICIO ALONSO,TOLEDO GUTIERREZ,zrp4prd03p,1980,M,prd,pt,0,0,0,--,20180829,,,,,,,cambio al pvem en 2018 luego pt ago2020,acuerdo INE,61-64,1
 64,774,887,BENITO,OCAMPO OLIVARES,zrp4prd03s,,M,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,775,388,LUZ ESTEFANIA,ROSAS MARTINEZ,zrp4prd04p,,F,prd,prd,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
 64,776,888,GABRIELA SCARLETT,PEREZ PEREZ,zrp4prd04s,,F,prd,,0,0,1,--,,,,,,,,,acuerdo INE,,0
