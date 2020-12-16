@@ -539,7 +539,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,538,769,JUAN ANTONIO,MARTINEZ CERON,tla01s,,M,morena,,tla,1,1,APIZACO,,,,,,,,,sesión instalación cámara diputados,,0
 64,539,270,RUBEN,TERAN AGUILA,tla02p,,M,morena,morena,tla,1,0,TLAXCALA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,540,770,LUIS ANTONIO,HERRERA PEREZ,tla02s,,M,morena,,tla,1,1,TLAXCALA,,,,,,,,,sesión instalación cámara diputados,,0
-64,541,271,LORENA,CUELLAR CISNEROS,tla03p,,F,pes,morena,tla,1,0,ZACATELCO,20180829,20181201,,,,,,,sesión instalación cámara diputados,sen-64,1
+64,541,271,LORENA,CUELLAR CISNEROS,tla03p,1962,F,pes,morena,tla,1,0,ZACATELCO,20180829,20181201,,,,,,"superdelegada tlax, cand gober morena 2021",sesión instalación cámara diputados,sen-64,1
 64,542,771,CLAUDIA,PEREZ RODRIGUEZ,tla03s,,F,pes,morena,tla,1,1,ZACATELCO,20181204,,,,,,,,sesión instalación cámara diputados,,1
 64,543,272,RICARDO,GARCIA ESCALANTE,ver01p,,M,pan,pan,ver,1,0,PANUCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,544,772,ALVARO,SOTO MARTINEZ,ver01s,,M,pan,,ver,1,1,PANUCO,,,,,,,,,sesión instalación cámara diputados,,0
@@ -833,8 +833,8 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,832,916,ROSA MARIA,CARDONA ALEGRIA,c1morena01s,,F,morena,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,833,417,MARCO ANTONIO,CARBAJAL MIRANDA,c1morena02p,,M,morena,morena,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
 64,834,917,J FELIX,VARGAS ALDIANO,c1morena02s,,M,morena,,0,0,1,--,,,,,,,,,acuerdo INE,,0
-64,835,418,TATIANA,CLOUTHIER CARRILLO,c1morena03p,1964,F,morena,morena,0,0,0,--,20180829,,,,,,,,acuerdo INE,55-59-64,1
-64,836,918,MERCEDES,MURILLO MONGE,c1morena03s,,F,morena,,0,0,1,--,,,,,,,,,acuerdo INE,,0
+64,835,418,TATIANA,CLOUTHIER CARRILLO,c1morena03p,1964,F,morena,morena,0,0,0,--,20180829,20201215,,,,,,,acuerdo INE,55-59-64,1
+64,836,918,MARIA DEL CARMEN,ALMEIDA NAVARRO,c1morena03s,,F,morena,morena,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,837,419,MIGUEL ANGEL,MARQUEZ GONZALEZ,c1morena04p,,M,morena,morena,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
 64,838,919,JOSE MANUEL,MARTIN GOMEZ,c1morena04s,,M,morena,,0,0,1,--,,,,,,,,,acuerdo INE,,0
 64,839,420,CARMINA YADIRA,REGALADO MARDUEÑO,c1morena05p,,F,morena,morena,0,0,0,--,20180829,,,,,,,,acuerdo INE,,1
