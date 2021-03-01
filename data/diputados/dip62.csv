@@ -803,7 +803,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 62,802,901,LINO,VELAZQUEZ MORALES,zc3rp21s,,M,,pri,ver,0,1,--,,,,,,,,,,,0
 62,803,402,GUADALUPE DEL SOCORRO,ORTEGA PACHECO,zc3rp22p,1966,F,,pri,yuc,0,0,--,20120829,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216681,,1
 62,804,902,LIZZETE JANICE,ESCOBEDO SALAZAR,zc3rp22s,,F,,pri,yuc,0,1,--,,,,,,,,,,,0
-62,805,403,GABRIEL,LOPEZ ROSADO,zc3rp23p,,M,,prd,oax,0,0,--,,,,,,,,,,,0
+62,805,403,GABRIEL,LOPEZ ROSADO,zc3rp23p,1961,M,,prd,oax,0,0,--,,,,,,,,,,,0
 62,806,903,ROBERTO,LOPEZ ROSADO,zc3rp23s,1961,M,,prd,oax,0,1,--,20120904,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216837,,1
 62,807,404,ROSENDO,SERRANO TOLEDO,zc3rp24p,1959,M,,prd,oax,0,0,--,20120829,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216830,,1
 62,808,904,SARAIN,OSORIO ESPINOSA,zc3rp24s,,F,,prd,oax,0,1,--,,,,,,,,,,,0
@@ -827,7 +827,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 62,826,913,CARLOS MARIO,ESTRADA URBINA,zc3rp33s,,M,,pt,cps,0,1,--,,,,,,,,,,,0
 62,827,414,ARACELI,TORRES FLORES,zc3rp34p,1960,F,,pt,ver,0,0,--,20120829,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217967,,1
 62,828,914,MARIA DE JESUS,HERNANDEZ MARTINEZ,zc3rp34s,,F,,pt,ver,0,1,--,20150318,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217968,,1
-62,829,415,RACIEL,LOPEZ SALAZAR,zc3rp35p,,M,,pvem,cps,0,0,--,20120829,20120913,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216878,,1
+62,829,415,RACIEL,LOPEZ SALAZAR,zc3rp35p,1959,M,,pvem,cps,0,0,--,20120829,20120913,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216878,,1
 62,830,915,CARLOS OCTAVIO,CASTELLANOS MIJARES,zc3rp35s,1977,M,,pvem,cps,0,1,--,20120927,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217751,,1
 62,831,416,MARTHA EDITH,VITAL VERA,zc3rp36p,1963,F,,pvem,cps,0,0,--,20120829,,,,,,,,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216892,,1
 62,832,916,ARMINDA,LOPEZ CRUZ,zc3rp36s,,F,,pvem,cps,0,1,--,,,,,,,,,,,0
@@ -999,7 +999,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 62,998,999,ALONSO,RANGEL REGUERA,zc5rp39s,,M,,panal,mex,0,1,--,,,,,,,,,,,0
 62,999,500,LUCILA,GARFIAS GUTIERREZ,zc5rp40p,1951,F,,panal,mex,0,0,--,20120829,,,,,coor,,,,,1
 62,1000,1000,MARIA DE LA LUZ,MENDOZA HERNANDEZ,zc5rp40s,,F,,panal,mex,0,1,--,,,,,,,,,,,0
-62,1001,1001,LILIAM MARA,FLORES ORTEGA,zc5rp44p,,F,,pri,hgo,0,0,--,20150414,,,,,,,,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1002,,1
+62,1001,1001,LILIAM MARA,FLORES ORTEGA,zc5rp44p,1963,F,,pri,hgo,0,0,--,20150414,,,,,,,,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1002,,1
 62,1002,1002,MARIA,RUIZ FRAGA,zc5rp43p,,F,,pri,mex,0,0,--,20150416,,,,,,,,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1005,,1
 62,1003,1003,ALFONSO,GODINEZ MENDIOLA,zc5rp42p,,M,,pri,mex,0,0,--,20150416,,,,,,,,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1008,,1
 62,1004,1004,JUAN CARLOS,VELASCO PEREZ,zc5rp41p,1952,M,,pri,mic,0,0,--,20150416,,,,,,,,,60-62,1
