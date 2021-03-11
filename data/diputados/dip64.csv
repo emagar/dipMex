@@ -209,33 +209,33 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,208,604,MARIA DE LA LUZ,RUBIO GONZALEZ,hgo06s,,F,morena,,hgo,1,1,PACHUCA,,,,,,,,,sesión instalación cámara diputados,,0
 64,209,105,JANNET,TELLEZ INFANTE,hgo07p,,F,morena,morena,hgo,1,0,TEPEAPULCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,210,605,FLORA,CERVANTES REYES,hgo07s,,F,morena,,hgo,1,1,TEPEAPULCO,,,,,,,,,sesión instalación cámara diputados,,0
-64,211,106,EDUARDO,RON RAMOS,jal01p,,M,mc,mc,jal,1,0,TEQUILA,20180829,,,,,,Ganaderia ,,sesión instalación cámara diputados,,1
+64,211,106,EDUARDO,RON RAMOS,jal01p,1975,M,mc,mc,jal,1,0,TEQUILA,20180829,,,,,,Ganaderia ,,sesión instalación cámara diputados,,1
 64,212,606,LUIS ENRIQUE,VARGAS DIAZ,jal01s,,M,mc,,jal,1,1,TEQUILA,,,,,,,,,sesión instalación cámara diputados,,0
 64,213,107,MARTHA ESTELA,ROMO CUELLAR,jal02p,,F,pan,pan,jal,1,0,LAGOS DE MORENO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,214,607,MARIA DEL REFUGIO,OROS REYES,jal02s,,F,pan,,jal,1,1,LAGOS DE MORENO,,,,,,,,,sesión instalación cámara diputados,,0
 64,215,108,GUADALUPE,ROMO ROMO,jal03p,,F,pan,pan,jal,1,0,TEPATITLAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,216,608,MARCO ANTONIO,ISAAC GONZALEZ,jal03s,,F,pan,,jal,1,1,TEPATITLAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,217,109,MARIO ALBERTO,RODRIGUEZ CARRILLO,jal04p,,M,mc,mc,jal,1,0,ZAPOPAN,20180829,,,,,,Vigilancia de la Auditoria Superior de la Federacion ,,sesión instalación cámara diputados,,1
+64,217,109,MARIO ALBERTO,RODRIGUEZ CARRILLO,jal04p,1967,M,mc,mc,jal,1,0,ZAPOPAN,20180829,,,,,,Vigilancia de la Auditoria Superior de la Federacion ,,sesión instalación cámara diputados,,1
 64,218,609,SALVADOR,GARCIA ARENAS,jal04s,,M,mc,,jal,1,1,ZAPOPAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,219,110,LORENA DEL SOCORRO,JIMENEZ ANDRADE,jal05p,,F,pt,morena,jal,1,0,PUERTO VALLARTA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,220,610,MARIA ESPERANZA,ORTIZ RODRIGUEZ,jal05s,,F,pt,,jal,1,1,PUERTO VALLARTA,,,,,,,,,sesión instalación cámara diputados,,0
-64,221,111,FABIOLA RAQUEL GUADALUPE,LOYA HERNANDEZ,jal06p,,F,mc,mc,jal,1,0,ZAPOPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,221,111,FABIOLA RAQUEL GUADALUPE,LOYA HERNANDEZ,jal06p,1974,F,mc,mc,jal,1,0,ZAPOPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,222,611,ELSA NOEMI,MAYORGA OCHOA,jal06s,,F,mc,,jal,1,1,ZAPOPAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,223,112,JUAN CARLOS,VILLARREAL SALAZAR,jal07p,,M,mc,mc,jal,1,0,TONALA,20180829,,,,,,,,sesión instalación cámara diputados,630-64,1
 64,224,612,JOSE CARLOS,MARROQUIN GOMEZ,jal07s,,M,mc,,jal,1,1,TONALA,,,,,,,,,sesión instalación cámara diputados,,0
-64,225,113,ABRIL,ALCALA PADILLA,jal08p,,F,prd,pri,jal,1,0,GUADALAJARA,20180829,,,,,,,cambio a pri 31ago2020,sesión instalación cámara diputados,,1
+64,225,113,ABRIL,ALCALA PADILLA,jal08p,1979,F,prd,pri,jal,1,0,GUADALAJARA,20180829,,,,,,,cambio a pri 31ago2020,sesión instalación cámara diputados,,1
 64,226,613,SUSANA PRISCILA,ALVAREZ HERNANDEZ,jal08s,,F,prd,,jal,1,1,GUADALAJARA,,,,,,,,,sesión instalación cámara diputados,,0
-64,227,114,CARMEN JULIA,PRUDENCIO GONZALEZ,jal09p,,F,mc,mc,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,227,114,CARMEN JULIA,PRUDENCIO GONZALEZ,jal09p,1977,F,mc,mc,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,228,614,IRENE,GARCIA MARTINEZ,jal09s,,F,mc,,jal,1,1,GUADALAJARA,,,,,,,,,sesión instalación cámara diputados,,0
 64,229,115,GERALDINA ISABEL,HERRERA VEGA,jal10p,,F,mc,mc,jal,1,0,ZAPOPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,230,615,PAZ REBECA,PADILLA JIMENEZ,jal10s,,F,mc,,jal,1,1,ZAPOPAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,231,116,KEHILA ABIGAIL,KU ESCALANTE,jal11p,,F,mc,mc,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,232,616,IRMA,SANCHEZ MANZO,jal11s,,F,mc,,jal,1,1,GUADALAJARA,,,,,,,,,sesión instalación cámara diputados,,0
-64,233,117,ADRIANA GABRIELA,MEDINA ORTIZ,jal12p,,F,mc,mc,jal,1,0,SANTA CRUZ DE LAS FLORES,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,233,117,ADRIANA GABRIELA,MEDINA ORTIZ,jal12p,1979,F,mc,mc,jal,1,0,SANTA CRUZ DE LAS FLORES,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,234,617,MARIA ASENCION,ALVAREZ SOLIS,jal12s,,F,mc,,jal,1,1,SANTA CRUZ DE LAS FLORES,,,,,,,,,sesión instalación cámara diputados,,0
 64,235,118,LOURDES CELENIA,CONTRERAS GONZALEZ,jal13p,,F,mc,mc,jal,1,0,TLAQUEPAQUE,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,236,618,VIOLETA MARIANA,PARRA GARCIA,jal13s,,F,mc,,jal,1,1,TLAQUEPAQUE,,,,,,,,,sesión instalación cámara diputados,,0
-64,237,119,JUAN FRANCISCO,RAMIREZ SALCIDO,jal14p,,M,mc,mc,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,237,119,JUAN FRANCISCO,RAMIREZ SALCIDO,jal14p,1969,M,mc,mc,jal,1,0,GUADALAJARA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,238,619,HUMBERTO RAMON,JARERO CORNEJO,jal14s,,M,mc,,jal,1,1,GUADALAJARA,,,,,,,,,sesión instalación cámara diputados,,0
 64,239,120,ABSALON,GARCIA OCHOA,jal15p,,M,pan,pan,jal,1,0,LA BARCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,240,620,FRANCISCO,PERALES JACOBO,jal15s,,M,pan,,jal,1,1,LA BARCA,,,,,,,,,sesión instalación cámara diputados,,0
@@ -249,7 +249,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,248,624,HIGINIO,DEL TORO PEREZ,jal19s,1968,M,mc,mc,jal,1,1,CIUDAD GUZMAN,20181204,,,,,,,birth approx,sesión instalación cámara diputados,,1
 64,249,125,ANA PRISCILA,GONZALEZ GARCIA,jal20p,,F,mc,mc,jal,1,0,TONALA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,250,625,MARIA DEL REFUGIO,ALVARADO ROMO,jal20s,,F,mc,,jal,1,1,TONALA,,,,,,,,,sesión instalación cámara diputados,,0
-64,251,126,RICARDO,AGUILAR CASTILLO,mex01p,,M,pri,pri,mex,1,0,JILOTEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,251,126,RICARDO,AGUILAR CASTILLO,mex01p,1970,M,pri,pri,mex,1,0,JILOTEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,252,626,ROGELIO ENRIQUE,VALDEZ VALDEZ,mex01s,,M,pri,,mex,1,1,JILOTEPEC,,,,,,,,,sesión instalación cámara diputados,,0
 64,253,127,DIONICIA,VAZQUEZ GARCIA,mex02p,,F,morena,pt,mex,1,0,SANTA MARIA TULTEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,254,627,ELENA LAURA,FLORES MARTINEZ,mex02s,,F,morena,,mex,1,1,SANTA MARIA TULTEPEC,,,,,,,,,sesión instalación cámara diputados,,0
@@ -445,7 +445,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,444,722,CAROLINA,GASPAR RAMIREZ,pue14s,,F,morena,,pue,1,1,ACATLAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,445,223,ALEJANDRO,BARROSO CHAVEZ,pue15p,,M,pt,morena,pue,1,0,TEHUACAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,446,723,PAULINO,OLIVIER MONTERO,pue15s,,M,pt,,pue,1,1,TEHUACAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,447,224,SONIA,ROCHA ACOSTA,que01p,,F,pan,pan,que,1,0,CADEREYTA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,447,224,SONIA,ROCHA ACOSTA,que01p,1978,F,pan,pan,que,1,0,CADEREYTA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,448,724,GRICELDA,OTERO HERNANDEZ,que01s,,F,pan,,que,1,1,CADEREYTA,,,,,,,,,sesión instalación cámara diputados,,0
 64,449,225,JORGE LUIS,MONTES NIEVES,que02p,,M,pes,morena,que,1,0,SAN JUAN DEL RIO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,450,725,ROGELIO,RESENDIZ ACEVEDO,que02s,,M,pes,,que,1,1,SAN JUAN DEL RIO,,,,,,,,,sesión instalación cámara diputados,,0
@@ -463,9 +463,9 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,462,731,RUBY MARIVEL,CANTO ROSADO,qui03s,,F,pes,,qui,1,1,CANCUN,,,,,,,,,sesión instalación cámara diputados,,0
 64,463,232,JESUS DE LOS ANGELES,POOL MOO,qui04p,,M,pt,pri,qui,1,0,CANCUN,20180829,,,,,,,switched morena 2 prd 27jul2020 cambio a pri 31ago2020,sesión instalación cámara diputados,,1
 64,464,732,VICTOR GILBERTO,AGUILAR ESPINOSA,qui04s,,M,pt,,qui,1,1,CANCUN,,,,,,,,,sesión instalación cámara diputados,,0
-64,465,233,MARIA SARA,ROCHA MEDINA,san01p,,F,pri,pri,san,1,0,MATEHUALA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,465,233,MARIA SARA,ROCHA MEDINA,san01p,1967,F,pri,pri,san,1,0,MATEHUALA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,466,733,MARIA DEL CARMEN,MATA VALENZUELA,san01s,,F,pri,,san,1,1,MATEHUALA,,,,,,,,,sesión instalación cámara diputados,,0
-64,467,234,JOSE RICARDO,GALLARDO CARDONA,san02p,,M,prd,pvem,san,1,0,SOLEDAD,20180829,,,,,,,switched pvem,sesión instalación cámara diputados,,1
+64,467,234,JOSE RICARDO,GALLARDO CARDONA,san02p,1980,M,prd,pvem,san,1,0,SOLEDAD,20180829,,,,,,,switched pvem,sesión instalación cámara diputados,,1
 64,468,734,RAUL IVAN,LOPEZ GUZMAN,san02s,,M,prd,,san,1,1,SOLEDAD,,,,,,,,,sesión instalación cámara diputados,,0
 64,469,235,OSCAR,BAUTISTA VILLEGAS,san03p,1964,M,pvem,pvem,san,1,0,RIOVERDE,20180829,,,,,,,,sesión instalación cámara diputados,62-64,1
 64,470,735,RODOLFO ISAAC,MONSIVAIS MORQUECHO,san03s,,M,pvem,,san,1,1,RIOVERDE,,,,,,,,,sesión instalación cámara diputados,,0
@@ -475,7 +475,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,474,737,ZAIRA,RIVERA HERVERT,san05s,,F,pan,pan,san,1,1,SAN LUIS POTOSI,,,,,,,,,sesión instalación cámara diputados,,0
 64,475,238,MARIA GUADALUPE,ALMAGUER PARDO,san06p,,F,prd,pri,san,1,0,SAN LUIS POTOSI,20180829,,,,,,,cambio a pri 31ago2020,sesión instalación cámara diputados,,1
 64,476,738,LETICIA,MARTINEZ GOMEZ,san06s,,F,prd,prd,san,1,1,SAN LUIS POTOSI,,,,,,,,,sesión instalación cámara diputados,,0
-64,477,239,MARCELINO,RIVERA HERNANDEZ,san07p,,M,pan,pan,san,1,0,TAMAZUNCHALE,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,477,239,MARCELINO,RIVERA HERNANDEZ,san07p,1984,M,pan,pan,san,1,0,TAMAZUNCHALE,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,478,739,JUAN MARCOS,GARCIA HERNANDEZ,san07s,,M,pan,,san,1,1,TAMAZUNCHALE,,,,,,,,,sesión instalación cámara diputados,,0
 64,479,240,MAXIMILIANO,RUIZ ARIAS,sin01p,,M,pt,morena,sin,1,0,MAZATLAN,20180829,20191127,,,,,Pesca ,,sesión instalación cámara diputados,,1
 64,480,740,JOSE MARIO,OSUNA MEDINA,sin01s,,M,pt,pt,sin,1,1,MAZATLAN,20191128,,,,,,,,sesión instalación cámara diputados,,1
@@ -497,7 +497,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,496,748,ANA LAURA,BERNAL CAMARENA,son02s,,F,morena,pt,son,1,1,NOGALES,20181206,,,,,,,,sesión instalación cámara diputados,,1
 64,497,249,LORENIA IVETH,VALLES SAMPEDRO,son03p,1976,F,pes,morena,son,1,0,HERMOSILLO,20180829,,,,,,,,sesión instalación cámara diputados,62-64,1
 64,498,749,MARINA,GOMEZ SANCHEZ,son03s,,F,pes,,son,1,1,HERMOSILLO,,,,,,,,,sesión instalación cámara diputados,,0
-64,499,250,HERIBERTO MARCELO,AGUILAR CASTILLO,son04p,,M,morena,morena,son,1,0,GUAYMAS,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,499,250,HERIBERTO MARCELO,AGUILAR CASTILLO,son04p,1975,M,morena,morena,son,1,0,GUAYMAS,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,500,750,RAMON ANGEL,VALDEZ MENDOZA,son04s,,M,morena,,son,1,1,GUAYMAS,,,,,,,,,sesión instalación cámara diputados,,0
 64,501,251,MARIA WENDY,BRICEÑO ZULOAGA,son05p,,F,morena,morena,son,1,0,HERMOSILLO,20180829,,,,,,Igualdad de Genero ,,sesión instalación cámara diputados,,1
 64,502,751,LILIAN MARGARITA,NAVARRO LUCERO,son05s,,F,morena,,son,1,1,HERMOSILLO,,,,,,,,,sesión instalación cámara diputados,,0
