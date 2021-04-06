@@ -16,7 +16,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,15,8,MARIO ISMAEL,MORENO GIL,bc05p,1948,M,morena,morena,bc,1,0,TIJUANA,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,16,508,LUIS JAVIER,ALGORRI FRANCO,bc05s,,M,morena,,bc,1,1,TIJUANA,,,,,,,,,sesión instalación cámara diputados,,0
 64,17,9,JAVIER JULIAN,CASTAÑEDA POMPOSO,bc06p,1967,M,pes,pes,bc,1,0,TIJUANA,20180829,20191029,,,,,,,sesión instalación cámara diputados,58-64,1
-64,18,509,ERWIN JORGE,AREIZAGA URIBE,bc06s,,M,pes,morena,bc,1,1,TIJUANA,20191030,,,,,,,,sesión instalación cámara diputados,,1
+64,18,509,ERWIN JORGE,AREIZAGA URIBE,bc06s,1977,M,pes,morena,bc,1,1,TIJUANA,20191030,,,,,,,,sesión instalación cámara diputados,,1
 64,19,10,ERIK ISAAC,MORALES ELVIRA,bc07p,1976,M,morena,morena,bc,1,0,MEXICALI,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,20,510,ARMANDO,TERAN CORELLA,bc07s,,M,morena,,bc,1,1,MEXICALI,,,,,,,,,sesión instalación cámara diputados,630-640,0
 64,21,11,HECTOR RENE,CRUZ APARICIO,bc08p,1982,M,pes,pes,bc,1,0,TIJUANA,20180829,,,,,,,,sesión instalación cámara diputados,no,1
@@ -50,7 +50,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,49,25,MANUELA DEL CARMEN,OBRADOR NARVAEZ,cps01p,1971,F,morena,morena,cps,1,0,PALENQUE,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,50,525,REBECA,ARCOS SANCHEZ,cps01s,,F,morena,,cps,1,1,PALENQUE,,,,,,,,,sesión instalación cámara diputados,,0
 64,51,26,HUMBERTO,PEDRERO MORENO,cps02p,1985,M,pvem,morena,cps,1,0,BOCHIL,20180829,20190821,,,,,,Nuestro alumno-ine invalidó x falso tzotzil tepjf repuso 20ago18-cambio a morena 4sep2018-sec finanzas IMSS ago2019 BIRTH APPROX,sesión instalación cámara diputados,no,1
-64,52,526,ALFREDO ANTONIO,GORDILLO MORENO,cps02s,,M,pvem,morena,cps,1,1,BOCHIL,20190901,,,,,,,ine invalido x falso tzotzil tepjf repuso 20ago18,sesión instalación cámara diputados,,1
+64,52,526,ALFREDO ANTONIO,GORDILLO MORENO,cps02s,1977,M,pvem,morena,cps,1,1,BOCHIL,20190901,,,,,,,ine invalido x falso tzotzil tepjf repuso 20ago18,sesión instalación cámara diputados,,1
 64,53,27,ALFREDO,VAZQUEZ VAZQUEZ,cps03p,1981,M,morena,morena,cps,1,0,OCOSINGO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,54,527,MANUEL,TORRES HERNANDEZ,cps03s,,M,morena,,cps,1,1,OCOSINGO,,,,,,,,,sesión instalación cámara diputados,,0
 64,55,28,ROQUE LUIS,RABELO VELASCO,cps04p,1944,M,pt,morena,cps,1,0,PICHUCALCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -68,7 +68,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,67,34,JUAN ENRIQUE,FARRERA ESPONDA,cps10p,1967,M,pt,morena,cps,1,0,VILLAFLORES,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,68,534,ALVARO,CHANONA BORGES,cps10s,,M,pt,,cps,1,1,VILLAFLORES,,,,,,,,,sesión instalación cámara diputados,,0
 64,69,35,ROBERTO ANTONIO,MONTEJO RUBIO,cps11p,1977,M,pvem,pvem,cps,1,0,LAS MARGARITAS,20180829,20181001,20190119,,,,medioAmb,in2 approx inferred from speech,sesión instalación cámara diputados,,1
-64,70,535,ROGELIO,RAYO MARTINEZ,cps11s,,M,pvem,pvem,cps,1,1,LAS MARGARITAS,20181004,20190118,,,,,,Decía LORENA LOPEZ TORREZ,sesión instalación cámara diputados,,1
+64,70,535,ROGELIO,RAYO MARTINEZ,cps11s,1977,M,pvem,pvem,cps,1,1,LAS MARGARITAS,20181004,20190118,,,,,,Decía LORENA LOPEZ TORREZ,sesión instalación cámara diputados,,1
 64,71,36,JOSE LUIS,ELORZA FLORES,cps12p,1973,M,morena,morena,cps,1,0,TAPACHULA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,72,536,JOSE ALBERTO,DE SANCRISTOBAL LEON,cps12s,,M,morena,,cps,1,1,TAPACHULA,,,,,,,,,sesión instalación cámara diputados,,0
 64,73,37,MARICRUZ,ROBLERO GORDILLO,cps13p,1966,F,pes,pt,cps,1,0,HUEHUETAN,20180829,,,,,,,,sesión instalación cámara diputados,no,1
@@ -105,7 +105,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,104,552,OSCAR,BERNACHE DOMINGUEZ,df06s,,M,pt,,df,1,1,LA MAGDALENA CONTRERAS,,,,,,,,,sesión instalación cámara diputados,,0
 64,105,53,BEATRIZ,ROJAS MARTINEZ,df07p,1966,F,pes,morena,df,1,0,GUSTAVO A. MADERO,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,106,553,ERIKA NAYAT,MONTES CASILLAS,df07s,,F,pes,,df,1,1,GUSTAVO A. MADERO,,,,,,,,,sesión instalación cámara diputados,,0
-64,107,54,MARIA DE JESUS,ROSETE SANCHEZ,df08p,,F,pes,pes,df,1,0,CUAUHTEMOC,20180829,,,,,,,,sesión instalación cámara diputados,no,1
+64,107,54,MARIA DE JESUS,ROSETE SANCHEZ,df08p,1960,F,pes,pes,df,1,0,CUAUHTEMOC,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,108,554,ELOISA MICAELA,MONTAÑO COVARRUBIAS,df08s,,F,pes,,df,1,1,CUAUHTEMOC,,,,,,,,,sesión instalación cámara diputados,,0
 64,109,55,ADRIANA MARIA GUADALUPE,ESPINOSA DE LOS MONTEROS GARCIA,df09p,1972,F,pt,morena,df,1,0,TLAHUAC,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,110,555,MARIELA,SANTOS ROJO,df09s,,F,pt,,df,1,1,TLAHUAC,,,,,,,,,sesión instalación cámara diputados,,0
@@ -118,7 +118,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,117,59,MARIO MARTIN,DELGADO CARRILLO,df13p,1972,M,pt,morena,df,1,0,IZTACALCO,20180829,,,,,coord,,,sesión instalación cámara diputados,sen-64,1
 64,118,559,OSCAR EUGENIO,GUTIERREZ CAMACHO,df13s,,M,pt,,df,1,1,IZTACALCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,119,60,ALFONSO,RAMIREZ CUELLAR,df14p,1959,M,morena,morena,df,1,0,TLALPAN,20180829,20200317,,,,,Presupuesto y Cuenta Publica ,,sesión instalación cámara diputados,57-59-64,1
-64,120,560,JAVIER URIEL,AGUIRRE VALENCIANA,df14s,,M,morena,morena,df,1,1,TLALPAN,20200318,,,,,,,,sesión instalación cámara diputados,,1
+64,120,560,JAVIER URIEL,AGUIRRE VALENCIANA,df14s,1981,M,morena,morena,df,1,1,TLALPAN,20200318,,,,,,,,sesión instalación cámara diputados,,1
 64,121,61,LUIS ALBERTO,MENDOZA ACEVEDO,df15p,1985,M,pan,pan,df,1,0,BENITO JUAREZ,20180829,,,,,,Economia Social y Fomento del Cooperativismo ,birth approx,sesión instalación cámara diputados,no,1
 64,122,561,VICTOR MANUEL,MENDOZA ACEVEDO,df15s,,M,pan,,df,1,1,BENITO JUAREZ,,,,,,,,,sesión instalación cámara diputados,,0
 64,123,62,SILVIA LORENA,VILLAVICENCIO AYALA,df16p,1964,F,morena,morena,df,1,0,ALVARO OBREGON,20180829,,,,,,,,sesión instalación cámara diputados,no,1
@@ -142,7 +142,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,141,71,MARTHA OLIVIA,GARCIA VIDAÑA,dgo01p,1969,F,pt,morena,dgo,1,0,VICTORIA DE DURANGO,20180829,,,,,,,,sesión instalación cámara diputados,no,1
 64,142,571,MARIA ERNESTINA,SARMIENTO GUEVARA,dgo01s,,F,pt,,dgo,1,1,VICTORIA DE DURANGO,,,,,,,,,sesión instalación cámara diputados,,0
 64,143,72,ALMA MARINA,VITELA RODRIGUEZ,dgo02p,1965,F,pes,morena,dgo,1,0,GOMEZ PALACIO,20180829,20190306,,,,,,,sesión instalación cámara diputados,62-64,1
-64,144,572,MARIA DE LOURDES,MONTES HERNANDEZ,dgo02s,,F,pes,morena,dgo,1,1,GOMEZ PALACIO,20190307,,,,,,,,sesión instalación cámara diputados,,1
+64,144,572,MARIA DE LOURDES,MONTES HERNANDEZ,dgo02s,1968,F,pes,morena,dgo,1,1,GOMEZ PALACIO,20190307,,,,,,,,sesión instalación cámara diputados,,1
 64,145,73,MARIBEL,AGUILERA CHAIREZ,dgo03p,1977,F,morena,morena,dgo,1,0,GUADALUPE VICTORIA,20180829,,,,,,,,sesión instalación cámara diputados,610-64,1
 64,146,573,MARTHA ALICIA,ARREOLA MARTINEZ,dgo03s,,F,morena,,dgo,1,1,GUADALUPE VICTORIA,,,,,,,,,sesión instalación cámara diputados,,0
 64,147,74,HILDA PATRICIA,ORTEGA NAJERA,dgo04p,1966,F,pt,morena,dgo,1,0,VICTORIA DE DURANGO,20180829,,,,,,,,sesión instalación cámara diputados,no,1
@@ -195,19 +195,19 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,194,597,GREGORIO,RUANO ALCARAZ,gue08s,,M,morena,,gue,1,1,AYUTLA,,,,,,,,,sesión instalación cámara diputados,,0
 64,195,98,MARIA DEL ROSARIO,MERLIN GARCIA,gue09p,1964,F,pt,morena,gue,1,0,ACAPULCO,20180829,,,,,,,,sesión instalación cámara diputados,62-64,1
 64,196,598,JOAQUINA,HERNANDEZ AGUERO,gue09s,,F,pt,,gue,1,1,ACAPULCO,,,,,,,,,sesión instalación cámara diputados,,0
-64,197,99,FORTUNATO,RIVERA CASTILLO,hgo01p,,M,morena,morena,hgo,1,0,HUEJUTLA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,197,99,FORTUNATO,RIVERA CASTILLO,hgo01p,1955,M,morena,morena,hgo,1,0,HUEJUTLA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,198,599,GELACIO,VELAZQUEZ HERNANDEZ,hgo01s,,M,morena,,hgo,1,1,HUEJUTLA,,,,,,,,,sesión instalación cámara diputados,,0
-64,199,100,CIPRIANO,CHARREZ PEDRAZA,hgo02p,,M,morena,morena,hgo,1,0,IXMIQUILPAN,20180829,20191105,,,,,,,sesión instalación cámara diputados,,1
-64,200,600,GUSTAVO,CALLEJAS ROMERO,hgo02s,,M,morena,morena,hgo,1,1,IXMIQUILPAN,20191106,,,,,,,,sesión instalación cámara diputados,,1
-64,201,101,SANDRA SIMEY,OLVERA BAUTISTA,hgo03p,,F,morena,morena,hgo,1,0,ACTOPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,199,100,CIPRIANO,CHARREZ PEDRAZA,hgo02p,1972,M,morena,morena,hgo,1,0,IXMIQUILPAN,20180829,20191105,,,,,,,sesión instalación cámara diputados,,1
+64,200,600,GUSTAVO,CALLEJAS ROMERO,hgo02s,1988,M,morena,morena,hgo,1,1,IXMIQUILPAN,20191106,,,,,,,,sesión instalación cámara diputados,,1
+64,201,101,SANDRA SIMEY,OLVERA BAUTISTA,hgo03p,1983,F,morena,morena,hgo,1,0,ACTOPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,202,601,CARINA,LOPEZ AYALA,hgo03s,,F,morena,,hgo,1,1,ACTOPAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,203,102,MARIA ISABEL,ALFARO MORALES,hgo04p,,F,morena,morena,hgo,1,0,TULANCINGO,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,203,102,MARIA ISABEL,ALFARO MORALES,hgo04p,1966,F,morena,morena,hgo,1,0,TULANCINGO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,204,602,MARIA GUADALUPE,LOREDO GONZALES,hgo04s,,F,morena,,hgo,1,1,TULANCINGO,,,,,,,,,sesión instalación cámara diputados,,0
-64,205,103,JULIO CESAR,ANGELES MENDOZA,hgo05p,,M,morena,morena,hgo,1,0,TULA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,205,103,JULIO CESAR,ANGELES MENDOZA,hgo05p,1971,M,morena,morena,hgo,1,0,TULA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,206,603,LUIS EDUARDO,DURAN GARCIA,hgo05s,,M,morena,,hgo,1,1,TULA,,,,,,,,,sesión instalación cámara diputados,,0
-64,207,104,LIDIA,GARCIA ANAYA,hgo06p,,F,morena,morena,hgo,1,0,PACHUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,207,104,LIDIA,GARCIA ANAYA,hgo06p,1957,F,morena,morena,hgo,1,0,PACHUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,208,604,MARIA DE LA LUZ,RUBIO GONZALEZ,hgo06s,,F,morena,,hgo,1,1,PACHUCA,,,,,,,,,sesión instalación cámara diputados,,0
-64,209,105,JANNET,TELLEZ INFANTE,hgo07p,,F,morena,morena,hgo,1,0,TEPEAPULCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,209,105,JANNET,TELLEZ INFANTE,hgo07p,1979,F,morena,morena,hgo,1,0,TEPEAPULCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,210,605,FLORA,CERVANTES REYES,hgo07s,,F,morena,,hgo,1,1,TEPEAPULCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,211,106,EDUARDO,RON RAMOS,jal01p,1975,M,mc,mc,jal,1,0,TEQUILA,20180829,,,,,,Ganaderia ,,sesión instalación cámara diputados,,1
 64,212,606,LUIS ENRIQUE,VARGAS DIAZ,jal01s,,M,mc,,jal,1,1,TEQUILA,,,,,,,,,sesión instalación cámara diputados,,0
@@ -251,61 +251,61 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,250,625,MARIA DEL REFUGIO,ALVARADO ROMO,jal20s,1984,F,mc,mc,jal,1,1,TONALA,20210302,,,,,,,,sesión instalación cámara diputados,,0
 64,251,126,RICARDO,AGUILAR CASTILLO,mex01p,1970,M,pri,pri,mex,1,0,JILOTEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,252,626,ROGELIO ENRIQUE,VALDEZ VALDEZ,mex01s,,M,pri,,mex,1,1,JILOTEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,253,127,DIONICIA,VAZQUEZ GARCIA,mex02p,,F,morena,pt,mex,1,0,SANTA MARIA TULTEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,253,127,DIONICIA,VAZQUEZ GARCIA,mex02p,1948,F,morena,pt,mex,1,0,SANTA MARIA TULTEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,254,627,ELENA LAURA,FLORES MARTINEZ,mex02s,,F,morena,,mex,1,1,SANTA MARIA TULTEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,255,128,MARIA TERESA,MARU MEJIA,mex03p,,F,pt,pt,mex,1,0,ATLACOMULCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,255,128,MARIA TERESA,MARU MEJIA,mex03p,1958,F,pt,pt,mex,1,0,ATLACOMULCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,256,628,MARIA DE LOURDES,RIOS GARCIA,mex03s,,F,pt,,mex,1,1,ATLACOMULCO,,,,,,,,,sesión instalación cámara diputados,,0
-64,257,129,NELLY MINERVA,CARRASCO GODINEZ,mex04p,,F,morena,morena,mex,1,0,NICOLAS ROMERO,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,257,129,NELLY MINERVA,CARRASCO GODINEZ,mex04p,1982,F,morena,morena,mex,1,0,NICOLAS ROMERO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,258,629,ROSARIO,CRUZ SALINAS,mex04s,,F,morena,,mex,1,1,NICOLAS ROMERO,,,,,,,,,sesión instalación cámara diputados,,0
-64,259,130,FRANCISCO,FAVELA PEÑUÑURI,mex05p,,M,pt,pt,mex,1,0,TEOTIHUACAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,259,130,FRANCISCO,FAVELA PEÑUÑURI,mex05p,1955,M,pt,pt,mex,1,0,TEOTIHUACAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,260,630,APOLINAR,ZUÑIGA QUIJADA,mex05s,,M,pt,,mex,1,1,TEOTIHUACAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,261,131,CAROLINA,GARCIA AGUILAR,mex06p,,F,pes,pes,mex,1,0,COACALCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,261,131,CAROLINA,GARCIA AGUILAR,mex06p,1976,F,pes,pes,mex,1,0,COACALCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,262,631,KARLA IVETTE,CALVA ALEMAN,mex06s,,F,pes,,mex,1,1,COACALCO,,,,,,,,,sesión instalación cámara diputados,,0
-64,263,132,XOCHITL NASHIELLY,ZAGAL RAMIREZ,mex07p,,F,pes,morena,mex,1,0,CUAUTITLAN IZCALLI,20180829,20200204,,,,,,,sesión instalación cámara diputados,,1
-64,264,632,LAURA MONICA,GUERRA NAVARRO,mex07s,,F,pes,morena,mex,1,1,CUAUTITLAN IZCALLI,20200205,,,,,,,,sesión instalación cámara diputados,,1
-64,265,133,GUSTAVO,CONTRERAS MONTES,mex08p,,M,morena,morena,mex,1,0,TULTITLAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,263,132,XOCHITL NASHIELLY,ZAGAL RAMIREZ,mex07p,1990,F,pes,morena,mex,1,0,CUAUTITLAN IZCALLI,20180829,20200204,,,,,,,sesión instalación cámara diputados,,1
+64,264,632,LAURA MONICA,GUERRA NAVARRO,mex07s,1964,F,pes,morena,mex,1,1,CUAUTITLAN IZCALLI,20200205,,,,,,,,sesión instalación cámara diputados,,1
+64,265,133,GUSTAVO,CONTRERAS MONTES,mex08p,1980,M,morena,morena,mex,1,0,TULTITLAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,266,633,GUILLERMO,DIAZ GONZALEZ FLORES,mex08s,,M,morena,,mex,1,1,TULTITLAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,267,134,EDUARDO,ZARZOSA SANCHEZ,mex09p,1973,M,pri,pri,mex,1,0,SAN FELIPE DEL PROGRESO,20180829,,,,,,,,sesión instalación cámara diputados,61-64,1
 64,268,634,JESUS WENCESLAO,RANGEL DE LA O,mex09s,,M,pri,,mex,1,1,SAN FELIPE DEL PROGRESO,,,,,,,,,sesión instalación cámara diputados,,0
-64,269,135,ALMA DELIA,NAVARRETE RIVERA,mex10p,,F,pes,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,269,135,ALMA DELIA,NAVARRETE RIVERA,mex10p,1972,F,pes,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,270,635,TERESA,ESCOBAR BRIONES,mex10s,,F,pes,,mex,1,1,ECATEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,271,136,MARIA EUGENIA,HERNANDEZ PEREZ,mex11p,,F,morena,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,271,136,MARIA EUGENIA,HERNANDEZ PEREZ,mex11p,1961,F,morena,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,272,636,NATALIA,BENITEZ TORRES,mex11s,,F,morena,,mex,1,1,ECATEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,273,137,FELIPE RAFAEL,ARVIZU DE LA LUZ,mex12p,,M,morena,morena,mex,1,0,IXTAPALUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,273,137,FELIPE RAFAEL,ARVIZU DE LA LUZ,mex12p,1974,M,morena,morena,mex,1,0,IXTAPALUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,274,637,PEDRO ANTONIO,VERA FLORES,mex12s,,M,morena,,mex,1,1,IXTAPALUCA,,,,,,,,,sesión instalación cámara diputados,,0
-64,275,138,MARIA ELIZABETH,DIAZ GARCIA,mex13p,,F,morena,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,275,138,MARIA ELIZABETH,DIAZ GARCIA,mex13p,1971,F,morena,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,276,638,GABRIELA,HERNANDEZ CRUZ,mex13s,,F,morena,,mex,1,1,ECATEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,277,139,CLAUDIA ANGELICA,DOMINGUEZ VAZQUEZ,mex14p,,F,morena,pt,mex,1,0,CD LOPEZ MATEOS,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,277,139,CLAUDIA ANGELICA,DOMINGUEZ VAZQUEZ,mex14p,1977,F,morena,pt,mex,1,0,CD LOPEZ MATEOS,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,278,639,KARLA PAOLA,PENICHE RODRIGUEZ,mex14s,,F,morena,,mex,1,1,CD LOPEZ MATEOS,,,,,,,,,sesión instalación cámara diputados,,0
-64,279,140,RAUL ERNESTO SANCHEZ,BARRALES ZAVALZA,mex15p,,M,pes,morena,mex,1,0,CD LOPEZ MATEOS,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,279,140,RAUL ERNESTO SANCHEZ,BARRALES ZAVALZA,mex15p,1971,M,pes,pt,mex,1,0,CD LOPEZ MATEOS,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,280,640,JOSE FRANCISCO,LARA HERNANDEZ,mex15s,,M,pes,,mex,1,1,CD LOPEZ MATEOS,,,,,,,,,sesión instalación cámara diputados,,0
-64,281,141,EMILIO,MANZANILLA TELLEZ,mex16p,,M,morena,pt,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,281,141,EMILIO,MANZANILLA TELLEZ,mex16p,1971,M,morena,pt,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,282,641,JOSE ANTONIO,GARCIA HERNANDEZ,mex16s,,M,morena,,mex,1,1,ECATEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,283,142,MARIA GUADALUPE,ROMAN AVILA,mex17p,,F,pt,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,283,142,MARIA GUADALUPE,ROMAN AVILA,mex17p,1973,F,pt,morena,mex,1,0,ECATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,284,642,KATIA,GONZALEZ HERNANDEZ,mex17s,,F,pt,,mex,1,1,ECATEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,285,143,CLAUDIA,REYES MONTIEL,mex18p,,F,pan,prd,mex,1,0,HUIXQUILUCAN,20180829,,,,,,,,sesión instalación cámara diputados,600-64,1
+64,285,143,CLAUDIA,REYES MONTIEL,mex18p,1974,F,pan,prd,mex,1,0,HUIXQUILUCAN,20180829,,,,,,,,sesión instalación cámara diputados,600-64,1
 64,286,643,MARIA GISELA ALEJANDRA,PARRA FLORES,mex18s,,F,pan,,mex,1,1,HUIXQUILUCAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,287,144,ULISES,MURGUIA SOTO,mex19p,,M,morena,morena,mex,1,0,TLALNEPANTLA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,287,144,ULISES,MURGUIA SOTO,mex19p,1963,M,morena,morena,mex,1,0,TLALNEPANTLA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,288,644,JOSE DANIEL ALFONSO,HERNANDEZ RAMIREZ,mex19s,,M,morena,,mex,1,1,TLALNEPANTLA,,,,,,,,,sesión instalación cámara diputados,,0
-64,289,145,JUAN PABLO,SANCHEZ RODRIGUEZ,mex20p,,M,morena,morena,mex,1,0,CD NEZAHUALCOYOTL,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,289,145,JUAN PABLO,SANCHEZ RODRIGUEZ,mex20p,1979,M,morena,morena,mex,1,0,CD NEZAHUALCOYOTL,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,290,645,LUIS MIGUEL,RODRIGUEZ HERNANDEZ,mex20s,,M,morena,,mex,1,1,CD NEZAHUALCOYOTL,,,,,,,,,sesión instalación cámara diputados,,0
-64,291,146,GRACIELA,SANCHEZ ORTIZ,mex21p,,F,pes,morena,mex,1,0,AMECAMECA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,291,146,GRACIELA,SANCHEZ ORTIZ,mex21p,1959,F,pes,morena,mex,1,0,AMECAMECA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,292,646,BRENDA ANAHI,GARCIA DIAZ,mex21s,,F,pes,,mex,1,1,AMECAMECA,,,,,,,,,sesión instalación cámara diputados,,0
-64,293,147,MARIA TERESA REBECA ROSA,MORA RIOS,mex22p,,F,pt,morena,mex,1,0,NAUCALPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,293,147,MARIA TERESA REBECA ROSA,MORA RIOS,mex22p,1952,F,pt,morena,mex,1,0,NAUCALPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,294,647,JUANA BERENICE,MONTOYA MARQUEZ,mex22s,,F,pt,,mex,1,1,NAUCALPAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,295,148,DAVID,ORIHUELA NAVA,mex23p,,M,morena,morena,mex,1,0,LERMA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,295,148,DAVID,ORIHUELA NAVA,mex23p,1985,M,morena,morena,mex,1,0,LERMA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,296,648,NIVARDO,TORRES SILES,mex23s,,M,morena,,mex,1,1,LERMA,,,,,,,,,sesión instalación cámara diputados,,0
-64,297,149,MARIA DE LOS ANGELES,HUERTA DEL RIO,mex24p,,F,morena,morena,mex,1,0,NAUCALPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,297,149,MARIA DE LOS ANGELES,HUERTA DEL RIO,mex24p,1962,F,morena,morena,mex,1,0,NAUCALPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,298,649,KORINA ANGELICA,ESQUINCA GONZALEZ,mex24s,,F,morena,,mex,1,1,NAUCALPAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,299,150,DELFINO,LOPEZ APARICIO,mex25p,,M,morena,morena,mex,1,0,CHIMALHUACAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,299,150,DELFINO,LOPEZ APARICIO,mex25p,1960,M,morena,morena,mex,1,0,CHIMALHUACAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,300,650,SILVESTRE,LOPEZ CORNEJO,mex25s,,M,morena,,mex,1,1,CHIMALHUACAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,301,151,ESMERALDA DE LOS ANGELES,MORENO MEDINA,mex26p,,F,morena,pes,mex,1,0,TOLUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,301,151,ESMERALDA DE LOS ANGELES,MORENO MEDINA,mex26p,1986,F,morena,pes,mex,1,0,TOLUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,302,651,MARIA DEL PILAR,TERRON RAMIREZ,mex26s,,F,morena,,mex,1,1,TOLUCA,,,,,,,,,sesión instalación cámara diputados,,0
 64,303,152,OSCAR,GONZALEZ YAÑEZ,mex27p,1964,M,morena,pt,mex,1,0,METEPEC,20180829,,,,,,Transparencia y Anticorrupcion ,,sesión instalación cámara diputados,56-59-61-64,1
 64,304,652,LUIS OSVALDO,LOPEZ DOTOR,mex27s,,M,morena,,mex,1,1,METEPEC,,,,,,,,,sesión instalación cámara diputados,,0
-64,305,153,ROBERTO ANGEL,DOMINGUEZ RODRIGUEZ,mex28p,,M,pt,morena,mex,1,0,ZUMPANGO,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,305,153,ROBERTO ANGEL,DOMINGUEZ RODRIGUEZ,mex28p,1980,M,pt,morena,mex,1,0,ZUMPANGO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,306,653,PEDRO EDUARDO,PINEDA DELGADO,mex28s,,M,pt,,mex,1,1,ZUMPANGO,,,,,,,,,sesión instalación cámara diputados,,0
-64,307,154,MARTHA,ROBLES ORTIZ,mex29p,,F,morena,morena,mex,1,0,CD NEZAHUALCOYOTL,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,307,154,MARTHA,ROBLES ORTIZ,mex29p,1962,F,morena,morena,mex,1,0,CD NEZAHUALCOYOTL,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,308,654,GABRIELA GUADALUPE,MARTINEZ MALDONADO,mex29s,,F,morena,,mex,1,1,CD NEZAHUALCOYOTL,,,,,,,,,sesión instalación cámara diputados,,0
 64,309,155,CESAR AGUSTIN,HERNANDEZ PEREZ,mex30p,,M,morena,morena,mex,1,0,CHIMALHUACAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,310,655,JUAN GABRIEL,MENDEZ GONZALEZ,mex30s,,M,morena,,mex,1,1,CHIMALHUACAN,,,,,,,,,sesión instalación cámara diputados,,0
@@ -315,14 +315,14 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,314,657,JAIME GONZALO,VARGAS ALVAREZ,mex32s,,M,morena,,mex,1,1,VALLE DE CHALCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,315,158,VICENTE ALBERTO,ONOFRE VAZQUEZ,mex33p,,M,pes,pes,mex,1,0,CHALCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,316,658,GABRIEL,TORRES DUEÑAS,mex33s,,M,pes,,mex,1,1,CHALCO,,,,,,,,,sesión instalación cámara diputados,,0
-64,317,159,MIROSLAVA,CARRILLO MARTINEZ,mex34p,,F,morena,morena,mex,1,0,TOLUCA,20180829,20191217,,,,,Puntos Constitucionales ,dejo prescom 20200206,sesión instalación cámara diputados,,1
-64,318,659,MARIA GUADALUPE,DIAZ AVILEZ,mex34s,,F,morena,,mex,1,1,TOLUCA,20191218,,,,,,,,sesión instalación cámara diputados,,0
+64,317,159,MIROSLAVA,CARRILLO MARTINEZ,mex34p,1973,F,morena,morena,mex,1,0,TOLUCA,20180829,20191217,,,,,Puntos Constitucionales ,dejo prescom 20200206,sesión instalación cámara diputados,,1
+64,318,659,MARIA GUADALUPE,DIAZ AVILEZ,mex34s,1978,F,morena,,mex,1,1,TOLUCA,20191218,,,,,,,,sesión instalación cámara diputados,,0
 64,319,160,ARTURO ROBERTO,HERNANDEZ TAPIA,mex35p,,M,pt,morena,mex,1,0,TENANCINGO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,320,660,FELIPE,VIDAL GOMEZ,mex35s,,M,pt,,mex,1,1,TENANCINGO,,,,,,,,,sesión instalación cámara diputados,,0
 64,321,161,CRUZ JUVENAL,ROA SANCHEZ,mex36p,,M,pri,pri,mex,1,0,TEJUPILCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,322,661,RIGOBERTO,LOPEZ RIVERA,mex36s,,M,pri,,mex,1,1,TEJUPILCO,,,,,,,,,sesión instalación cámara diputados,,0
-64,323,162,PEDRO MARIO,ZENTENO SANTAELLA,mex37p,,M,morena,morena,mex,1,0,CUAUTITLAN,20180829,20181204,,,,,,,sesión instalación cámara diputados,,1
-64,324,662,EDGAR EDUARDO,ARENAS MADRIGAL,mex37s,,M,morena,morena,mex,1,1,CUAUTITLAN,20181206,,,,,,,,sesión instalación cámara diputados,,1
+64,323,162,PEDRO MARIO,ZENTENO SANTAELLA,mex37p,1960,M,morena,morena,mex,1,0,CUAUTITLAN,20180829,20181204,,,,,,,sesión instalación cámara diputados,,1
+64,324,662,EDGAR EDUARDO,ARENAS MADRIGAL,mex37s,1963,M,morena,morena,mex,1,1,CUAUTITLAN,20181206,,,,,,,,sesión instalación cámara diputados,,1
 64,325,163,KARLA YURITZI,ALMAZAN BURGOS,mex38p,,F,morena,morena,mex,1,0,TEXCOCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,326,663,MARIA IMELDA AGUSTINA,YESCAS RUIZ,mex38s,,F,morena,,mex,1,1,TEXCOCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,327,164,JOSE LUIS,MONTALVO LUNA,mex39p,,M,pt,pt,mex,1,0,LOS REYES ACAQUILPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -423,8 +423,8 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,422,711,ESTHER,MARTINEZ ROMANO,pue03s,,F,pt,,pue,1,1,TEZIUTLAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,423,212,INES,PARRA JUAREZ,pue04p,,F,morena,morena,pue,1,0,AJALPAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,424,712,MARIA ISABEL,TORRES BRAVO,pue04s,,F,morena,,pue,1,1,AJALPAN,,,,,,,,,sesión instalación cámara diputados,,0
-64,425,213,LIZETH,SANCHEZ GARCIA,pue05p,,F,pt,pt,pue,1,0,SAN MARTIN TEXMELUCAN,20180829,20190625,,,,,,,sesión instalación cámara diputados,,1
-64,426,713,MARTHA,HUERTA HERNANDEZ,pue05s,,F,pt,pt,pue,1,1,SAN MARTIN TEXMELUCAN,20190626,,,,,,,,sesión instalación cámara diputados,,1
+64,425,213,LIZETH,SANCHEZ GARCIA,pue05p,1976,F,pt,pt,pue,1,0,SAN MARTIN TEXMELUCAN,20180829,20190625,,,,,,,sesión instalación cámara diputados,,1
+64,426,713,MARTHA,HUERTA HERNANDEZ,pue05s,1974,F,pt,pt,pue,1,1,SAN MARTIN TEXMELUCAN,20190626,,,,,,,,sesión instalación cámara diputados,,1
 64,427,214,ALEJANDRO,CARVAJAL HIDALGO,pue06p,,M,pt,morena,pue,1,0,PUEBLA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,428,714,IZTAC,HERNANDEZ QUITERIO,pue06s,,M,pt,,pue,1,1,PUEBLA,,,,,,,,,sesión instalación cámara diputados,,0
 64,429,215,EDGAR,GUZMAN VALDEZ,pue07p,,M,pt,morena,pue,1,0,TEPEACA,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -432,13 +432,13 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,431,216,JULIETA KRISTAL,VENCES VALENCIA,pue08p,,F,morena,morena,pue,1,0,CD SERDAN,20180829,,,,,,Asuntos Migratorios ,,sesión instalación cámara diputados,,1
 64,432,716,MARISOL,PRIETO AVENDAÑO,pue08s,,F,morena,,pue,1,1,CD SERDAN,,,,,,,,,sesión instalación cámara diputados,,0
 64,433,217,JOSE GUILLERMO,ARECHIGA SANTAMARIA,pue09p,1958,M,pes,morena,pue,1,0,PUEBLA,20180829,20190824,,,,,,,sesión instalación cámara diputados,59-64,1
-64,434,717,ALFONSO,PEREZ ARROYO,pue09s,,M,pes,morena,pue,1,1,PUEBLA,20190825,,,,,,,,sesión instalación cámara diputados,,1
+64,434,717,ALFONSO,PEREZ ARROYO,pue09s,1948,M,pes,morena,pue,1,1,PUEBLA,20190825,,,,,,,,sesión instalación cámara diputados,,1
 64,435,218,NAYELI,SALVATORI BOJALIL,pue10p,,F,pes,pes,pue,1,0,CHOLULA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,436,718,ESPERANZA ESTELA,CHILACA MUÑOZ,pue10s,,F,pes,,pue,1,1,CHOLULA,,,,,,,,,sesión instalación cámara diputados,,0
 64,437,219,BENJAMIN SAUL,HUERTA CORONA,pue11p,,M,morena,morena,pue,1,0,PUEBLA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,438,719,MARIO ENRIQUE,AGUILAR CALDELAS,pue11s,,M,morena,,pue,1,1,PUEBLA,,,,,,,,,sesión instalación cámara diputados,,0
-64,439,220,FERNANDO LUIS,MANZANILLA PRIETO,pue12p,,M,pes,pes,pue,1,0,PUEBLA,20180829,20190205,,,,,,,sesión instalación cámara diputados,,1
-64,440,720,EUDOXIO,MORALES FLORES,pue12s,,M,pes,pes,pue,1,1,PUEBLA,20190206,,,,,,,,sesión instalación cámara diputados,,1
+64,439,220,FERNANDO LUIS,MANZANILLA PRIETO,pue12p,1968,M,pes,pes,pue,1,0,PUEBLA,20180829,20190205,20200201,,,,,,sesión instalación cámara diputados,,1
+64,440,720,EUDOXIO,MORALES FLORES,pue12s,1960,M,pes,pes,pue,1,1,PUEBLA,20190206,20200131,,,,,,,sesión instalación cámara diputados,,1
 64,441,221,HECTOR GUILLERMO DE JESUS,JIMENEZ Y MENESES,pue13p,,M,morena,morena,pue,1,0,ATLIXCO,20180829,,,,,,,entrego canastas verduras con su nombre junio 2020,sesión instalación cámara diputados,,1
 64,442,721,JULIAN,PEÑA HIDALGO,pue13s,,M,morena,,pue,1,1,ATLIXCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,443,222,NELLY,MACEDA CARRERA,pue14p,,F,morena,morena,pue,1,0,ACATLAN,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -477,10 +477,10 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,476,738,LETICIA,MARTINEZ GOMEZ,san06s,,F,prd,prd,san,1,1,SAN LUIS POTOSI,,,,,,,,,sesión instalación cámara diputados,,0
 64,477,239,MARCELINO,RIVERA HERNANDEZ,san07p,1984,M,pan,pan,san,1,0,TAMAZUNCHALE,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,478,739,JUAN MARCOS,GARCIA HERNANDEZ,san07s,,M,pan,,san,1,1,TAMAZUNCHALE,,,,,,,,,sesión instalación cámara diputados,,0
-64,479,240,MAXIMILIANO,RUIZ ARIAS,sin01p,,M,pt,morena,sin,1,0,MAZATLAN,20180829,20191127,,,,,Pesca ,,sesión instalación cámara diputados,,1
-64,480,740,JOSE MARIO,OSUNA MEDINA,sin01s,,M,pt,pt,sin,1,1,MAZATLAN,20191128,,,,,,,,sesión instalación cámara diputados,,1
-64,481,241,JOSE JAIME,MONTES SALAS,sin02p,,M,morena,morena,sin,1,0,LOS MOCHIS,20180829,20181203,,,,,,,sesión instalación cámara diputados,,1
-64,482,741,CARLOS IVAN,AYALA BOBADILLA,sin02s,,M,morena,morena,sin,1,1,LOS MOCHIS,20181204,,,,,,,,sesión instalación cámara diputados,,1
+64,479,240,MAXIMILIANO,RUIZ ARIAS,sin01p,1946,M,pt,morena,sin,1,0,MAZATLAN,20180829,20191125,,,,,Pesca ,murio 25nov2019,sesión instalación cámara diputados,,1
+64,480,740,JOSE MARIO,OSUNA MEDINA,sin01s,1951,M,pt,pt,sin,1,1,MAZATLAN,20191128,,,,,,,,sesión instalación cámara diputados,,1
+64,481,241,JOSE JAIME,MONTES SALAS,sin02p,1954,M,morena,morena,sin,1,0,LOS MOCHIS,20180829,20181203,,,,,,,sesión instalación cámara diputados,,1
+64,482,741,CARLOS IVAN,AYALA BOBADILLA,sin02s,1953,M,morena,morena,sin,1,1,LOS MOCHIS,20181204,,,,,,,,sesión instalación cámara diputados,,1
 64,483,242,JESUS FERNANDO,GARCIA HERNANDEZ,sin03p,,M,pt,morena,sin,1,0,GUAMUCHIL,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,484,742,WILLIAN DEMIREL,SALAZAR SERRANO,sin03s,,M,pt,,sin,1,1,GUAMUCHIL,,,,,,,,,sesión instalación cámara diputados,,0
 64,485,243,CASIMIRO,ZAMORA VALDEZ,sin04p,,M,pt,morena,sin,1,0,GUASAVE,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -494,7 +494,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,493,247,MANUEL DE JESUS,BALDENEBRO ARREDONDO,son01p,,M,pes,pes,son,1,0,SAN LUIS RIO COLORADO,20180829,,,,,,Trabajo y Prevision Social ,,sesión instalación cámara diputados,,1
 64,494,747,ABRAHAM DAVID,MIER NOGALES,son01s,,M,pes,,son,1,1,SAN LUIS RIO COLORADO,,,,,,,,,sesión instalación cámara diputados,,0
 64,495,248,ANA GABRIELA,GUEVARA ESPINOZA,son02p,1977,F,morena,pt,son,1,0,NOGALES,20180829,20181204,,,,,,,sesión instalación cámara diputados,sen-64,1
-64,496,748,ANA LAURA,BERNAL CAMARENA,son02s,,F,morena,pt,son,1,1,NOGALES,20181206,,,,,,,,sesión instalación cámara diputados,,1
+64,496,748,ANA LAURA,BERNAL CAMARENA,son02s,1978,F,morena,pt,son,1,1,NOGALES,20181206,,,,,,,,sesión instalación cámara diputados,,1
 64,497,249,LORENIA IVETH,VALLES SAMPEDRO,son03p,1976,F,pes,morena,son,1,0,HERMOSILLO,20180829,,,,,,,,sesión instalación cámara diputados,62-64,1
 64,498,749,MARINA,GOMEZ SANCHEZ,son03s,,F,pes,,son,1,1,HERMOSILLO,,,,,,,,,sesión instalación cámara diputados,,0
 64,499,250,HERIBERTO MARCELO,AGUILAR CASTILLO,son04p,1975,M,morena,morena,son,1,0,GUAYMAS,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -540,7 +540,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,539,270,RUBEN,TERAN AGUILA,tla02p,,M,morena,morena,tla,1,0,TLAXCALA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,540,770,LUIS ANTONIO,HERRERA PEREZ,tla02s,,M,morena,,tla,1,1,TLAXCALA,,,,,,,,,sesión instalación cámara diputados,,0
 64,541,271,LORENA,CUELLAR CISNEROS,tla03p,1962,F,pes,morena,tla,1,0,ZACATELCO,20180829,20181201,,,,,,"superdelegada tlax, cand gober morena 2021",sesión instalación cámara diputados,sen-64,1
-64,542,771,CLAUDIA,PEREZ RODRIGUEZ,tla03s,,F,pes,morena,tla,1,1,ZACATELCO,20181204,,,,,,,,sesión instalación cámara diputados,,1
+64,542,771,CLAUDIA,PEREZ RODRIGUEZ,tla03s,1974,F,pes,morena,tla,1,1,ZACATELCO,20181204,,,,,,,,sesión instalación cámara diputados,,1
 64,543,272,RICARDO,GARCIA ESCALANTE,ver01p,,M,pan,pan,ver,1,0,PANUCO,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,544,772,ALVARO,SOTO MARTINEZ,ver01s,,M,pan,,ver,1,1,PANUCO,,,,,,,,,sesión instalación cámara diputados,,0
 64,545,273,JESUS,GUZMAN AVILES,ver02p,,M,pan,pan,ver,1,0,TANTOYUCA,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -556,7 +556,7 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,555,278,RODRIGO,CALDERON SALAS,ver07p,1955,M,pt,morena,ver,1,0,MARTINEZ DE LA TORRE,20180829,,,,,,,birth approx,sesión instalación cámara diputados,,1
 64,556,778,ENRIQUE,CAPETILLO GONZALEZ,ver07s,,M,pt,,ver,1,1,MARTINEZ DE LA TORRE,,,,,,,,,sesión instalación cámara diputados,,0
 64,557,279,DANIELA GUADALUPE,GRIEGO CEBALLOS,ver08p,1970,F,pes,morena,ver,1,0,XALAPA,,,,,,,,birth approx,sesión instalación cámara diputados,,0
-64,558,779,CLAUDIA,TELLO ESPINOSA,ver08s,,F,pes,morena,ver,1,1,XALAPA,20180829,,,,,,,,sesión instalación cámara diputados,,1
+64,558,779,CLAUDIA,TELLO ESPINOSA,ver08s,1964,F,pes,morena,ver,1,1,XALAPA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,559,280,CARMEN,MORA GARCIA,ver09p,,F,pes,morena,ver,1,0,COATEPEC,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,560,780,MARIA LAURA,GARCIA GOMEZ,ver09s,,F,pes,,ver,1,1,COATEPEC,,,,,,,,,sesión instalación cámara diputados,,0
 64,561,281,RAFAEL,HERNANDEZ VILLALPANDO,ver10p,,M,morena,morena,ver,1,0,XALAPA,20180829,,,,,,,,sesión instalación cámara diputados,,1
@@ -585,8 +585,8 @@ leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,
 64,584,792,SERGIO ENRIQUE,CHALE CAUICH,yuc01s,,M,pvem,,yuc,1,1,VALLADOLID,,,,,,,,,sesión instalación cámara diputados,,0
 64,585,293,MARIA ESTER,ALONZO MORALES,yuc02p,1959,F,panal,pri,yuc,1,0,PROGRESO,20180829,,,,,,,panal perdió registro,sesión instalación cámara diputados,61-64,1
 64,586,793,GUADALUPE ELIZABETH,ZAPATA GONZALEZ,yuc02s,,F,panal,pri,yuc,1,1,PROGRESO,,,,,,,,panal perdió registro,sesión instalación cámara diputados,,0
-64,587,294,ROGER HERVE,AGUILAR SALAZAR,yuc03p,,M,morena,morena,yuc,1,0,MERIDA,,,,,,,,TEPJF revocó triunfo Frente 28jul18-Falleció 5sep2018 por complicaciones de salud,sesión instalación cámara diputados,no,0
-64,588,794,LIMBERT IVAN DE JESUS,INTERIAN GALLEGOS,yuc03s,,M,morena,morena,yuc,1,1,MERIDA,20180913,,,,,,,,sesión instalación cámara diputados,,1
+64,587,294,ROGER HERVE,AGUILAR SALAZAR,yuc03p,1938,M,morena,morena,yuc,1,0,MERIDA,,,,,,,,TEPJF revocó triunfo Frente 28jul18-Falleció 5sep2018 por complicaciones de salud,sesión instalación cámara diputados,no,0
+64,588,794,LIMBERT IVAN DE JESUS,INTERIAN GALLEGOS,yuc03s,1956,M,morena,morena,yuc,1,1,MERIDA,20180913,,,,,,,,sesión instalación cámara diputados,,1
 64,589,295,JOSE ELIAS,LIXA ABIMERHI,yuc04p,,M,pan,pan,yuc,1,0,MERIDA,20180829,,,,,,,,sesión instalación cámara diputados,,1
 64,590,795,MARIO ENMANUEL,ARAGON CASTILLO,yuc04s,,M,pan,,yuc,1,1,MERIDA,,,,,,,,,sesión instalación cámara diputados,,0
 64,591,296,JUAN JOSE,CANUL PEREZ,yuc05p,,M,pri,pri,yuc,1,0,TICUL,20180829,,,,,,,,sesión instalación cámara diputados,,1
