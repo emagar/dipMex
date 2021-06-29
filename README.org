@@ -1,6 +1,6 @@
 #+TITLE: Roll call votes data for the Mexican Chamber of Deputies
 #+AUTHOR: Eric Magar
-Last revision: 2020-06-09
+Last revision: 2021-06-29
 
 # Export to md: M-x org-md-export-to-markdown
 
@@ -56,7 +56,7 @@ The objects in each R file (zipped together in text-only files) are the followin
 
 -dipdat: individual federal deputy information (nom=name, id=district, part=party, 
  edo=state, edon=state number, dsmd=indicates single-member district deputies, 
- dis=district number, tipo=propietario or suplente)
+ dis=district number, tipo=propietario or suplente, dcarta=dummy for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [[http://eleccionconsecutiva.diputados.gob.mx/contendientes][this]])
 
 -votdat: vote information (favor=ayes, contra=nays, absten=abstained,
  quorum=present but not voting, ausen=no show, title=motion considered, 
@@ -69,4 +69,4 @@ The objects in each R file (zipped together in text-only files) are the followin
  *Gaceta Parlamentaria*, as discussed by Cantu, Desposato, and Magar 2014.
 
 * Acknowledgements
-Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. I am grateful to Ana Lucía Enríquez Araiza and Vidal Mendoza Tinoco for research assistance. 
+Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. I am grateful to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. Eric Magar Meurs is responsible for mistakes and shortcomings in the data. PLease report any error to emagar at gmail dot com.  

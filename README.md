@@ -1,17 +1,17 @@
 
 # Table of Contents
 
-1.  [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#org65e1ec2)
-2.  [License](#org57e8332)
-3.  [Citation in BibTex format](#orgf8196e6)
-4.  [Files included](#orge9e41c4)
-5.  [Codebook](#orgabd82c9)
-6.  [Acknowledgements](#orgdcd9dd8)
+1.  [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#orged1219a)
+2.  [License](#orgdb6c313)
+3.  [Citation in BibTex format](#orgd20f71e)
+4.  [Files included](#orgde708c1)
+5.  [Codebook](#org5419188)
+6.  [Acknowledgements](#org644f7a6)
 
-Last revision: 2020-06-09
+Last revision: 2021-06-29
 
 
-<a id="org65e1ec2"></a>
+<a id="orged1219a"></a>
 
 # Description of *Roll call votes data for the Mexican Chamber of Deputies* repository
 
@@ -24,14 +24,14 @@ The repository contains roll call data for recent Cámaras de Diputados of the M
 Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (`code/getweb/`); databases preparation from raw data (`code/rcPrep`); and descriptive analysis and ideal point estimation (`code/rcAnalysis/`). Raw data is in `data/fromWeb/` directory. ****If interested in clean roll call votes only, simply copy the contents of the `data/votesForWeb/` subdirectory****. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (<http://cran.r-project.org/>) and csv formats. 
 
 
-<a id="org57e8332"></a>
+<a id="orgdb6c313"></a>
 
 # License
 
 This repository in under the MIT License, see <http://opensource.org/licenses/MIT>. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
 
 
-<a id="orgf8196e6"></a>
+<a id="orgd20f71e"></a>
 
 # Citation in BibTex format
 
@@ -47,7 +47,7 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
     }
 
 
-<a id="orge9e41c4"></a>
+<a id="orgde708c1"></a>
 
 # Files included
 
@@ -72,7 +72,7 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 -   (Under construction)
 
 
-<a id="orgabd82c9"></a>
+<a id="org5419188"></a>
 
 # Codebook
 
@@ -80,7 +80,7 @@ The objects in each R file (zipped together in text-only files) are the followin
 
 -dipdat: individual federal deputy information (nom=name, id=district, part=party, 
  edo=state, edon=state number, dsmd=indicates single-member district deputies, 
- dis=district number, tipo=propietario or suplente)
+ dis=district number, tipo=propietario or suplente, dcarta=dummy for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [this](http://eleccionconsecutiva.diputados.gob.mx/contendientes))
 
 -votdat: vote information (favor=ayes, contra=nays, absten=abstained,
  quorum=present but not voting, ausen=no show, title=motion considered, 
@@ -93,9 +93,9 @@ The objects in each R file (zipped together in text-only files) are the followin
  **Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
 
 
-<a id="orgdcd9dd8"></a>
+<a id="org644f7a6"></a>
 
 # Acknowledgements
 
-Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. I am grateful to Ana Lucía Enríquez Araiza and Vidal Mendoza Tinoco for research assistance. 
+Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. I am grateful to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. Eric Magar Meurs is responsible for mistakes and shortcomings in the data. PLease report any error to emagar at gmail dot com.  
 
