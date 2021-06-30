@@ -12,10 +12,8 @@ Last revision: 2021-06-29
 The repository contains roll call data for recent Cámaras de Diputados of the Mexican Congress. It also includes data on the deputies present in each. Data has been compiled primarily from the Cámara's web page at [[http://www.diputados.gob.mx/]], with information from other sources and the press.  
 
 Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (~code/getweb/~); databases preparation from raw data (~code/rcPrep~); and descriptive analysis and ideal point estimation (~code/rcAnalysis/~). Raw data is in ~data/fromWeb/~ directory. **If interested in clean roll call votes only, simply copy the contents of the ~data/votesForWeb/~ subdirectory**. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (http://cran.r-project.org/) and csv formats. 
-
 * License
 This repository in under the MIT License, see http://opensource.org/licenses/MIT. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
-
 * Citation in BibTex format
 #+BEGIN_SRC <TeX>
 @article{cantuDesposatoMagar2014,
@@ -29,7 +27,6 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
         url = {http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/18/564}
 }
 #+END_SRC
-
 * Files included
 - ~data/diputados/dip*.csv~ = comma-separated vote for all diputados elected to one term of office (/Legislatura/). The numeral identifies the term in question (eg. ~dip58.csv~ are 58th Legislatura members). *Columns include the following data*:
   + ~pila~ = member's first and middle names.
@@ -50,23 +47,21 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
   + ~repite~ = members present in other terms: eg. 58-62 would indicate member present in 58th and 62nd Legislaturas; but 580-62 would indicate that member was elected to the same but never took the oath of office to the 58th Legislatura.
   + ~doath~ = dummy equal 1 for members who took the oath of office, 0 otherwise. 
 - (Under construction)
-
 * Codebook
 The objects in each R file (zipped together in text-only files) are the following:
 
 -dipdat: individual federal deputy information (nom=name, id=district, part=party, 
  edo=state, edon=state number, dsmd=indicates single-member district deputies, 
- dis=district number, tipo=propietario or suplente, dcarta=dummy for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [[http://eleccionconsecutiva.diputados.gob.mx/contendientes][this]])
+ dis=district number, tipo=propietario or suplente, dcarta=dummy equal 1 for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [[http://eleccionconsecutiva.diputados.gob.mx/contendientes][this]]), dreran=dummy equal 1 for members renominated, dreelected=dummy equal 1 for members who reelected.
 
 -votdat: vote information (favor=ayes, contra=nays, absten=abstained,
  quorum=present but not voting, ausen=no show, title=motion considered, 
- leg=legislature, yr-mo-dy=vote's date)
+ leg=legislature, yr-mo-dy=vote's date).
 
 -rc: roll call vote information (0=was not chamber member, 1=aye,
- 2=nay, 3=abstained, 4=present but did not vote, 5=no show)
+ 2=nay, 3=abstained, 4=present but did not vote, 5=no show).
 
 -dgaceta: indicates whether (1) or not (0) the vote was also reported by the
  *Gaceta Parlamentaria*, as discussed by Cantu, Desposato, and Magar 2014.
-
 * Acknowledgements
 Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. I am grateful to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. Eric Magar Meurs is responsible for mistakes and shortcomings in the data. PLease report any error to emagar at gmail dot com.  
