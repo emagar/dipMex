@@ -1,4 +1,4 @@
-leg,ord,n,pila,patmat,id,birth,gen,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in2,out2,in3,lider,prescom,nota,fuente,repite,doath
+leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in2,out2,in3,lider,prescom,nota,fuente,repite,doath
 62,1,1,JOSE PILAR,MORENO MONTOYA,ags01p,1959,M,,pri,ags,1,0,JESUS MARIA ,20120829,,,,,,,^(?=.*[J.]*)(?=.*Pilar)(?=.*Moreno)(?=.*Montoya).*$,,,1
 62,2,501,LAURA PATRICIA,ROMO CASTORENA,ags01s,,F,,pri,ags,1,1,JESUS MARIA ,,,,,,,,,,590-620,0
 62,3,2,MARIA TERESA,JIMENEZ ESQUIVEL,ags02p,1984,F,,pan,ags,1,0,AGUASCALIENTES ,20120829,,,,,,,,,,1

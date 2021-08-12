@@ -1,17 +1,17 @@
 
 # Table of Contents
 
-1.  [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#orgb0f2f90)
-2.  [License](#org5416f52)
-3.  [Citation in BibTex format](#org8328fd6)
-4.  [Files included](#orgc79337e)
-5.  [Codebook](#org9d5a7c3)
-6.  [Acknowledgements](#org448d2f5)
+1.  [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#org3b226f4)
+2.  [License](#orgcaa277b)
+3.  [Citation in BibTex format](#orgaa22077)
+4.  [Files included](#org9e6b539)
+5.  [Codebook](#org96e5b0e)
+6.  [Acknowledgements](#orgfc3a0a6)
 
 Last revision: 2021-06-29
 
 
-<a id="orgb0f2f90"></a>
+<a id="org3b226f4"></a>
 
 # Description of *Roll call votes data for the Mexican Chamber of Deputies* repository
 
@@ -24,14 +24,14 @@ The repository contains roll call data for recent Cámaras de Diputados of the M
 Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (`code/getweb/`); databases preparation from raw data (`code/rcPrep`); and descriptive analysis and ideal point estimation (`code/rcAnalysis/`). Raw data is in `data/fromWeb/` directory. ****If interested in clean roll call votes only, simply copy the contents of the `data/votesForWeb/` subdirectory****. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (<http://cran.r-project.org/>) and csv formats. 
 
 
-<a id="org5416f52"></a>
+<a id="orgcaa277b"></a>
 
 # License
 
 This repository in under the MIT License, see <http://opensource.org/licenses/MIT>. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
 
 
-<a id="org8328fd6"></a>
+<a id="orgaa22077"></a>
 
 # Citation in BibTex format
 
@@ -47,7 +47,7 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
     }
 
 
-<a id="orgc79337e"></a>
+<a id="org9e6b539"></a>
 
 # Files included
 
@@ -72,13 +72,13 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 -   (Under construction)
 
 
-<a id="org9d5a7c3"></a>
+<a id="org96e5b0e"></a>
 
 # Codebook
 
 The objects in each R file (zipped together in text-only files) are the following:
 
--dipdat: individual federal deputy information (nom=name, id=district, part=party, 
+-dipdat: individual federal deputy information (nom=first name, patmat=last names (patronym and matronym), fm=gender, id=district, part=party, 
  edo=state, edon=state number, dsmd=indicates single-member district deputies, 
  dis=district number, tipo=propietario or suplente, dcarta=dummy equal 1 for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [this](http://eleccionconsecutiva.diputados.gob.mx/contendientes)), dreran=dummy equal 1 for members renominated, dreelected=dummy equal 1 for members who reelected.
 
@@ -93,9 +93,9 @@ The objects in each R file (zipped together in text-only files) are the followin
  **Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
 
 
-<a id="org448d2f5"></a>
+<a id="orgfc3a0a6"></a>
 
 # Acknowledgements
 
-Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. He is responsible for mistakes and shortcomings in the data. I am grateful to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. Eric Magar Meurs is responsible for mistakes and shortcomings in the data. PLease report any error to emagar at gmail dot com.  
+Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. I am grateful to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. Eric Magar Meurs is responsible for mistakes and shortcomings in the data. Please report any error to emagar at gmail dot com.  
 
