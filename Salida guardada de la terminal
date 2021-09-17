@@ -1,0 +1,178 @@
+Last login: Mon May 24 00:47:14 on console
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Air-de-Daniela:~ danielaguzman$ cd Documentos
+-bash: cd: Documentos: No such file or directory
+MacBook-Air-de-Daniela:~ danielaguzman$ cd Documents/magar
+MacBook-Air-de-Daniela:magar danielaguzman$ cd dipmex
+MacBook-Air-de-Daniela:dipmex danielaguzman$ ls
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git init
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/danielaguzman/Documents/magar/dipmex/.git/
+MacBook-Air-de-Daniela:dipmex danielaguzman$ ls
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git remote add origin https://github.com/dguzmanl1/dipMex.git
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git remote
+origin
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git remote -l
+error: unknown switch `l'
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git remote -h
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git remote -v
+origin	https://github.com/dguzmanl1/dipMex.git (fetch)
+origin	https://github.com/dguzmanl1/dipMex.git (push)
+MacBook-Air-de-Daniela:dipmex danielaguzman$ git pull origin master
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+remote: Enumerating objects: 7115, done.
+remote: Counting objects: 100% (390/390), done.
+remote: Compressing objects: 100% (255/255), done.
+remote: Total 7115 (delta 289), reused 229 (delta 134), pack-reused 6725
+Receiving objects: 100% (7115/7115), 52.02 MiB | 1.86 MiB/s, done.
+Resolving deltas: 100% (5782/5782), done.
+From https://github.com/dguzmanl1/dipMex
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+Updating files: 100% (8904/8904), done.
+MacBook-Air-de-Daniela:dipmex danielaguzman$ ls
+LICENSE		README.org	data
+README.md	code		howto.txt
+MacBook-Air-de-Daniela:dipmex danielaguzman$ cd data
+MacBook-Air-de-Daniela:data danielaguzman$ ls
+diputados			infosilFilenames62.RData
+fromWeb				votesForWeb
+infosilFilenames60.RData	votosPapelPublico.xls
+infosilFilenames61.RData
+MacBook-Air-de-Daniela:data danielaguzman$ cd diputados
+MacBook-Air-de-Daniela:diputados danielaguzman$ ls
+acuerdosIFEetc	dip58.csv	dip61.csv	dip64.csv
+cvs		dip59.csv	dip62.csv	licencias
+dip57.csv	dip60.csv	dip63.csv
+MacBook-Air-de-Daniela:diputados danielaguzman$ dip64.csv
+-bash: dip64.csv: command not found
+MacBook-Air-de-Daniela:diputados danielaguzman$ ls
+acuerdosIFEetc	dip58.csv	dip61.csv	dip64.csv
+cvs		dip59.csv	dip62.csv	licencias
+dip57.csv	dip60.csv	dip63.csv
+MacBook-Air-de-Daniela:diputados danielaguzman$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   dip64.csv
+
+no changes added to commit (use "git add" and/or "git commit -a")
+MacBook-Air-de-Daniela:diputados danielaguzman$ git add .
+MacBook-Air-de-Daniela:diputados danielaguzman$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   dip64.csv
+
+MacBook-Air-de-Daniela:diputados danielaguzman$ git commit
+hint: Waiting for your editor to close the file... 
+Daniela añade años
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Daniela Guzmán <danielaguzman@MacBook-Air-de-Daniela.local>
+#
+# On branch master
+# Changes to be committed:
+#       modified:   dip64.csv
+#
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
