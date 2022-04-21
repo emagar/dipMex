@@ -21,7 +21,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,ra
 65,,,JOSE ANTONIO,GUTIERREZ JARDON,coa05p,,m,pri,pri,,1,0,,,,2024,,,,,
 65,,,SHAMIR,FERNANDEZ HERNANDEZ,coa06p,,m,pri,pri,,1,0,,,,2024,,,,,
 65,,,JAIME,BUENO ZERTUCHE,coa07p,,m,pri,pri,,1,0,,,,2024,,,,,
-65,,,RIULT,RIVERA GUTIERREZ,col01p,,m,pan,pan,,1,0,,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,,,RIULT,RIVERA GUTIERREZ,col01p,1981,m,pan,pan,,1,0,,20180829,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,,,ROSA MARIA,BAYARDO CABRERA,col02p,,f,morena,morena,,1,0,,,,2024,,,,,
 65,,,MANUELA DEL CARMEN,OBRADOR NARVAEZ,cps01p,,f,morena,morena,,1,0,,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,,,ADELA,RAMOS JUAREZ,cps02p,,f,morena,morena,,1,0,,,,2024,,,,,elec-coal=PVEM.PT.MORENA
