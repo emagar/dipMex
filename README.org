@@ -50,7 +50,11 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
 * Codebook
 The objects in each R file (zipped together in text-only files) are the following:
 
+<<<<<<< HEAD
 -dipdat: individual federal deputy information (nom=first name, patmat=last names (patronym and matronym), fm=gender, id=district, part=party, 
+=======
+-dipdat: individual federal deputy information (nom=name, id=district, part=party, 
+>>>>>>> cd7a7409e0be3d3c5513fbd13fbc598a2cb34d86
  edo=state, edon=state number, dsmd=indicates single-member district deputies, 
  dis=district number, tipo=propietario or suplente, dcarta=dummy equal 1 for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [[http://eleccionconsecutiva.diputados.gob.mx/contendientes][this]]), dreran=dummy equal 1 for members renominated, dreelected=dummy equal 1 for members who reelected.
 
@@ -64,5 +68,4 @@ The objects in each R file (zipped together in text-only files) are the followin
 -dgaceta: indicates whether (1) or not (0) the vote was also reported by the
  *Gaceta Parlamentaria*, as discussed by Cantu, Desposato, and Magar 2014.
 * Acknowledgements
-Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. and CONACYT's Sistema Nacional de Investigadores. I am grateful to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. Eric Magar Meurs is responsible for mistakes and shortcomings in the data. Please report any error to emagar at gmail dot com.  
-
+Eric Magar Meurs acknowledges financial support from the Asociación Mexicana de Cultura A.C. Many thanks to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. The author is responsible for mistakes and shortcomings in the data. Please report any error to emagar at gmail dot com.  
