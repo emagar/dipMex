@@ -1,0 +1,627 @@
+leg,ord,nom,id,birth,gen,part,ref
+62,1,JOSE PILAR MORENO MONTOYA,ags01p,1959,M,pri,
+62,3,MARIA TERESA JIMENEZ ESQUIVEL,ags02p,1984,F,pan,
+62,5,JOSE ANGEL GONZALEZ SERNA,ags03p,1959,M,pan,
+62,7,BENJAMIN CASTILLO VALDEZ,bc01p,1959,M,pri,
+62,9,MARIA FERNANDA SCHROEDER VERDUGO,bc02p,1958,F,pri,
+62,11,GILBERTO ANTONIO HIRATA CHICO,bc03p,1952,M,pri,
+62,13,MARIA ELIA CABAÑAS APARICIO,bc04p,1964,F,pri,
+62,14,VIRGINIA VICTORIA MARTINEZ GUTIERREZ,bc04s,1972,F,pri,
+62,15,JUAN MANUEL GASTELUM BUENROSTRO,bc05p,1954,M,pan,
+62,17,JAIME CHRIS LOPEZ ALVARADO,bc06p,1979,M,pri,
+62,19,DAVID PEREZ TEJADA PADILLA,bc07p,1979,M,pvem,
+62,21,MAYRA KARINA ROBLES AGUIRRE,bc08p,1972,F,pri,
+62,23,FRANCISCO PELAYO COVARRUBIAS,bcs01p,1969,M,pan,
+62,25,ARTURO DE LA ROSA ESCALANTE,bcs02p,1971,M,pan,
+62,27,LANDY MARGARITA BERZUNZA NOVELO,cam01p,1965,F,pri,
+62,29,ROCIO ADRIANA ABREU ARTIÑANO,cam02p,1974,F,pri,
+62,31,IRMA ELIZONDO RAMIREZ,coa01p,1945,F,pri,
+62,33,JOSE LUIS FLORES MENDEZ,coa02p,1956,M,pri,
+62,35,MARIO ALBERTO DAVILA DELGADO,coa03p,1959,M,pan,
+62,37,FERNANDO DONATO DE LAS FUENTES HERNANDEZ,coa04p,1950,M,pri,
+62,38,ALFIO VEGA DE LA PEÑA,coa04s,1955,M,pri,
+62,39,SALOMON JUAN MARCOS ISSA,coa05p,1948,M,pri,
+62,41,MARCELO DE JESUS TORRES COFIÑO,coa06p,1956,M,pan,
+62,43,ESTHER QUINTANA SALINAS,coa07p,1951,F,pan,
+62,45,MIGUEL ANGEL AGUAYO LOPEZ,col01p,1951,M,pri,
+62,47,FRANCISCO ALBERTO ZEPEDA GONZALEZ,col02p,1969,M,pri,
+62,49,LOURDES ADRIANA LOPEZ MORENO,cps01p,1978,F,pvem,
+62,51,PEDRO GOMEZ GOMEZ,cps02p,1970,M,pri,
+62,53,AMILCAR AUGUSTO VILLAFUERTE TRUJILLO,cps03p,1964,M,pvem,
+62,55,HARVEY GUTIERREZ ALVAREZ,cps04p,1951,M,pri,
+62,57,LUIS GOMEZ GOMEZ,cps05p,1980,M,pri,
+62,59,WILLY OCHOA GALLEGOS,cps06p,1978,M,pri,
+62,61,FRANCISCO GRAJALES PALACIOS,cps07p,1956,M,pri,
+62,63,OSCAR EDUARDO RAMIREZ AGUILAR,cps08p,1977,M,pvem,
+62,65,MARIA DEL ROSARIO DE FATIMA PARIENTE GAVITO,cps09p,1955,F,pvem,
+62,67,HECTOR NARCIA ALVAREZ,cps10p,1957,M,pvem,
+62,69,HUGO MAURICIO PEREZ ANZUETO,cps11p,1969,M,pri,
+62,71,ANTONIO DE JESUS DIAZ ATHIE,cps12p,1958,M,pri,
+62,73,ADRIANA FUENTES TELLEZ,cua01p,1964,F,pri,
+62,75,JOSE IGNACIO DUARTE MURILLO,cua02p,1965,M,pri,
+62,77,CARLOS FERNANDO ANGULO PARRA,cua03p,1950,M,pan,
+62,79,LUIS ALFREDO MURGUIA LARDIZABAL,cua04p,1956,M,pri,
+62,81,ABRAHAM MONTES ALVARADO,cua05p,1961,M,pri,
+62,83,MINERVA CASTILLO RODRIGUEZ,cua06p,1955,F,pri,
+62,85,KAMEL ATHIE FLORES,cua07p,1950,M,pri,
+62,87,PEDRO IGNACIO DOMINGUEZ ZEPEDA,cua08p,1971,M,pri,
+62,89,DIANA KARINA VELAZQUEZ RAMIREZ,cua09p,1970,F,pri,
+62,91,LIZBETH EUGENIA ROSAS MONTERO,df01p,1974,F,prd,
+62,93,MANUEL RAFAEL HUERTA LADRON DE GUEVARA,df02p,1960,M,pt,
+62,95,FERNANDO CUELLAR REYES,df03p,1963,M,prd,
+62,97,CARLOS AUGUSTO MORALES LOPEZ,df04p,1977,M,prd,
+62,99,JOSE ANTONIO HURTADO GALLEGOS,df05p,1955,M,mc,
+62,101,JHONATAN JARDINES FRAIRE,df06p,1980,M,prd,
+62,103,CLAUDIA ELENA AGUILA TORRES,df07p,1972,F,prd,
+62,105,ALEJANDRO CARBAJAL GONZALEZ,df08p,1972,M,prd,
+62,107,ISRAEL MORENO RIVERA,df09p,1975,M,prd,
+62,109,AGUSTIN BARRIOS GOMEZ SEGUES,df10p,1971,M,prd,
+62,111,LUIS ANGEL XARIEL ESPINOSA CHAZARO,df11p,1974,M,prd,
+62,113,JOSE LUIS MUÑOZ SORIA,df12p,1948,M,prd,
+62,115,ROBERTO CARLOS REYES GAMIZ,df13p,1969,M,prd,
+62,117,MARTHA LUCIA MICHER CAMARENA,df14p,1954,F,prd,
+62,119,JORGE FRANCISCO SOTOMAYOR CHAVEZ,df15p,1980,M,pan,
+62,121,MARIO MIGUEL CARRILLO HUERTA,df16p,1947,M,prd,
+62,123,FERNANDO ZARATE SALGADO,df17p,1979,M,prd,
+62,125,KAREN QUIROGA ANGUIANO,df18p,1980,F,prd,
+62,127,ALEIDA ALAVEZ RUIZ,df19p,1974,F,prd,
+62,129,JOSE ALBERTO BENAVIDES CASTAÑEDA,df20p,1970,M,pt,
+62,131,ALEJANDRO SANCHEZ CAMACHO,df21p,1960,M,prd,
+62,132,HUGO SANDOVAL MARTINEZ,df21s,1962,M,prd,
+62,133,PURIFICACION CARPINTEYRO CALDERON,df22p,1961,F,prd,
+62,135,JOSE VALENTIN MALDONADO SALGADO,df23p,1980,M,prd,
+62,137,GERARDO VILLANUEVA ALBARRAN,df24p,1972,M,mc,
+62,139,MARIA DE LOURDES AMAYA REYES,df25p,1980,F,prd,
+62,141,JOSE ARTURO LOPEZ CANDIDO,df26p,1952,M,pt,
+62,143,GUADALUPE SOCORRO FLORES SALAZAR,df27p,1971,F,prd,
+62,145,SONIA CATALINA MERCADO GALLEGOS,dgo01p,1968,F,pri,
+62,147,ALMA MARINA VITELA RODRIGUEZ,dgo02p,1965,F,pri,
+62,149,JOSE RUBEN ESCAJEDA JIMENEZ,dgo03p,1960,M,pri,
+62,151,JORGE HERRERA DELGADO,dgo04p,1961,M,pri,
+62,153,PETRA BARRERA BARRERA,gua01p,1961,F,pri,
+62,155,RICARDO VILLARREAL GARCIA,gua02p,1981,M,pan,
+62,157,ELIZABETH VARGAS MARTIN DEL CAMPO,gua03p,1957,F,pan,
+62,159,MARIA ESTHER GARZA MORENO,gua04p,1948,F,pri,
+62,161,DIEGO SINHUE RODRIGUEZ VALLEJO,gua05p,1980,M,pan,
+62,163,ROSA ELBA PEREZ HERNANDEZ,gua06p,1968,F,pvem,
+62,165,MARIA GUADALUPE VELAZQUEZ DIAZ,gua07p,1985,F,pri,
+62,167,GENARO CARREÑO MURO,gua08p,1958,M,pan,
+62,169,ALEJANDRO RANGEL SEGOVIA,gua09p,1962,M,pri,
+62,171,RAUL GOMEZ RAMIREZ,gua10p,1964,M,pan,
+62,173,MARIA CONCEPCION NAVARRETE VITAL,gua11p,1959,F,pri,
+62,175,FELIPE ARTURO CAMARENA GARCIA,gua12p,1956,M,pvem,
+62,177,J. JESUS OVIEDO HERRERA,gua13p,1965,M,pan,
+62,179,JOSE LUIS OLIVEROS USABIAGA,gua14p,1983,M,pan,
+62,181,CATALINO DUARTE ORTUÑO,gue01p,1970,M,prd,
+62,183,MARINO MIRANDA SALGADO,gue02p,1962,M,prd,
+62,185,SILVANO BLANCO DEAQUINO,gue03p,1962,M,prd,
+62,187,VICTOR MANUEL JORRIN LOZANO,gue04p,1955,M,mc,
+62,189,VICARIO PORTILLO MARTINEZ,gue05p,1960,M,prd,
+62,191,CARLOS DE JESUS ALEJANDRO,gue06p,1965,M,prd,
+62,193,JORGE SALGADO PARRA,gue07p,1979,M,prd,
+62,195,SEBASTIAN ALFONSO DE LA ROSA PELAEZ,gue08p,1963,M,prd,
+62,197,MARIA DEL ROSARIO MERLIN GARCIA,gue09p,1964,F,prd,
+62,199,DARIO BADILLO RAMIREZ,hgo01p,1959,M,pri,
+62,201,DULCE MARIA MUÑIZ MARTINEZ,hgo02p,1960,F,pri,
+62,203,VICTOR HUGO VELASCO OROZCO,hgo03p,1971,M,pri,
+62,205,EMILSE MIRANDA MUNIVE,hgo04p,1971,F,pri,
+62,207,JOSE ANTONIO ROJO GARCIA DE ALBA,hgo05p,1966,M,pri,
+62,209,MIRNA ESMERALDA HERNANDEZ MORALES,hgo06p,1961,F,pri,
+62,211,FRANCISCO GONZALEZ VARGAS,hgo07p,1956,M,pri,
+62,213,CESARIO PADILLA NAVARRO,jal01p,1951,M,pri,
+62,215,JOSE NOEL PEREZ DE ALBA,jal02p,1961,M,pri,
+62,217,CECILIA GONZALEZ GOMEZ,jal03p,1961,F,pri,
+62,219,SALVADOR ARELLANO GUZMAN,jal04p,1957,M,pri,
+62,221,RAFAEL GONZALEZ RESENDIZ,jal05p,1979,M,pri,
+62,223,ABEL OCTAVIO SALGADO PEÑA,jal06p,1971,M,pri,
+62,225,SERGIO ARMANDO CHAVEZ DAVALOS,jal07p,1974,M,pri,
+62,227,LEOBARDO ALCALA PADILLA,jal08p,1960,M,pri,
+62,229,MARIA LETICIA MENDOZA CURIEL,jal09p,1956,F,pri,
+62,231,OMAR ANTONIO BORBOA BECERRA,jal10p,1980,M,pan,
+62,233,CLAUDIA DELGADILLO GONZALEZ,jal11p,1972,F,pri,
+62,235,CELIA ISABEL GAUNA RUIZ DE LEON,jal12p,1964,F,pri,
+62,237,MARCO ANTONIO BARBA MARISCAL,jal13p,1970,M,pri,
+62,239,ENRIQUE AUBRY DE CASTRO PALOMINO,jal14p,1982,M,pvem,
+62,241,OSSIEL OMAR NIAVES LOPEZ,jal15p,1974,M,pri,
+62,243,LUIS ARMANDO CORDOVA DIAZ,jal16p,1968,M,pri,
+62,245,MARIA ANGELICA MAGAÑA ZEPEDA,jal17p,1975,F,pri,
+62,247,GABRIEL GOMEZ MICHEL,jal18p,1965,M,pri,
+62,249,SALVADOR BARAJAS DEL TORO,jal19p,1972,M,pri,
+62,251,MIGUEL SAMANO PERALTA,mex01p,1966,M,pri,
+62,253,GERARDO FRANCISCO LICEAGA ARTEAGA,mex02p,1960,M,pri,
+62,255,JOSE RANGEL ESPINOSA,mex03p,1956,M,pri,
+62,257,ANGELINA CARREÑO MIJARES,mex04p,1981,F,pri,
+62,259,DARIO ZACARIAS CAPUCHINO,mex05p,1971,M,pri,
+62,261,ROBERTO RUIZ MORONATTI,mex06p,1982,M,pri,
+62,263,PAULINA ALEJANDRA DEL MORAL VELA,mex07p,1983,F,pri,
+62,265,MARCO ANTONIO CALZADA ARROYO,mex08p,1964,M,pri,
+62,267,JOSE SERGIO MANZUR QUIROGA,mex09p,1955,M,pri,
+62,269,JOSE LUIS CRUZ FLORES GOMEZ,mex10p,1957,M,pri,
+62,271,BRENDA MARIA IZONTLI ALVARADO SANCHEZ,mex11p,1970,F,pri,
+62,273,CESAR REYNALDO NAVARRO DE ALVA,mex12p,1968,M,pri,
+62,275,JOSE ISIDRO MORENO ARCEGA,mex13p,1972,M,pri,
+62,277,SILVIA MARQUEZ VELASCO,mex14p,1961,F,pri,
+62,279,ALBERTO DIAZ TRUJILLO,mex15p,1975,M,pan,
+62,281,NORMA PONCE OROZCO,mex16p,1964,F,pri,
+62,283,JESSICA SALAZAR TREJO,mex17p,1991,F,prd,
+62,285,FERNANDO ALFREDO MALDONADO HERNANDEZ,mex18p,1966,M,pri,
+62,287,AURORA DENISSE UGALDE ALEGRIA,mex19p,1979,F,pri,
+62,289,JOAQUINA NAVARRETE CONTRERAS,mex20p,1966,F,prd,
+62,291,CRISTINA RUIZ SANDOVAL,mex21p,1972,F,pri,
+62,293,ROSALBA GUALITO CASTAÑEDA,mex22p,1966,F,pri,
+62,295,BLANCA ESTELA GOMEZ CARMONA,mex23p,1962,F,pri,
+62,297,IRAZEMA GONZALEZ MARTINEZ OLIVARES,mex24p,1974,F,pri,
+62,299,JESUS TOLENTINO ROMAN BOJORQUEZ,mex25p,1956,M,pri,
+62,301,FERNANDO ZAMORA MORALES,mex26p,1961,M,pri,
+62,303,LAURA BARRERA FORTOUL,mex27p,1976,F,pri,
+62,305,SUE ELLEN BERNAL BOLNIK,mex28p,1982,F,pri,
+62,307,VALENTIN GONZALEZ BAUTISTA,mex29p,1955,M,prd,
+62,309,ALLIET MARIANA BAUTISTA BRAVO,mex30p,1968,F,prd,
+62,311,VICTOR MANUEL BAUTISTA LOPEZ,mex31p,1947,M,prd,
+62,313,ARTURO CRUZ RAMIREZ,mex32p,1954,M,prd,
+62,315,JUAN MANUEL CARBAJAL HERNANDEZ,mex33p,1964,M,pri,
+62,317,ALBERTO CURI NAIME,mex34p,1956,M,pri,
+62,319,TANYA RELLSTAB CARRETO,mex35p,1978,F,pri,
+62,321,NOE BARRUETA BARON,mex36p,1971,M,pri,
+62,323,FRANCISCO JAVIER FERNANDEZ CLAMONT,mex37p,1972,M,pri,
+62,325,JORGE FEDERICO DE LA VEGA MEMBRILLO,mex38p,1959,M,prd,
+62,327,CRISTINA GONZALEZ CRUZ,mex39p,1973,F,pri,
+62,329,GERARDO XAVIER HERNANDEZ TAPIA,mex40p,1968,M,pri,
+62,331,RODIMIRO BARRERA ESTRADA,mic01p,1968,M,pri,
+62,333,ARMANDO CONTRERAS CEBALLOS,mic02p,1962,M,prd,
+62,335,SILVANO AUREOLES CONEJO,mic03p,1965,M,prd,
+62,337,SALVADOR ROMERO VALENCIA,mic04p,1960,M,pri,
+62,339,ADRIANA HERNANDEZ IÑIGUEZ,mic05p,1978,F,pri,
+62,341,LUIS OLVERA CORREA,mic06p,1970,M,pri,
+62,343,JOSE LUIS ESQUIVEL ZALPA,mic07p,1953,M,prd,
+62,345,ELIGIO CUITLAHUAC GONZALEZ FARIAS,mic08p,1977,M,pri,
+62,347,SOCORRO DE LA LUZ QUINTANA LEON,mic09p,1962,F,pri,
+62,349,ERNESTO NUÑEZ AGUILAR,mic10p,1979,M,pvem,
+62,351,ANTONIO GARCIA CONEJO,mic11p,1971,M,prd,
+62,353,SALVADOR ORTIZ GARCIA,mic12p,1964,M,pri,
+62,355,JOSE FRANCISCO CORONATO RODRIGUEZ,mor01p,1953,M,mc,
+62,357,JAVIER ORIHUELA GARCIA,mor02p,1955,M,prd,
+62,359,FRANCISCO TOMAS RODRIGUEZ MONTERO,mor03p,1943,M,prd,
+62,361,ANDRES ELOY MARTINEZ ROJAS,mor04p,1963,M,prd,
+62,363,VICTOR REYMUNDO NAJERA MEDINA,mor05p,1955,M,prd,
+62,365,JUAN MANUEL ROCHA PIEDRA,nay01p,1960,M,pri,
+62,367,ROY ARGEL GOMEZ OLGUIN,nay02p,1973,M,pri,
+62,369,GLORIA ELIZABETH NUÑEZ SANCHEZ,nay03p,1984,F,pri,
+62,371,HOMERO RICARDO NIÑO DE RIVERA VELA,nl01p,1975,M,pan,
+62,373,BENITO CABALLERO GARZA,nl02p,1965,M,pri,
+62,375,ABEL GUERRA GARZA,nl03p,1954,M,pri,
+62,377,VICTOR OSWALDO FUENTES SOLIS,nl04p,1975,M,pan,
+62,379,HECTOR HUMBERTO GUTIERREZ DE LA GARZA,nl05p,1962,M,pri,
+62,381,ALBERTO CORONADO QUINTANILLA,nl06p,1963,M,pan,
+62,383,JOSE MARTIN LOPEZ CISNEROS,nl07p,1972,M,pan,
+62,385,ERNESTO ALFONSO ROBLEDO LEAL,nl08p,1976,M,pan,
+62,387,MARCO ANTONIO GONZALEZ VALDEZ,nl09p,1972,M,pri,
+62,389,FERNANDO ALEJANDRO LARRAZABAL BRETON,nl10p,1962,M,pan,
+62,391,HECTOR GARCIA GARCIA,nl11p,1963,M,pri,
+62,393,PEDRO PABLO TREVIÑO VILLARREAL,nl12p,1972,M,pri,
+62,395,JOSE SOTO MARTINEZ,oax01p,1946,M,mc,
+62,397,JUAN LUIS MARTINEZ MARTINEZ,oax02p,1972,M,mc,
+62,399,GLORIA BAUTISTA CUEVAS,oax03p,1953,F,prd,
+62,401,EVA DIEGO CRUZ,oax04p,1975,F,prd,
+62,403,CAROL ANTONIO ALTAMIRANO,oax05p,1963,M,prd,
+62,405,ROSA ELIA ROMERO GUZMAN,oax06p,1973,F,pt,
+62,407,SAMUEL GURRION MATIAS,oax07p,1968,M,pri,
+62,409,HUGO JARQUIN,oax08p,1966,M,prd,
+62,411,MARIO RAFAEL MENDEZ MARTINEZ,oax09p,1957,M,prd,
+62,413,AIDA FABIOLA VALENCIA RAMIREZ,oax10p,1978,F,mc,
+62,415,DELFINA ELIZABETH GUZMAN DIAZ,oax11p,1960,F,prd,
+62,417,LAURA GUADALUPE VARGAS VARGAS,pue01p,1987,F,pri,
+62,419,JOSE LUIS MARQUEZ MARTINEZ,pue02p,1966,M,pri,
+62,421,VICTOR EMANUEL DIAZ PALACIOS,pue03p,1950,M,pri,
+62,423,JOSEFINA GARCIA HERNANDEZ,pue04p,1973,F,pri,
+62,425,CARLOS SANCHEZ ROMERO,pue05p,1970,M,pri,
+62,427,JOSE ENRIQUE DOGER GUERRERO,pue06p,1957,M,pri,
+62,429,JESUS MORALES FLORES,pue07p,1946,M,pri,
+62,431,ANA ISABEL ALLENDE CANO,pue08p,1983,F,pri,
+62,433,BLANCA JIMENEZ CASTILLO,pue09p,1965,F,pan,
+62,435,JULIO CESAR LORENZINI RANGEL,pue10p,1977,M,pan,
+62,436,LILIANA CASTILLO TERREROS,pue10s,1976,F,pan,
+62,437,MARIA ISABEL ORTIZ MANTILLA,pue11p,1975,F,pan,
+62,439,NESTOR OCTAVIO GORDILLO CASTILLO,pue12p,1962,M,pan,
+62,441,MARIA DEL ROCIO GARCIA OLMEDO,pue13p,1957,F,pri,
+62,443,JAVIER FILIBERTO GUEVARA GONZALEZ,pue14p,1965,M,pri,
+62,445,MARIA DEL CARMEN GARCIA DE LA CADENA ROMERO,pue15p,1968,F,pri,
+62,447,LISANDRO ARISTIDES CAMPOS CORDOVA,pue16p,1957,M,pri,
+62,449,DELVIM FABIOLA BARCENAS NIEVES,que01p,1977,F,pri,
+62,451,RICARDO ASTUDILLO SUAREZ,que02p,1975,M,pvem,
+62,453,MARCOS AGUILAR VEGA,que03p,1972,M,pan,
+62,455,JOSE GUADALUPE GARCIA RAMIREZ,que04p,1968,M,pan,
+62,457,EDUARDO ROMAN QUIAN ALCOCER,qui01p,1967,M,pri,
+62,459,RAYMUNDO KING DE LA ROSA,qui02p,1976,M,pri,
+62,461,GRACIELA SALDAÑA FRAIRE,qui03p,1961,F,prd,
+62,463,JOSE EVERARDO NAVA GOMEZ,san01p,1961,M,pri,
+62,465,ESTHER ANGELICA MARTINEZ CARDENAS,san02p,1970,F,pri,
+62,467,OSCAR BAUTISTA VILLEGAS,san03p,1964,M,pri,
+62,469,JORGE TERAN JUAREZ,san04p,1959,M,pri,
+62,471,XAVIER AZUARA ZUÑIGA,san05p,1979,M,pan,
+62,473,FELIPE DE JESUS ALMAGUER TORRES,san06p,1974,M,pan,
+62,475,MARIA REBECA TERAN GUEVARA,san07p,1960,F,pri,
+62,477,ROMAN ALFREDO PADILLA FIERRO,sin01p,1949,M,pri,
+62,479,GERARDO PEÑA AVILES,sin02p,1964,M,pan,
+62,481,ALFONSO INZUNZA MONTOYA,sin03p,1949,M,pri,
+62,483,BLAS RAMON RUBIO LARA,sin04p,1950,M,pri,
+62,485,JESUS ANTONIO VALDES PALAZUELOS,sin05p,1978,M,pri,
+62,487,FRANCISCA ELENA CORRALES CORRALES,sin06p,1965,F,pri,
+62,489,SERGIO TORRES FELIX,sin07p,1966,M,pri,
+62,491,MARTIN ALONSO HEREDIA LIZARRAGA,sin08p,1964,M,pan,
+62,493,JOSE ENRIQUE REINA LIZARRAGA,son01p,1969,M,pan,
+62,495,DAVID CUAUHTEMOC GALINDO DELGADO,son02p,1975,M,pan,
+62,497,ALEJANDRA LOPEZ NORIEGA,son03p,1970,F,pan,
+62,499,ANTONIO FRANCISCO ASTIAZARAN GUTIERREZ,son04p,1971,M,pri,
+62,501,DAMIAN ZEPEDA VIDALES,son05p,1978,M,pan,
+62,503,FAUSTINO FRANCISCO FELIX CHAVEZ,son06p,1967,M,pri,
+62,505,MAXIMO OTHON ZAYAS,son07p,1971,M,pan,
+62,507,CLAUDIA ELIZABETH BOJORQUEZ JAVIER,tab01p,1970,F,prd,
+62,509,TOMAS BRITO LARA,tab02p,1958,M,prd,
+62,511,LORENA MENDEZ DENIS,tab03p,1968,F,mc,
+62,513,GERARDO GAUDIANO ROVIROSA,tab04p,1981,M,prd,
+62,515,MARCOS ROSENDO MEDINA FILIGRANA,tab05p,1970,M,prd,
+62,517,ANTONIO SANSORES SASTRE,tab06p,1964,M,prd,
+62,519,GLAFIRO SALINAS MENDIOLA,tam01p,1946,M,pan,
+62,521,HUMBERTO ARMANDO PRIETO HERRERA,tam02p,1985,M,pan,
+62,523,JOSE ALEJANDRO LLANAS ALBA,tam03p,1978,M,pan,
+62,525,CARLOS ALBERTO GARCIA GONZALEZ,tam04p,1971,M,pan,
+62,527,ENRIQUE CARDENAS DEL AVELLANO,tam05p,1957,M,pri,
+62,529,ROSALBA DE LA CRUZ REQUENA,tam06p,1954,F,pri,
+62,531,MARCELINA ORTA CORONADO,tam07p,1968,F,pan,
+62,533,GERMAN PACHECO DIAZ,tam08p,1968,M,pan,
+62,535,MARIA GUADALUPE SANCHEZ SANTIAGO,tla01p,1951,F,pri,
+62,537,JOSE HUMBERTO VEGA VAZQUEZ,tla02p,1957,M,pt,
+62,539,EDILBERTO ALGREDO JARAMILLO,tla03p,1957,M,prd,
+62,541,ZITA BEATRIZ PAZZI MAZA,ver01p,1956,F,pri,
+62,543,LEOPOLDO SANCHEZ CRUZ,ver02p,1971,M,pri,
+62,545,GENARO RUIZ ARRIAGA,ver03p,1955,M,pri,
+62,547,HUMBERTO ALONSO MORELLI,ver04p,1971,M,pan,
+62,549,GAUDENCIO HERNANDEZ BURGOS,ver05p,1962,M,pri,
+62,551,ALMA JEANNY ARROYO RUIZ,ver06p,1975,F,pri,
+62,553,VERONICA CARREON CERVANTES,ver07p,1970,F,pri,
+62,555,JOSE ALEJANDRO MONTANO GUZMAN,ver08p,1956,M,pri,
+62,557,FERNANDO CHARLESTON HERNANDEZ,ver09p,1976,M,pri,
+62,558,ANGEL ABEL MAVIL SOTO,ver09s,1966,M,pri,
+62,559,URIEL FLORES AGUAYO,ver10p,1959,M,prd,
+62,561,JOAQUIN CABALLERO ROSIÑOL,ver11p,1971,M,pri,
+62,563,RAFAEL ACOSTA CRODA,ver12p,1957,M,pan,
+62,564,DAMARIS OSORNO MALPICA,ver12s,1959,F,pan,
+62,565,VICTOR SERRALDE MARTINEZ,ver13p,1971,M,pan,
+62,567,NOE HERNANDEZ GONZALEZ,ver14p,1965,M,pri,
+62,569,JUAN MANUEL DIEZ FRANCOS,ver15p,1951,M,pri,
+62,571,LETICIA LOPEZ LANDERO,ver16p,1962,F,pan,
+62,573,GABRIEL DE JESUS CARDENAS GUIZAR,ver17p,1987,M,pan,
+62,575,TOMAS LOPEZ LANDERO,ver18p,1950,M,pri,
+62,577,MARINA GARAY CABADA,ver19p,1953,F,pri,
+62,579,REGINA VAZQUEZ SAUT,ver20p,1981,F,pri,
+62,581,PONCIANO VAZQUEZ PARISSI,ver21p,1983,M,pri,
+62,583,WILLIAM RENAN SOSA ALTAMIRA,yuc01p,1957,M,pri,
+62,585,MARIA DEL CARMEN ORDAZ MARTINEZ,yuc02p,1965,F,pri,
+62,587,MAURICIO SAHUI RIVERO,yuc03p,1976,M,pri,
+62,589,RAUL PAZ ALONZO,yuc04p,1976,M,pan,
+62,591,MARCO ALONSO VELA REYES,yuc05p,1961,M,pri,
+62,593,ADOLFO BONILLA GOMEZ,zac01p,1972,M,pri,
+62,595,JULIO CESAR FLEMATE RAMIREZ,zac02p,1966,M,pri,
+62,597,JUDIT MAGDALENA GUERRERO LOPEZ,zac03p,1961,F,pvem,
+62,599,BARBARA GABRIELA ROMO FONSECA,zac04p,1977,F,pvem,
+62,601,ANDRES DE LA ROSA ANAYA,zc1rp01p,1971,M,pan,
+62,603,ALFREDO ZAMORA GARCIA,zc1rp02p,1963,M,pan,
+62,605,ROCIO ESMERALDA REZA GALLEGOS,zc1rp03p,1968,F,pan,
+62,607,RODOLFO DORADOR PEREZ GAVILAN,zc1rp04p,1969,M,pan,
+62,609,CARMEN LUCIA PEREZ CAMARENA,zc1rp05p,1968,F,pan,
+62,611,ISAIAS CORTES BERUMEN,zc1rp06p,1972,M,pan,
+62,613,MARGARITA LICEA GONZALEZ,zc1rp07p,1959,F,pan,
+62,615,MARIA CELIA URCIEL CASTAÑEDA,zc1rp08p,1959,F,pan,
+62,617,JORGE IVAN VILLALOBOS SEAÑEZ,zc1rp09p,1978,M,pan,
+62,619,CARLOS HUMBERTO CASTAÑOS VALENZUELA,zc1rp10p,1977,M,pan,
+62,621,TANIA MARGARITA MORGAN NAVARRETE,zc1rp11p,1985,F,pan,
+62,623,MARIO SANCHEZ RUIZ,zc1rp12p,1961,M,pan,
+62,625,LESLIE PANTOJA HERNANDEZ,zc1rp13p,1976,F,pan,
+62,627,HEBERTO NEBLINA VEGA,zc1rp14p,1969,M,pan,
+62,630,MARIA CARMEN LOPEZ SEGURA,zc1rp15s,1946,F,pri,
+62,631,FERNANDO JORGE CASTRO TRENTI,zc1rp16p,1955,M,pri,
+62,632,ADAN DAVID RUIZ GUTIERREZ,zc1rp16s,1966,M,pri,
+62,633,RICARDO FIDEL PACHECO RODRIGUEZ,zc1rp17p,1963,M,pri,
+62,649,MANLIO FABIO BELTRONES RIVERA,zc1rp25p,1952,M,pri,
+62,675,FRANCISCO ALFONSO DURAZO MONTAÑO,zc1rp38p,1954,M,mc,
+62,701,RICARDO ANAYA CORTES,zc2rp11p,1979,M,pan,
+62,702,ANA PAOLA LOPEZ BIRLAIN,zc2rp11s,1972,F,pan,
+62,713,LAZARA NELLY GONZALEZ AGUILAR,zc2rp17p,1977,F,pan,
+62,714,MARIA EUGENIA DE LEON PEREZ,zc2rp17s,1944,F,pan,
+62,719,FRANCISCO AGUSTIN ARROYO VIEYRA,zc2rp20p,1959,M,pri,
+62,727,ELOY CANTU SEGOVIA,zc2rp24p,1952,M,pri,
+62,739,AGUSTIN MIGUEL ALONSO RAYA,zc2rp30p,1954,M,prd,
+62,771,ALICIA CONCEPCION RICALDE MAGAÑA,zc3rp06p,1965,F,pan,
+62,777,JUAN BUENO TORIO,zc3rp09p,1953,M,pan,
+62,809,ANGELICA ROCIO MELCHOR VASQUEZ,zc3rp25p,1980,F,prd,
+62,847,FERNANDO RODRIGUEZ DOVAL,zc4rp04p,1980,M,pan,
+62,857,LEONOR ROMERO SEVILLA,zc4rp09p,1958,F,pan,
+62,859,AURORA DE LA LUZ AGUILAR RODRIGUEZ,zc4rp10p,1967,F,pan,
+62,875,MARTI BATRES GUADARRAMA,zc4rp18p,1967,M,prd,
+62,899,ROXANA LUNA PORQUILLO,zc4rp30p,1981,F,prd,
+62,903,RICARDO MONREAL AVILA,zc4rp32p,1960,M,pt,
+62,923,PATRICIA LUGO BARRIGA,zc5rp02p,1973,F,pan,
+62,929,ALFREDO RIVADENEYRA HERNANDEZ,zc5rp05p,1971,M,pan,
+62,943,ARNOLDO OCHOA GONZALEZ,zc5rp12p,1951,M,pri,
+62,989,NABOR OCHOA LOPEZ,zc5rp35p,1960,M,pvem,
+62,995,JUAN IGNACIO SAMPERIO MONTAÑO,zc5rp38p,1957,M,mc,
+62,999,LUCILA GARFIAS GUTIERREZ,zc5rp40p,1951,F,panal,
+62,1004,JUAN CARLOS VELASCO PEREZ,zc5rp41p,1952,M,pri,
+62,8,MIGUEL VILDOSOLA LACARRA,bc01s,1965,M,pri,
+62,12,RICARDO MEDINA FIERRO,bc03s,1975,M,pri,
+62,24,MARTHA GUADALUPE VILLARREAL RANGEL,bcs01s,1957,F,pan,
+62,26,HEIDY GUADALUPE ESTRADA MARTINEZ,bcs02s,,F,pan,http://sitllxii.diputados.gob.mx/curricula.php?dipt=513
+62,30,ERIKA DEL CARMEN RAMAGNOLI SOSA,cam02s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=515
+62,32,MARIA DE LOURDES FLORES TREVIÑO,coa01s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=516
+62,48,DUNIA ELIANE DE LA VEGA PRECIADO,col02s,1980,F,pri,http://www.difcolima.gob.mx/web/transparencia/13_5/cv_38.pdf
+62,64,MARIO FRANCISCO GUILLEN GUILLEN,cps08s,1970,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218126
+62,98,PEDRO GONZALEZ HINOJOSA,df04s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217828
+62,108,ERNESTO GERMAN SANCHEZ JIMENEZ,df09s,,M,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=554
+62,114,ERWIN FRANCISCO ARREOLA DOROTEO,df12s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216440
+62,136,FIDEL BAZAN TENORIO,df23s,,M,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=568
+62,152,EDUARDO SOLIS NOGUEIRA,dgo04s,1972,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217756
+62,156,BRISA ESMERALDA CESPEDES RAMOS,gua02s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216647
+62,162,VIRIDIANA LIZETTE ESPINO CANO,gua05s,1984,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216657
+62,166,NORMA ELENA RANGEL PACHECO,gua07s,,F,pri,http://www.sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218177
+62,172,YATZIRI MENDOZA JIMENEZ,gua10s,1982,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216669
+62,178,MARIA DE MONTSERRAT BAEZA VALLEJO,gua13s,,F,pan,http://sitllxii.diputados.gob.mx/curricula.php?dipt=589
+62,182,IGNACIO RAMIREZ JUAREZ,gue01s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216516
+62,186,EDUARDO ENRIQUE DOMINGUEZ MAGANDA,gue03s,1972,M,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=593
+62,190,ROBERTO CABRERA SOLIS,gue05s,,M,prd,http://www.sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216540
+62,192,JOSE HIGUERA FUENTES,gue06s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217594
+62,194,VICTOR EFIGENIO MARROQUIN CRISTOBAL,gue07s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216547
+62,196,MANUEL FRANCISCO TAPIA BUSTOS,gue08s,,M,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=598
+62,204,EDITH AVILES CANO,hgo03s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217289
+62,220,JOSE DANIEL OCHOA CASILLAS,jal04s,,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217344
+62,222,GILDARDO SANCHEZ GONZALEZ,jal05s,,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217349
+62,226,MARIA ESTHER GUTIERREZ OLIVARES,jal07s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217357
+62,228,ALVARO MARTINEZ GARCIA,jal08s,,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217358
+62,230,LUCIA REYNOSO CASTELLANOS,jal09s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217361
+62,232,CARLOS BERNARDO GUZMAN CERVANTES,jal10s,,M,pan,http://sitllxii.diputados.gob.mx/curricula.php?dipt=616
+62,234,NORMA ELIZABETH CHAVEZ ARIAS,jal11s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217362
+62,248,IGNACIO MESTAS GALLARDO,jal18s,,M,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=624
+62,258,ELIZABETH FLORES VAZQUEZ,mex04s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217381
+62,260,MARISOL MORALES FERNANDEZ,mex05s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=630
+62,264,GLORIA MARIA DEL CARMEN VALENCIA GONZALEZ,mex07s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=632
+62,268,LETICIA MEJIA GARCIA,mex09s,1981,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217451
+62,280,VICTOR SANCHEZ GUERRERO,mex15s,,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216809
+62,286,SILVANA ORTIZ ORTEGA,mex18s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=643
+62,290,ALEJANDRA GUTU DESKENS,mex20s,,F,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=645
+62,294,KARINA KELLY SANCHEZ,mex22s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217465
+62,302,SHANTALL ZEPEDA ESCOBAR,mex26s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=651
+62,306,MARIA GABRIELA BARDALES HERNANDEZ,mex28s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=653
+62,308,RODRIGO ROSAS ESPARZA,mex29s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217736
+62,310,ELIZABETH VAZQUEZ HERNANDEZ,mex30s,,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218184
+62,312,FRANCISCO ANTONIO EDUARDO MORA MOLINA,mex31s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216630
+62,318,NORMA GONZALEZ VERA,mex34s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=659
+62,322,MARIA GUADALUPE JARAMILLO VILLA,mex36s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=661
+62,334,MARIO CESAR GAONA GARCIA,mic02s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217997
+62,340,CAROLINA HERNANDEZ ORTIZ,mic05s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=670
+62,348,MIROSLAVA MEZA VIRRUETA,mic09s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218160
+62,368,ANGEL ALAIN ALDRETE LAMAS,nay02s,,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217529
+62,378,RICARDO FLORES SUAREZ,nl04s,,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9222790
+62,380,LUIS FERNANDO DOMINGUEZ MARTIN DEL CAMPO,nl05s,,M,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=690
+62,386,SIMON LOMELI CERVANTES,nl08s,,M,pan,http://sitllxii.diputados.gob.mx/curricula.php?dipt=693
+62,392,RAFAEL REYES MONTEMAYOR,nl11s,,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217542
+62,396,ADRIANA SOTO MARTINEZ,oax01s,,F,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216485
+62,462,MILKDRET MARINA VERDE AVENDAÑO,qui03s,,F,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=731
+62,464,HERMELINDA MARTINEZ MARTINEZ,san01s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216233
+62,466,MARIA ESTELA MORENO ALVARADO,san02s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218166
+62,468,JOSE LUIS MARTINEZ MELENDEZ,san03s,,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216235
+62,472,JORGE ALFREDO PEREZ COVARRUBIAS,san05s,1972,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217010
+62,474,JOSE LUIS CONTRERAS ROJAS,san06s,1963,M,pan,http://www.sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217011
+62,476,MARIA MERCED LEON ANDABLO,san07s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217592
+62,490,MIRNA VELAZQUEZ LOPEZ,sin07s,1957,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217661
+62,494,ANA MARIA GUTIERREZ CORONADO,son01s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217016
+62,496,MARIBEL ENRIQUEZ RAMIREZ,son02s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217018
+62,502,LORENA GUTIERREZ LANDAVAZO,son05s,1985,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217021
+62,504,MICAELA RODRIGUEZ ZAMORA,son06s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=752
+62,506,FRANCISCA ROSARIO ARANA LUGO,son07s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218098
+62,514,CHRISTIAN MANUEL NARVAEZ ROMERO,tab04s,,M,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=757
+62,516,EDI OLIVE LOPEZ,tab05s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216457
+62,562,PATRICIA GUADALUPE PEÑA RECIO,ver11s,1977,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218174
+62,570,JUAN ISIDRO DEL BOSQUE MARQUEZ,ver15s,1961,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217699
+62,582,ISELA GONZALEZ DOMINGUEZ,ver21s,1976,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217706
+62,592,ALBERTO LEONIDES ESCAMILLA CERON,yuc05s,1984,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217710
+62,594,ERICA DEL CARMEN VELAZQUEZ VACIO,zac01s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=797
+62,604,MARIA LUCRECIA ARZOLA GODINES,zc1rp02s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217135
+62,610,CLAUDIA ROCIO VILLA OÑATE,zc1rp05s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217087
+62,614,BRENDA ALVANY FRANCO DE LA TORRE,zc1rp07s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217143
+62,635,LOURDES EULALIA QUIÑONES CANALES,zc1rp18p,1953,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216567
+62,637,PATRICIO FLORES SANDOVAL,zc1rp19p,1951,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216592
+62,639,PATRICIA ELENA RETAMOZA VEGA,zc1rp20p,1959,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216602
+62,641,MARIA DEL ROCIO CORONA NAKAMURA,zc1rp21p,1964,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216583
+62,642,CARMEN JULIETA TORRES LIZARRAGA,zc1rp21s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216584
+62,643,HERIBERTO MANUEL GALINDO QUIÑONES,zc1rp22p,1951,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216599
+62,645,RAUL SANTOS GALVAN VILLANUEVA,zc1rp23p,1944,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216577
+62,647,FLOR AYALA ROBLES LINARES,zc1rp24p,1972,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216588
+62,651,CRYSTAL TOVAR ARAGON,zc1rp26p,1990,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216818
+62,653,VERONICA BEATRIZ JUAREZ PIÑA,zc1rp27p,1971,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9222316
+62,655,ROBERTO LOPEZ GONZALEZ,zc1rp28p,1958,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216733
+62,657,RODRIGO GONZALEZ BARRIOS,zc1rp29p,1958,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216711
+62,658,ABRAHAM CORREA ACEVEDO,zc1rp29s,1963,M,prd,https://prdbc.mx/web/wp-content/uploads/2018/03/Abraham-Curriculum-Vitae.pdf
+62,659,LORENIA IVETH VALLES SAMPEDRO,zc1rp30p,1976,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9223269
+62,661,JAIME BONILLA VALDEZ,zc1rp31p,150,M,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Presentador=2956725&Referencia=9217023
+62,662,HECTOR IRENEO MARES COSSIO,zc1rp31s,,M,pt,http://sitllxii.diputados.gob.mx/curricula.php?dipt=832
+62,664,LILIA AGUILAR GIL,zc1rp32s,1977,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217028
+62,665,ANA LILIA GARZA CADENA,zc1rp33p,1970,F,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216842
+62,668,RUBEN ACOSTA MONTOYA,zc1rp34s,1973,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216838
+62,669,MARTHA BEATRIZ CORDOVA BERNAL,zc1rp35p,1967,F,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218238
+62,671,MERILYN GOMEZ POZOS,zc1rp36p,1981,F,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218213
+62,673,JOSE LUIS VALLE MAGAÑA,zc1rp37p,1959,M,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218215
+62,677,RUBEN BENJAMIN FELIX HAYS,zc1rp39p,1964,M,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217212
+62,679,DORA MARIA GUADALUPE TALAMANTO LEMAS,zc1rp40p,1965,F,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217228
+62,681,RUBEN CAMARILLO ORTEGA,zc2rp01p,1961,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217206
+62,683,RAUDEL LOPEZ LOPEZ,zc2rp02p,1969,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217238
+62,685,JOSE GUILLERMO ANAYA LLAMAS,zc2rp03p,1968,M,pan,https://es.wikipedia.org/wiki/Guillermo_Anaya_Llamas
+62,687,BEATRIZ EUGENIA YAMAMOTO CAZARES,zc2rp04p,1950,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217210
+62,689,JUAN CARLOS MUÑOZ MARQUEZ,zc2rp05p,1969,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9222102
+62,691,ELIZABETH OSWELIA YAÑEZ ROBLES,zc2rp06p,1945,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217200
+62,693,LUIS ALBERTO VILLARREAL GARCIA,zc2rp07p,1974,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217189
+62,695,VERONICA SADA PEREZ,zc2rp08p,1963,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217236
+62,697,JOSE ARTURO SALINAS GARZA,zc2rp09p,1975,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217222
+62,699,CONSUELO ARGUELLES LOYA,zc2rp10p,1977,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217220
+62,700,ROCIO BACA BONIFAZ,zc2rp10s,,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217221
+62,703,RAQUEL JIMENEZ CERRILLO,zc2rp12p,1966,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217244
+62,705,JOSE ALFREDO BOTELLO MONTES,zc2rp13p,1956,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=1062
+62,707,MARIA CONCEPCION RAMIREZ DIEZ GUTIERREZ,zc2rp14p,1961,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217646
+62,709,ENRIQUE ALEJANDRO FLORES FLORES,zc2rp15p,1982,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217230
+62,710,OFELIA LIMON ROBLES,zc2rp15s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217230
+62,711,RAMON ANTONIO SAMPAYO ORTIZ,zc2rp16p,1957,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217232
+62,715,JOSE ISABEL TREJO REYES,zc2rp18p,1959,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9222082
+62,717,MIRIAM CARDENAS CANTU,zc2rp19p,1964,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216625
+62,718,MARTHA LOERA ARAMBULA,zc2rp19s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=863
+62,721,MARIA ELENA CANO AYALA,zc2rp21p,1955,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216611
+62,723,JORGE MENDOZA GARZA,zc2rp22p,1951,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216617
+62,725,JAVIER TREVIÑO CANTU,zc2rp23p,1960,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216623
+62,726,CESAR AGUSTIN SERNA ESCALERA,zc2rp23s,1973,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216624
+62,729,MARIA DE JESUS HUERTA REA,zc2rp25p,1951,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216641
+62,731,ELSA PATRICIA ARAUJO DE LA TORRE,zc2rp26p,1960,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216621
+62,733,AMIRA GRICELDA GOMEZ TUEME,zc2rp27p,1954,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216633
+62,735,MARCO ANTONIO BERNAL GUTIERREZ,zc2rp28p,1953,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216631
+62,737,ALFA ELIANA GONZALEZ MAGALLANES,zc2rp29p,1981,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216775
+62,741,MARIA DEL SOCORRO CESEÑAS CHAPA,zc2rp31p,1952,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216759
+62,743,MARCELO GARZA RUVALCABA,zc2rp32p,1983,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216785
+62,745,ROBERTO LOPEZ SUAREZ,zc2rp33p,1972,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216767
+62,747,RICARDO CANTU GARZA,zc2rp34p,1953,M,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217127
+62,749,ALBERTO ANAYA GUTIERREZ,zc2rp35p,1946,M,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217040
+62,751,MAGDALENA DEL SOCORRO NUÑEZ MONREAL,zc2rp36p,1959,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217053
+62,753,ANTONIO CUELLAR STEFFAN,zc2rp37p,1968,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216862
+62,755,MONICA GARCIA DE LA FUENTE,zc2rp38p,1980,F,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216864
+62,757,TOMAS TORRES MERCADO,zc2rp39p,1960,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216866
+62,759,FERNANDO BRIBIESCA SAHAGUN,zc2rp40p,1981,M,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217257
+62,760,ROBERTO JIMENEZ DEL ANGEL,zc2rp40s,,M,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217258
+62,761,MARIA SANJUANA CERDA FRANCO,zc3rp01p,1951,F,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217822
+62,763,JORGE ROSIÑOL ABREU,zc3rp02p,1958,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217298
+62,764,DIANA DEL CARMEN VERA AVILA,zc3rp02s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217299
+62,765,JUAN JESUS AQUINO CALVO,zc3rp03p,1975,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217322
+62,767,VICTOR RAFAEL GONZALEZ MANRIQUEZ,zc3rp04p,1959,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217326
+62,769,EUFROSINA CRUZ MENDOZA,zc3rp05p,1979,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217280
+62,772,GABRIELA EUGENIA CORTES TALAMANTES,zc3rp06s,1969,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217307
+62,773,JUAN FRANCISCO CACERES DE LA FUENTE,zc3rp07p,1962,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217328
+62,775,MARIANA DUNYASKA GARCIA ROJAS,zc3rp08p,1974,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9222906
+62,779,SERGIO AUGUSTO CHAN LUGO,zc3rp10p,1967,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217308
+62,781,CINTHYA NOEMY VALLADARES COUOH,zc3rp11p,1981,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217324
+62,783,MARIA BEATRIZ ZAVALA PENICHE,zc3rp12p,1957,F,pan,http://www.sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=2303286
+62,785,ELVIA MARIA PEREZ ESCALANTE,zc3rp13p,1954,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216694
+62,787,RAFAEL ALEJANDRO MORENO CARDENAS,zc3rp14p,1975,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216674
+62,788,CELESTINO MANUEL ALONSO ALVAREZ,zc3rp14s,1952,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216675
+62,789,SIMON VALANCI BUZALI,zc3rp15p,1962,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216691
+62,791,ARELI MADRID TOVILLA,zc3rp16p,1952,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216676
+62,793,MARTIN DE JESUS VASQUEZ VILLANUEVA,zc3rp17p,1965,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216683
+62,795,MARIA DE LAS NIEVES GARCIA FERNANDEZ,zc3rp18p,1955,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216685
+62,796,MONICA CLARA MOLINA,zc3rp18s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216686
+62,797,LIZBETH LOY GAMBOA SONG,zc3rp19p,1981,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216689
+62,799,LUIS RICARDO ALDANA PRIETO,zc3rp20p,1954,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216679
+62,801,JORGE DEL ANGEL ACOSTA,zc3rp21p,1948,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216687
+62,803,GUADALUPE DEL SOCORRO ORTEGA PACHECO,zc3rp22p,1966,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216681
+62,806,ROBERTO LOPEZ ROSADO,zc3rp23s,1961,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216837
+62,807,ROSENDO SERRANO TOLEDO,zc3rp24p,1959,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216830
+62,810,SARAI LARISA LEON MONTERO,zc3rp25s,,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216801
+62,811,MARIA FERNANDA ROMERO LOZANO,zc3rp26p,1986,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216828
+62,813,JUAN MANUEL FOCIL PEREZ,zc3rp27p,1963,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216814
+62,815,YAZMIN DE LOS ANGELES COPETE ZAPOT,zc3rp28p,1964,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216810
+62,817,JOSE ANTONIO LEON MENDIVIL,zc3rp29p,1946,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216806
+62,819,MARIA GUADALUPE MOCTEZUMA OVIEDO,zc3rp30p,1983,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216834
+62,821,MARIO ALEJANDRO CUEVAS MENA,zc3rp31p,1972,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216840
+62,823,TERESITA DE JESUS BORGES PASOS,zc3rp32p,1965,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216832
+62,825,HECTOR HUGO ROBLERO GORDILLO,zc3rp33p,1948,M,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217094
+62,827,ARACELI TORRES FLORES,zc3rp34p,1960,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217967
+62,828,MARIA DE JESUS HERNANDEZ MARTINEZ,zc3rp34s,,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217968
+62,829,RACIEL LOPEZ SALAZAR,zc3rp35p,,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216878
+62,830,CARLOS OCTAVIO CASTELLANOS MIJARES,zc3rp35s,1977,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217751
+62,831,MARTHA EDITH VITAL VERA,zc3rp36p,1963,F,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216892
+62,833,GABRIELA MEDRANO GALINDO,zc3rp37p,1983,F,pvem,https://en.wikipedia.org/wiki/Gabriela_Medrano_Galindo
+62,835,FEDERICO JOSE GONZALEZ LUNA BUENO,zc3rp38p,1966,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216888
+62,837,NELLY DEL CARMEN VARGAS PEREZ,zc3rp39p,1959,F,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217163
+62,839,JOSE ANGELINO CAAMAL MENA,zc3rp40p,1961,M,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217295
+62,841,SONIA RINCON CHANONA,zc4rp01p,1952,F,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217300
+62,843,MARGARITA SALDAÑA HERNANDEZ,zc4rp02p,1964,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217392
+62,845,FLOR DE MARIA PEDRAZA AGUILERA,zc4rp03p,1977,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217359
+62,849,GERARDO MAXIMILIANO CORTAZAR LARA,zc4rp05p,1966,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217648
+62,850,MARIA DE LOURDES MEDINA VALDES,zc4rp05s,1977,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217649
+62,851,LUIS MIGUEL RAMIREZ ROMERO,zc4rp06p,1969,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217394
+62,852,MARIA ALICIA MARTINEZ GUTIERREZ,zc4rp06s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217395
+62,853,JUAN PABLO ADAME ALEMAN,zc4rp07p,1985,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217355
+62,855,RAFAEL ALEJANDRO MICALCO MENDEZ,zc4rp08p,1970,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217388
+62,861,MARIA DE LA PALOMA VILLASEÑOR VARGAS,zc4rp11p,1960,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216735
+62,863,CARLOS HUMBERTO ACEVES Y DEL OLMO,zc4rp12p,1940,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9221991
+62,865,FELIPE DE JESUS MUÑOZ KAPAMAS,zc4rp13p,1951,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216739
+62,867,MANUEL AÑORVE BAÑOS,zc4rp14p,1957,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216725
+62,869,MARICELA VELAZQUEZ SANCHEZ,zc4rp15p,1982,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216723
+62,870,LINDA MARINA DOLORES MUNIVE TENOLTZIN,zc4rp15s,,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216724
+62,871,JAVIER LOPEZ ZAVALA,zc4rp16p,1969,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Presentador=2956747&Referencia=9216731
+62,873,FRINE SORAYA CORDOBA MORAN,zc4rp17p,1959,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216729
+62,876,RODRIGO CHAVEZ CONTRERAS,zc4rp18s,1960,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217633
+62,877,TRINIDAD SECUNDINO MORALES VARGAS,zc4rp19p,1957,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217864
+62,879,AMALIA DOLORES GARCIA MEDINA,zc4rp20p,1951,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216886
+62,881,YESENIA NOLASCO RAMIREZ,zc4rp21p,1982,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216921
+62,883,LUIS MANUEL ARIAS PALLARES,zc4rp22p,1978,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216930
+62,885,JOSE ANGEL AVILA PEREZ,zc4rp23p,1956,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216880
+62,887,JULIO CESAR MORENO RIVERA,zc4rp24p,1973,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216850
+62,889,MARGARITA ELENA TAPIA FONLLEM,zc4rp25p,1959,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216928
+62,891,FERNANDO BELAUNZARAN MENDEZ,zc4rp26p,1970,M,prd,https://es.wikipedia.org/wiki/Fernando_Belaunzar%C3%A1n_M%C3%A9ndez
+62,893,GUILLERMO SANCHEZ TORRES,zc4rp27p,1959,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216901
+62,895,TERESA DE JESUS MOJICA MORGA,zc4rp28p,1970,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216856
+62,897,GISELA RAQUEL MOTA OCAMPO,zc4rp29p,1982,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9218223
+62,898,LUCIA ROSALES VILLEGA,zc4rp29s,,F,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=940
+62,900,AIDA RAMIREZ TORRES,zc4rp30s,,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217873
+62,901,LUISA MARIA ALCALDE LUJAN,zc4rp31p,1987,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217184
+62,904,JAVIER GUTIERREZ REYES,zc4rp32s,,M,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217969
+62,905,ADOLFO ORIVE BELLINGER,zc4rp33p,1940,M,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217115
+62,907,LORETTA ORTIZ AHLF,zc4rp34p,1955,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217113
+62,909,ARTURO ESCOBAR Y VEGA,zc4rp35p,1970,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9222448
+62,911,LAURA XIMENA MARTEL CANTU,zc4rp36p,1985,F,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216897
+62,913,RUTH ZAVALETA SALGADO,zc4rp37p,1966,F,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218236
+62,915,RICARDO MEJIA BERDEJA,zc4rp38p,1968,M,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217187
+62,916,DANNER GONZALEZ RODRIGUEZ,zc4rp38s,,M,mc,http://sitllxii.diputados.gob.mx/curricula.php?dipt=956
+62,917,ZULEYMA HUIDOBRO GONZALEZ,zc4rp39p,1978,F,mc,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217191
+62,919,CRISTINA OLVERA BARRIOS,zc4rp40p,1953,F,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217310
+62,921,RENE RICARDO FUJIWARA MONTELONGO,zc5rp01p,1984,M,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Presentador=2956889&Referencia=9217304
+62,925,MARTHA LETICIA SOSA GOVEA,zc5rp03p,1950,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218219
+62,927,ERICK MARTE RIVERA VILLANUEVA,zc5rp04p,1970,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217422
+62,931,JUAN CARLOS URIBE PADILLA,zc5rp06p,1966,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217426
+62,932,NIDIA SAAVEDRA PEREZ,zc5rp06s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217427
+62,933,ADRIANA GONZALEZ CARRILLO,zc5rp07p,1975,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217409
+62,935,KARINA LABASTIDA SOTELO,zc5rp08p,1976,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217430
+62,937,MARIA GUADALUPE MONDRAGON GONZALEZ,zc5rp09p,1958,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217419
+62,938,LETICIA SALAS LOPEZ,zc5rp09s,,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217420
+62,939,MARTHA BERENICE ALVAREZ TOVAR,zc5rp10p,1975,F,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217417
+62,941,JOSE GONZALEZ MORFIN,zc5rp11p,1954,M,pan,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217415
+62,945,NUVIA MAGDALENA MAYORGA DELGADO,zc5rp13p,1966,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9221781
+62,946,MARTHA GUTIERREZ MANRIQUE,zc5rp13s,1960,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217750
+62,947,JESUS MURILLO KARAM,zc5rp14p,1948,M,pri,https://es.wikipedia.org/wiki/Jes%C3%BAs_Murillo_Karam
+62,948,JOSE ALBERTO RODRIGUEZ CALDERON,zc5rp14s,1961,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216758
+62,949,RAUL MACIAS SANDOVAL,zc5rp15p,1942,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216770
+62,951,BRASIL ALBERTO ACOSTA PEÑA,zc5rp16p,1970,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9222274
+62,953,FERNANDO SALGADO DELGADO,zc5rp17p,1966,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218191
+62,955,LETICIA CALDERON RAMIREZ,zc5rp18p,1971,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216794
+62,956,ROCIO SANTOS DE LA CRUZ,zc5rp18s,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=978
+62,957,ERIKA YOLANDA FUNES VELAZQUEZ,zc5rp19p,1975,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217749
+62,959,MARICRUZ CRUZ MORALES,zc5rp20p,1971,F,pri,http://www.sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216783
+62,961,BLANCA MARIA VILLASEÑOR GUDIÑO,zc5rp21p,1963,F,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216798
+62,963,ALFREDO ANAYA GUDIÑO,zc5rp22p,1950,M,pri,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216787
+62,965,JAVIER SALINAS NARVAEZ,zc5rp23p,1965,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9222368
+62,966,EDGAR EMILIO PEREYRA RAMIREZ,zc5rp23s,,M,prd,http://sitllxii.diputados.gob.mx/curricula.php?dipt=982
+62,967,JULISA MEJIA GUARDADO,zc5rp24p,1960,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216955
+62,969,JUANA BONILLA JAIME,zc5rp25p,1961,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217866
+62,970,MARIA DE LOS ANGELES SANCHEZ LIRA,zc5rp25s,1957,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217867
+62,971,CARLA GUADALUPE REYES MONTIEL,zc5rp26p,1983,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217955
+62,973,JOSEFINA SALINAS PEREZ,zc5rp27p,1965,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216946
+62,975,ANGEL CEDILLO HERNANDEZ,zc5rp28p,1960,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216952
+62,976,JOSE IGNACIO OLVERA CABALLERO,zc5rp28s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216953
+62,977,PEDRO PORRAS PEREZ,zc5rp29p,1959,M,prd,http://www.sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216959
+62,979,RAMON MONTALVO HERNANDEZ,zc5rp30p,1974,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216943
+62,981,DOMITILO POSADAS HERNANDEZ,zc5rp31p,1958,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9216961
+62,983,VERONICA GARCIA REYES,zc5rp32p,1977,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217957
+62,984,DANIELA DIAZ MAGAÑA,zc5rp32s,,F,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217958
+62,985,VICTOR MANUEL MANRIQUEZ GONZALEZ,zc5rp33p,1982,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217999
+62,986,ULISES IVAN VALENCIA PEREZ,zc5rp33s,,M,prd,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218000
+62,987,MARIA DEL CARMEN MARTINEZ SANTILLAN,zc5rp34p,1963,F,pt,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217842
+62,991,JAVIER OROZCO GOMEZ,zc5rp36p,1964,M,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9216969
+62,993,CARLA ALICIA PADILLA RAMOS,zc5rp37p,1969,F,pvem,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9218185
+62,997,LUIS ANTONIO GONZALEZ ROLDAN,zc5rp39p,1967,M,panal,http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9217318
+62,1001,LILIAM MARA FLORES ORTEGA,zc5rp44p,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1002
+62,1002,MARIA RUIZ FRAGA,zc5rp43p,,F,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1005
+62,1003,ALFONSO GODINEZ MENDIOLA,zc5rp42p,,M,pri,http://sitllxii.diputados.gob.mx/curricula.php?dipt=1008
