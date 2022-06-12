@@ -18,3 +18,4 @@ git commit
 There is a hook that pushes subset to 'github' remote whenever master is committed.
 Attempted to prompt y/n for this to no avail, yet.
 
+git push public_repo github:master  # ie. push github to public_repo/master
