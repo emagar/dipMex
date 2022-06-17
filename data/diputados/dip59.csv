@@ -27,7 +27,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,26,513,RAMON,DIMAS HERNANDEZ,cam02s,,,,pan,cam,1,1,,,,,,,,,,,,
 59,27,14,JESUS MARIA,RAMON VALDES ,coa01p,,,,pri,coa,1,0,,20030829,,,,,,,,,59-sen,1
 59,28,514,ERNESTO VELA,DEL CAMPO,coa01s,,,,pri,coa,1,1,,,,,,,,,,,,
-59,29,15,JESUS,ZUÑIGA ROMERO ,coa02p,,,,pri,coa,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,29,15,JESUS,ZUÑIGA ROMERO ,coa02p,,,,pri,coa,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,30,515,PATRICIA DEL CARMEN,QUISTIAN CONTRERAS,coa02s,,,,pri,coa,1,1,,,,,,,,,,,,
 59,31,16,RICARDO,RODRIGUEZ ROCHA ,coa03p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
 59,32,516,SYLBETH,GARCIA BOONE,coa03s,,,,pri,coa,1,1,,,,,,,,,,,,
@@ -35,7 +35,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,34,517,NORMA,DAVILA SALINAS ,coa04s,,,,pri,coa,1,1,,20051122,,,,,,,,,,1
 59,35,18,EDUARDO,OLMOS CASTRO ,coa05p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
 59,36,518,RAUL,ONOFRE CONTRERAS,coa05s,,,,pri,coa,1,1,,20031128,,,,,,,,,,1
-59,37,19,LAURA,REYES RETANA ,coa06p,,,,pri,coa,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,37,19,LAURA,REYES RETANA ,coa06p,,,,pri,coa,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,38,519,CARLOS,JALIFE GARCIA,coa06s,,,,pri,coa,1,1,,,,,,,,,,,,
 59,39,20,FERNANDO,DE LAS FUENTES HERNANDEZ,coa07p,,,,pri,coa,1,0,,20030829,,,,,,,,,,1
 59,40,520,ALDO MAURICIO,MARTINEZ HERNANDEZ ,coa07s,,,,pri,coa,1,1,,20050830,,,,,,,,,,1
@@ -83,7 +83,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,82,541,MANUEL RAMON,CARRERA AGUILAR,cua07s,,,,pri,cua,1,1,,,,,,,,,,,,
 59,83,42,MARIA MARTHA CELESTINA EVA,LAGUETTE  LARDIZABAL,cua08p,,,,pri,cua,1,0,,20030829,,,,,,,,,,1
 59,84,542,KENNY DENISSE,ARROYO GONZALEZ,cua08s,,,,pri,cua,1,1,,,,,,,,,,,,
-59,85,43,JESUS,AGUILAR BUENO ,cua09p,,,,pri,cua,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,59-620,1
+59,85,43,JESUS,AGUILAR BUENO ,cua09p,,,,pri,cua,1,0,,20030829,,,,,,,Salió del pri quedó indep,,59-620,1
 59,86,543,AGUSTIN ALBERTO NAVARRO,ROBLES GIL,cua09s,,,,pri,cua,1,1,,,,,,,,,,,,
 59,87,44,MARCOS,MORALES TORRES ,df01p,,,,prd,df,1,0,,20030829,,,,,,,,,,1
 59,88,544,FELIX VIDAL,GALLEGOS MELO,df01s,,,,prd,df,1,1,,,,,,,,,,,,
@@ -215,9 +215,9 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,214,607,MARIA ORALIA,VEGA ORTIZ,hgo04s,1963,,,pri,hgo,1,1,,,,,,,,,,,590-60,0
 59,215,108,JORGE,ROMERO ROMERO ,hgo05p,,,,pri,hgo,1,0,,20030829,,,,,,,,,59-61,1
 59,216,608,ARACELI,VELAZQUEZ RAMIREZ,hgo05s,,,,pri,hgo,1,1,,20060316,20060328,,,,,,,,,1
-59,217,109,JORGE,OSORIO CHONG,hgo06p,,,,pri,hgo,1,0,,20030829,,,,,,,,,,1
+59,217,109,MIGUEL ANGEL,OSORIO CHONG,hgo06p,1964,M,,pri,hgo,1,0,,20030829,20041119,,,,,,ran for Hgo gov won,,59-sen,1
 59,218,609,ALFREDO,BEJOS NICOLAS,hgo06s,,M,,pri,hgo,1,1,,20041125,,,,,,,,,59-63,1
-59,219,110,MOISES,JIMENEZ SANCHEZ ,hgo07p,,,,pri,hgo,1,0,,20030829,20060222,20060329,,,,,"Salió del pri, quedó indep",,,1
+59,219,110,MOISES,JIMENEZ SANCHEZ ,hgo07p,,,,pri,hgo,1,0,,20030829,20060222,20060329,,,,,Salió del pri quedó indep,,,1
 59,220,610,MARIA GUADALUPE,MUÑOZ ROMERO,hgo07s,,,,pri,hgo,1,1,,,,,,,,,,,,
 59,221,111,FRANCISCO JAVIER,GUIZAR RAMIREZ,jal01p,,,,pri,jal,1,0,,20030829,,,,,,,,,,1
 59,222,611,BENITO,CHAVEZ MONTENEGRO ,jal01s,,,,pri,jal,1,1,,20050621,,,,,,,,,,1
@@ -243,7 +243,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,242,621,CLAUDIA,DELGADILLO GONZALEZ ,jal11s,1972,,,pri,jal,1,1,,20060302,,,,,,,,,59-62,1
 59,243,122,SERGIO,VAZQUEZ GARCIA ,jal12p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
 59,244,622,GERARDO DE JESUS,AGUILAR FLORES,jal12s,,,,pan,jal,1,1,,,,,,,,,,,,
-59,245,123,EVELIA,SANDOVAL URBAN ,jal13p,,,,pri,jal,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,245,123,EVELIA,SANDOVAL URBAN ,jal13p,,,,pri,jal,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,246,623,SERGIO RAUL,GABRIEL LIMON,jal13s,,,,pri,jal,1,1,,,,,,,,,,,,
 59,247,124,CARLOS NOEL,TISCAREÑO RODRIGUEZ ,jal14p,,,,pan,jal,1,0,,20030829,,,,,,,,,,1
 59,248,624,CARLOS ALBERTO,MALDONADO RABAGO,jal14s,,,,pan,jal,1,1,,,,,,,,,,,,
@@ -381,7 +381,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,380,690,DANIEL,BAUTISTA ROCHA,nl05s,,,,pri,nl,1,1,,,,,,,,,,,,
 59,381,191,MAYELA MARIA DE LOURDES,QUIROGA TAMEZ ,nl06p,,,,pri,nl,1,0,,20030829,,,,,,,,,,1
 59,382,691,LILIANA,TIJERINA CANTU,nl06s,,,,pri,nl,1,1,,,,,,,,,,,,
-59,383,192,ALFONSO,GONZALEZ RUIZ ,nl07p,,,,pri,nl,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,383,192,ALFONSO,GONZALEZ RUIZ ,nl07p,,,,pri,nl,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,384,692,KERIMME ISABEL,SURO BARBOSA,nl07s,,,,pri,nl,1,1,,,,,,,,,,,,
 59,385,193,MARIA DE JESUS,AGUIRRE MALDONADO ,nl08p,,,,pri,nl,1,0,,20030829,,,,,,,,,59-61,1
 59,386,693,GILBERTO,TREVIÑO AGUIRRE,nl08s,,,,pri,nl,1,1,,,,,,,,,,,,
@@ -413,9 +413,9 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,412,706,MARIA MERCEDES,ROJAS SALDAÑA,oax10s,,,,pri,oax,1,1,,,,,,,,,,,,
 59,413,207,GONZALO,RUIZ CERON ,oax11p,,,,pri,oax,1,0,,20030829,,,,,,,,,,1
 59,414,707,PEDRO GUSTAVO,CABRERA RIVERO,oax11s,,,,pri,oax,1,1,,20060316,,,,,,,,,,1
-59,415,208,FIDEL RENE,MEZA CABRERA ,pue01p,,,,pri,pue,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,415,208,FIDEL RENE,MEZA CABRERA ,pue01p,,,,pri,pue,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,416,708,TOMAS,MARTINEZ ROLDAN,pue01s,,,,pri,pue,1,1,,,,,,,,,,,,
-59,417,209,JOSE GUILLERMO,ARECHIGA SANTAMARIA ,pue02p,1958,,,pri,pue,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,59-sen-62,1
+59,417,209,JOSE GUILLERMO,ARECHIGA SANTAMARIA ,pue02p,1958,,,pri,pue,1,0,,20030829,,,,,,,Salió del pri quedó indep,,59-sen-62,1
 59,418,709,JUAN MANUEL,LOPEZ ARROYO,pue02s,,,,pri,pue,1,1,,,,,,,,,,,,
 59,419,210,JOSE LUIS,FLORES HERNANDEZ ,pue03p,1950,,,pri,pue,1,0,,20030829,,,,,,,,,57-59,1
 59,420,710,LUDIVINO,MORA TEJEDA,pue03s,,,,pri,pue,1,1,,,,,,,,,,,,
@@ -423,7 +423,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,422,711,XOCHITL MARGARITA,LOBATO VALLE,pue04s,,,,pri,pue,1,1,,,,,,,,,,,,
 59,423,212,ADRIAN VICTOR HUGO,ISLAS HERNANDEZ,pue05p,,,,pri,pue,1,0,,20030829,,,,,,,,,,1
 59,424,712,JULIETA DEL ROCIO,HERNANDEZ MACIAS,pue05s,,,,pri,pue,1,1,,,,,,,,,,,,
-59,425,213,JORGE ROBERTO RUIZ,ESPARZA ORUÑA,pue06p,,,,pan,pue,1,0,,20030829,,,,,,,"Salió del pan, quedó indep",,,1
+59,425,213,JORGE ROBERTO RUIZ,ESPARZA ORUÑA,pue06p,,,,pan,pue,1,0,,20030829,,,,,,,Salió del pan quedó indep,,,1
 59,426,713,MARIA CECILIA DEL ROSARIO,ESPINO GONZALEZ,pue06s,,,,pan,pue,1,1,,,,,,,,,,,,
 59,427,214,JESUS,MORALES FLORES ,pue07p,1946,,,pri,pue,1,0,,20030829,,,,,,,,,59-62,1
 59,428,714,DULCE MARIA,PALACIOS FORTIZ,pue07s,,,,pri,pue,1,1,,,,,,,,,,,,
@@ -443,7 +443,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,442,721,ROSALBA,GERMAN HERMOSILLO,pue14s,,,,pri,pue,1,1,,,,,,,,,,,,
 59,443,222,MARIA DEL CARMEN,IZAGUIRRE FRANCOS,pue15p,,,,pri,pue,1,0,,20030829,,,,,,,,,59-61,1
 59,444,722,JOSE VALENTIN,CUBILLAS ROMERO,pue15s,,,,pri,pue,1,1,,,,,,,,,,,,
-59,445,223,JOSE ALFONSO,MUÑOZ MUÑOZ ,que01p,,,,pri,que,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,445,223,JOSE ALFONSO,MUÑOZ MUÑOZ ,que01p,,,,pri,que,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,446,723,ANGEL ARIEL,HERNANDEZ HURTADO,que01s,,,,pri,que,1,1,,,,,,,,,,,,
 59,447,224,ROGELIO,CHAVARRIA SALAS ,que02p,,,,pan,que,1,0,,20030829,,,,,,,,,,1
 59,448,724,BALBINA,MATA TREJO,que02s,,,,pan,que,1,1,,,,,,,,,,,,
@@ -459,7 +459,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,458,729,AGUSTIN,SANCHEZ LUGO,san01s,,,,pri,san,1,1,,,,,,,,,,,,
 59,459,230,ALVARO,ELIAS LOREDO ,san02p,,M,,pan,san,1,0,,20030829,,,,,,,,,57-59,1
 59,460,730,JAVIER,PALOALTO MACIAS,san02s,,,,pan,san,1,1,,,,,,,,,,,,
-59,461,231,JOSE LUIS,BRIONES BRISEÑO,san03p,,,,pri,san,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,461,231,JOSE LUIS,BRIONES BRISEÑO,san03p,,,,pri,san,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,462,731,SERGIO,JUAREZ BERRONES,san03s,,,,pri,san,1,1,,,,,,,,,,,,
 59,463,232,JOSE MARIA,DE LA VEGA LARRAGA,san04p,,,,pri,san,1,0,,20030829,,,,,,,,,,1
 59,464,732,LUIS ANGEL,CONTRERAS MALIBRAN,san04s,,,,pri,san,1,1,,,,,,,,,,,,
@@ -467,7 +467,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,466,733,PAOLA KARINA,RODRIGUEZ ESPINDOLA,san05s,,,,pan,san,1,1,,,,,,,,,,,,
 59,467,234,FRANCISCO XAVIER,SALAZAR DIEZ DE SOLLANO,san06p,,,,pan,san,1,0,,20030829,,,,,,,,,,1
 59,468,734,ANA LUZ,JUAREZ ALEJO,san06s,,,,pan,san,1,1,,,,,,,,,,,,
-59,469,235,BENJAMIN,SAGAHON MEDINA ,san07p,,,,pri,san,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,469,235,BENJAMIN,SAGAHON MEDINA ,san07p,,,,pri,san,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,470,735,JORGE ENRIQUE,ESPINOZA VAZQUEZ,san07s,,,,pri,san,1,1,,,,,,,,,,,,
 59,471,236,FRANCISCO,FRIAS CASTRO ,sin01p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
 59,472,736,MARCOS RENE,PALAFOX PARRA,sin01s,,,,pri,sin,1,1,,,,,,,,,,,,
@@ -479,7 +479,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,478,739,ELIAZAR,CERVANTES,sin04s,,,,pri,sin,1,1,,,,,,,,,,,,
 59,479,240,GUADALUPE DE JESUS,VIZCARRA CALDERON,sin05p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
 59,480,740,IRMA GUADALUPE,MORENO OVALLES ,sin05s,,F,,pri,sin,1,1,,20050201,,,,,,,,,59-610,1
-59,481,241,JORGE ABEL,LOPEZ SANCHEZ,sin06p,,,,pri,sin,1,0,,20030829,20030616,,,,,,"Salió del pri, quedó indep",,,1
+59,481,241,JORGE ABEL,LOPEZ SANCHEZ,sin06p,,,,pri,sin,1,0,,20030829,20030616,,,,,,Salió del pri quedó indep,,,1
 59,482,741,BERNARDO,VEGA CARLOS ,sin06s,,,,pri,sin,1,1,,20030904,,,,,,,,,,1
 59,483,242,OSCAR,FELIX OCHOA ,sin07p,,,,pri,sin,1,0,,20030829,,,,,,,,,,1
 59,484,742,GUSTAVO ELIAS,CORDOVA MORENO,sin07s,,,,pri,sin,1,1,,,,,,,,,,,,
@@ -521,7 +521,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,520,760,ERICK AGUSTIN,SILVA SANTOS ,tam04s,,,,pri,tam,1,1,,20040830,,,,,,,,,,1
 59,521,261,HUMBERTO FRANCISCO,FILIZOLA HACES ,tam05p,,,,pri,tam,1,0,,20030829,,,,,,,,,,1
 59,522,761,GRACIELA,DE ALEJANDRO ACEVEDO,tam05s,,,,pri,tam,1,1,,,,,,,,,,,,
-59,523,262,OSCAR MARTIN,RAMOS SALINAS ,tam06p,,,,pri,tam,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,523,262,OSCAR MARTIN,RAMOS SALINAS ,tam06p,,,,pri,tam,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,524,762,LUCIA ADRIANA,DIEZ PIÑEYRO,tam06s,,,,pri,tam,1,1,,,,,,,,,,,,
 59,525,263,GONZALO,ALEMAN MIGLIOLO ,tam07p,,,,pri,tam,1,0,,20030829,,,,,,,,,,1
 59,526,763,EDNA ZAMIRA,LOPEZ LOJERO,tam07s,,,,pri,tam,1,1,,,,,,,,,,,,
@@ -537,7 +537,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,536,768,DANIEL,SEGURA GARCIA,ver01s,,,,pan,ver,1,1,,,,,,,,,,,,
 59,537,269,UBALDO,AGUILAR FLORES,ver02p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
 59,538,769,MANUELA,VAZQUEZ TENORIO,ver02s,,,,pri,ver,1,1,,,,,,,,,,,,
-59,539,270,ALFONSO,SANCHEZ HERNANDEZ ,ver03p,,,,pri,ver,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,539,270,ALFONSO,SANCHEZ HERNANDEZ ,ver03p,,,,pri,ver,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,540,770,MARTIN,CRISTOBAL CRUZ,ver03s,,,,pri,ver,1,1,,,,,,,,,,,,
 59,541,271,JUAN,BUSTILLOS MONTALVO ,ver04p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
 59,542,771,JOSE ANTONIO,AVILES GERARDO,ver04s,,,,pri,ver,1,1,,,,,,,,,,,,
@@ -547,7 +547,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,546,773,EMILIANO,LOPEZ CRUZ,ver06s,,,,pri,ver,1,1,,,,,,,,,,,,
 59,547,274,GUILLERMO,ZORRILLA FERNANDEZ ,ver07p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
 59,548,774,FILADELFO,LANDA ORTIZ,ver07s,,,,pri,ver,1,1,,,,,,,,,,,,
-59,549,275,GUSTAVO,MORENO RAMOS ,ver08p,,,,pri,ver,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,59-63,1
+59,549,275,GUSTAVO,MORENO RAMOS ,ver08p,,,,pri,ver,1,0,,20030829,,,,,,,Salió del pri quedó indep,,59-63,1
 59,550,775,RICARDO ANTONIO,LANDA CANO,ver08s,,,,pri,ver,1,1,,,,,,,,,,,,
 59,551,276,ERNESTO,ALARCON TRUJILLO ,ver09p,,,,pri,ver,1,0,,20030829,,,,,,,,,,1
 59,552,776,KENIA,HERRERA FERNANDEZ,ver09s,,,,pri,ver,1,1,,,,,,,,,,,,
@@ -587,7 +587,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,586,793,MARIO ALBERTO RAMON,GRANIEL ORTEGA,yuc03s,,,,pan,yuc,1,1,,,,,,,,,,,,
 59,587,294,VIRGINIA,BAEZA ESTRELLA ,yuc04p,,,,pan,yuc,1,0,,20030829,,,,,,,,,,1
 59,588,794,JOSE BENJAMIN,CHACON CASTILLO,yuc04s,,,,pan,yuc,1,1,,,,,,,,,,,,
-59,589,295,ANGEL,CANUL PACAB ,yuc05p,,,,pri,yuc,1,0,,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,589,295,ANGEL,CANUL PACAB ,yuc05p,,,,pri,yuc,1,0,,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,590,795,YAMILY MANUELA,ESCOBEDO LOPEZ,yuc05s,,,,pri,yuc,1,1,,,,,,,,,,,,
 59,591,296,GUILLERMO,HUIZAR CARRANZA ,zac01p,,,,prd,zac,1,0,,20030829,,,,,,,,,,1
 59,592,796,LAURA ISELA,RUIZ GONZALEZ,zac01s,,,,prd,zac,1,1,,,,,,,,,,,,
@@ -617,7 +617,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,616,808,MARIA ELVIRA,VEGA AUDELO,zrp008s,,,,pri,bcs,0,1,--,,,,,,,,,,,
 59,617,309,ADRIAN,CHAVEZ RUIZ ,zrp009p,,,,prd,bcs,0,0,--,20030829,,,,,,,,,,1
 59,618,809,EDEN NATALY,COVARRUBIAS GONZALEZ,zrp009s,,,,prd,bcs,0,1,--,,,,,,,,,,,
-59,619,310,ISIDRO,CAMARILLO ZAVALA ,zrp010p,,,,pan,bcs,0,0,--,20030829,,,,,,,"Salió del pan, quedó indep",,,1
+59,619,310,ISIDRO,CAMARILLO ZAVALA ,zrp010p,,,,pan,bcs,0,0,--,20030829,,,,,,,Salió del pan quedó indep,,,1
 59,620,810,MIRIAM MARINA,MUÑOZ VARGAS,zrp010s,,,,pan,bcs,0,1,--,,,,,,,,,,,
 59,621,311,GUADALUPE,FONZ SAENZ ,zrp011p,,,,pri,cam,0,0,--,20030829,,,,,,,,,,1
 59,622,811,JORGE ENRIQUE,HERNANDEZ BIELMA,zrp011s,,,,pri,cam,0,1,--,,,,,,,,,,,
@@ -647,7 +647,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,646,823,JACQUELINE,BARRIOS GOMEZ,zrp023s,,,,pt,col,0,1,--,,,,,,,,,,,
 59,647,324,SAMI GABRIEL,DAVID DAVID ,zrp024p,,,,pri,cps,0,0,--,20030829,,,,,,,,,,1
 59,648,824,ANTONIO SELEM HURTADO,DE MENDOZA,zrp024s,,,,pri,cps,0,1,--,,,,,,,,,,,
-59,649,325,SONIA,RINCON CHANONA ,zrp025p,,,,pri,cps,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,59-62,1
+59,649,325,SONIA,RINCON CHANONA ,zrp025p,,,,pri,cps,0,0,--,20030829,,,,,,,Salió del pri quedó indep,,59-62,1
 59,650,825,SELENE VERONICA,FLORES MOGUEL,zrp025s,,,,pri,cps,0,1,--,,,,,,,,,,,
 59,651,326,JANETTE,OVANDO REAZOLA ,zrp026p,,,,pan,cps,0,0,--,20030829,,,,,,,,,59-63,1
 59,652,826,JAVIER,JIMENEZ CORZO,zrp026s,,,,pan,cps,0,1,--,,,,,,,,,,,
@@ -681,7 +681,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,680,840,JESUS EDUARDO,TOLEDANO LANDERO,zrp040s,,,,pri,df,0,1,--,,,,,,,,,,,
 59,681,341,FRANCISCO SUAREZ,Y DAVILA ,zrp041p,,,,pri,df,0,0,--,20030829,,,,,,,,,,1
 59,682,841,OFELIA SOCORRO,JASSO NIETO,zrp041s,,,,pri,df,0,1,--,,,,,,,,,,570-590-630,
-59,683,342,ROBERTO,VEGA Y GALINA,zrp042p,,,,pri,df,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,683,342,ROBERTO,VEGA Y GALINA,zrp042p,,,,pri,df,0,0,--,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,684,842,ROSA DE LOURDES,GARCIA TOVAR,zrp042s,,,,pri,df,0,1,--,,,,,,,,,,,
 59,685,343,PATRICIA,GARDUÑO MORALES,zrp043p,,,,pan,df,0,0,--,20030829,,,,,,,,,,1
 59,686,843,FRANCISCO,FLORES GONZALEZ,zrp043s,,,,pan,df,0,1,--,20060427,,,,,,,,,,1
@@ -727,7 +727,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,726,863,MIGUEL,OROZCO GOMEZ,zrp063s,,,,pvem,df,0,1,--,,,,,,,,,,590-610-620,
 59,727,364,MIGUEL,MORENO GARAVILLA ,zrp064p,,,,conv,df,0,0,--,20030829,,,,,,,,,,1
 59,728,864,GUILLERMO,ROJAS RUBIN,zrp064s,,,,conv,df,0,1,--,,,,,,,,,,,
-59,729,365,JOSE ANGEL,IBAÑEZ MONTES ,zrp065p,,,,pri,dgo,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,729,365,JOSE ANGEL,IBAÑEZ MONTES ,zrp065p,,,,pri,dgo,0,0,--,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,730,865,ALEJANDRINO,HERRERA BAILON,zrp065s,,,,pri,dgo,0,1,--,,,,,,,,,,,
 59,731,366,NORMA,SOTELO OCHOA ,zrp066p,,,,pri,dgo,0,0,--,20030829,,,,,,,,,,1
 59,732,866,CARMEN AIDE,QUIÑONEZ RUIZ,zrp066s,,,,pri,dgo,0,1,--,,,,,,,,,,,
@@ -767,7 +767,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,766,883,MARTHA AURORA,PALACIOS JIMENEZ,zrp083s,,,,pri,jal,0,1,--,,,,,,,,,,,
 59,767,384,JOSE,GARCIA ORTIZ ,zrp084p,,,,pri,jal,0,0,--,20030829,,,,,,,,,,1
 59,768,884,XIOMARA,ESTAVILLO DIAZ,zrp084s,,,,pri,jal,0,1,--,,,,,,,,,,,
-59,769,385,LETICIA,GUTIERREZ CORONA ,zrp085p,,,,pri,jal,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,769,385,LETICIA,GUTIERREZ CORONA ,zrp085p,,,,pri,jal,0,0,--,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,770,885,LUIS CARLOS,TAPIA PEREZ,zrp085s,,,,pri,jal,0,1,--,,,,,,,,,,,
 59,771,386,JESUS,LOMELI ROSAS ,zrp086p,,,,pri,jal,0,0,--,20030829,,,,,,,,,,1
 59,772,886,JUANA MARICELA,SPINDOLA GARCIA,zrp086s,,,,pri,jal,0,1,--,,,,,,,,,,,
@@ -875,7 +875,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,874,937,MARIA LETICIA,LOPEZ JIMENEZ,zrp137s,,,,pan,nl,0,1,--,,,,,,,,,,,
 59,875,438,PEDRO,VAZQUEZ GONZALEZ ,zrp138p,1953,,,pt,nl,0,0,--,20030829,20060711,,,,,,,,59-61-640,1
 59,876,938,LIDIA,VAZQUEZ LUJAN,zrp138s,,,,pt,nl,0,1,--,,,,,,,,,,,
-59,877,439,TATIANA,CLOUTHIER CARRILLO ,zrp139p,1964,,,pan,nl,0,0,--,20030829,,,,,,,"Salió del pan, quedó indep",,55-59-64,1
+59,877,439,TATIANA,CLOUTHIER CARRILLO ,zrp139p,1964,,,pan,nl,0,0,--,20030829,,,,,,,Salió del pan quedó indep,,55-59-64,1
 59,878,939,JORGE LUIS,MANCILLA GUTIERREZ,zrp139s,,,,pan,nl,0,1,--,,,,,,,,,,,
 59,879,440,LINO,CELAYA LURIA ,zrp140p,,,,pri,oax,0,0,--,20030829,,,,,,,,,,1
 59,880,940,GIOVANNA GUIOMARA,ORTEGA MILLET,zrp140s,,,,pri,oax,0,1,--,,,,,,,,,,,
@@ -997,5 +997,5 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 59,996,998,ANA MARIA,AVILA FLORES,zrp198s,,,,pan,zac,0,1,--,,,,,,,,,,,
 59,997,499,JOSE LUIS,MEDINA LIZALDE ,zrp199p,,,,prd,zac,0,0,--,20030829,,,,,,,,,,1
 59,998,999,TERESINA,CASAS CASTRO,zrp199s,,,,prd,zac,0,1,--,,,,,,,,,,,
-59,999,500,MARTIN,CARRILLO GUZMAN ,zrp200p,,,,pri,zac,0,0,--,20030829,,,,,,,"Salió del pri, quedó indep",,,1
+59,999,500,MARTIN,CARRILLO GUZMAN ,zrp200p,,,,pri,zac,0,0,--,20030829,,,,,,,Salió del pri quedó indep,,,1
 59,1000,1000,OLGA AZUCENA,VALENZUELA LOPEZ,zrp200s,,,,pri,zac,0,1,--,,,,,,,,,,,
