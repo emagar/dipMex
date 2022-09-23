@@ -73,61 +73,61 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,72,536,,,cps12s,,m,morena,,1,1,,,,,,,,,
 65,73,37,LUIS ARMANDO,MELGAR BRAVO,cps13p,1966,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,74,537,,,cps13s,,m,pvem,,1,1,,,,,,,,,
-65,75,38,DANIEL,MURGUIA LARDIZABAL,cua01p,,m,morena,morena,1,0,20210830,,,2024,,,,,
+65,75,38,DANIEL,MURGUIA LARDIZABAL,cua01p,1966,m,morena,morena,1,0,20210830,,,2024,,,,,
 65,76,538,,,cua01s,,m,morena,,1,1,,,,,,,,,
-65,77,39,TERESITA DE JESUS,VARGAS MERAZ,cua02p,,f,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,77,39,TERESITA DE JESUS,VARGAS MERAZ,cua02p,1989,f,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,78,539,,,cua02s,,f,morena,,1,1,,,,,,,,,
-65,79,40,LILIA,AGUILAR GIL,cua03p,,f,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,79,40,LILIA,AGUILAR GIL,cua03p,1977,f,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,80,540,,,cua03s,,f,pt,,1,1,,,,,,,,,
-65,81,41,DANIELA SORAYA,ALVAREZ HERNANDEZ,cua04p,,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,81,41,DANIELA SORAYA,ALVAREZ HERNANDEZ,cua04p,1983,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,82,541,,,cua04s,,f,pan,,1,1,,,,,,,,,
-65,83,42,MARIO,MATA CARRASCO,cua05p,,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
-65,84,542,,,cua05s,,m,pan,,1,1,,,,,,,,,
-65,85,43,LAURA PATRICIA,CONTRERAS DUARTE,cua06p,,f,pan,pan,1,0,20210830,,,2024,,,,,
+65,83,42,MARIO,MATA CARRASCO,cua05p,1962,m,pan,pan,1,0,20210830,20220524,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,84,542,SALVADOR,ALCANTAR ORTEGA,cua05s,,m,pan,,1,1,20220525,,,,,,,,"Fue pres mun de la cruz, cua 1986-89"
+65,85,43,LAURA PATRICIA,CONTRERAS DUARTE,cua06p,1981,f,pan,pan,1,0,20210830,,,2024,,,,,
 65,86,543,,,cua06s,,f,pan,,1,1,,,,,,,,,
-65,87,44,PATRICIA,TERRAZAS BACA,cua07p,,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,87,44,PATRICIA,TERRAZAS BACA,cua07p,1966,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,88,544,,,cua07s,,f,pan,,1,1,,,,,,,,,
-65,89,45,CARMEN ROCIO,GONZALEZ ALONSO,cua08p,,f,pan,pan,1,0,20210830,,,2024,,,,,
+65,89,45,CARMEN ROCIO,GONZALEZ ALONSO,cua08p,1981,f,pan,pan,1,0,20210830,,,2024,,,,,
 65,90,545,,,cua08s,,f,pan,,1,1,,,,,,,,,
-65,91,46,MARIA DE LOS ANGELES,GUTIERREZ VALDEZ,cua09p,,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,91,46,MARIA DE LOS ANGELES,GUTIERREZ VALDEZ,cua09p,1962,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,92,546,,,cua09s,,f,pan,,1,1,,,,,,,,,
-65,93,47,ERIKA VANESSA DEL,CASTILLO IBARRA,df01p,,f,morena,morena,1,0,20210830,,,2024,,,,,
+65,93,47,ERIKA VANESSA,DEL CASTILLO IBARRA,df01p,1978,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,94,547,,,df01s,,f,morena,,1,1,,,,,,,,,
-65,95,48,MARIBEL GUADALUPE,VILLASEÑOR DAVILA,df02p,,f,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,95,48,MARIBEL GUADALUPE,VILLASEÑOR DAVILA,df02p,1983,f,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,96,548,,,df02s,,f,pri,,1,1,,,,,,,,,
-65,97,49,WENDY,GONZALEZ URRUTIA,df03p,,f,pan,pan,1,0,20210830,,,2024,,,,,tepjf anulo casillas quito triunfo a GABRIELA GEORGINA JIMENEZ GODOY pvem.pt.morena
+65,97,49,WENDY,GONZALEZ URRUTIA,df03p,1976,f,pan,pan,1,0,20210830,,,2024,,,,,tepjf anulo casillas quito triunfo a GABRIELA GEORGINA JIMENEZ GODOY pvem.pt.morena
 65,98,549,,,df03s,,f,pan,,1,1,,,,,,,,,
-65,99,50,JOSE GERARDO RODOLFO,FERNANDEZ NOROÑA,df04p,,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,99,50,JOSE GERARDO RODOLFO,FERNANDEZ NOROÑA,df04p,1960,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,100,550,,,df04s,,m,pt,,1,1,,,,,,,,,
-65,101,51,KARLA,AYALA VILLALOBOS,df05p,,f,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,101,51,KARLA,AYALA VILLALOBOS,df05p,1999,f,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,102,551,,,df05s,,f,pri,,1,1,,,,,,,,,
-65,103,52,DIANA MARIA TERESA,LARA CARREON,df06p,,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,103,52,DIANA MARIA TERESA,LARA CARREON,df06p,1985,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,104,552,,,df06s,,f,pan,,1,1,,,,,,,,,
-65,105,53,BEATRIZ,ROJAS MARTINEZ,df07p,,f,morena,morena,1,0,20210830,,,2024,,,,,
+65,105,53,BEATRIZ,ROJAS MARTINEZ,df07p,1966,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,106,553,,,df07s,,f,morena,,1,1,,,,,,,,,
-65,107,54,MARIA DE JESUS,ROSETE SANCHEZ,df08p,,f,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,107,54,MARIA DE JESUS,ROSETE SANCHEZ,df08p,1960,f,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,108,554,,,df08s,,f,pt,,1,1,,,,,,,,,
-65,109,55,MARIA GUADALUPE,CHAVIRA DE LA ROSA,df09p,,f,morena,morena,1,0,20210830,,,2024,,,,,
+65,109,55,MARIA GUADALUPE,CHAVIRA DE LA ROSA,df09p,1968,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,110,555,,,df09s,,f,morena,,1,1,,,,,,,,,
-65,111,56,MARGARITA ESTER,ZAVALA GOMEZ DEL CAMPO,df10p,,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,111,56,MARGARITA ESTER,ZAVALA GOMEZ DEL CAMPO,df10p,1967,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,112,556,,,df10s,,f,pan,,1,1,,,,,,,,,
-65,113,57,LIDIA,PEREZ BARCENAS,df11p,,f,morena,morena,1,0,20210830,,,2024,,,,,
+65,113,57,LIDIA,PEREZ BARCENAS,df11p,1981,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,114,557,,,df11s,,f,morena,,1,1,,,,,,,,,
 65,115,58,ANA CECILIA LUISA GABRIELA FERNANDA,SODI MIRANDA,df12p,1959,f,prd,prd,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,116,558,,,df12s,,f,prd,,1,1,,,,,,,,,
-65,117,59,OSCAR EUGENIO,GUTIERREZ CAMACHO,df13p,,m,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,117,59,OSCAR EUGENIO,GUTIERREZ CAMACHO,df13p,1973,m,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,118,559,,,df13s,,m,morena,,1,1,,,,,,,,,
-65,119,60,MARIA DEL ROCIO,BANQUELLS NUÑEZ,df14p,,f,prd,mc,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,119,60,MARIA DEL ROCIO,BANQUELLS NUÑEZ,df14p,1958,f,prd,mc,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,120,560,VIOLETA,QUERO CARUZO,df14s,,f,prd,,1,1,,,,,,,,,
-65,121,61,LUIS ALBERTO,MENDOZA ACEVEDO,df15p,,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,121,61,LUIS ALBERTO,MENDOZA ACEVEDO,df15p,1980,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,122,561,,,df15s,,m,pan,,1,1,,,,,,,,,
-65,123,62,XAVIER,GONZALEZ ZIRION,df16p,,m,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
-65,124,562,,,df16s,,m,pri,,1,1,,,,,,,,,
-65,125,63,JORGE,TRIANA TENA,df17p,,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,123,62,XAVIER,GONZALEZ ZIRION,df16p,1968,m,pri,pri,1,0,20210830,20220914,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,124,562,ENRIQUE,GARCIA DE LA PARRA,df16s,1992,m,pri,pri,1,1,20220914,,,,,,,,
+65,125,63,JORGE,TRIANA TENA,df17p,1976,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,126,563,,,df17s,,m,pan,,1,1,,,,,,,,,
-65,127,64,MARCELINO,CASTAÑEDA NAVARRETE,df18p,,m,prd,prd,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,127,64,MARCELINO,CASTAÑEDA NAVARRETE,df18p,1965,m,prd,prd,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,128,564,,,df18s,,m,prd,,1,1,,,,,,,,,
-65,129,65,ALEIDA,ALAVEZ RUIZ,df19p,,f,morena,morena,1,0,20210830,,,2024,,,,,
+65,129,65,ALEIDA,ALAVEZ RUIZ,df19p,1974,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,130,565,,,df19s,,f,morena,,1,1,,,,,,,,,
 65,131,66,ANA KARINA,ROJO PIMENTEL,df20p,,f,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,132,566,,,df20s,,f,pt,,1,1,,,,,,,,,
@@ -153,9 +153,9 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,152,576,,,gua02s,,m,pan,,1,1,,,,,,,,,
 65,153,77,FERNANDO,TORRES GRACIANO,gua03p,,m,pan,pan,1,0,20210830,,,2024,,,,,
 65,154,577,,,gua03s,,m,pan,,1,1,,,,,,,,,
-65,155,78,JUAN CARLOS,ROMERO HICKS,gua04p,,m,pan,pan,1,0,20210830,,,2024,,,,,
+65,155,78,JUAN CARLOS,ROMERO HICKS,gua04p,1955,m,pan,pan,1,0,20210830,,,2024,,,,,
 65,156,578,,,gua04s,,m,pan,,1,1,,,,,,,,,
-65,157,79,ECTOR JAIME,RAMIREZ BARBA,gua05p,,m,pan,pan,1,0,20210830,,,2024,,,,,
+65,157,79,ECTOR JAIME,RAMIREZ BARBA,gua05p,1956,m,pan,pan,1,0,20210830,,,2024,,,,,
 65,158,579,,,gua05s,,m,pan,,1,1,,,,,,,,,
 65,159,80,ANA MARIA,ESQUIVEL ARRONA,gua06p,,f,pan,pan,1,0,20210830,,,2024,,,,,
 65,160,580,,,gua06s,,f,pan,,1,1,,,,,,,,,
@@ -183,7 +183,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,182,591,,,gue02s,,f,morena,,1,1,,,,,,,,,
 65,183,92,LUIS EDGARDO,PALACIOS DIAZ,gue03p,,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,184,592,,,gue03s,,m,pvem,,1,1,,,,,,,,,
-65,185,93,PABLO AMILCAR,SANDOVAL BALLESTEROS,gue04p,,m,morena,morena,1,0,20210830,,,2024,,,,,
+65,185,93,PABLO AMILCAR,SANDOVAL BALLESTEROS,gue04p,1974,m,morena,morena,1,0,20210830,,,2024,,,,,
 65,186,593,,,gue04s,,m,morena,,1,1,,,,,,,,,
 65,187,94,VICTORIANO,WENCES REAL,gue05p,,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,188,594,,,gue05s,,m,pt,,1,1,,,,,,,,,
@@ -225,13 +225,13 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,224,612,,,jal07s,,m,morena,,1,1,,,,,,,,,
 65,225,113,JOSE MAURO,GARZA MARIN,jal08p,,m,mc,mc,1,0,20210830,,,2024,,,,,
 65,226,613,,,jal08s,,m,mc,,1,1,,,,,,,,,
-65,227,114,MARIA DEL ROCIO,CORONA NAKAMURA,jal09p,,f,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,227,114,MARIA DEL ROCIO,CORONA NAKAMURA,jal09p,1964,f,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,228,614,,,jal09s,,f,pvem,,1,1,,,,,,,,,
 65,229,115,HORACIO,FERNANDEZ CASTILLO,jal10p,,m,mc,mc,1,0,20210830,,,2024,,,,,
 65,230,615,,,jal10s,,m,mc,,1,1,,,,,,,,,
 65,231,116,CLAUDIA,DELGADILLO GONZALEZ,jal11p,,f,morena,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,232,616,,,jal11s,,f,morena,,1,1,,,,,,,,,
-65,233,117,MARIA ASENCION,ALVAREZ SOLIS,jal12p,,f,mc,mc,1,0,20210830,,,2024,,,,,
+65,233,117,MARIA ASCENCION,ALVAREZ SOLIS,jal12p,1950,f,mc,mc,1,0,20210830,,,2024,,,,,
 65,234,617,,,jal12s,,f,mc,,1,1,,,,,,,,,
 65,235,118,SERGIO,BARRERA SEPULVEDA,jal13p,,m,mc,mc,1,0,20210830,,,2024,,,,,
 65,236,618,,,jal13s,,m,mc,,1,1,,,,,,,,,
@@ -323,13 +323,13 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,322,661,,,mex36s,,f,pri,,1,1,,,,,,,,,
 65,323,162,JAVIER,HUERTA JURADO,mex37p,,m,morena,morena,1,0,20210830,,,2024,,,,,
 65,324,662,,,mex37s,,m,morena,,1,1,,,,,,,,,
-65,325,163,KARLA YURITZI,ALMAZAN BURGOS,mex38p,,f,morena,morena,1,0,20210830,,,2024,,,,,
+65,325,163,KARLA YURITZI,ALMAZAN BURGOS,mex38p,1974,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,326,663,,,mex38s,,f,morena,,1,1,,,,,,,,,
 65,327,164,ALAN,CASTELLANOS RAMIREZ,mex39p,,m,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,328,664,,,mex39s,,m,pri,,1,1,,,,,,,,,
 65,329,165,JAVIER,GONZALEZ ZEPEDA,mex40p,,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,330,665,,,mex40s,,m,pan,,1,1,,,,,,,,,
-65,331,166,SUE ELLEN,BERNAL BOLNIK,mex41p,,f,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,331,166,SUE ELLEN,BERNAL BOLNIK,mex41p,1982,f,pri,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,332,666,,,mex41s,,f,pri,,1,1,,,,,,,,,
 65,333,167,LEONEL,GODOY RANGEL,mic01p,,m,morena,morena,1,0,20210830,,,2024,,,,,
 65,334,667,,,mic01s,,m,morena,,1,1,,,,,,,,,
@@ -367,9 +367,9 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,366,683,,,mor05s,,m,morena,,1,1,,,,,,,,,
 65,367,184,MIGUEL PAVEL,JARERO VELAZQUEZ,nay01p,1977,m,morena,morena,1,0,20210830,20210901,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,368,684,FELIX,DURAN RUIZ,nay01s,,m,morena,morena,1,1,20210901,,,,,,,,
-65,369,185,JASMINE,MARIA BUGARIN ,nay02p,,f,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,369,185,JASMINE MARIA,BUGARIN RODRIGUEZ,nay02p,1986,f,pvem,pri,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,370,685,,,nay02s,,f,pvem,,1,1,,,,,,,,,
-65,371,186,JORGE ARMANDO,ORTIZ RODRIGUEZ,nay03p,,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,371,186,JORGE ARMANDO,ORTIZ RODRIGUEZ,nay03p,1979,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,372,686,,,nay03s,,m,pt,,1,1,,,,,,,,,
 65,373,187,HECTOR ISRAEL,CASTILLO OLIVARES,nl01p,,m,pan,pan,1,0,20210830,,,2024,,,,,
 65,374,687,,,nl01s,,m,pan,,1,1,,,,,,,,,
@@ -383,7 +383,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,382,691,,,nl05s,,f,pri,,1,1,,,,,,,,,
 65,383,192,ANNIA SARAHI,GOMEZ CARDENAS,nl06p,,f,pan,pan,1,0,20210830,,,2024,,,,,
 65,384,692,,,nl06s,,f,pan,,1,1,,,,,,,,,
-65,385,193,ANDRES,PINTOS CABALLERO,nl07p,,m,pvem,mc,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,385,193,ANDRES,PINTOS CABALLERO,nl07p,1976,m,pvem,mc,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,386,693,JEAN MICHEL,WILLARS RUBIO,nl07s,,m,pvem,,1,1,,,,,,,,,
 65,387,194,MARIA DE JESUS,AGUIRRE MALDONADO,nl08p,,f,pri,pri,1,0,20210830,,,2024,,,,,
 65,388,694,,,nl08s,,f,pri,,1,1,,,,,,,,,
@@ -455,13 +455,13 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,454,727,,,que04s,,m,pan,,1,1,,,,,,,,,
 65,455,228,ERIKA DE LOS ANGELES,DIAZ VILLALON,que05p,,f,pan,pan,1,0,20210830,,,2024,,,,,
 65,456,728,,,que05s,,f,pan,,1,1,,,,,,,,,
-65,457,229,JUAN LUIS,CARRILLO SOBERANIS,qui01p,,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,457,229,JUAN LUIS,CARRILLO SOBERANIS,qui01p,1983,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,458,729,,,qui01s,,m,pvem,,1,1,,,,,,,,,
-65,459,230,ALMA ANAHI,GONZALEZ HERNANDEZ,qui02p,,f,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,459,230,ALMA ANAHI,GONZALEZ HERNANDEZ,qui02p,1992,f,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,460,730,,,qui02s,,f,morena,,1,1,,,,,,,,,
-65,461,231,WILLBERT ALBERTO,BATUN CHULIM,qui03p,,m,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,461,231,WILLBERT ALBERTO,BATUN CHULIM,qui03p,1980,m,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,462,731,,,qui03s,,m,morena,,1,1,,,,,,,,,
-65,463,232,LAURA LYNN,FERNANDEZ PIÑA,qui04p,,f,pvem,prd,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,463,232,LAURA LYNN,FERNANDEZ PIÑA,qui04p,1971,f,pvem,prd,1,0,20210830,20220304,20220606,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,464,732,no hay,no hay,qui04s,,f,pvem,,1,1,,,,,,,,,
 65,465,233,ROBERTO ALEJANDRO,SEGOVIA HERNANDEZ,san01p,,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,466,733,,,san01s,,m,pvem,,1,1,,,,,,,,,
@@ -563,7 +563,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,562,781,,,ver10s,,m,morena,,1,1,,,,,,,,,
 65,563,282,FLORA TANIA,CRUZ SANTOS,ver11p,,f,morena,morena,1,0,20210830,,,2024,,,,,
 65,564,782,,,ver11s,,f,morena,,1,1,,,,,,,,,
-65,565,283,MARIA JOSEFINA,GAMBOA TORALES,ver12p,,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,565,283,MARIA JOSEFINA,GAMBOA TORALES,ver12p,1977,f,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,566,783,,,ver12s,,f,pan,,1,1,,,,,,,,,
 65,567,284,ANGELICA,PEÑA MARTINEZ,ver13p,,f,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,568,784,,,ver13s,,f,pvem,,1,1,,,,,,,,,
@@ -581,23 +581,23 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,dsmd,dsup,in1,out1,in2,race-after,
 65,580,790,,,ver19s,,f,morena,,1,1,,,,,,,,,
 65,581,291,ESTEBAN,BAUTISTA HERNANDEZ,ver20p,,m,morena,morena,1,0,20210830,,,2024,,,,,
 65,582,791,,,ver20s,,m,morena,,1,1,,,,,,,,,
-65,583,292,SERGIO ENRIQUE,CHALE CAUICH,yuc01p,,m,pan,pan,1,0,20210830,,,2024,,,,,
+65,583,292,SERGIO ENRIQUE,CHALE CAUICH,yuc01p,1969,m,pan,pan,1,0,20210830,,,2024,,,,,
 65,584,792,,,yuc01s,,m,pan,,1,1,,,,,,,,,
-65,585,293,MARIO XAVIER,PERAZA RAMIREZ,yuc02p,,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,585,293,MARIO XAVIER,PERAZA RAMIREZ,yuc02p,1981,m,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,586,793,,,yuc02s,,m,pvem,,1,1,,,,,,,,,
-65,587,294,ROMMEL AGHMED,PACHECO MARRUFO,yuc03p,,m,pan,pan,1,0,20210830,,,2024,,,,,
+65,587,294,ROMMEL AGHMED,PACHECO MARRUFO,yuc03p,1986,m,pan,pan,1,0,20210830,,,2024,,,,,
 65,588,794,,,yuc03s,,m,pan,,1,1,,,,,,,,,
-65,589,295,CECILIA ANUNCIACION,PATRON LAVIADA,yuc04p,,f,pan,pan,1,0,20210830,,,2024,,,,,
+65,589,295,CECILIA ANUNCIACION,PATRON LAVIADA,yuc04p,1971,f,pan,pan,1,0,20210830,,,2024,,,,,
 65,590,795,,,yuc04s,,f,pan,,1,1,,,,,,,,,
-65,591,296,CONSUELO DEL CARMEN,NAVARRETE NAVARRO,yuc05p,,f,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,591,296,CONSUELO DEL CARMEN,NAVARRETE NAVARRO,yuc05p,1962,f,pvem,pvem,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,592,796,,,yuc05s,,f,pvem,,1,1,,,,,,,,,
 65,593,297,BENNELLY JOCABETH,HERNANDEZ RUEDAS,zac01p,,f,morena,morena,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,594,797,,,zac01s,,f,morena,,1,1,,,,,,,,,
 65,595,298,MIGUEL ANGEL,VARELA PINEDO,zac02p,,m,pan,pan,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,596,798,,,zac02s,,m,pan,,1,1,,,,,,,,,
-65,597,299,ALFREDO,FEMAT BAÑUELOS,zac03p,,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
+65,597,299,ALFREDO,FEMAT BAÑUELOS,zac03p,1961,m,pt,pt,1,0,20210830,,,2024,,,,,elec-coal=PVEM.PT.MORENA
 65,598,799,,,zac03s,,m,pt,,1,1,,,,,,,,,
-65,599,300,CAROLINA,DAVILA RAMIREZ,zac04p,,f,prd,prd,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
+65,599,300,CAROLINA,DAVILA RAMIREZ,zac04p,1987,f,prd,pri,1,0,20210830,,,2024,,,,,elec-coal=PAN.PRI.PRD
 65,600,800,,,zac04s,,f,prd,,1,1,,,,,,,,,
 65,601,301,,,rp,,,,,0,0,,,,,,,,,
 65,602,801,,,rps,,,,,0,1,,,,,,,,,
