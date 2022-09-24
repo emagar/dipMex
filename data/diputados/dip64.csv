@@ -375,7 +375,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 64,374,687,JORGE ALBERTO,ARRAMBIDE MONTEMAYOR,nl01s,,m,pan,,nl,1,1,SANTA CATARINA,,,,,,,,0,0,0,0,sesión instalación cámara diputados,,0,
 64,375,188,MARIA GUILLERMINA,ALVARADO MORENO,nl02p,1968,f,pes,morena,nl,1,0,APODACA,20180829,,,,,,,1,1,1,0,sesión instalación cámara diputados,,1,
 64,376,688,REBECA LIDIA,GARCIA VALLEJO,nl02s,,f,pes,,nl,1,1,APODACA,,,,,,,,0,0,0,0,sesión instalación cámara diputados,,0,
-64,377,189,JOSE LUIS,GARCIA DUQUE,nl03p,1967,m,morena,pt,nl,1,0,GRAL ESCOBEDO,20180829,,,,,,,1,1,1,1,sesión instalación cámara diputados,,1,
+64,377,189,JOSE LUIS,GARCIA DUQUE,nl03p,1967,m,morena,pt,nl,1,0,GRAL ESCOBEDO,20180829,,,,,,,1,1,1,0,sesión instalación cámara diputados,,1,TEPJF revoco triunfo Morena
 64,378,689,JUAN HUGO,LOPEZ FLORES,nl03s,,m,morena,,nl,1,1,GRAL ESCOBEDO,,,,,,,,0,0,0,0,sesión instalación cámara diputados,,0,
 64,379,190,RICARDO,FLORES SUAREZ,nl04p,1977,m,pan,pan,nl,1,0,SAN NICOLAS DE LOS GARZA,20180829,,,,,,,0,0,0,0,sesión instalación cámara diputados,62-64,1,
 64,380,690,JULIO CESAR,ALVARADO MENDOZA,nl04s,,m,pan,,nl,1,1,SAN NICOLAS DE LOS GARZA,,,,,,,,0,0,0,0,sesión instalación cámara diputados,,0,
@@ -931,8 +931,8 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 64,930,965,AMANDO,EMBARCADERO PEREZ,rp-morena402s,,m,morena,,0,0,1,--,,,,,,,,0,0,,,acuerdo INE,,0,
 64,931,466,DAVID,BAUTISTA RIVERA,rp-morena404p,1981,m,morena,morena,0,0,0,--,20180829,,,,,,,1,0,,,acuerdo INE,,1,
 64,932,966,BENJAMIN,GARCIA VAZQUEZ,rp-morena404s,,m,morena,,0,0,1,--,,,,,,,,0,0,,,acuerdo INE,,0,
-64,933,467,BRENDA,ESPINOZA LOPEZ,rp-morena405p,1988,f,morena,morena,0,0,0,--,20180829,,,,,,,1,1,,,acuerdo INE,,1,
-64,934,967,ROCIO CAROLINA,POZOS PONCE,rp-morena405s,,f,morena,,0,0,1,--,,,,,,,,0,0,,,acuerdo INE,,0,
+64,933,467,BRENDA,ESPINOZA LOPEZ,rp-morena405p,1988,f,morena,morena,0,0,0,--,20180829,20210401,,,,,,1,1,1,1,acuerdo INE,64-65,1,reelected in mor04
+64,934,967,ROCIO CAROLINA,POZOS PONCE,rp-morena405s,,f,morena,,0,0,1,--,20210408,,,,,,,0,0,,,acuerdo INE,,0,
 64,935,468,MOISES IGNACIO,MIER VELAZCO,rp-morena406p,1961,m,morena,morena,0,0,0,--,20180829,,,,,,,1,1,,,acuerdo INE,,1,
 64,936,968,JOSE ALFONSO SUAREZ,DE REAL Y AGUILERA,rp-morena406s,,m,morena,,0,0,1,--,,,,,,,,0,0,,,acuerdo INE,,0,
 64,937,469,LETICIA,DIAZ AGUILAR,rp-morena407p,1964,f,morena,morena,0,0,0,--,20180829,,,,,,,1,0,,,acuerdo INE,,1,
