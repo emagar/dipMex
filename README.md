@@ -1,16 +1,15 @@
-- [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#orgf536dc8)
-- [License](#orgf58d03f)
-- [Citation in BibTex format](#orgf930f5c)
-- [Files included](#org020467f)
-- [Data](#orgd878443)
-- [Codebook](#org0662e75)
-- [Acknowledgements](#orgddbe58c)
-- [Acknowledgements](#org3795ea4)
+- [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#orge7bb8bd)
+- [License](#org06d8dfa)
+- [Citation in BibTex format](#org495f65f)
+- [Files included](#orgc97f1d2)
+- [Data](#org90377fd)
+- [Codebook](#orgda968a3)
+- [Acknowledgements](#orgc649b74)
 
-Last revision: 2021-06-29
+Last revision: 2021-06-29 Report inconsistencies to emagar at itam dot mx.
 
 
-<a id="orgf536dc8"></a>
+<a id="orge7bb8bd"></a>
 
 # Description of *Roll call votes data for the Mexican Chamber of Deputies* repository
 
@@ -23,14 +22,14 @@ The repository contains roll call data for recent Cámaras de Diputados of the M
 Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (`code/getweb/`); databases preparation from raw data (`code/rcPrep`); and descriptive analysis and ideal point estimation (`code/rcAnalysis/`). Raw data is in `data/fromWeb/` directory. ****If interested in clean roll call votes only, simply copy the contents of the `data/votesForWeb/` subdirectory****. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (<http://cran.r-project.org/>) and csv formats.
 
 
-<a id="orgf58d03f"></a>
+<a id="org06d8dfa"></a>
 
 # License
 
 This repository in under the MIT License, see <http://opensource.org/licenses/MIT>. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
 
 
-<a id="orgf930f5c"></a>
+<a id="org495f65f"></a>
 
 # Citation in BibTex format
 
@@ -48,7 +47,7 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 ```
 
 
-<a id="org020467f"></a>
+<a id="orgc97f1d2"></a>
 
 # Files included
 
@@ -73,26 +72,18 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 -   (Under construction)
 
 
-<a id="orgd878443"></a>
+<a id="org90377fd"></a>
 
 # Data
 
-The objects in each R file (zipped together in text-only files) are the following:
-
-<<<<<<< HEAD -dipdat: individual federal deputy information (nom=first name, patmat=last names (patronym and matronym), fm=gender, id=district, part=party, `=====` -dipdat: individual federal deputy information (nom=name, id=district, part=party, >>>>>>> cd7a7409e0be3d3c5513fbd13fbc598a2cb34d86 edo=state, edon=state number, dsmd=indicates single-member district deputies, dis=district number, tipo=propietario or suplente, dcarta=dummy equal 1 for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [this](http://eleccionconsecutiva.diputados.gob.mx/contendientes)), dreran=dummy equal 1 for members renominated, dreelected=dummy equal 1 for members who reelected.
-
--votdat: vote information (favor=ayes, contra=nays, absten=abstained, quorum=present but not voting, ausen=no show, title=motion considered, leg=legislature, yr-mo-dy=vote's date).
-
--rc: roll call vote information (0=was not chamber member, 1=aye, 2=nay, 3=abstained, 4=present but did not vote, 5=no show).
-
--dgaceta: indicates whether (1) or not (0) the vote was also reported by the
-
-**Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
+The objects in each R file (zipped together in text-only files) are the following: -`dipdat` has individual federal deputy information (names, gender, state and district, party, dcarta=dummy equal 1 for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [this](http://eleccionconsecutiva.diputados.gob.mx/contendientes)), dreran=dummy equal 1 for members renominated, dreelected=dummy equal 1 for members who reelected. -`votdat`: has vote information (favor=ayes, contra=nays, absten=abstained, quorum=present but not voting, ausen=no show, title=motion considered, leg=legislature, yr-mo-dy=vote's date). -`rc`: roll call vote information (0=was not chamber member, 1=aye, 2=nay, 3=abstained, 4=present but did not vote, 5=no show). -dgaceta: indicates whether (1) or not (0) the vote was also reported by the **Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
 
 
-<a id="org0662e75"></a>
+<a id="orgda968a3"></a>
 
 # Codebook
+
+Variables usually appear as columns in a data frame. A list of variables included in the files follows.
 
 -   `leg` = Legislature numeral.
 -   `pila` = member's first name and middle names, if any.
@@ -120,12 +111,7 @@ The objects in each R file (zipped together in text-only files) are the followin
 -   `nom` = member's name.
 
 
-<a id="orgddbe58c"></a>
-
-# Acknowledgements
-
-
-<a id="org3795ea4"></a>
+<a id="orgc649b74"></a>
 
 # Acknowledgements
 
