@@ -1,14 +1,16 @@
-- [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#org9f45733)
-- [License](#org2ca3be9)
-- [Citation in BibTex format](#org773b9a1)
-- [Files included](#orgef5c329)
-- [Codebook](#org9bb152a)
-- [Acknowledgements](#org5d60a1e)
+- [Description of *Roll call votes data for the Mexican Chamber of Deputies* repository](#orgf536dc8)
+- [License](#orgf58d03f)
+- [Citation in BibTex format](#orgf930f5c)
+- [Files included](#org020467f)
+- [Data](#orgd878443)
+- [Codebook](#org0662e75)
+- [Acknowledgements](#orgddbe58c)
+- [Acknowledgements](#org3795ea4)
 
 Last revision: 2021-06-29
 
 
-<a id="org9f45733"></a>
+<a id="orgf536dc8"></a>
 
 # Description of *Roll call votes data for the Mexican Chamber of Deputies* repository
 
@@ -21,14 +23,14 @@ The repository contains roll call data for recent Cámaras de Diputados of the M
 Repository contains code, raw data, and clean roll call databases. Code included replicates data downloading from the primary source (`code/getweb/`); databases preparation from raw data (`code/rcPrep`); and descriptive analysis and ideal point estimation (`code/rcAnalysis/`). Raw data is in `data/fromWeb/` directory. ****If interested in clean roll call votes only, simply copy the contents of the `data/votesForWeb/` subdirectory****. Data includes roll call votes of the 60th (1sep2006-31aug2009), 61st (1sep2009-31aug2012), and most of the 62nd (1sep2012-7oct2014) Legislatures. Data is in R (<http://cran.r-project.org/>) and csv formats.
 
 
-<a id="org2ca3be9"></a>
+<a id="orgf58d03f"></a>
 
 # License
 
 This repository in under the MIT License, see <http://opensource.org/licenses/MIT>. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
 
 
-<a id="org773b9a1"></a>
+<a id="orgf930f5c"></a>
 
 # Citation in BibTex format
 
@@ -46,7 +48,7 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 ```
 
 
-<a id="orgef5c329"></a>
+<a id="org020467f"></a>
 
 # Files included
 
@@ -71,9 +73,9 @@ This repository in under the MIT License, see <http://opensource.org/licenses/MI
 -   (Under construction)
 
 
-<a id="org9bb152a"></a>
+<a id="orgd878443"></a>
 
-# Codebook
+# Data
 
 The objects in each R file (zipped together in text-only files) are the following:
 
@@ -83,10 +85,47 @@ The objects in each R file (zipped together in text-only files) are the followin
 
 -rc: roll call vote information (0=was not chamber member, 1=aye, 2=nay, 3=abstained, 4=present but did not vote, 5=no show).
 
--dgaceta: indicates whether (1) or not (0) the vote was also reported by the **Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
+-dgaceta: indicates whether (1) or not (0) the vote was also reported by the
+
+**Gaceta Parlamentaria**, as discussed by Cantu, Desposato, and Magar 2014.
 
 
-<a id="org5d60a1e"></a>
+<a id="org0662e75"></a>
+
+# Codebook
+
+-   `leg` = Legislature numeral.
+-   `pila` = member's first name and middle names, if any.
+-   `patmat` = member's last names (patronym and matronym).
+-   `id` = member's id: state + district + p/s for propietario/suplente.
+-   `birth` = member's birth year.
+-   `gen` = member's gender, \*F\*emale or \*M\*ale.
+-   `postulo` = electoral party or coalition.
+-   `part` = legislative party.
+-   `edo` = member's state.
+-   `dsmd` = dummy equal 1 if member elected in single-member district, 0 otherwise.
+-   `dsup` = dummy equal 1 if member was elected as a substitute (*suplente*), 0 otherwise (*propietario*).
+-   `cabecera` = member's district administrative head.
+-   `yrin1`, `moin1`, `dyin1` = year month day member first started serving in the Legislature, ie. date `doath` gets value 1.
+-   `yrout1`, `moout1`, `dyout1` = year month day member first took a leave of absence (*licencia*), if any.
+-   `yrin2`, `moin2`, `dyin2` = year month day member returned from first leave of absence, if any.
+-   `yrout2`, `moout2`, `dyout2` = year month day member took second leave of absence (*licencia*), if any.
+-   `yrin3`, `moin3`, `dyin3` = year month day member returned from second leave of absence, if any.
+-   `yrout3`, `moout3`, `dyout3` = year month day member took third leave of absence (*licencia*), if any.
+-   `lider` = member's leadership post, if any.
+-   `prescom` = dummy equal 1 if member was a committee chair, 0 otherwise (*propietario*).
+-   `repite` = member's previous Congressional experience (sequential Legislatures if prior deputy, \`sen' if prior senator).
+-   `doath` = dummy equal 1 if member took the oath of office (*toma de protesta*), 0 otherwise.
+-   `ptysh` = share of seats controlled by the member's party.
+-   `nom` = member's name.
+
+
+<a id="orgddbe58c"></a>
+
+# Acknowledgements
+
+
+<a id="org3795ea4"></a>
 
 # Acknowledgements
 
