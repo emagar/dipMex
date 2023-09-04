@@ -41,6 +41,8 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
   + ~dsmd~ = dummy equal 1 for SMD members, 0 for members elected by PR.
   + ~dsup~ = dummy equal 1 for /suplentes/, 0 for /propietarios/.  Suplentes may replace propietarios taking leaves o absence (/licencia/).  
   + ~cabecera~ = administrative seat of SMDs.
+  + ~yrin~ ~moin~ ~dyin~ = date when member took oath.
+  + ~yrout~ ~moout~ ~dyout~ = date when member took a leave of absence. 
   + ~lider~ = indicates party leaders or deputy leaders.
   + ~prescom~ = member chaired a permanent committee (/comisión ordinaria/).
   + ~repite~ = members present in other terms: eg. 58-62 would indicate member present in 58th and 62nd Legislaturas; but 580-62 would indicate that member was elected to the same but never took the oath of office to the 58th Legislatura.
@@ -52,6 +54,7 @@ The objects in each R file (zipped together in text-only files) are the followin
  dcarta=dummy equal 1 for members filing a letter of intent with the chamber's Junta to run for office again (inapplicable before 2018 see [[http://eleccionconsecutiva.diputados.gob.mx/contendientes][this]]), dreran=dummy equal 1 for members renominated, dreelected=dummy equal 1 for members who reelected.
 -~votdat~: has vote information (favor=ayes, contra=nays, absten=abstained, quorum=present but not voting, ausen=no show, title=motion considered, leg=legislature, yr-mo-dy=vote's date).
 -~rc~: roll call vote information (0=was not chamber member, 1=aye, 2=nay, 3=abstained, 4=present but did not vote, 5=no show).
+-dgaceta: indicates whether (1) or not (0) the vote was also reported by the *Gaceta Parlamentaria*, as discussed by Cantu, Desposato, and Magar 2014.
 * Codebook
 Variables usually appear as columns in a data frame. A list of variables included in the files follows.
 - ~leg~ = Legislature numeral.
@@ -78,6 +81,5 @@ Variables usually appear as columns in a data frame. A list of variables include
 - ~doath~ = dummy equal 1 if member took the oath of office (/toma de protesta/), 0 otherwise. 
 - ~ptysh~ = share of seats controlled by the member's party.
 - ~nom~ = member's name.
-- ~dgaceta~: dummy equal 1 for votes reported by the *Gaceta Parlamentaria*, as discussed by Cantu, Desposato, and Magar 2014.
 * Acknowledgements
 Eric Magar Meurs acknowledges financial support from the Asociación Mexicana de Cultura A.C. Many thanks to Ana Lucía Enríquez Araiza, Sonia Kuri Kosegarten, Vidal Mendoza Tinoco, and Eugenio Solís Flores Tinoco for research assistance. The author is responsible for mistakes and shortcomings in the data. Please report any error to emagar at gmail dot com.  
