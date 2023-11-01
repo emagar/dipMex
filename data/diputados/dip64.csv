@@ -171,7 +171,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 64,170,585,MARCO ANTONIO,HERNANDEZ ARELLANO,gua11s,1975,m,pan,pan,gua,1,1,LEON,20210407,20210611,,,,,,,,0,0,0,0,HDZ.ARELLANO,sesion instalacion camara diputados,,1,
 64,171,86,SARAI,NUÑEZ CERON,gua12p,1979,f,pan,pan,gua,1,0,CELAYA,20180829,20210404,20210606,,,,,,,0,0,1,1,NUÑEZ.CER,sesion instalacion camara diputados,no,1,
 64,172,586,MARIA EUGENIA,MOSQUEDA NIETO,gua12s,1949,f,pan,pan,gua,1,1,CELAYA,20210407,20210606,,,,,,,,0,0,0,0,MOSQUEDA,sesion instalacion camara diputados,,1,
-64,173,87,EMMANUEL,REYES CARMONA,gua13p,1987,m,prd,morena,gua,1,0,VALLE DE SANTIAGO,20180829,,,,,,,,,1,1,1,1,REYES.CAR,sesion instalacion camara diputados,no,1,
+64,173,87,EMMANUEL,REYES CARMONA,gua13p,1987,m,prd,morena,gua,1,0,VALLE DE SANTIAGO,20180829,,,,,,,,,1,1,1,1,REYES.CAR,sesion instalacion camara diputados,no,1,turncoat prd > morena   20190219
 64,174,587,RAMIRO,ZARAGOZA RAMIREZ,gua13s,,m,prd,,gua,1,1,VALLE DE SANTIAGO,,,,,,,,,,0,0,0,0,,sesion instalacion camara diputados,,0,
 64,175,88,MARIA EUGENIA LETICIA,ESPINOSA RIVAS,gua14p,1961,f,pan,pan,gua,1,0,ACAMBARO,20180829,,,,,,,,,1,0,0,0,ESPINOSA.RIV,sesion instalacion camara diputados,no,1,
 64,176,588,GUADALUPE MONSERRAT,MENDOZA CANO,gua14s,,f,pan,,gua,1,1,ACAMBARO,,,,,,,,,,0,0,0,0,,sesion instalacion camara diputados,,0,
@@ -461,8 +461,8 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 64,460,730,ERIKA EDITH,LOPEZ LARA,qui02s,,f,morena,,qui,1,1,CHETUMAL,,,,,,,,,,0,0,0,0,,sesion instalacion camara diputados,,0,
 64,461,231,MILDRED CONCEPCION,AVILA VERA,qui03p,1965,f,pes,morena,qui,1,0,CANCUN,20180829,,,,,,,,,1,0,0,0,AVILA.VER,sesion instalacion camara diputados,,1,
 64,462,731,RUBY MARIVEL,CANTO ROSADO,qui03s,,f,pes,,qui,1,1,CANCUN,,,,,,,,,,0,0,0,0,,sesion instalacion camara diputados,,0,
-64,463,232,JESUS DE LOS ANGELES,POOL MOO,qui04p,1969,m,pt,prd,qui,1,0,CANCUN,20180829,20210301,,,,,,,,0,0,0,0,POOL,sesion instalacion camara diputados,,1,switched morena 2 prd 27jul2020 cambio a pri 31ago2020
-64,464,732,VICTOR GILBERTO,AGUILAR ESPINOSA,qui04s,1975,m,pt,,qui,1,1,CANCUN,20210302,,,,,,,,,0,0,0,0,AGUILAR.ESP,sesion instalacion camara diputados,,1,
+64,463,232,JESUS DE LOS ANGELES,POOL MOO,qui04p,1969,m,morena,prd,qui,1,0,CANCUN,20180829,20210301,,,,,,,,0,0,0,0,POOL,sesion instalacion camara diputados,,1,switched morena > prd 27jul2020 > pri 31ago2020
+64,464,732,VICTOR GILBERTO,AGUILAR ESPINOSA,qui04s,1975,m,morena,prd,qui,1,1,CANCUN,20210302,,,,,,,,,0,0,0,0,AGUILAR.ESP,sesion instalacion camara diputados,,1,
 64,465,233,MARIA SARA,ROCHA MEDINA,san01p,1967,f,pri,pri,san,1,0,MATEHUALA,20180829,20210406,20210607,,,,,,,1,0,1,0,ROCHA.MED,sesion instalacion camara diputados,,1,
 64,466,733,MARIA DEL CARMEN,MATA VALENZUELA,san01s,1982,f,pri,pri,san,1,1,MATEHUALA,20210407,20210607,,,,,,,,0,0,0,0,MATA.VAL,sesion instalacion camara diputados,,1,
 64,467,234,JOSE RICARDO,GALLARDO CARDONA,san02p,1980,m,prd,pvem,san,1,0,SOLEDAD,20180829,,,,,,,,,0,0,0,0,GALLARDO,sesion instalacion camara diputados,,1,switched pvem
@@ -765,7 +765,7 @@ leg,ord,n,nom,patmat,id,birth,fm,postulo,part,edo,dsmd,dsup,cabecera,in1,out1,in
 64,764,882,JESUS JOSUE,HERNANDEZ MEDINA,rp2-24s,,m,prd,,0,0,1,--,,,,,,,,,,0,0,,0,,acuerdo INE,,0,
 64,765,383,NORMA AZUCENA,RODRIGUEZ ZAMORA,rp3-15p,1986,f,prd,prd,0,0,0,--,20180829,,,,,,,,,0,0,,0,RODRIGUEZ.ZAM,acuerdo INE,,1,
 64,766,883,PERLA EUGENIA,RODRIGUEZ SILVA,rp3-15s,,f,prd,,0,0,1,--,,,,,,,,,,0,0,,0,,acuerdo INE,,0,
-64,767,384,TEOFILO MANUEL,GARCIA CORPUS,rp3-16p,1958,m,prd,morena,0,0,0,--,20180829,,,,,,,,,1,0,,0,GARCIA.COR,acuerdo INE,57-61-64,1,
+64,767,384,TEOFILO MANUEL,GARCIA CORPUS,rp3-16p,1958,m,prd,morena,0,0,0,--,20180829,,,,,,,,,1,0,,0,GARCIA.COR,acuerdo INE,57-61-64,1,turncoat prd > morena 15ene2019
 64,768,884,LUIS OCTAVIO,MURAT MACIAS,rp3-16s,,m,prd,,0,0,1,--,,,,,,,,,,0,0,,0,,acuerdo INE,,0,
 64,769,385,HECTOR,SERRANO CORTES,rp4-15p,1962,m,prd,pt,0,0,0,--,20180829,,,,,,,,,1,0,,0,SERRANO,acuerdo INE,,1,cambio a pt 28ago2020
 64,770,885,LAURO ANTONIO,MARTINEZ SALAS,rp4-15s,,m,prd,,0,0,1,--,,,,,,,,,,0,0,,0,,acuerdo INE,,0,
