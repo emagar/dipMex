@@ -109,7 +109,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,108,554,,,df08s,,f,,pt,1,1,,,,,,,0,0,,,,,dipt=545,
 65,109,55,MARIA GUADALUPE,CHAVIRA DE LA ROSA,df09p,1968,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=46,
 65,110,555,,,df09s,,f,,morena,1,1,,,,,,,0,0,,,,,dipt=546,
-65,111,56,MARGARITA ESTER,ZAVALA GOMEZ DEL CAMPO,df10p,1967,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=47,elec-coal=PAN.PRI.PRD
+65,111,56,MARGARITA ESTER,ZAVALA GOMEZ DEL CAMPO,df10p,1967,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,59-65,dipt=47,elec-coal=PAN.PRI.PRD
 65,112,556,CLAUDIA VERONICA MARIA,RUBIN JUAREZ,df10s,,f,,pan,1,1,,,,,,,0,0,,,,,dipt=547,
 65,113,57,LIDIA,PEREZ BARCENAS,df11p,1981,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=48,
 65,114,557,,,df11s,,f,,morena,1,1,,,,,,,0,0,,,,,dipt=548,
@@ -251,7 +251,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,250,625,,,jal20s,,f,,pri,1,1,,,,,,,0,0,,,,,dipt=625,
 65,251,126,MIGUEL,SAMANO PERALTA,mex01p,,m,pri,pri,1,0,20210829,,,,,,1,0,0,0,,,dipt=126,elec-coal=PAN.PRI.PRD
 65,252,626,,,mex01s,,m,,pri,1,1,,,,,,,0,0,,,,,dipt=626,
-65,253,127,DIONICIA,VAZQUEZ GARCIA,mex02p,,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=127,elec-coal=PVEM.PT.MORENA
+65,253,127,DIONICIA,VAZQUEZ GARCIA,mex02p,1948,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=127,elec-coal=PVEM.PT.MORENA
 65,254,627,,,mex02s,,f,,pt,1,1,,,,,,,0,0,,,,,dipt=627,
 65,255,128,OSCAR GUSTAVO,CARDENAS MONROY,mex03p,,m,pri,pri,1,0,20210829,,,,,,1,0,0,0,,,dipt=128,elec-coal=PAN.PRI.PRD
 65,256,628,,,mex03s,,m,,pri,1,1,,,,,,,0,0,,,,,dipt=628,
@@ -271,7 +271,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,270,635,,,mex10s,,f,,morena,1,1,,,,,,,0,0,,,,,dipt=635,
 65,271,136,MARIA EUGENIA,HERNANDEZ PEREZ,mex11p,,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,64-65,dipt=136,
 65,272,636,,,mex11s,,f,,morena,1,1,,,,,,,0,0,,,,,dipt=636,
-65,273,137,ARMANDO,CORONA ARVIZU,mex12p,,m,morena,morena,1,0,20210829,,,,,Reelected,0,1,1,1,,,dipt=137,elec-coal=PVEM.PT.MORENA
+65,273,137,ARMANDO,CORONA ARVIZU,mex12p,1995,m,morena,morena,1,0,20210829,,,,,Reelected,0,1,1,1,,,dipt=137,elec-coal=PVEM.PT.MORENA
 65,274,637,BRENDA MARLEN,BARRAGAN JUAREZ,mex12s,,f,morena,morena,1,1,20240409,,,,,,0,0,0,0,,,dipt=637,
 65,275,138,OLIMPIA TAMARA,GIRON HERNANDEZ,mex13p,,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=138,
 65,276,638,,,mex13s,,f,,morena,1,1,,,,,,,0,0,,,,,dipt=638,
@@ -303,21 +303,21 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,302,651,,,mex26s,,f,,pri,1,1,,,,,,,0,0,,,,,dipt=651,
 65,303,152,ANA LILIA,HERRERA ANZALDO,mex27p,,f,pri,pri,1,0,20210829,,,,,,1,1,0,0,,sen-64-65,dipt=152,elec-coal=PAN.PRI.PRD
 65,304,652,,,mex27s,,f,,pri,1,1,,,,,,,0,0,,,,,dipt=652,
-65,305,153,ROBERTO ANGEL,DOMINGUEZ RODRIGUEZ,mex28p,,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=153,
+65,305,153,ROBERTO ANGEL,DOMINGUEZ RODRIGUEZ,mex28p,1980,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=153,
 65,306,653,,,mex28s,,m,,morena,1,1,,,,,,,0,0,,,,,dipt=653,
 65,307,154,MARTHA,ROBLES ORTIZ,mex29p,,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,64-65,dipt=154,
 65,308,654,,,mex29s,,f,,morena,1,1,,,,,,,0,0,,,,,dipt=654,
 65,309,155,CESAR AGUSTIN,HERNANDEZ PEREZ,mex30p,1980,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=155,elec-coal=PVEM.PT.MORENA
 65,310,655,LUIS ,VALLEJO VALVERDE,mex30s,,m,morena,morena,1,1,20240416,,,,,,0,0,0,0,,,dipt=655,
-65,311,156,JUAN ANGEL,BAUTISTA BRAVO,mex31p,,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=156,
+65,311,156,JUAN ANGEL,BAUTISTA BRAVO,mex31p,1981,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=156,
 65,312,656,,,mex31s,,m,,morena,1,1,,,,,,,0,0,,,,,dipt=656,
-65,313,157,LUIS ENRIQUE,MARTINEZ VENTURA,mex32p,,m,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=157,elec-coal=PVEM.PT.MORENA
+65,313,157,LUIS ENRIQUE,MARTINEZ VENTURA,mex32p,1963,m,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=157,elec-coal=PVEM.PT.MORENA
 65,314,657,,,mex32s,,m,,pt,1,1,,,,,,,0,0,,,,,dipt=657,
 65,315,158,VICENTE ALBERTO,ONOFRE VAZQUEZ,mex33p,,m,pri,morena,1,0,20210829,,,,,,1,0,0,0,,64-65,dipt=158,
 65,316,658,,,mex33s,,m,,morena,1,1,,,,,,,0,0,,,,,dipt=658,
 65,317,159,MARIA TERESA,CASTELL DE ORO PALACIOS,mex34p,,f,pan,pan,1,0,20210829,,,,,,1,1,1,0,,,dipt=159,elec-coal=PAN.PRI.PRD
 65,318,659,,,mex34s,,f,,pan,1,1,,,,,,,0,0,,,,,dipt=659,
-65,319,160,ARTURO ROBERTO,HERNANDEZ TAPIA,mex35p,,m,morena,morena,1,0,20210829,,,,,Reelected,0,1,1,1,,64-65,dipt=160,elec-coal=PVEM.PT.MORENA
+65,319,160,ARTURO ROBERTO,HERNANDEZ TAPIA,mex35p,1961,m,morena,morena,1,0,20210829,,,,,Reelected,0,1,1,1,,64-65,dipt=160,elec-coal=PVEM.PT.MORENA
 65,320,660,,,mex35s,,m,,morena,1,1,,,,,,,0,0,,,,,dipt=660,
 65,321,161,JAZMIN,JAIMES ALBARRAN,mex36p,,f,pri,pri,1,0,20210829,,,,,,1,1,1,0,,,dipt=161,elec-coal=PAN.PRI.PRD
 65,322,661,,,mex36s,,f,,pri,1,1,,,,,,,0,0,,,,,dipt=661,
@@ -331,7 +331,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,330,665,,,mex40s,,m,,pan,1,1,,,,,,,0,0,,,,,dipt=665,
 65,331,166,SUE ELLEN,BERNAL BOLNIK,mex41p,1982,f,pri,pri,1,0,20210829,,,,,Reran-beaten,1,1,1,0,,,dipt=166,elec-coal=PAN.PRI.PRD
 65,332,666,,,mex41s,,f,,pri,1,1,,,,,,,0,0,,,,,dipt=666,
-65,333,167,LEONEL,GODOY RANGEL,mic01p,,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=167,
+65,333,167,LEONEL,GODOY RANGEL,mic01p,1950,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,54-56-sen-65,dipt=167,
 65,334,667,ANTONIO DE JESUS,MADRIZ ESTRADA,mic01s,,m,morena,morena,1,1,20240409,,,,,,0,0,0,0,,,dipt=667,
 65,335,168,MAURICIO,PRIETO GOMEZ,mic02p,,m,prd,prd,1,0,20210829,,,,,,1,0,0,0,,,dipt=168,elec-coal=PAN.PRI.PRD
 65,336,668,,,mic02s,,m,,prd,1,1,,,,,,,0,0,,,,,dipt=668,
