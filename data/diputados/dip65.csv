@@ -54,7 +54,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,53,27,ALFREDO,VAZQUEZ VAZQUEZ,cps03p,1981,m,morena,morena,1,0,20210829,20240105,,,,Reelected,1,0,1,1,,64-65,dipt=18,
 65,54,527,ALFREDO,TORRES HERNANDEZ,cps03s,,m,morena,morena,1,1,20240110,,,,,,0,0,0,0,,,dipt=518,
 65,55,28,JOAQUIN,ZEBADUA ALVA,cps04p,1974,m,morena,morena,1,0,20210829,20240409,20240916,,,Reelected,1,1,1,1,,,dipt=19,
-65,56,528,NORMA EDITH,GUTIERREZ SANCHEZ,cps04s,,m,,morena,1,1,,,,,,Reelected-suplente,0,0,,0,,,dipt=519,no juro 65 y luego gano 66
+65,56,528,NORMA EDITH,GUTIERREZ SANCHEZ,cps04s,,m,,morena,1,1,,,,,,Reelected-suplente,0,0,1,1,,,dipt=519,no juro 65 y luego gano 66
 65,57,29,YEIMI YAZMIN,AGUILAR CIFUENTES,cps05p,1989,f,pri,pri,1,0,20210829,20240304,,,,,1,1,0,0,,,dipt=20,elec-coal=PAN.PRI.PRD
 65,58,529,ELENA,PEREZ RAMOS,cps05s,,f,morena,pri,1,1,20240320,,,,,,0,0,0,0,,,dipt=520,
 65,59,30,JORGE LUIS,LLAVEN ABARCA,cps06p,1973,m,pvem,morena,1,0,20210829,20220314,20220404,20240301,,,1,1,0,0,,,dipt=21,elec-coal=PVEM.PT.MORENA
@@ -74,7 +74,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,73,37,LUIS ARMANDO,MELGAR BRAVO,cps13p,1966,m,pvem,pvem,1,0,20210829,,,,,,1,1,0,0,,,dipt=28,elec-coal=PVEM.PT.MORENA
 65,74,537,,,cps13s,,m,,pvem,1,1,,,,,,,0,0,,0,,,dipt=528,
 65,75,38,DANIEL,MURGUIA LARDIZABAL,cua01p,1966,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=29,
-65,76,538,SEVERIANO ROBERTO,HERNANDEZ RIOS,cua01s,,m,,morena,1,1,,,,,,Reelected-suplente,0,0,,0,,,dipt=529,no juro 65 y luego gano 66
+65,76,538,SEVERIANO ROBERTO,HERNANDEZ RIOS,cua01s,,m,,morena,1,1,,,,,,Reelected-suplente,0,0,1,1,,,dipt=529,no juro 65 y luego gano 66
 65,77,39,TERESITA DE JESUS,VARGAS MERAZ,cua02p,1989,f,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=30,elec-coal=PVEM.PT.MORENA
 65,78,539,YALIA NAHARAI,ROMERO CHAVEZ,cua02s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=530,
 65,79,40,LILIA,AGUILAR GIL,cua03p,1977,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=31,elec-coal=PVEM.PT.MORENA
@@ -82,12 +82,12 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,81,41,DANIELA SORAYA,ALVAREZ HERNANDEZ,cua04p,1983,f,pan,pan,1,0,20210829,,,,,,1,1,0,0,,,dipt=32,elec-coal=PAN.PRI.PRD
 65,82,541,,,cua04s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=532,
 65,83,42,MARIO,MATA CARRASCO,cua05p,1962,m,pan,pan,1,0,20210829,20220524,,,,Reelected,1,0,1,1,,64-65,dipt=33,elec-coal=PAN.PRI.PRD
-65,84,542,SALVADOR,ALCANTAR ORTEGA,cua05s,1954,m,pan,pan,1,1,20220525,,,,,Reelected,1,1,0,1,,,dipt=533,alcalde de La cruz cua 1986-89
+65,84,542,SALVADOR,ALCANTAR ORTEGA,cua05s,1954,m,pan,pan,1,1,20220525,,,,,Reelected,1,1,1,1,,,dipt=533,alcalde de La cruz cua 1986-89
 65,85,43,LAURA PATRICIA,CONTRERAS DUARTE,cua06p,1981,f,pan,pan,1,0,20210829,,,,,,1,1,0,0,,,dipt=34,
 65,86,543,,,cua06s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=534,
 65,87,44,PATRICIA,TERRAZAS BACA,cua07p,1966,f,pan,pan,1,0,20210829,,,,,,1,1,0,0,,,dipt=35,elec-coal=PAN.PRI.PRD
 65,88,544,,,cua07s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=535,
-65,89,45,CARMEN ROCIO,GONZALEZ ALONSO,cua08p,1981,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=36,
+65,89,45,CARMEN ROCIO,GONZALEZ ALONSO,cua08p,1981,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=36,
 65,90,545,,,cua08s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=536,
 65,91,46,MARIA DE LOS ANGELES,GUTIERREZ VALDEZ,cua09p,1962,f,pan,pan,1,0,20210829,,,,,,1,1,0,0,,64-65,dipt=37,elec-coal=PAN.PRI.PRD
 65,92,546,,,cua09s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=537,
@@ -105,7 +105,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,104,552,,,df06s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=543,
 65,105,53,BEATRIZ,ROJAS MARTINEZ,df07p,1966,f,morena,morena,1,0,20210829,,,,,,0,0,0,0,,64-65,dipt=44,
 65,106,553,,,df07s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=544,
-65,107,54,MARIA DE JESUS,ROSETE SANCHEZ,df08p,1960,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,0,1,,64-65,dipt=45,elec-coal=PVEM.PT.MORENA
+65,107,54,MARIA DE JESUS,ROSETE SANCHEZ,df08p,1960,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=45,elec-coal=PVEM.PT.MORENA
 65,108,554,,,df08s,,f,,pt,1,1,,,,,,,0,0,,0,,,dipt=545,
 65,109,55,MARIA GUADALUPE,CHAVIRA DE LA ROSA,df09p,1968,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=46,
 65,110,555,,,df09s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=546,
@@ -137,7 +137,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,136,568,JOSE EDUARDO,BERNARDINO OSORIO,df22s,,m,,morena,1,1,,,,,,,0,0,,0,,,dipt=559,
 65,137,69,GABRIEL RICARDO,QUADRI DE LA TORRE,df23p,1954,m,pan,pan,1,0,20210829,,,,,,1,1,0,0,,,dipt=60,elec-coal=PAN.PRI.PRD
 65,138,569,JAIME,SABA SUACHI,df23s,,m,,pan,1,1,,,,,,,0,0,,0,,,dipt=560,
-65,139,70,HECTOR SAUL,TELLEZ HERNANDEZ,df24p,1974,m,pan,pan,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=61,elec-coal=PAN.PRI.PRD
+65,139,70,HECTOR SAUL,TELLEZ HERNANDEZ,df24p,1974,m,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=61,elec-coal=PAN.PRI.PRD
 65,140,570,ROBERTO,GUTIERREZ DE LA CRUZ,df24s,,m,,pan,1,1,,,,,,,0,0,,0,,,dipt=561,
 65,141,71,FRANCISCO JAVIER,CASTRELLON GARZA,dgo01p,1970,m,pan,pan,1,0,20210829,,,,,,1,0,0,0,,,dipt=71,elec-coal=PAN.PRI.PRD
 65,142,571,,,dgo01s,,m,,pan,1,1,,,,,,,0,0,,0,,,dipt=571,
@@ -197,7 +197,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,196,598,,,gue09s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=598,
 65,197,99,SAYONARA,VARGAS RODRIGUEZ,hgo01p,1969,f,pri,pri,1,0,20210829,,,,,,1,1,1,0,,,dipt=99,elec-coal=PAN.PRI.PRD
 65,198,599,,,hgo01s,,f,,pri,1,1,,,,,,,0,0,,0,,,dipt=599,
-65,199,100,CIRIA YAMILE,SALOMON DURAN,hgo02p,1957,f,pvem,pvem,1,0,20210829,,,,,,1,1,0,0,,,dipt=100,elec-coal=PVEM.PT.MORENA
+65,199,100,CIRIA YAMILE,SALOMON DURAN,hgo02p,1957,f,pvem,pvem,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=100,elec-coal=PVEM.PT.MORENA
 65,200,600,,,hgo02s,,f,,pvem,1,1,,,,,,,0,0,,0,,,dipt=600,
 65,201,101,SANDRA SIMEY,OLVERA BAUTISTA,hgo03p,1983,f,morena,morena,1,0,20210829,20220906,,,,,0,0,0,0,,64-65,dipt=101,
 65,202,601,YOLIS,JIMENEZ RAMIREZ,hgo03s,1974,f,morena,morena,1,1,20220906,,,,,,1,0,0,0,,,dipt=601,
@@ -267,7 +267,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,266,633,,,mex08s,,m,,morena,1,1,,,,,,,0,0,,0,,,dipt=633,
 65,267,134,EDUARDO,ZARZOSA SANCHEZ,mex09p,,m,pri,pri,1,0,20210829,,,,,,1,0,0,0,,61-64-65,dipt=134,elec-coal=PAN.PRI.PRD
 65,268,634,JUAN MANUEL,GONZALEZ RUBIO,mex09s,,m,pri,pri,1,1,20240424,,,,,,0,0,,0,,,dipt=634,
-65,269,135,ALMA DELIA,NAVARRETE RIVERA,mex10p,,f,morena,morena,1,0,20210829,,,,,Reelected,1,0,0,1,,64-65,dipt=135,
+65,269,135,ALMA DELIA,NAVARRETE RIVERA,mex10p,,f,morena,morena,1,0,20210829,,,,,Reelected,1,0,1,1,,64-65,dipt=135,
 65,270,635,,,mex10s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=635,
 65,271,136,MARIA EUGENIA,HERNANDEZ PEREZ,mex11p,,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,64-65,dipt=136,
 65,272,636,,,mex11s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=636,
@@ -275,7 +275,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,274,637,BRENDA MARLEN,BARRAGAN JUAREZ,mex12s,,f,morena,morena,1,1,20240409,,,,,,0,0,0,0,,,dipt=637,
 65,275,138,OLIMPIA TAMARA,GIRON HERNANDEZ,mex13p,,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=138,
 65,276,638,,,mex13s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=638,
-65,277,139,ANA MARIA,BALDERAS TREJO,mex14p,,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=139,elec-coal=PAN.PRI.PRD
+65,277,139,ANA MARIA,BALDERAS TREJO,mex14p,,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=139,elec-coal=PAN.PRI.PRD
 65,278,639,,,mex14s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=639,
 65,279,140,CARLOS,MADRAZO LIMON,mex15p,,m,pan,pan,1,0,20210829,,,,,,1,1,0,0,,,dipt=140,elec-coal=PAN.PRI.PRD
 65,280,640,,,mex15s,,m,,pan,1,1,,,,,,,0,0,,0,,,dipt=640,
@@ -308,7 +308,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,307,154,MARTHA,ROBLES ORTIZ,mex29p,,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,64-65,dipt=154,
 65,308,654,,,mex29s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=654,
 65,309,155,CESAR AGUSTIN,HERNANDEZ PEREZ,mex30p,1980,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=155,elec-coal=PVEM.PT.MORENA
-65,310,655,LUIS ,VALLEJO VALVERDE,mex30s,,m,morena,morena,1,1,20240416,,,,,Reelected-suplente,0,0,0,0,,,dipt=655,
+65,310,655,LUIS ,VALLEJO VALVERDE,mex30s,,m,morena,morena,1,1,20240416,,,,,Reelected-suplente,0,0,1,1,,,dipt=655,
 65,311,156,JUAN ANGEL,BAUTISTA BRAVO,mex31p,1981,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=156,
 65,312,656,,,mex31s,,m,,morena,1,1,,,,,,,0,0,,0,,,dipt=656,
 65,313,157,LUIS ENRIQUE,MARTINEZ VENTURA,mex32p,1963,m,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=157,elec-coal=PVEM.PT.MORENA
@@ -332,7 +332,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,331,166,SUE ELLEN,BERNAL BOLNIK,mex41p,1982,f,pri,pri,1,0,20210829,,,,,Reran-beaten,1,1,1,0,,,dipt=166,elec-coal=PAN.PRI.PRD
 65,332,666,,,mex41s,,f,,pri,1,1,,,,,,,0,0,,0,,,dipt=666,
 65,333,167,LEONEL,GODOY RANGEL,mic01p,1950,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,54-56-sen-65,dipt=167,
-65,334,667,ANTONIO DE JESUS,MADRIZ ESTRADA,mic01s,,m,morena,morena,1,1,20240409,,,,,Reelected,0,0,0,1,,,dipt=667,
+65,334,667,ANTONIO DE JESUS,MADRIZ ESTRADA,mic01s,,m,morena,morena,1,1,20240409,,,,,Reelected,0,0,1,1,,,dipt=667,
 65,335,168,MAURICIO,PRIETO GOMEZ,mic02p,,m,prd,prd,1,0,20210829,,,,,,1,0,0,0,,,dipt=168,elec-coal=PAN.PRI.PRD
 65,336,668,,,mic02s,,m,,prd,1,1,,,,,,,0,0,,0,,,dipt=668,
 65,337,169,MARY CARMEN,BERNAL MARTINEZ,mic03p,,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=169,elec-coal=PVEM.PT.MORENA - sala tepjf anulo 3ago2021 y pleno restituyo 19ago
@@ -374,12 +374,12 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,373,187,HECTOR ISRAEL,CASTILLO OLIVARES,nl01p,1975,m,pan,pan,1,0,20210829,,,,,,1,0,0,0,,,dipt=187,
 65,374,687,CARLOS FERNANDO,GARCIA ASTORGA,nl01s,,m,pan,pan,1,1,20240306,,,,,,0,1,0,0,,,dipt=687,
 65,375,188,ANDRES MAURICIO,CANTU RAMIREZ,nl02p,1975,m,pri,pri,1,0,20210829,,,,,Reelected,1,0,1,1,,,dipt=188,
-65,376,688,ROGELIO,PEÑA SALINAS,nl02s,,m,pri,pri,1,1,20240305,,,,,Reelected,0,1,0,1,,,dipt=688,
+65,376,688,ROGELIO,PEÑA SALINAS,nl02s,,m,pri,pri,1,1,20240305,,,,,Reelected,0,1,1,1,,,dipt=688,
 65,377,189,WENDY MARICELA,CORDERO GONZALEZ,nl03p,1991,m,pan,pan,1,0,20210829,,,,,,1,0,0,0,,,dipt=189,tepjf anulo casillas quito triunfo a JOSE LUIS GARCIA DUQUE pt
 65,378,689,LUZ GIOVANNA,LEAL MONTOY,nl03s,,f,pan,pan,1,1,20240402,,,,,,0,1,1,0,,,dipt=689,
 65,379,190,PEDRO,SALGADO ALMAGUER,nl04p,1973,m,pan,pan,1,0,20210829,,,,,,1,1,0,0,,,dipt=190,
 65,380,690,JUAN RAMON,MASTRETTA LOPEZ,nl04s,,m,,pan,1,1,,,,,,,0,0,,0,,,dipt=690,
-65,381,191,MARCELA,GUERRA CASTILLO,nl05p,1959,f,pri,pri,1,0,20210829,,,,,,1,1,0,0,,,dipt=191,
+65,381,191,MARCELA,GUERRA CASTILLO,nl05p,1959,f,pri,pri,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=191,
 65,382,691,ARIADNE VALERIA,GARCIA SALAS,nl05s,,f,,pri,1,1,,,,,,,0,0,,0,,,dipt=691,
 65,383,192,ANNIA SARAHI,GOMEZ CARDENAS,nl06p,1983,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=192,
 65,384,692,AFRICA DONAJI,ELIZONDO RODRIGUEZ,nl06s,,f,,pan,1,1,,,,,,,0,0,0,0,,,dipt=692,
@@ -397,8 +397,8 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,396,698,JORGE ADRIAN,CORTES LIRA,nl12s,,m,pri,pri,1,1,20240227,,,,,,0,0,0,0,,,dipt=698,
 65,397,199,ANGEL,DOMINGUEZ ESCOBAR,oax01p,1978,m,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=199,elec-coal=PVEM.PT.MORENA
 65,398,699,JOSE SAMUEL,AGUILERA VAZQUEZ,oax01s,,m,,morena,1,1,,,,,,,0,0,,0,,,dipt=699,
-65,399,200,IRMA,JUAN CARLOS,oax02p,1977,f,morena,morena,1,0,20210829,20240409,20240417,,,Reelected,1,1,0,1,,64-65,dipt=200,
-65,400,700,ANA ELIZABETH,ESTRADA GARCIA,oax02s,,f,,morena,1,1,,,,,,Reelected-suplente,0,0,,0,,,dipt=700,no juro 65 y luego gano 66
+65,399,200,IRMA,JUAN CARLOS,oax02p,1977,f,morena,morena,1,0,20210829,20240409,20240417,,,Reelected,1,1,1,1,,64-65,dipt=200,
+65,400,700,ANA ELIZABETH,ESTRADA GARCIA,oax02s,,f,,morena,1,1,,,,,,Reelected-suplente,0,0,1,1,,,dipt=700,no juro 65 y luego gano 66
 65,401,201,MARGARITA,GARCIA GARCIA,oax03p,1966,f,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=201,elec-coal=PVEM.PT.MORENA
 65,402,701,MARIA OFELIA DE JESUS,PORRAS LESCAS,oax03s,,f,,pt,1,1,,,,,,,0,0,,0,,,dipt=701,
 65,403,202,AZAEL,SANTIAGO CHEPI,oax04p,1977,m,morena,morena,1,0,20210829,,,,,,1,1,0,0,,64-65,dipt=202,elec-coal=PVEM.PT.MORENA
@@ -479,7 +479,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,478,739,,,san07s,,m,,pvem,1,1,,,,,,,0,0,,0,,,dipt=739,
 65,479,240,LEOBARDO,ALCANTARA MARTINEZ,sin01p,,m,pt,pt,1,0,20210829,,,,,,1,0,0,0,,,dipt=240,elec-coal=PVEM.PT.MORENA
 65,480,740,RODOLFO,CARDONA PEREZ,sin01s,,m,pt,pt,1,1,20240305,,,,,,0,0,0,0,,,dipt=740,
-65,481,241,ANA ELIZABETH,AYALA LEYVA,sin02p,1976,f,morena,morena,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=241,elec-coal=PVEM.PT.MORENA
+65,481,241,ANA ELIZABETH,AYALA LEYVA,sin02p,1976,f,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=241,elec-coal=PVEM.PT.MORENA
 65,482,741,,,sin02s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=741,
 65,483,242,JESUS FERNANDO,GARCIA HERNANDEZ,sin03p,,m,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=242,elec-coal=PVEM.PT.MORENA
 65,484,742,,,sin03s,,m,,pt,1,1,,,,,,,0,0,,0,,,dipt=742,
@@ -519,7 +519,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,518,759,,,tab06s,,m,,morena,1,1,,,,,,,0,0,,0,,,dipt=759,
 65,519,260,ANA LAURA,HUERTA VALDOVINOS,tam01p,,f,pvem,pvem,1,0,20210829,,,,,,1,1,0,0,,,dipt=260,elec-coal=PVEM.PT.MORENA
 65,520,760,MIRIAM,MENDOZA MORENO,tam01s,,f,pvem,pvem,1,1,20240228,,,,,,0,1,0,0,,,dipt=760,
-65,521,261,OLGA JULIANA,ELIZONDO GUERRA,tam02p,1965,f,morena,pt,1,0,20210829,20240409,,,,Reelected,1,1,0,1,,64-65,dipt=261,elec-coal=PVEM.PT.MORENA
+65,521,261,OLGA JULIANA,ELIZONDO GUERRA,tam02p,1965,f,morena,pt,1,0,20210829,20240409,,,,Reelected,1,1,1,1,,64-65,dipt=261,elec-coal=PVEM.PT.MORENA
 65,522,761,ROSALINDA,CANTU GONZALEZ,tam02s,,f,morena,pt,1,1,20240409,,,,,,0,0,0,0,,,dipt=761,
 65,523,262,TOMAS,GLORIA REQUENA,tam03p,,m,pvem,pvem,1,0,20210829,,,,,,0,0,0,0,,,dipt=262,elec-coal=PVEM.PT.MORENA
 65,524,762,JUAN,GONZALEZ LIMA,tam03s,,m,pvem,pvem,1,1,20220928,,,,,,1,1,0,0,,,dipt=762,
@@ -533,7 +533,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,532,766,HECTOR JESUS,MARIN RODRIGUEZ,tam07s,,m,morena,morena,1,1,20240305,,,,,,1,0,0,0,,,dipt=766,
 65,533,267,ROSA MARIA,GONZALEZ AZCARRAGA,tam08p,,f,pan,pan,1,0,20210829,,,,,,1,0,0,0,,,dipt=267,
 65,534,767,HONORIA,MAR VARGAS,tam08s,,f,pan,pan,1,1,20240305,,,,,,0,1,0,0,,,dipt=767,
-65,535,268,CLAUDIA ALEJANDRA,HERNANDEZ SAENZ,tam09p,,f,morena,pt,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=268,elec-coal=PVEM.PT.MORENA
+65,535,268,CLAUDIA ALEJANDRA,HERNANDEZ SAENZ,tam09p,,f,morena,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=268,elec-coal=PVEM.PT.MORENA
 65,536,768,OLGA SARABEL,MONTELONGO DIMEO,tam09s,,f,morena,pt,1,1,20240416,,,,,,0,0,0,0,,,dipt=768,
 65,537,269,JOSE ALEJANDRO,AGUILAR LOPEZ,tla01p,1963,m,pt,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=269,elec-coal=PVEM.PT.MORENA
 65,538,769,,,tla01s,,m,,pt,1,1,,,,,,,0,0,,0,,,dipt=769,
@@ -543,12 +543,12 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,542,771,STEVE ESTEBAN,DEL RAZO MONTIEL,tla03s,,m,morena,morena,1,1,20220902,,,,,,0,0,0,0,,,dipt=771,
 65,543,272,ARMANDO ANTONIO,GOMEZ BETANCOURT,ver01p,1969,m,pvem,pvem,1,0,20210829,,,,,,1,1,0,0,,,dipt=272,elec-coal=PVEM.PT.MORENA
 65,544,772,,,ver01s,,m,,pvem,1,1,,,,,,,0,0,,0,,,dipt=772,
-65,545,273,MARIA DEL CARMEN,PINETE VARGAS,ver02p,1960,f,pvem,pt,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=273,elec-coal=PVEM.PT.MORENA
+65,545,273,MARIA DEL CARMEN,PINETE VARGAS,ver02p,1960,f,pvem,pt,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=273,elec-coal=PVEM.PT.MORENA
 65,546,773,,,ver02s,,f,,pt,1,1,,,,,,,0,0,,0,,,dipt=773,
 65,547,274,MARIA BERTHA,ESPINOZA SEGURA,ver03p,1957,f,morena,morena,1,0,20210829,,,,,,0,0,0,0,,64-65,dipt=274,elec-coal=PVEM.PT.MORENA
 65,548,774,ROCIO ,HERNANDEZ VILLANUEVA,ver03s,,f,morena,morena,1,1,20220913,,,,,,1,0,0,0,,,dipt=774,
-65,549,275,ROSA,HERNANDEZ ESPEJO,ver04p,1962,f,morena,morena,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=275,elec-coal=PVEM.PT.MORENA
-65,550,775,ZORAYA,VILLACIS PALACIOS,ver04s,,f,morena,morena,1,1,20240409,,,,,,0,0,0,0,,,dipt=775,
+65,549,275,ROSA,HERNANDEZ ESPEJO,ver04p,1962,f,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=275,elec-coal=PVEM.PT.MORENA
+65,550,775,ZORAYA,VILLACIS PALACIOS,ver04s,,f,morena,morena,1,1,20240409,,,,,Reelected,0,0,1,1,,,dipt=775,
 65,551,276,RAQUEL,BONILLA HERRERA,ver05p,1984,f,morena,morena,1,0,20210829,,,,,,0,0,0,0,,64-65,dipt=276,elec-coal=PVEM.PT.MORENA
 65,552,776,,,ver05s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=776,
 65,553,277,JAIME HUMBERTO,PEREZ BERNABE,ver06p,1973,m,morena,morena,1,0,20210829,,,,,Reelected,1,1,1,1,,64-65,dipt=277,
@@ -563,7 +563,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,562,781,,,ver10s,,m,,morena,1,1,,,,,,,0,0,,0,,,dipt=781,
 65,563,282,FLORA TANIA,CRUZ SANTOS,ver11p,1978,f,morena,morena,1,0,20210829,,,,,,1,0,0,0,,,dipt=282,
 65,564,782,,,ver11s,,f,,morena,1,1,,,,,,,0,0,,0,,,dipt=782,
-65,565,283,MARIA JOSEFINA,GAMBOA TORALES,ver12p,1977,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,0,1,,,dipt=283,elec-coal=PAN.PRI.PRD
+65,565,283,MARIA JOSEFINA,GAMBOA TORALES,ver12p,1977,f,pan,pan,1,0,20210829,,,,,Reelected,1,1,1,1,,,dipt=283,elec-coal=PAN.PRI.PRD
 65,566,783,,,ver12s,,f,,pan,1,1,,,,,,,0,0,,0,,,dipt=783,
 65,567,284,ANGELICA,PEÑA MARTINEZ,ver13p,1960,f,pvem,pvem,1,0,20210829,,,,,,1,1,0,0,,,dipt=284,elec-coal=PVEM.PT.MORENA
 65,568,784,LAURA CATALINA,REYES ROMERO,ver13s,,f,pvem,pvem,1,1,20240402,,,,,,0,0,,0,,,dipt=784,
@@ -609,7 +609,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,608,804,,,rp1-04s,,m,,morena,0,1,,,,,,,0,0,0,0,,,,
 65,609,305,JESUS ROBERTO,BRIANO BORUNDA,rp1-05p,1979,m,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,610,805,,,rp1-05s,,m,,,0,1,,,,,,,0,0,0,0,,,,
-65,611,306,HECTOR ARMANDO,CABADA ALVIDREZ,rp1-06p,1967,m,morena,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,611,306,HECTOR ARMANDO,CABADA ALVIDREZ,rp1-06p,1967,m,morena,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,612,806,,,rp1-06s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,613,307,SALVADOR,CARO CABRERA,rp1-07p,1970,m,morena,mc,0,0,20210829,,,,,,1,0,0,0,,,,
 65,614,807,,,rp1-07s,,m,,,0,1,,,,,,,0,0,0,0,,,,
@@ -628,7 +628,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,627,314,HAMLET,GARCIA ALMAGUER,rp1-14p,1987,m,morena,,0,0,20210829,,,,,Reran-beaten,1,0,1,0,,,,
 65,628,814,,,rp1-14s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,629,315,MARIANO,GONZALEZ AGUIRRE,rp1-15p,1984,m,pri,,0,0,20210829,,,,,,1,0,0,0,,,,
-65,630,815,CESAR ALEJANDRO,DOMINGUEZ DOMINGUEZ,rp1-15s,,m,,,0,1,,,,,,,0,0,0,0,,,,
+65,630,815,CESAR ALEJANDRO,DOMINGUEZ DOMINGUEZ,rp1-15s,,m,,,0,1,,,,,,Reelected,0,0,1,1,,,,
 65,631,316,LUIS ARTURO,GONZALEZ CRUZ,rp1-16p,1954,m,pvem,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,632,816,,,rp1-16s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,633,317,LAURA LORENA,HARO RAMIREZ,rp1-17p,1987,f,pri,,0,0,20210829,20231121,20240104,20240229,,,1,0,0,0,,,,
@@ -699,11 +699,11 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,698,849,PABLO GIL,DELGADO VENTURA,rp2-09s,,m,mc,,0,1,20230202,,,,,,1,0,0,0,,,,
 65,699,350,SOFIA,CARVAJAL ISUNZA,rp2-10p,,f,pri,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,700,850,,,rp2-10s,,f,,,0,1,,,,,,,0,0,0,0,,,,
-65,701,351,FAVIO,CASTELLANOS POLANCO,rp2-11p,,m,morena,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,701,351,FAVIO,CASTELLANOS POLANCO,rp2-11p,,m,morena,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,702,851,,,rp2-11s,,m,,,0,1,,,,,,Reran-beaten,0,0,1,0,,,,
 65,703,352,ROMAN,CIFUENTES NEGRETE,rp2-12p,,m,pan,,0,0,20210829,20230330,20230401,,,,1,1,0,0,,,,
 65,704,852,AGUSTIN,ROBLES MONTENEGRO,rp2-12s,,m,pan,,0,1,20230330,20230401,,,,,1,0,0,0,,,,
-65,705,353,OLGA LETICIA,CHAVEZ ROJAS,rp2-13p,,f,morena,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,705,353,OLGA LETICIA,CHAVEZ ROJAS,rp2-13p,,f,morena,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,706,853,,,rp2-13s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,707,354,ARTURO BONIFACIO,DE LA GARZA GARZA,rp2-14p,,m,,,0,0,20210829,,,,,,0,0,0,0,,,,
 65,708,854,,,rp2-14s,,m,,,0,1,,,,,,,0,0,0,0,,,,
@@ -717,14 +717,14 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,716,858,,,rp2-18s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,717,359,ILDEFONSO,GUAJARDO VILLARREAL,rp2-19p,1957,m,pri,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,718,859,,,rp2-19s,,m,,,0,1,,,,,,,0,0,0,0,,,,
-65,719,360,FUENSANTA GUADALUPE,GUERRERO ESQUIVEL,rp2-20p,1996,f,pri,,0,0,20210829,,,,,,1,1,0,0,,,,
+65,719,360,FUENSANTA GUADALUPE,GUERRERO ESQUIVEL,rp2-20p,1996,f,pri,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,720,860,,,rp2-20s,,f,,,0,1,,,,,,,0,0,0,0,,,,
-65,721,361,DIANA ESTEFANIA,GUTIERREZ VALTIERRA,rp2-21p,,f,pan,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,721,361,DIANA ESTEFANIA,GUTIERREZ VALTIERRA,rp2-21p,,f,pan,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,722,861,,,rp2-21s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,723,362,SAUL,HERNANDEZ HERNANDEZ,rp2-22p,,m,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,724,862,,,rp2-22s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,725,363,MARIA TERESA,JIMENEZ ESQUIVEL,rp2-23p,,f,pan,,0,0,20210829,20220201,,,,,0,0,0,0,,,,
-65,726,863,MARIA ELENA,PEREZ JAEN ZERMEÑO,rp2-23s,,f,pan,,0,1,20220201,,,,,Reelected,1,1,0,1,,,,
+65,726,863,MARIA ELENA,PEREZ JAEN ZERMEÑO,rp2-23s,,f,pan,,0,1,20220201,,,,,Reelected,1,1,1,1,,,,
 65,727,364,MARIELA,LOPEZ SOSA,rp2-24p,,f,pan,,0,0,20210829,20240228,,,,,1,0,0,0,,,,
 65,728,864,,,rp2-24s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,729,365,SALMA,LUEVANO LUNA,rp2-25p,,f,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
@@ -739,19 +739,19 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,738,869,,,rp2-29s,,m,,,0,1,,,,,,Reran-beaten,0,0,1,0,,,,
 65,739,370,SONIA,MENDOZA DIAZ,rp2-30p,,f,pvem,,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,,,
 65,740,870,LILIA,VILLAFUERTE ZAVALA,rp2-30s,,f,pvem,,0,1,20240305,,,,,Reran-beaten,0,0,1,0,,,,
-65,741,371,RUBEN IGNACIO,MOREIRA VALDEZ,rp2-31p,,m,pri,pri,0,0,20210829,,,,,,1,1,0,0,,61-64-65,,
+65,741,371,RUBEN IGNACIO,MOREIRA VALDEZ,rp2-31p,,m,pri,pri,0,0,20210829,,,,,Reelected,1,1,1,1,,61-64-65,,
 65,742,871,,,rp2-31s,,m,,,0,1,,,,,,,0,0,0,0,,,,
-65,743,372,BLANCA ARACELI,NARRO PANAMEÑO,rp2-32p,,f,morena,,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,,,
+65,743,372,BLANCA ARACELI,NARRO PANAMEÑO,rp2-32p,,f,morena,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,744,872,,,rp2-32s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,745,373,CARLOS,NORIEGA ROMERO,rp2-33p,,m,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,746,873,,,rp2-33s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,747,374,NORA ELVA,ORANDAY AGUIRRE,rp2-34p,,f,pan,,0,0,20210829,,,,,,1,1,0,0,,,,
 65,748,874,,,rp2-34s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,749,375,GERARDO,PEÑA FLORES,rp2-35p,,m,pan,,0,0,20210829,,,,,,1,0,0,0,,,,
-65,750,875,CESAR AUGUSTO,RENDON GARCIA,rp2-35s,,m,,,0,1,,,,,,Reelected-suplente,0,0,0,0,,,,
-65,751,376,VICTOR MANUEL,PEREZ DIAZ,rp2-36p,1969,m,pan,pan,0,0,20210829,20240320,,,,Reran-beaten,1,0,1,0,,64-65,,
+65,750,875,CESAR AUGUSTO,RENDON GARCIA,rp2-35s,,m,,,0,1,,,,,,Reelected-suplente,0,0,1,1,,,,
+65,751,376,VICTOR MANUEL,PEREZ DIAZ,rp2-36p,1969,m,pan,pan,0,0,20210829,20240320,,,,Reelected,1,0,1,1,,64-65,,
 65,752,876,MARTIN ALEJANDRO,FLORES VAZQUEZ,rp2-36s,,m,pan,pan,0,1,20240320,,,,,,0,1,0,0,,,,
-65,753,377,CARLOS ALBERTO,PUENTE SALAS,rp2-37p,,m,pvem,pvem,0,0,20210829,,,,,Reelected,1,1,0,1,,64-65,,
+65,753,377,CARLOS ALBERTO,PUENTE SALAS,rp2-37p,,m,pvem,pvem,0,0,20210829,,,,,Reelected,1,1,1,1,,64-65,,
 65,754,877,,,rp2-37s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,755,378,JUAN RAMIRO,ROBLEDO RUIZ,rp2-38p,,m,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,756,878,,,rp2-38s,,m,,,0,1,,,,,,,0,0,0,0,,,,
@@ -763,13 +763,13 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,762,881,,,rp3-01s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,763,382,PABLO GUILLERMO,ANGULO BRICEÑO,rp3-02p,,m,pri,pri,0,0,20210829,,,,,,1,1,0,0,,64-65,,
 65,764,882,,,rp3-02s,,m,,,0,1,,,,,,,0,0,0,0,,,,
-65,765,383,CARMEN PATRICIA,ARMENDARIZ GUERRA,rp3-03p,,f,,,0,0,20210829,,,,,Reelected,0,0,0,1,,,,
+65,765,383,CARMEN PATRICIA,ARMENDARIZ GUERRA,rp3-03p,,f,,,0,0,20210829,,,,,Reelected,0,0,1,1,,,,
 65,766,883,,,rp3-03s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,767,384,PEDRO,ARMENTIA LOPEZ,rp3-04p,,m,,,0,0,20210829,,,,,,0,0,0,0,,,,
 65,768,884,,,rp3-04s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,769,385,CARLOS MIGUEL,AYSA DAMAS,rp3-05p,,m,,,0,0,20210829,,,,,,0,0,0,0,,,,
 65,770,885,,,rp3-05s,,m,,,0,1,,,,,,,0,0,0,0,,,,
-65,771,386,ROCIO NATALI,BARRERA PUC,rp3-06p,,f,morena,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,771,386,ROCIO NATALI,BARRERA PUC,rp3-06p,,f,morena,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,772,886,,,rp3-06s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,773,387,KATHIA MARIA,BOLIO PINELO,rp3-07p,,f,pan,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,774,887,SELENE ARELY,POOL AKE,rp3-07s,,f,,,0,1,,,,,,,0,0,0,0,,,,
@@ -789,7 +789,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,788,894,,,rp3-14s,,f,,,0,1,,,,,,,0,0,0,0,,,,
 65,789,395,OLGA LUZ,ESPINOSA MORALES,rp3-15p,,f,prd,prd,0,0,20210829,,,,,,1,0,0,0,,,,
 65,790,895,KARINA ISABEL,GARIVO SANCHEZ,rp3-15s,,f,,,0,1,,,,,,Reran-beaten,0,0,1,0,,,,
-65,791,396,FRANCISCO AMADEO,ESPINOSA RAMOS,rp3-16p,,m,pt,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,791,396,FRANCISCO AMADEO,ESPINOSA RAMOS,rp3-16p,,m,pt,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,792,896,,,rp3-16s,,m,,,0,1,,,,,,,0,0,0,0,,,,
 65,793,397,ROGELIO,FRANCO CASTAN,rp3-17p,1975,m,prd,prd,0,0,20210829,20210829,,,,Reran-beaten,0,0,1,0,,,,
 65,794,897,JESUS ALBERTO,VELAZQUEZ FLORES,rp3-17s,1974,m,prd,prd,0,1,20211005,,,,,,1,0,0,0,,,,
@@ -803,23 +803,23 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,802,901,,,rp3-21s,,m,,,0,1,,,,,,,0,0,,0,,,,
 65,803,402,ALMA ROSA,HERNANDEZ ESCOBAR,rp3-22p,1956,f,pan,,0,0,20210829,20220605,,,,,0,0,0,0,,,,died in office 20220605
 65,804,902,KARLA VERONICA,GONZALEZ CRUZ,rp3-22s,1976,f,pan,,0,1,20220616,,,,,,1,1,0,0,,,,
-65,805,403,JAVIER OCTAVIO,HERRERA BORUNDA,rp3-23p,,m,,,0,0,20210829,,,,,Reelected,0,0,,1,,,,
+65,805,403,JAVIER OCTAVIO,HERRERA BORUNDA,rp3-23p,,m,,,0,0,20210829,,,,,Reelected,0,0,1,1,,,,
 65,806,903,,,rp3-23s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,807,404,JOSE ELIAS,LIXA ABIMERHI,rp3-24p,,m,pan,pan,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,64-65,,
+65,807,404,JOSE ELIAS,LIXA ABIMERHI,rp3-24p,,m,pan,pan,0,0,20210829,,,,,Reelected,1,1,1,1,,64-65,,
 65,808,904,,,rp3-24s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,809,405,MARIBEL,MARTINEZ RUIZ,rp3-25p,,f,pt,pt,0,0,20210829,,,,,Reelected,1,1,,1,,64-65,,
+65,809,405,MARIBEL,MARTINEZ RUIZ,rp3-25p,,f,pt,pt,0,0,20210829,,,,,Reelected,1,1,1,1,,64-65,,
 65,810,905,,,rp3-25s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,811,406,MAYRA ALICIA,MENDOZA ALVAREZ,rp3-26p,,f,morena,,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,,,
 65,812,906,,,rp3-26s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,813,407,MARIANA ERANDI,NASSAR PIÑEYRO,rp3-27p,,f,pri,,0,0,20210829,,,,,,1,1,,0,,,,
 65,814,907,,,rp3-27s,,f,,,0,1,,,,,,,0,0,,0,,,,
-65,815,408,JUAN CARLOS,NATALE LOPEZ,rp3-28p,,m,pvem,,0,0,20210829,,,,,Reelected,1,0,,1,,,,
+65,815,408,JUAN CARLOS,NATALE LOPEZ,rp3-28p,,m,pvem,,0,0,20210829,,,,,Reelected,1,0,1,1,,,,
 65,816,908,,,rp3-28s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,817,409,IVONNE ARACELLY,ORTEGA PACHECO,rp3-29p,,f,,,0,0,20210829,,,,,Reelected,0,0,,1,,,,
+65,817,409,IVONNE ARACELLY,ORTEGA PACHECO,rp3-29p,,f,,,0,0,20210829,,,,,Reelected,0,0,1,1,,,,
 65,818,909,,,rp3-29s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,819,410,BLANCA CAROLINA,PEREZ GUTIERREZ,rp3-30p,,f,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,820,910,,,rp3-30s,,f,,,0,1,,,,,,,0,0,,0,,,,
-65,821,411,LORENA,PIÑON RIVERA,rp3-31p,,f,pri,,0,0,20210829,,,,,Reelected,1,1,,1,,,,
+65,821,411,LORENA,PIÑON RIVERA,rp3-31p,,f,pri,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,822,911,,,rp3-31s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,823,412,JANINE PATRICIA,QUIJANO TAPIA,rp3-32p,,f,pvem,,0,0,20210829,,,,,,1,0,,0,,,,
 65,824,912,,,rp3-32s,,f,,,0,1,,,,,,,0,0,,0,,,,
@@ -835,7 +835,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,834,917,,,rp3-37s,,m,,,0,1,,,,,,,0,0,,0,,,,
 65,835,418,CARLOS ALBERTO,VALENZUELA GONZALEZ,rp3-38p,,m,pan,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,836,918,,,rp3-38s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,837,419,MANUEL,VAZQUEZ ARELLANO,rp3-39p,,m,morena,,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,,,
+65,837,419,MANUEL,VAZQUEZ ARELLANO,rp3-39p,,m,morena,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,838,919,,,rp3-39s,,m,,,0,1,,,,,,,0,0,,0,,,,
 65,839,420,FAUSTINO,VIDAL BENAVIDES,rp3-40p,,m,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,840,920,,,rp3-40s,,m,,,0,1,,,,,,,0,0,,0,,,,
@@ -853,7 +853,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,852,926,ALAN EDUARDO,RODRIGUEZ GOMEZ,rp4-06s,1981,m,prd,,0,1,20231115,20231205,,,,,1,0,0,0,,,,
 65,853,427,MARIA MAGDALENA OLIVIA,ESQUIVEL NAVA,rp4-07p,,f,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,854,927,,,rp4-07s,,f,,,0,1,,,,,,,0,0,,0,,,,
-65,855,428,NAYELI ARLEN,FERNANDEZ CRUZ,rp4-08p,,f,pvem,pvem,0,0,20210829,,,,,Reelected,1,1,,1,,64-65,,
+65,855,428,NAYELI ARLEN,FERNANDEZ CRUZ,rp4-08p,,f,pvem,pvem,0,0,20210829,,,,,Reelected,1,1,1,1,,64-65,,
 65,856,928,,,rp4-08s,,f,,pvem,0,1,,,,,,,0,0,,0,,,,
 65,857,429,YESENIA,GALARZA CASTRO,rp4-09p,,f,pan,,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,,,
 65,858,929,,,rp4-09s,,f,,,0,1,,,,,,,0,0,,0,,,,
@@ -867,7 +867,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,866,933,MARIANA,GOMEZ DEL CAMPO GURZA,rp4-13s,1978,f,pan,pan,0,1,20210829,,,,,Reran-beaten,1,1,1,0,,sen-64-65,,
 65,867,434,GUILLERMO OCTAVIO,HUERTA LING,rp4-14p,1969,m,pan,,0,0,20210829,,,,,Reran-beaten,1,0,1,0,,,,
 65,868,934,,,rp4-14s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,869,435,GENOVEVA,HUERTA VILLEGAS,rp4-15p,,f,pan,,0,0,20210829,,,,,Reelected,1,1,0,1,,,,
+65,869,435,GENOVEVA,HUERTA VILLEGAS,rp4-15p,,f,pan,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,870,935,,,rp4-15s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,871,436,LAZARO CUAUHTEMOC,JIMENEZ AQUINO,rp4-16p,1973,m,pri,,0,0,20210829,20211202,20211231,,,,1,0,,0,,,,
 65,872,936,FERNANDO,REINA IGLESIAS,rp4-16s,1978,m,pri,,0,1,20211207,20211231,,,,,1,0,,0,,,,
@@ -884,10 +884,10 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,883,442,RAFAEL ALEJANDRO,MORENO CARDENAS,rp4-22p,1975,m,pri,pri,0,0,20210829,,,,,,1,1,,0,,59-sen-62-65,,
 65,884,942,FERNANDO,GALINDO FAVELA,rp4-22s,,m,,pri,0,1,,,,,,,0,0,,0,,,,
 65,885,443,JULIO CESAR,MORENO RIVERA,rp4-23p,1971,m,morena,,0,0,20210829,20220315,20220827,,,Reelected,1,1,1,1,,,,
-65,886,943,ELENA EDITH,SEGURA TREJO,rp4-23s,1963,f,morena,,0,1,20220315,20220827,,,,Reelected,1,0,0,1,,,,
+65,886,943,ELENA EDITH,SEGURA TREJO,rp4-23s,1963,f,morena,,0,1,20220315,20220827,,,,Reelected,1,0,1,1,,,,
 65,887,444,EDUARDO ENRIQUE,MURAT HINOJOSA,rp4-24p,,m,pri,,0,0,20210829,,,,,,1,0,,0,,,,
 65,888,944,,,rp4-24s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,889,445,MAGDALENA DEL SOCORRO,NUÑEZ MONREAL,rp4-25p,,f,pt,,0,0,20210829,,,,,Reelected,1,1,,1,,,,
+65,889,445,MAGDALENA DEL SOCORRO,NUÑEZ MONREAL,rp4-25p,,f,pt,,0,0,20210829,,,,,Reelected,1,1,1,1,,,,
 65,890,945,,,rp4-25s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,891,446,LILIA CARITINA,OLVERA CORONEL,rp4-26p,,f,pan,,0,0,20210829,,,,,,1,1,0,0,,,,
 65,892,946,,,rp4-26s,,f,,,0,1,,,,,,,0,0,,0,,,,
@@ -907,7 +907,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,906,953,CHRISTOPHER,BARGAGLI SANDOVAL,rp4-33s,,m,morena,,0,1,20211209,20220215,,,,,1,0,0,0,,,,
 65,907,454,MANUEL ALEJANDRO,ROBLES GOMEZ,rp4-34p,,m,morena,,0,0,20210829,,,,,,1,1,0,0,,,,
 65,908,954,,,rp4-34s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,909,455,JORGE,ROMERO HERRERA,rp4-35p,,m,pan,pan,0,0,20210829,,,,,Reran-beaten,1,0,1,0,,64-65,,
+65,909,455,JORGE,ROMERO HERRERA,rp4-35p,,m,pan,pan,0,0,20210829,,,,,Reelected,1,0,1,1,,64-65,,
 65,910,955,,,rp4-35s,,m,,pan,0,1,,,,,,,0,0,,0,,,,
 65,911,456,DULCE MARIA,SILVA HERNANDEZ,rp4-36p,,f,morena,,0,0,20210829,,,,,,1,0,0,0,,,,
 65,912,956,,,rp4-36s,,f,,,0,1,,,,,,,0,0,,0,,,,
@@ -915,9 +915,9 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,914,957,,,rp4-37s,,m,,,0,1,,,,,,,0,0,,0,,,,
 65,915,458,MIGUEL,TORRUCO GARZA,rp4-38p,,m,morena,,0,0,20210829,20240321,,,,,1,0,0,0,,,,
 65,916,958,,,rp4-38s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,917,459,PEDRO,VAZQUEZ GONZALEZ,rp4-39p,,m,pt,,0,0,20210829,,,,,Reelected,1,0,,1,,,,
+65,917,459,PEDRO,VAZQUEZ GONZALEZ,rp4-39p,,m,pt,,0,0,20210829,,,,,Reelected,1,0,1,1,,,,
 65,918,959,,,rp4-39s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,919,460,JULIETA KRISTAL,VENCES VALENCIA,rp4-40p,,f,morena,morena,0,0,20210829,,,,,Reran-beaten,1,1,1,0,,64-65,,
+65,919,460,JULIETA KRISTAL,VENCES VALENCIA,rp4-40p,,f,morena,morena,0,0,20210829,,,,,Reelected,1,1,1,1,,64-65,,
 65,920,960,,,rp4-40s,,f,,morena,0,1,,,,,,,0,0,,0,,,,
 65,921,461,NORMA ANGELICA,ACEVES GARCIA,rp5-01p,1977,f,pri,,0,0,20210829,,,,,,1,1,,0,,,,
 65,922,961,,,rp5-01s,,f,,,0,1,,,,,,,0,0,,0,,,,
@@ -985,7 +985,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,984,992,,,rp5-32s,,f,,,0,1,,,,,,,0,0,,0,,,,
 65,985,493,RODRIGO HERMINIO,SAMPERIO CHAPARRO,rp5-33p,,m,,,0,0,20210829,,,,,,0,0,,0,,,,
 65,986,993,,,rp5-33s,,m,,,0,1,,,,,,,0,0,,0,,,,
-65,987,494,REGINALDO,SANDOVAL FLORES,rp5-34p,,m,pt,pt,0,0,20210829,,,,,Reelected,1,1,,1,,64-65,,
+65,987,494,REGINALDO,SANDOVAL FLORES,rp5-34p,,m,pt,pt,0,0,20210829,,,,,Reelected,1,1,1,1,,64-65,,
 65,988,994,,,rp5-34s,,m,,pt,0,1,,,,,,,0,0,,0,,,,
 65,989,495,MARTIN,SANDOVAL SOTO,rp5-35p,1970,m,morena,,0,0,20210829,20230426,,,,,1,0,0,0,,,,
 65,990,995,JIM,MEJIA SOTO,rp5-35s,1978,m,morena,,0,1,20230426,,,,,,1,0,0,0,,,,
@@ -999,8 +999,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,in2,out2,in3,ra
 65,998,999,VICTORIA EUGENIA,MENDEZ MARQUEZ,rp5-39s,1961,f,pri,,0,1,20220308,20220715,,,,,0,0,,0,,,,
 65,999,500,LETICIA,ZEPEDA MARTINEZ,rp5-40p,1976,f,pan,,0,0,20210829,,,,,,1,1,0,0,,,,
 65,1000,1000,LUZ MARIA,CASTILLO MARTINEZ,rp5-40s,,f,pan,,0,1,,,,,,,0,0,0,0,,,,
-65,1001,1001,SANTY,MONTEMAYOR CASTILLO,rp3-41s,1976,f,pvem,,0,1,20210901,,,,,Reelected,1,1,,1,,,,
+65,1001,1001,SANTY,MONTEMAYOR CASTILLO,rp3-41s,1976,f,pvem,,0,1,20210901,,,,,Reelected,1,1,1,1,,,,
 65,1002,1002,ANA LAURA,VALENZUELA SANCHEZ,rp4-41p,1992,f,pan,pan,0,0,20210829,,,,,Reran-beaten,1,0,1,0,,,,
 65,1003,1003,MARIANA BEATRIZ,SABANERO ZARZUELA,rp4-41s,,f,,pan,0,1,,,,,,,0,0,,0,,,,
-65,1004,1004,LUIS ARTURO,GONZALEZ CRUZ,rp1-41p,,m,pvem,,0,0,20210829,,,,,,1,1,,0,,,,
-65,1005,1005,KATHYA ANDREA,GUTIERREZ LEANO,rp2-41p,1968,f,pan,,0,0,20210829,,,,,,0,1,0,0,,,,
+65,1004,1004,KATHYA ANDREA,GUTIERREZ LEANO,rp2-41p,1968,f,pan,,0,0,20210829,,,,,,0,1,0,0,,,,
