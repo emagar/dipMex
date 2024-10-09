@@ -99,7 +99,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,ddied,repite,id
 66,98,549,JESUS EMILIANO,ALVAREZ LOPEZ,df01s,,m,,pvem.pt.morena,1,1,,,,,,Frosh,
 66,99,50,JOSE ALBERTO,BENAVIDES CASTAÑEDA,df02p,,m,pt,pvem.pt.morena,1,0,20240829,,,,,Frosh,
 66,100,550,OSCAR ERIK,MOORE LOPEZ,df02s,,m,,pvem.pt.morena,1,1,,,,,,Frosh,
-66,101,51,GABRIELA GEORGINA,JIMENEZ GODOY,df03p,,f,morena,pvem.pt.morena,1,0,20240829,,,,,Frosh,
+66,101,51,GABRIELA GEORGINA,JIMENEZ GODOY,df03p,,f,morena,pvem.pt.morena,1,0,20240829,,,,,Frosh,vice coordinadora morena
 66,102,551,CRISTINA ALINE,GALICIA CHAVARRIA,df03s,,f,,pvem.pt.morena,1,1,,,,,,Frosh,
 66,103,52,MARIA DE LOS DOLORES,PADIERNA LUNA,df04p,,f,morena,pvem.pt.morena,1,0,20240829,,,,,Frosh,
 66,104,552,MAYTE,CAMACHO FLORES,df04s,,f,,pvem.pt.morena,1,1,,,,,,Frosh,
@@ -653,7 +653,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,ddied,repite,id
 66,652,826,MARIA FERNANDA,GONZALEZ REYNOSO,rp1-26s,,f,,pan,0,1,,,,,,,
 66,653,327,EVA MARIA,VASQUEZ HERNANDEZ,rp1-27p,1974,f,pan,pan,0,0,20240829,,,,,Frosh,
 66,654,827,VICTORIA EUGENIA,GUERRERO URQUIDEZ,rp1-27s,,f,,pan,0,1,,,,,,,
-66,655,328,SYLVANA,BELTRONES SANCHEZ,rp1-28p,1982,f,pri,pri,0,0,20240829,,,,,Frosh,
+66,655,328,SYLVANA,BELTRONES SANCHEZ,rp1-28p,1982,f,pri,pri,0,0,20240829,20241008,,,,Frosh,
 66,656,828,PALOMA,DOMINGUEZ UGARTE,rp1-28s,,f,,pri,0,1,,,,,,,
 66,657,329,JUAN,MORENO DE HARO,rp1-29p,1993,m,pri,pri,0,0,20240829,,,,,Frosh,
 66,658,829,.,.,rp1-29s,,.,,pri,0,1,,,,,,,
@@ -689,7 +689,7 @@ leg,ord,n,nom,patmat,id,birth,fm,part,postulo,dsmd,dsup,in1,out1,ddied,repite,id
 66,688,844,SARAHI,GARCIA ANTONIO,rp2-04s,,f,,morena,0,1,,,,,,,
 66,689,345,JORGE ALBERTO,MENDOZA SANCHEZ,rp2-05p,1984,m,morena,morena,0,0,20240829,20240909,,,,Frosh,
 66,690,845,JOSE,NARRO CESPEDES,rp2-05s,1959,m,morena,morena,0,1,20240918,,,56d-59d-62d-64s-66d,,,
-66,691,346,RICARDO,MONREAL AVILA,rp2-06p,1960,m,morena,morena,0,0,20240829,,,,,Frosh,
+66,691,346,RICARDO,MONREAL AVILA,rp2-06p,1960,m,morena,morena,0,0,20240829,,,,,Frosh,coordinador morena
 66,692,846,RODOLFO,GONZALEZ VALDERRAMA,rp2-06s,,m,,morena,0,1,,,,,,,
 66,693,347,GABINO,MORALES MENDOZA,rp2-07p,1989,m,morena,morena,0,0,20240829,,,,,Frosh,
 66,694,847,ENRIQUE,SERRANO CONTRERAS,rp2-07s,,m,,morena,0,1,,,,,,,
